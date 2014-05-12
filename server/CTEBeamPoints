@@ -1,0 +1,5 @@
+CTEBeamPoints
+  CTEBeamPoints::GetServerClass()
+  CTEBeamPoints::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamPoints::Test(Vector const&, QAngle const&)
+  CTEBeamPoints::~CTEBeamPoints()

@@ -1,0 +1,2 @@
+COcclusionUIPanel::COcclusionUIPanel
+  COcclusionUIPanel::COcclusionUIPanel(vgui::Panel*)

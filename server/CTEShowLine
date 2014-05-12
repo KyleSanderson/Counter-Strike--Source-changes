@@ -1,0 +1,5 @@
+CTEShowLine
+  CTEShowLine::GetServerClass()
+  CTEShowLine::YouForgotToImplementOrDeclareServerClass()
+  CTEShowLine::Test(Vector const&, QAngle const&)
+  CTEShowLine::~CTEShowLine()

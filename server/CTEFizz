@@ -1,0 +1,7 @@
+CTEFizz
+  CTEFizz::GetServerClass()
+  CTEFizz::YouForgotToImplementOrDeclareServerClass()
+  CTEFizz::Test(Vector const&, QAngle const&)
+  CTEFizz::Precache()
+  CTEFizz::CTEFizz(char const*)
+  CTEFizz::~CTEFizz()

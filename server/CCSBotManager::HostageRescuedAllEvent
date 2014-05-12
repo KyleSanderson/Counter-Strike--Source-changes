@@ -1,0 +1,4 @@
+CCSBotManager::HostageRescuedAllEvent
+  CCSBotManager::HostageRescuedAllEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::HostageRescuedAllEvent::~HostageRescuedAllEvent()
+  CCSBotManager::HostageRescuedAllEvent::GetEventName() const

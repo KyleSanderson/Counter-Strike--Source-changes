@@ -1,0 +1,5 @@
+CKeepUpright
+  CKeepUpright::GetDataDescMap()
+  CKeepUpright::Spawn()
+  CKeepUpright::Activate()
+  CKeepUpright::~CKeepUpright()

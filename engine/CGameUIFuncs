@@ -1,0 +1,5 @@
+CGameUIFuncs
+  CGameUIFuncs::SetFriendsID(unsigned int, char const*)
+  CGameUIFuncs::GetButtonCodeForBind(char const*)
+  CGameUIFuncs::IsConnectedToVACSecureServer()
+  CGameUIFuncs::IsKeyDown(char const*, bool&)

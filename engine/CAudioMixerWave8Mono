@@ -1,0 +1,3 @@
+CAudioMixerWave8Mono
+  CAudioMixerWave8Mono::GetMixSampleSize()
+  CAudioMixerWave8Mono::~CAudioMixerWave8Mono()

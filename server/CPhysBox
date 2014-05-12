@@ -1,0 +1,13 @@
+CPhysBox
+  CPhysBox::ObjectCaps()
+  CPhysBox::OnTakeDamage(CTakeDamageInfo const&)
+  CPhysBox::CreateVPhysics()
+  CPhysBox::GetDataDescMap()
+  CPhysBox::GetServerClass()
+  CPhysBox::VPhysicsUpdate(IPhysicsObject*)
+  CPhysBox::PreferredCarryAngles()
+  CPhysBox::DrawDebugTextOverlays()
+  CPhysBox::HasPreferredCarryAnglesForPlayer(CBasePlayer*)
+  CPhysBox::YouForgotToImplementOrDeclareServerClass()
+  CPhysBox::Spawn()
+  CPhysBox::~CPhysBox()

@@ -1,0 +1,2 @@
+CHFontProperty::SetData
+  CHFontProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

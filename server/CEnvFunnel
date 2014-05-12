@@ -1,0 +1,5 @@
+CEnvFunnel
+  CEnvFunnel::GetDataDescMap()
+  CEnvFunnel::Spawn()
+  CEnvFunnel::Precache()
+  CEnvFunnel::~CEnvFunnel()

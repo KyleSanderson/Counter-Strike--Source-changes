@@ -1,0 +1,11 @@
+Behavior
+  Behavior<CSimpleBot>::~Behavior()
+  Behavior<CSimpleBot>::IsHindrance(INextBot const*, CBaseEntity*) const
+  Behavior<CSimpleBot>::ShouldHurry(INextBot const*) const
+  Behavior<CSimpleBot>::ShouldAttack(INextBot const*, CKnownEntity const*) const
+  Behavior<CSimpleBot>::ShouldPickUp(INextBot const*, CBaseEntity*) const
+  Behavior<CSimpleBot>::ShouldRetreat(INextBot const*) const
+  Behavior<CSimpleBot>::IsPositionAllowed(INextBot const*, Vector const&) const
+  Behavior<CSimpleBot>::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const
+  Behavior<CSimpleBot>::NextContainedResponder(INextBotEventResponder*) const
+  Behavior<CSimpleBot>::FirstContainedResponder() const

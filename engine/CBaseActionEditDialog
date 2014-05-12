@@ -1,0 +1,12 @@
+CBaseActionEditDialog
+  CBaseActionEditDialog::GetAnimMap()
+  CBaseActionEditDialog::GetMessageMap()
+  CBaseActionEditDialog::OnSaveChanges()
+  CBaseActionEditDialog::GetPanelClassName()
+  CBaseActionEditDialog::Init()
+  CBaseActionEditDialog::OnClose()
+  CBaseActionEditDialog::GetKBMap()
+  CBaseActionEditDialog::OnCancel()
+  CBaseActionEditDialog::OnCommand(char const*)
+  CBaseActionEditDialog::CBaseActionEditDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionEditDialog::~CBaseActionEditDialog()

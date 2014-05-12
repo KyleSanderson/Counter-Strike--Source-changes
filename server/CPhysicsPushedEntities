@@ -1,0 +1,11 @@
+CPhysicsPushedEntities
+  CPhysicsPushedEntities::PerformLinearPush(CBaseEntity*, float)
+  CPhysicsPushedEntities::PerformRotatePush(CBaseEntity*, float)
+  CPhysicsPushedEntities::SetupAllInHierarchy(CBaseEntity*)
+  CPhysicsPushedEntities::IsPushedPositionValid(CBaseEntity*)
+  CPhysicsPushedEntities::LinearlyMoveRootEntity(CBaseEntity*, float, Vector*)
+  CPhysicsPushedEntities::GenerateBlockingEntityList()
+  CPhysicsPushedEntities::SpeculativelyCheckLinearPush(Vector const&)
+  CPhysicsPushedEntities::GenerateBlockingEntityListAddBox(Vector const&)
+  CPhysicsPushedEntities::AddEntity(CBaseEntity*)
+  CPhysicsPushedEntities::~CPhysicsPushedEntities()

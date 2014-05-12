@@ -1,0 +1,8 @@
+CNetworkStringTableItem
+  CNetworkStringTableItem::GetUserData(int*)
+  CNetworkStringTableItem::RestoreTick(int)
+  CNetworkStringTableItem::SetUserData(int, int, void const*)
+  CNetworkStringTableItem::UpdateChangeList(int, int, void const*)
+  CNetworkStringTableItem::EnableChangeHistory()
+  CNetworkStringTableItem::CNetworkStringTableItem()
+  CNetworkStringTableItem::~CNetworkStringTableItem()

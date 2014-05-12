@@ -1,0 +1,3 @@
+CReplay
+  CReplay::GetPerformance(int)
+  CReplay::FindPerformance(CReplayPerformance*, int&)

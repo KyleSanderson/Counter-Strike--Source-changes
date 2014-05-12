@@ -1,0 +1,10 @@
+CDefaultResponseSystem
+  CDefaultResponseSystem::GetScriptFile()
+  CDefaultResponseSystem::ClearInstanced()
+  CDefaultResponseSystem::LevelInitPreEntity()
+  CDefaultResponseSystem::LevelInitPostEntity()
+  CDefaultResponseSystem::ReloadAllResponseSystems()
+  CDefaultResponseSystem::Init()
+  CDefaultResponseSystem::Release()
+  CDefaultResponseSystem::Shutdown()
+  CDefaultResponseSystem::~CDefaultResponseSystem()

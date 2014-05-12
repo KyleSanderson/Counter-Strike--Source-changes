@@ -1,0 +1,6 @@
+CNodeEnt
+  CNodeEnt::GetDataDescMap()
+  CNodeEnt::SetOwnerEntity(CBaseEntity*)
+  CNodeEnt::Spawn(char const*)
+  CNodeEnt::Spawn()
+  CNodeEnt::~CNodeEnt()

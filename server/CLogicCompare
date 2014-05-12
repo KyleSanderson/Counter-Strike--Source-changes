@@ -1,0 +1,5 @@
+CLogicCompare
+  CLogicCompare::GetDataDescMap()
+  CLogicCompare::DrawDebugTextOverlays()
+  CLogicCompare::DoCompare(CBaseEntity*, float)
+  CLogicCompare::~CLogicCompare()

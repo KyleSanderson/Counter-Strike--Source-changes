@@ -1,0 +1,4 @@
+CCommentaryViewPosition
+  CCommentaryViewPosition::Spawn()
+  CCommentaryViewPosition::Precache()
+  CCommentaryViewPosition::~CCommentaryViewPosition()

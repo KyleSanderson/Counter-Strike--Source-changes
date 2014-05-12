@@ -1,0 +1,7 @@
+CMultiSource
+  CMultiSource::ObjectCaps()
+  CMultiSource::IsTriggered(CBaseEntity*)
+  CMultiSource::GetDataDescMap()
+  CMultiSource::Spawn()
+  CMultiSource::Register()
+  CMultiSource::~CMultiSource()

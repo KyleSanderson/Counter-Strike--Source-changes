@@ -1,0 +1,6 @@
+BotProfileManager
+  BotProfileManager::FindVoiceBankIndex(char const*)
+  BotProfileManager::Init(char const*, unsigned int*)
+  BotProfileManager::Reset()
+  BotProfileManager::BotProfileManager()
+  BotProfileManager::GetRandomProfile(BotDifficultyType, int, CSWeaponType) const

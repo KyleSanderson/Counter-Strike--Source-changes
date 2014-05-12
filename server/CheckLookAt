@@ -1,0 +1,2 @@
+CheckLookAt
+  CheckLookAt::operator()(CBasePlayer*)

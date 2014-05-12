@@ -1,0 +1,5 @@
+CTEMetalSparks
+  CTEMetalSparks::GetServerClass()
+  CTEMetalSparks::YouForgotToImplementOrDeclareServerClass()
+  CTEMetalSparks::Test(Vector const&, QAngle const&)
+  CTEMetalSparks::~CTEMetalSparks()

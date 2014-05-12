@@ -1,0 +1,5 @@
+CRotorWashShooter
+  CRotorWashShooter::DoWashPush(float, Vector const&)
+  CRotorWashShooter::GetDataDescMap()
+  CRotorWashShooter::Spawn()
+  CRotorWashShooter::~CRotorWashShooter()

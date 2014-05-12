@@ -1,0 +1,31 @@
+CBaseDemoAction
+  CBaseDemoAction::NameForType(DEMOACTION)
+  CBaseDemoAction::TypeForName(char const*)
+  CBaseDemoAction::SaveToBuffer(int, int, CUtlBuffer&)
+  CBaseDemoAction::SetStartTick(int)
+  CBaseDemoAction::SetStartTime(float)
+  CBaseDemoAction::SetActionName(char const*)
+  CBaseDemoAction::SetTimingType(DEMOACTIONTIMINGTYPE)
+  CBaseDemoAction::SetActionFired(bool)
+  CBaseDemoAction::CreateDemoAction(DEMOACTION)
+  CBaseDemoAction::HasEditorFactory(DEMOACTION)
+  CBaseDemoAction::OnActionFinished()
+  CBaseDemoAction::SaveKeysToBuffer(int, CUtlBuffer&)
+  CBaseDemoAction::NameForTimingType(DEMOACTIONTIMINGTYPE)
+  CBaseDemoAction::SetFinishedAction(bool)
+  CBaseDemoAction::TimingTypeForName(char const*)
+  CBaseDemoAction::Init(KeyValues*)
+  CBaseDemoAction::Reset()
+  CBaseDemoAction::Update(DemoActionTimingContext const&)
+  CBaseDemoAction::SetType(DEMOACTION)
+  CBaseDemoAction::BufPrintf(int, CUtlBuffer&, char const*, ...)
+  CBaseDemoAction::CBaseDemoAction()
+  CBaseDemoAction::~CBaseDemoAction()
+  CBaseDemoAction::operator delete(void*)
+  CBaseDemoAction::operator new(unsigned long)
+  CBaseDemoAction::GetStartTick() const
+  CBaseDemoAction::GetStartTime() const
+  CBaseDemoAction::GetActionName() const
+  CBaseDemoAction::GetTimingType() const
+  CBaseDemoAction::GetActionFired() const
+  CBaseDemoAction::GetType() const

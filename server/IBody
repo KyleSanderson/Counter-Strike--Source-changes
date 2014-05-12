@@ -1,0 +1,33 @@
+IBody
+  IBody::SetPosition(Vector const&)
+  IBody::StartActivity(Activity, unsigned int)
+  IBody::ClearPendingAimReply()
+  IBody::Reset()
+  IBody::Update()
+  IBody::~IBody()
+  IBody::GetArousal() const
+  IBody::IsActivity(Activity) const
+  IBody::GetActivity() const
+  IBody::GetHullMaxs() const
+  IBody::GetHullMins() const
+  IBody::GetHullWidth() const
+  IBody::GetSolidMask() const
+  IBody::IsHeadSteady() const
+  IBody::GetHullHeight() const
+  IBody::GetViewVector() const
+  IBody::GetEyePosition() const
+  IBody::HasActivityType(unsigned int) const
+  IBody::IsPostureMobile() const
+  IBody::GetActualPosture() const
+  IBody::GetCollisionGroup() const
+  IBody::GetDesiredPosture() const
+  IBody::IsPostureChanging() const
+  IBody::GetStandHullHeight() const
+  IBody::IsInDesiredPosture() const
+  IBody::GetCrouchHullHeight() const
+  IBody::IsHeadAimingOnTarget() const
+  IBody::GetHeadSteadyDuration() const
+  IBody::SelectAnimationSequence(Activity) const
+  IBody::GetHeadAimSubjectLeadTime() const
+  IBody::GetMaxHeadAngularVelocity() const
+  IBody::GetHeadAimTrackingInterval() const

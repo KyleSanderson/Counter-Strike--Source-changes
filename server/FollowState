@@ -1,0 +1,6 @@
+FollowState
+  FollowState::ComputeLeaderMotionState(float)
+  FollowState::OnExit(CCSBot*)
+  FollowState::OnEnter(CCSBot*)
+  FollowState::OnUpdate(CCSBot*)
+  FollowState::GetName() const

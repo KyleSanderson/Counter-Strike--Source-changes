@@ -1,0 +1,6 @@
+CLogicAuto
+  CLogicAuto::ObjectCaps()
+  CLogicAuto::GetDataDescMap()
+  CLogicAuto::Think()
+  CLogicAuto::Activate()
+  CLogicAuto::~CLogicAuto()

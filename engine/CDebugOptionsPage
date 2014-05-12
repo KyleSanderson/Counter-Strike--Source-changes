@@ -1,0 +1,5 @@
+CDebugOptionsPage
+  CDebugOptionsPage::PerformLayout()
+  CDebugOptionsPage::Init(KeyValues*)
+  CDebugOptionsPage::OnTick()
+  CDebugOptionsPage::~CDebugOptionsPage()

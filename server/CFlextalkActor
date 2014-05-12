@@ -1,0 +1,4 @@
+CFlextalkActor
+  CFlextalkActor::GetDataDescMap()
+  CFlextalkActor::ProcessSceneEvents()
+  CFlextalkActor::~CFlextalkActor()

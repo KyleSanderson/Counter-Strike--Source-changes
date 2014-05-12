@@ -1,0 +1,2 @@
+CColorCorrectionUIPanel::CColorCorrectionUIPanel
+  CColorCorrectionUIPanel::CColorCorrectionUIPanel(vgui::Panel*)

@@ -1,0 +1,12 @@
+CAudioSourceStreamWave
+  CAudioSourceStreamWave::ParseChunk(IterateRIFF&, int)
+  CAudioSourceStreamWave::CreateMixer(int)
+  CAudioSourceStreamWave::IsStreaming()
+  CAudioSourceStreamWave::GetOutputData(void**, int, int, char*)
+  CAudioSourceStreamWave::UpdateSamples(char*, int)
+  CAudioSourceStreamWave::GetCacheStatus()
+  CAudioSourceStreamWave::SampleToStreamPosition(int)
+  CAudioSourceStreamWave::StreamToSamplePosition(int)
+  CAudioSourceStreamWave::UpdateLoopingSamplePosition(int)
+  CAudioSourceStreamWave::Prefetch()
+  CAudioSourceStreamWave::~CAudioSourceStreamWave()

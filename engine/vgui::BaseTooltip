@@ -1,0 +1,9 @@
+vgui::BaseTooltip
+  vgui::BaseTooltip::ResetDelay()
+  vgui::BaseTooltip::SetEnabled(bool)
+  vgui::BaseTooltip::HideTooltip()
+  vgui::BaseTooltip::PerformLayout()
+  vgui::BaseTooltip::SetTooltipDelay(int)
+  vgui::BaseTooltip::SetTooltipFormatToSingleLine()
+  vgui::BaseTooltip::GetText()
+  vgui::BaseTooltip::SetText(char const*)

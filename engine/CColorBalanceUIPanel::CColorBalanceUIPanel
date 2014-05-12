@@ -1,0 +1,2 @@
+CColorBalanceUIPanel::CColorBalanceUIPanel
+  CColorBalanceUIPanel::CColorBalanceUIPanel(vgui::Panel*, CColorBalanceOperation*)

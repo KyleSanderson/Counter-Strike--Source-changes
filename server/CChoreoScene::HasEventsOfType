@@ -1,0 +1,2 @@
+CChoreoScene::HasEventsOfType
+  CChoreoScene::HasEventsOfType(CChoreoEvent::EVENTTYPE) const

@@ -1,0 +1,4 @@
+CEventAbsoluteTag
+  CEventAbsoluteTag::GetPercentage()
+  CEventAbsoluteTag::SetPercentage(float)
+  CEventAbsoluteTag::SetLinear(bool)

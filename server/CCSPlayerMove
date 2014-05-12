@@ -1,0 +1,5 @@
+CCSPlayerMove
+  CCSPlayerMove::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)
+  CCSPlayerMove::StartCommand(CBasePlayer*, CUserCmd*)
+  CCSPlayerMove::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)
+  CCSPlayerMove::~CCSPlayerMove()

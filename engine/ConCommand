@@ -1,0 +1,5 @@
+ConCommand
+  ConCommand::CanAutoComplete()
+  ConCommand::Dispatch(CCommand const&)
+  ConCommand::~ConCommand()
+  ConCommand::IsCommand() const

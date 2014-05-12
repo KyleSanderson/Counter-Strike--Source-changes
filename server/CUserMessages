@@ -1,0 +1,7 @@
+CUserMessages
+  CUserMessages::IsValidIndex(int)
+  CUserMessages::LookupUserMessage(char const*)
+  CUserMessages::GetUserMessageName(int)
+  CUserMessages::GetUserMessageSize(int)
+  CUserMessages::Register(char const*, int)
+  CUserMessages::~CUserMessages()

@@ -1,0 +1,5 @@
+CPhysicsPropRespawnable
+  CPhysicsPropRespawnable::Materialize()
+  CPhysicsPropRespawnable::GetDataDescMap()
+  CPhysicsPropRespawnable::Spawn()
+  CPhysicsPropRespawnable::~CPhysicsPropRespawnable()

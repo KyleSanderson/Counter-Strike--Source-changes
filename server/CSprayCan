@@ -1,0 +1,6 @@
+CSprayCan
+  CSprayCan::ObjectCaps()
+  CSprayCan::Spawn(CBasePlayer*)
+  CSprayCan::Think()
+  CSprayCan::Precache()
+  CSprayCan::~CSprayCan()

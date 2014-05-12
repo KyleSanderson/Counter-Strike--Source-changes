@@ -1,0 +1,2 @@
+CNavMesh::GetNearestNavArea
+  CNavMesh::GetNearestNavArea(Vector const&, bool, float, bool, bool, int) const::searchMarker

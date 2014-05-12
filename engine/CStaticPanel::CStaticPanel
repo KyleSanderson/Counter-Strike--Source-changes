@@ -1,0 +1,2 @@
+CStaticPanel::CStaticPanel
+  CStaticPanel::CStaticPanel(vgui::Panel*, char const*)

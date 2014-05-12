@@ -1,0 +1,4 @@
+CThreadEvent
+  CThreadEvent::Set()
+  CThreadEvent::Wait(unsigned int)
+  CThreadEvent::CThreadEvent(bool)

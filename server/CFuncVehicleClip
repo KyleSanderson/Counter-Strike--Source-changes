@@ -1,0 +1,5 @@
+CFuncVehicleClip
+  CFuncVehicleClip::CreateVPhysics()
+  CFuncVehicleClip::GetDataDescMap()
+  CFuncVehicleClip::Spawn()
+  CFuncVehicleClip::~CFuncVehicleClip()

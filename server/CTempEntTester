@@ -1,0 +1,4 @@
+CTempEntTester
+  CTempEntTester::Spawn()
+  CTempEntTester::Think()
+  CTempEntTester::~CTempEntTester()

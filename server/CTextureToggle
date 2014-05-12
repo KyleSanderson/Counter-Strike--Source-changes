@@ -1,0 +1,3 @@
+CTextureToggle
+  CTextureToggle::GetDataDescMap()
+  CTextureToggle::~CTextureToggle()

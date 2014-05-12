@@ -1,0 +1,6 @@
+CEnvSoundscapeTriggerable
+  CEnvSoundscapeTriggerable::GetDataDescMap()
+  CEnvSoundscapeTriggerable::DelegateEndTouch(CBaseEntity*)
+  CEnvSoundscapeTriggerable::DelegateStartTouch(CBaseEntity*)
+  CEnvSoundscapeTriggerable::Think()
+  CEnvSoundscapeTriggerable::~CEnvSoundscapeTriggerable()

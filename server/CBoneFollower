@@ -1,0 +1,11 @@
+CBoneFollower
+  CBoneFollower::ObjectCaps()
+  CBoneFollower::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)
+  CBoneFollower::GetDataDescMap()
+  CBoneFollower::GetServerClass()
+  CBoneFollower::VPhysicsUpdate(IPhysicsObject*)
+  CBoneFollower::VPhysicsFriction(IPhysicsObject*, float, int, int)
+  CBoneFollower::UpdateTransmitState()
+  CBoneFollower::YouForgotToImplementOrDeclareServerClass()
+  CBoneFollower::Touch(CBaseEntity*)
+  CBoneFollower::~CBoneFollower()

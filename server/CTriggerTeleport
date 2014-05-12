@@ -1,0 +1,5 @@
+CTriggerTeleport
+  CTriggerTeleport::GetDataDescMap()
+  CTriggerTeleport::Spawn()
+  CTriggerTeleport::Touch(CBaseEntity*)
+  CTriggerTeleport::~CTriggerTeleport()

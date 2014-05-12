@@ -1,0 +1,6 @@
+CDmxAttribute
+  CDmxAttribute::FreeDataMemory()
+  CDmxAttribute::SetValue(char const*)
+  CDmxAttribute::CDmxAttribute(char const*)
+  CDmxAttribute::~CDmxAttribute()
+  CDmxAttribute::GetName() const

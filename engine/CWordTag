@@ -1,0 +1,3 @@
+CWordTag
+  CWordTag::CWordTag(char const*)
+  CWordTag::~CWordTag()

@@ -1,0 +1,6 @@
+CModAppSystemGroup
+  CModAppSystemGroup::PostShutdown()
+  CModAppSystemGroup::Main()
+  CModAppSystemGroup::Create()
+  CModAppSystemGroup::Destroy()
+  CModAppSystemGroup::PreInit()

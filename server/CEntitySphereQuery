@@ -1,0 +1,3 @@
+CEntitySphereQuery
+  CEntitySphereQuery::GetCurrentEntity()
+  CEntitySphereQuery::CEntitySphereQuery(Vector const&, float, int)

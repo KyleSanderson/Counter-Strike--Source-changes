@@ -1,0 +1,64 @@
+CBaseServer
+  CBaseServer::GetCPUUsage()
+  CBaseServer::SetPassword(char const*)
+  CBaseServer::CheckTimeouts()
+  CBaseServer::GetNumPlayers()
+  CBaseServer::SetMaxClients(int)
+  CBaseServer::BroadcastPrintf(char const*, ...)
+  CBaseServer::CreateNewClient(int)
+  CBaseServer::RecalculateTags()
+  CBaseServer::UserInfoChanged(int)
+  CBaseServer::BroadcastMessage(INetMessage&, IRecipientFilter&)
+  CBaseServer::BroadcastMessage(INetMessage&, bool, bool)
+  CBaseServer::CreateFakeClient(char const*)
+  CBaseServer::DisconnectClient(IClient*, char const*)
+  CBaseServer::GetClassBaseline(ServerClass*, void const**, int*)
+  CBaseServer::ReconnectClients()
+  CBaseServer::CalculateCPUUsage()
+  CBaseServer::InactivateClients()
+  CBaseServer::GetLightStyleTable()
+  CBaseServer::SendClientMessages(bool)
+  CBaseServer::UpdateMasterServer()
+  CBaseServer::CompressPackedEntity(ServerClass*, char const*, int&)
+  CBaseServer::RemoveClientFromGame(CBaseClient*)
+  CBaseServer::UncompressPackedEntity(PackedEntity*, int&)
+  CBaseServer::UpdateMasterServerRules()
+  CBaseServer::GetInstanceBaselineTable()
+  CBaseServer::ShouldUpdateMasterServer()
+  CBaseServer::UpdateMasterServerPlayers()
+  CBaseServer::CheckMasterServerRequestRestart()
+  CBaseServer::ForwardPacketsFromMasterServerUpdater()
+  CBaseServer::Init(bool)
+  CBaseServer::Clear()
+  CBaseServer::AddTag(char const*)
+  CBaseServer::RunFrame()
+  CBaseServer::Shutdown()
+  CBaseServer::GetClient(int)
+  CBaseServer::RemoveTag(char const*)
+  CBaseServer::SetPaused(bool)
+  CBaseServer::CBaseServer()
+  CBaseServer::~CBaseServer()
+  CBaseServer::GetMapName() const
+  CBaseServer::GetUDPPort() const
+  CBaseServer::IsPausable() const
+  CBaseServer::GetPassword() const
+  CBaseServer::IsDedicated() const
+  CBaseServer::GetClassBits() const
+  CBaseServer::GetMaxClients() const
+  CBaseServer::GetNumClasses() const
+  CBaseServer::GetNumClients() const
+  CBaseServer::GetNumProxies() const
+  CBaseServer::GetSpawnCount() const
+  CBaseServer::IsMultiplayer() const
+  CBaseServer::GetClientCount() const
+  CBaseServer::GetTickInterval() const
+  CBaseServer::GetFinalTickTime() const
+  CBaseServer::GetNumFakeClients() const
+  CBaseServer::IsHLTV() const
+  CBaseServer::GetName() const
+  CBaseServer::GetTick() const
+  CBaseServer::GetTime() const
+  CBaseServer::IsActive() const
+  CBaseServer::IsPaused() const
+  CBaseServer::IsReplay() const
+  CBaseServer::IsLoading() const

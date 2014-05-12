@@ -1,0 +1,5 @@
+CDevShotSystem
+  CDevShotSystem::LevelInitPreEntity()
+  CDevShotSystem::SafeRemoveIfDesired()
+  CDevShotSystem::FrameUpdatePostEntityThink()
+  CDevShotSystem::~CDevShotSystem()

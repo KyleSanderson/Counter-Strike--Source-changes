@@ -1,0 +1,5 @@
+CThreadRWLock
+  CThreadRWLock::UnlockWrite()
+  CThreadRWLock::WaitForRead()
+  CThreadRWLock::LockForWrite()
+  CThreadRWLock::CThreadRWLock()

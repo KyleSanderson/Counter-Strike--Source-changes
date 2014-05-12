@@ -1,0 +1,6 @@
+CEntityListSystem
+  CEntityListSystem::LevelInitPreEntity()
+  CEntityListSystem::LevelShutdownPreEntity()
+  CEntityListSystem::LevelShutdownPostEntity()
+  CEntityListSystem::FrameUpdatePostEntityThink()
+  CEntityListSystem::~CEntityListSystem()

@@ -1,0 +1,2 @@
+CDemoSmootherPanel::ApplySchemeSettings
+  CDemoSmootherPanel::ApplySchemeSettings(vgui::IScheme*)

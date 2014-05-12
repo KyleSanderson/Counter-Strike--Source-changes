@@ -1,0 +1,4 @@
+CConVarCheckButton
+  CConVarCheckButton::SetSelected(bool)
+  CConVarCheckButton::SetConVar(ConVar*)
+  CConVarCheckButton::~CConVarCheckButton()

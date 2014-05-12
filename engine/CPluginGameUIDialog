@@ -1,0 +1,8 @@
+CPluginGameUIDialog
+  CPluginGameUIDialog::GetAnimMap()
+  CPluginGameUIDialog::GetMessageMap()
+  CPluginGameUIDialog::GetPanelClassName()
+  CPluginGameUIDialog::GetKBMap()
+  CPluginGameUIDialog::OnCommand(char const*)
+  CPluginGameUIDialog::CPluginGameUIDialog()
+  CPluginGameUIDialog::~CPluginGameUIDialog()

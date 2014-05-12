@@ -1,0 +1,4 @@
+CGameTrace
+  CGameTrace::DidHitWorld() const
+  CGameTrace::GetEntityIndex() const
+  CGameTrace::DidHitNonWorldEntity() const

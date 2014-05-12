@@ -1,0 +1,3 @@
+CBaseActionStopPlaybackDialog
+  CBaseActionStopPlaybackDialog::Init()
+  CBaseActionStopPlaybackDialog::~CBaseActionStopPlaybackDialog()

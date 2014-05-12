@@ -1,0 +1,3 @@
+CBloodSplat
+  CBloodSplat::Think()
+  CBloodSplat::~CBloodSplat()

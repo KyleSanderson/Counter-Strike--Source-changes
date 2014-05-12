@@ -1,0 +1,9 @@
+CPropFadeUIPanel
+  CPropFadeUIPanel::Deactivate()
+  CPropFadeUIPanel::GetAnimMap()
+  CPropFadeUIPanel::GetMessageMap()
+  CPropFadeUIPanel::OnTextChanged(KeyValues*)
+  CPropFadeUIPanel::GetPanelClassName()
+  CPropFadeUIPanel::Activate()
+  CPropFadeUIPanel::GetKBMap()
+  CPropFadeUIPanel::~CPropFadeUIPanel()

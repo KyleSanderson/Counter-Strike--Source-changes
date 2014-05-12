@@ -1,0 +1,2 @@
+IBody::GetViewVector
+  IBody::GetViewVector() const::view

@@ -1,0 +1,6 @@
+CHEGrenadeProjectile
+  CHEGrenadeProjectile::BounceSound()
+  CHEGrenadeProjectile::Spawn()
+  CHEGrenadeProjectile::Detonate()
+  CHEGrenadeProjectile::Precache()
+  CHEGrenadeProjectile::~CHEGrenadeProjectile()

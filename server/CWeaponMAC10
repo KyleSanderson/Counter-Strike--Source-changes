@@ -1,0 +1,10 @@
+CWeaponMAC10
+  CWeaponMAC10::PrimaryAttack()
+  CWeaponMAC10::GetServerClass()
+  CWeaponMAC10::YouForgotToImplementOrDeclareServerClass()
+  CWeaponMAC10::Spawn()
+  CWeaponMAC10::Deploy()
+  CWeaponMAC10::Reload()
+  CWeaponMAC10::~CWeaponMAC10()
+  CWeaponMAC10::GetWeaponID() const
+  CWeaponMAC10::GetInaccuracy() const

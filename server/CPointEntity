@@ -1,0 +1,4 @@
+CPointEntity
+  CPointEntity::ObjectCaps()
+  CPointEntity::Spawn()
+  CPointEntity::~CPointEntity()

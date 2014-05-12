@@ -1,0 +1,7 @@
+IceKey
+  IceKey::scheduleBuild(unsigned short*, int, int const*)
+  IceKey::set(unsigned char const*)
+  IceKey::IceKey(int)
+  IceKey::~IceKey()
+  IceKey::decrypt(unsigned char const*, unsigned char*) const
+  IceKey::blockSize() const

@@ -1,0 +1,6 @@
+SporeTrail
+  SporeTrail::GetDataDescMap()
+  SporeTrail::GetServerClass()
+  SporeTrail::YouForgotToImplementOrDeclareServerClass()
+  SporeTrail::SporeTrail()
+  SporeTrail::~SporeTrail()

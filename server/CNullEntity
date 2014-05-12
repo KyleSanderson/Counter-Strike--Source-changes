@@ -1,0 +1,3 @@
+CNullEntity
+  CNullEntity::Spawn()
+  CNullEntity::~CNullEntity()

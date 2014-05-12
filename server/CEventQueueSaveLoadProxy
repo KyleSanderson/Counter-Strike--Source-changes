@@ -1,0 +1,4 @@
+CEventQueueSaveLoadProxy
+  CEventQueueSaveLoadProxy::Save(ISave&)
+  CEventQueueSaveLoadProxy::Restore(IRestore&)
+  CEventQueueSaveLoadProxy::~CEventQueueSaveLoadProxy()

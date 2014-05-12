@@ -1,0 +1,9 @@
+CEnvWind
+  CEnvWind::GetDataDescMap()
+  CEnvWind::GetServerClass()
+  CEnvWind::UpdateTransmitState()
+  CEnvWind::YouForgotToImplementOrDeclareServerClass()
+  CEnvWind::Spawn()
+  CEnvWind::Precache()
+  CEnvWind::WindThink()
+  CEnvWind::~CEnvWind()

@@ -1,0 +1,4 @@
+CRevertSaved
+  CRevertSaved::GetDataDescMap()
+  CRevertSaved::LoadThink()
+  CRevertSaved::~CRevertSaved()

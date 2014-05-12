@@ -1,0 +1,3 @@
+CTier3AppSystem
+  CTier3AppSystem<IEngineAPI, 0>::Connect(void* (*)(char const*, int*))
+  CTier3AppSystem<IDedicatedServerAPI, 0>::Connect(void* (*)(char const*, int*))

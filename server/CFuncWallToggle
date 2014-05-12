@@ -1,0 +1,5 @@
+CFuncWallToggle
+  CFuncWallToggle::GetDataDescMap()
+  CFuncWallToggle::Spawn()
+  CFuncWallToggle::TurnOn()
+  CFuncWallToggle::~CFuncWallToggle()

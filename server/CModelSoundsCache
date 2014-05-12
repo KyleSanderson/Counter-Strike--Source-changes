@@ -1,0 +1,8 @@
+CModelSoundsCache
+  CModelSoundsCache::PrecacheSoundList()
+  CModelSoundsCache::FindOrAddScriptSound(CUtlVector<unsigned short, CUtlMemory<unsigned short, int> >&, char const*)
+  CModelSoundsCache::BuildAnimationEventSoundList(CStudioHdr*, CUtlVector<unsigned short, CUtlMemory<unsigned short, int> >&)
+  CModelSoundsCache::Save(CUtlBuffer&)
+  CModelSoundsCache::Rebuild(char const*)
+  CModelSoundsCache::Restore(CUtlBuffer&)
+  CModelSoundsCache::CModelSoundsCache()

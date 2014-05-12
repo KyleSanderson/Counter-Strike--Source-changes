@@ -1,0 +1,7 @@
+CEventRegister
+  CEventRegister::Reregister()
+  CEventRegister::StopUpdates()
+  CEventRegister::SetUpdateInterval(float)
+  CEventRegister::Init(CTimedEventMgr*, IEventRegisterCallback*)
+  CEventRegister::CEventRegister()
+  CEventRegister::~CEventRegister()

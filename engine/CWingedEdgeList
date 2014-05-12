@@ -1,0 +1,4 @@
+CWingedEdgeList
+  CWingedEdgeList::QueueVisualization(unsigned char*)
+  CWingedEdgeList::AdvanceActiveEdgeList(float)
+  CWingedEdgeList::~CWingedEdgeList()

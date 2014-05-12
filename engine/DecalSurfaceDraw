@@ -1,0 +1,2 @@
+DecalSurfaceDraw
+  DecalSurfaceDraw(IMatRenderContext*, int, float)::DrawDecals

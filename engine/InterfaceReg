@@ -1,0 +1,2 @@
+InterfaceReg
+  InterfaceReg::InterfaceReg(void* (*)(), char const*)

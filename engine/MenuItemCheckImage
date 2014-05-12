@@ -1,0 +1,3 @@
+MenuItemCheckImage
+  MenuItemCheckImage::Paint()
+  MenuItemCheckImage::~MenuItemCheckImage()

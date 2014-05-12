@@ -1,0 +1,4 @@
+CPhysThruster
+  CPhysThruster::OnActivate()
+  CPhysThruster::GetDataDescMap()
+  CPhysThruster::~CPhysThruster()

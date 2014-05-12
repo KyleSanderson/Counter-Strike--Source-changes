@@ -1,0 +1,10 @@
+vgui::CircularProgressBar
+  vgui::CircularProgressBar::GetAnimMap()
+  vgui::CircularProgressBar::ApplySettings(KeyValues*)
+  vgui::CircularProgressBar::GetMessageMap()
+  vgui::CircularProgressBar::PaintBackground()
+  vgui::CircularProgressBar::DrawCircleSegment(Color, float, bool)
+  vgui::CircularProgressBar::GetPanelClassName()
+  vgui::CircularProgressBar::Paint()
+  vgui::CircularProgressBar::GetKBMap()
+  vgui::CircularProgressBar::~CircularProgressBar()

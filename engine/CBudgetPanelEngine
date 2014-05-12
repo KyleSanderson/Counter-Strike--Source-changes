@@ -1,0 +1,7 @@
+CBudgetPanelEngine
+  CBudgetPanelEngine::PostChildPaint()
+  CBudgetPanelEngine::SetTimeLabelText()
+  CBudgetPanelEngine::SetHistoryLabelText()
+  CBudgetPanelEngine::OnTick()
+  CBudgetPanelEngine::~CBudgetPanelEngine()
+  CBudgetPanelEngine::IsBudgetPanelShown() const

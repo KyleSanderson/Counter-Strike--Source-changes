@@ -1,0 +1,2 @@
+CollectHidingSpotsFunctor
+  CollectHidingSpotsFunctor::operator()(CNavArea*)

@@ -1,0 +1,6 @@
+CCredits
+  CCredits::GetDataDescMap()
+  CCredits::RollOutroCredits()
+  CCredits::Spawn()
+  CCredits::OnRestore()
+  CCredits::~CCredits()

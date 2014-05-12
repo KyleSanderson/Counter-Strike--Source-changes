@@ -1,0 +1,5 @@
+HuntState
+  HuntState::OnExit(CCSBot*)
+  HuntState::OnEnter(CCSBot*)
+  HuntState::OnUpdate(CCSBot*)
+  HuntState::GetName() const

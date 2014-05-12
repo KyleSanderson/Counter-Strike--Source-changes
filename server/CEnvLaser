@@ -1,0 +1,8 @@
+CEnvLaser
+  CEnvLaser::FireAtPoint(CGameTrace&)
+  CEnvLaser::StrikeThink()
+  CEnvLaser::GetDataDescMap()
+  CEnvLaser::Spawn()
+  CEnvLaser::TurnOn()
+  CEnvLaser::Precache()
+  CEnvLaser::~CEnvLaser()

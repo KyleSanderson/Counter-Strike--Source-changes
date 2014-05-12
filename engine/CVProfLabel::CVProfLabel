@@ -1,0 +1,2 @@
+CVProfLabel::CVProfLabel
+  CVProfLabel::CVProfLabel(vgui::Panel*, char const*)

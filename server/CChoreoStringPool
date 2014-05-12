@@ -1,0 +1,3 @@
+CChoreoStringPool
+  CChoreoStringPool::FindOrAddString(char const*)
+  CChoreoStringPool::GetString(short, char*, int)

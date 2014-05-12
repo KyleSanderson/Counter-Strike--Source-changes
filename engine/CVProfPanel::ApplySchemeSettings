@@ -1,0 +1,2 @@
+CVProfPanel::ApplySchemeSettings
+  CVProfPanel::ApplySchemeSettings(vgui::IScheme*)

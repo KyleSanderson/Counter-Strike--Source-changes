@@ -1,0 +1,7 @@
+CLight
+  CLight::GetDataDescMap()
+  CLight::Spawn()
+  CLight::TurnOn()
+  CLight::TurnOff()
+  CLight::FadeThink()
+  CLight::~CLight()

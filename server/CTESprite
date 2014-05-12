@@ -1,0 +1,7 @@
+CTESprite
+  CTESprite::GetServerClass()
+  CTESprite::YouForgotToImplementOrDeclareServerClass()
+  CTESprite::Test(Vector const&, QAngle const&)
+  CTESprite::Precache()
+  CTESprite::CTESprite(char const*)
+  CTESprite::~CTESprite()

@@ -1,0 +1,8 @@
+CEnvTonemapController
+  CEnvTonemapController::GetDataDescMap()
+  CEnvTonemapController::GetServerClass()
+  CEnvTonemapController::UpdateTransmitState()
+  CEnvTonemapController::UpdateTonemapScaleBlend()
+  CEnvTonemapController::YouForgotToImplementOrDeclareServerClass()
+  CEnvTonemapController::Spawn()
+  CEnvTonemapController::~CEnvTonemapController()

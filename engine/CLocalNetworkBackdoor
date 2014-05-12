@@ -1,0 +1,12 @@
+CLocalNetworkBackdoor
+  CLocalNetworkBackdoor::ClearState()
+  CLocalNetworkBackdoor::InitFastCopy()
+  CLocalNetworkBackdoor::EntityDormant(int, int)
+  CLocalNetworkBackdoor::StopBackdoorMode()
+  CLocalNetworkBackdoor::StartBackdoorMode()
+  CLocalNetworkBackdoor::EndEntityStateUpdate()
+  CLocalNetworkBackdoor::ProcessDormantEntities()
+  CLocalNetworkBackdoor::StartEntityStateUpdate()
+  CLocalNetworkBackdoor::AddToPendingDormantEntityList(unsigned short)
+  CLocalNetworkBackdoor::EntState(int, int, int, SendTable const*, void const*, bool, bool)
+  CLocalNetworkBackdoor::~CLocalNetworkBackdoor()

@@ -1,0 +1,3 @@
+RecvTable
+  RecvTable::RecvTable(RecvProp*, int, char const*)
+  RecvTable::~RecvTable()

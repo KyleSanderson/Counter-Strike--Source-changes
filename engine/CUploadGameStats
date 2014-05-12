@@ -1,0 +1,9 @@
+CUploadGameStats
+  CUploadGameStats::IsHDREnabled()
+  CUploadGameStats::InitConnection()
+  CUploadGameStats::IsCyberCafeUser()
+  CUploadGameStats::UploadGameStats(char const*, unsigned int, unsigned int, void const*)
+  CUploadGameStats::UpdateConnection()
+  CUploadGameStats::GetPseudoUniqueId(char*, unsigned long)
+  CUploadGameStats::UploadGameStatsInternal(char const*, unsigned int, unsigned int, void const*)
+  CUploadGameStats::IsGameStatsLoggingEnabled()

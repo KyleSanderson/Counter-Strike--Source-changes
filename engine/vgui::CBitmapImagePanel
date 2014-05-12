@@ -1,0 +1,8 @@
+vgui::CBitmapImagePanel
+  vgui::CBitmapImagePanel::setTexture(char const*, bool)
+  vgui::CBitmapImagePanel::GetSettings(KeyValues*)
+  vgui::CBitmapImagePanel::PaintBorder()
+  vgui::CBitmapImagePanel::ApplySettings(KeyValues*)
+  vgui::CBitmapImagePanel::GetDescription()
+  vgui::CBitmapImagePanel::PaintBackground()
+  vgui::CBitmapImagePanel::~CBitmapImagePanel()

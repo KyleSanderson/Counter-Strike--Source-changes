@@ -1,0 +1,7 @@
+CItemSoda
+  CItemSoda::GetDataDescMap()
+  CItemSoda::Spawn()
+  CItemSoda::CanThink()
+  CItemSoda::CanTouch(CBaseEntity*)
+  CItemSoda::Precache()
+  CItemSoda::~CItemSoda()

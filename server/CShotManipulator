@@ -1,0 +1,2 @@
+CShotManipulator
+  CShotManipulator::ApplySpread(Vector const&, float)

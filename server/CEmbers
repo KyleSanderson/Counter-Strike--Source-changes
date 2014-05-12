@@ -1,0 +1,7 @@
+CEmbers
+  CEmbers::GetDataDescMap()
+  CEmbers::GetServerClass()
+  CEmbers::YouForgotToImplementOrDeclareServerClass()
+  CEmbers::Spawn()
+  CEmbers::Precache()
+  CEmbers::~CEmbers()

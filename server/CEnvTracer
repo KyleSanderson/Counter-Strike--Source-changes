@@ -1,0 +1,6 @@
+CEnvTracer
+  CEnvTracer::TracerThink()
+  CEnvTracer::GetDataDescMap()
+  CEnvTracer::Spawn()
+  CEnvTracer::Activate()
+  CEnvTracer::~CEnvTracer()

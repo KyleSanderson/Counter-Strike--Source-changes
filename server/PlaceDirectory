@@ -1,0 +1,6 @@
+PlaceDirectory
+  PlaceDirectory::Load(CUtlBuffer&, int)
+  PlaceDirectory::Save(CUtlBuffer&)
+  PlaceDirectory::AddPlace(unsigned int)
+  PlaceDirectory::~PlaceDirectory()
+  PlaceDirectory::IndexToPlace(unsigned short) const

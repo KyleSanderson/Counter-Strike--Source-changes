@@ -1,0 +1,2 @@
+VMatrix
+  VMatrix::SetupMatrixOrgAngles(Vector const&, QAngle const&)

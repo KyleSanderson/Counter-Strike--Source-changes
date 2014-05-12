@@ -1,0 +1,5 @@
+CFlexSceneFileManager
+  CFlexSceneFileManager::FindSceneFile(CBaseFlex*, char const*, bool)
+  CFlexSceneFileManager::Init()
+  CFlexSceneFileManager::Shutdown()
+  CFlexSceneFileManager::~CFlexSceneFileManager()

@@ -1,0 +1,5 @@
+CEntityReportPanel
+  CEntityReportPanel::ShouldDraw()
+  CEntityReportPanel::Paint()
+  CEntityReportPanel::DrawEntry(int, int, int, int, int)
+  CEntityReportPanel::~CEntityReportPanel()

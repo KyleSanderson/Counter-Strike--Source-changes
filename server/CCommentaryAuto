@@ -1,0 +1,5 @@
+CCommentaryAuto
+  CCommentaryAuto::GetDataDescMap()
+  CCommentaryAuto::Spawn()
+  CCommentaryAuto::Think()
+  CCommentaryAuto::~CCommentaryAuto()

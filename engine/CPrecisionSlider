@@ -1,0 +1,11 @@
+CPrecisionSlider
+  CPrecisionSlider::GetAnimMap()
+  CPrecisionSlider::SetEnabled(bool)
+  CPrecisionSlider::GetMessageMap()
+  CPrecisionSlider::OnSizeChanged(int, int)
+  CPrecisionSlider::OnTextNewLine(KeyValues*)
+  CPrecisionSlider::OnMouseWheeled(int)
+  CPrecisionSlider::GetPanelClassName()
+  CPrecisionSlider::GetKBMap()
+  CPrecisionSlider::SetValue(int, bool)
+  CPrecisionSlider::~CPrecisionSlider()

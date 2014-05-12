@@ -1,0 +1,5 @@
+TUnzip
+  TUnzip::Get(int, ZIPENTRY*)
+  TUnzip::Find(char const*, bool, int*, ZIPENTRY*)
+  TUnzip::Close()
+  TUnzip::Unzip(int, void*, unsigned int, unsigned int)

@@ -1,0 +1,8 @@
+CModelInfoServer
+  CModelInfoServer::FindOrLoadModel(char const*)
+  CModelInfoServer::RegisterDynamicModel(char const*, bool)
+  CModelInfoServer::OnDynamicModelsStringTableChange(int, char const*, void const*)
+  CModelInfoServer::GetModel(int)
+  CModelInfoServer::~CModelInfoServer()
+  CModelInfoServer::LookupPrecachedModelIndex(char const*) const
+  CModelInfoServer::GetDynamicModelStringTable() const

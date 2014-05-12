@@ -1,0 +1,10 @@
+CVoxelTree
+  CVoxelTree::BeginVisit()
+  CVoxelTree::ReportStats(char const*)
+  CVoxelTree::RemoveFromTree(unsigned short)
+  CVoxelTree::DrawDebugOverlays()
+  CVoxelTree::RenderAllObjectsInTree(float)
+  CVoxelTree::EnumerateElementsAtPoint(int, Vector const&, bool, IPartitionEnumerator*)
+  CVoxelTree::EnumerateElementsInSphere(int, Vector const&, float, bool, IPartitionEnumerator*)
+  CVoxelTree::CVoxelTree()
+  CVoxelTree::~CVoxelTree()

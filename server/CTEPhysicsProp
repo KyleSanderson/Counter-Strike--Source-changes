@@ -1,0 +1,7 @@
+CTEPhysicsProp
+  CTEPhysicsProp::GetServerClass()
+  CTEPhysicsProp::YouForgotToImplementOrDeclareServerClass()
+  CTEPhysicsProp::Test(Vector const&, QAngle const&)
+  CTEPhysicsProp::Precache()
+  CTEPhysicsProp::CTEPhysicsProp(char const*)
+  CTEPhysicsProp::~CTEPhysicsProp()

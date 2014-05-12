@@ -1,0 +1,2 @@
+CReplayDeltaEntityCache
+  CReplayDeltaEntityCache::FindDeltaBits(int, int, int&)

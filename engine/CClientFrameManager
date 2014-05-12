@@ -1,0 +1,8 @@
+CClientFrameManager
+  CClientFrameManager::AllocateFrame()
+  CClientFrameManager::AddClientFrame(CClientFrame*)
+  CClientFrameManager::GetClientFrame(int, bool)
+  CClientFrameManager::RemoveOldestFrame()
+  CClientFrameManager::DeleteClientFrames(int)
+  CClientFrameManager::CClientFrameManager()
+  CClientFrameManager::~CClientFrameManager()

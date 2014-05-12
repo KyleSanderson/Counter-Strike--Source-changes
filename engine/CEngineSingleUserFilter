@@ -1,0 +1,7 @@
+CEngineSingleUserFilter
+  CEngineSingleUserFilter::~CEngineSingleUserFilter()
+  CEngineSingleUserFilter::IsReliable() const
+  CEngineSingleUserFilter::IsInitMessage() const
+  CEngineSingleUserFilter::GetRecipientCount() const
+  CEngineSingleUserFilter::GetRecipientIndex(int) const
+  CEngineSingleUserFilter::IsBroadcastMessage() const

@@ -1,0 +1,5 @@
+CTriggerGravity
+  CTriggerGravity::GravityTouch(CBaseEntity*)
+  CTriggerGravity::GetDataDescMap()
+  CTriggerGravity::Spawn()
+  CTriggerGravity::~CTriggerGravity()

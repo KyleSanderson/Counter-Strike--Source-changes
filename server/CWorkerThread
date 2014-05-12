@@ -1,0 +1,5 @@
+CWorkerThread
+  CWorkerThread::WaitForCall(unsigned int*)
+  CWorkerThread::Reply(unsigned int)
+  CWorkerThread::CWorkerThread()
+  CWorkerThread::~CWorkerThread()

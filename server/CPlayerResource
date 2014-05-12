@@ -1,0 +1,10 @@
+CPlayerResource
+  CPlayerResource::ObjectCaps()
+  CPlayerResource::ResourceThink()
+  CPlayerResource::GetDataDescMap()
+  CPlayerResource::GetServerClass()
+  CPlayerResource::UpdatePlayerData()
+  CPlayerResource::UpdateTransmitState()
+  CPlayerResource::YouForgotToImplementOrDeclareServerClass()
+  CPlayerResource::Spawn()
+  CPlayerResource::~CPlayerResource()

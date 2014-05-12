@@ -1,0 +1,8 @@
+CEntityParticleTrail
+  CEntityParticleTrail::SetTransmit(CCheckTransmitInfo*, bool)
+  CEntityParticleTrail::GetDataDescMap()
+  CEntityParticleTrail::GetServerClass()
+  CEntityParticleTrail::UpdateOnRemove()
+  CEntityParticleTrail::YouForgotToImplementOrDeclareServerClass()
+  CEntityParticleTrail::Spawn()
+  CEntityParticleTrail::~CEntityParticleTrail()

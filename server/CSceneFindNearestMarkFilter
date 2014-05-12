@@ -1,0 +1,4 @@
+CSceneFindNearestMarkFilter
+  CSceneFindNearestMarkFilter::GetFilterResult()
+  CSceneFindNearestMarkFilter::ShouldFindEntity(CBaseEntity*)
+  CSceneFindNearestMarkFilter::CSceneFindNearestMarkFilter(CBaseEntity const*, Vector const&, float)

@@ -1,0 +1,6 @@
+CMemoryStack
+  CMemoryStack::Init(unsigned int, unsigned int, unsigned int, unsigned int)
+  CMemoryStack::FreeAll(bool)
+  CMemoryStack::CommitTo(unsigned char*)
+  CMemoryStack::CMemoryStack()
+  CMemoryStack::~CMemoryStack()

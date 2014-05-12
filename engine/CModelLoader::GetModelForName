@@ -1,0 +1,2 @@
+CModelLoader::GetModelForName
+  CModelLoader::GetModelForName(char const*, IModelLoader::REFERENCETYPE)

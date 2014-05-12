@@ -1,0 +1,6 @@
+CTEBubbles
+  CTEBubbles::GetServerClass()
+  CTEBubbles::YouForgotToImplementOrDeclareServerClass()
+  CTEBubbles::Test(Vector const&, QAngle const&)
+  CTEBubbles::CTEBubbles(char const*)
+  CTEBubbles::~CTEBubbles()

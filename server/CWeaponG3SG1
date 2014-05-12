@@ -1,0 +1,12 @@
+CWeaponG3SG1
+  CWeaponG3SG1::GetMaxSpeed()
+  CWeaponG3SG1::PrimaryAttack()
+  CWeaponG3SG1::GetServerClass()
+  CWeaponG3SG1::SecondaryAttack()
+  CWeaponG3SG1::YouForgotToImplementOrDeclareServerClass()
+  CWeaponG3SG1::Spawn()
+  CWeaponG3SG1::Deploy()
+  CWeaponG3SG1::Reload()
+  CWeaponG3SG1::~CWeaponG3SG1()
+  CWeaponG3SG1::GetWeaponID() const
+  CWeaponG3SG1::GetInaccuracy() const

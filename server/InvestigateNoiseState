@@ -1,0 +1,6 @@
+InvestigateNoiseState
+  InvestigateNoiseState::AttendCurrentNoise(CCSBot*)
+  InvestigateNoiseState::OnExit(CCSBot*)
+  InvestigateNoiseState::OnEnter(CCSBot*)
+  InvestigateNoiseState::OnUpdate(CCSBot*)
+  InvestigateNoiseState::GetName() const

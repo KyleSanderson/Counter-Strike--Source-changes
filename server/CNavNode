@@ -1,0 +1,7 @@
+CNavNode
+  CNavNode::CheckCrouch()
+  CNavNode::CleanupGeneration()
+  CNavNode::Draw()
+  CNavNode::GetNode(Vector const&)
+  CNavNode::IsClosedCell() const
+  CNavNode::GetGroundHeightAboveNode(NavCornerType) const

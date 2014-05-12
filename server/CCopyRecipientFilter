@@ -1,0 +1,8 @@
+CCopyRecipientFilter
+  CCopyRecipientFilter::AddRecipient(CBasePlayer*)
+  CCopyRecipientFilter::Init(IRecipientFilter*)
+  CCopyRecipientFilter::~CCopyRecipientFilter()
+  CCopyRecipientFilter::IsReliable() const
+  CCopyRecipientFilter::IsInitMessage() const
+  CCopyRecipientFilter::GetRecipientCount() const
+  CCopyRecipientFilter::GetRecipientIndex(int) const

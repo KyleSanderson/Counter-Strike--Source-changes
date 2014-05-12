@@ -1,0 +1,2 @@
+CBasePanel::CBasePanel
+  CBasePanel::CBasePanel(vgui::Panel*, char const*)

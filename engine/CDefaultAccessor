@@ -1,0 +1,2 @@
+CDefaultAccessor
+  CDefaultAccessor::RegisterConCommandBase(ConCommandBase*)

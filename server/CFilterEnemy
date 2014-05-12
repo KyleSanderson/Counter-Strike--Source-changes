@@ -1,0 +1,5 @@
+CFilterEnemy
+  CFilterEnemy::GetDataDescMap()
+  CFilterEnemy::PassesNameFilter(CBaseEntity*)
+  CFilterEnemy::PassesDamageFilterImpl(CTakeDamageInfo const&)
+  CFilterEnemy::~CFilterEnemy()

@@ -1,0 +1,6 @@
+CProjectedDecal
+  CProjectedDecal::StaticDecal()
+  CProjectedDecal::GetDataDescMap()
+  CProjectedDecal::Spawn()
+  CProjectedDecal::Activate()
+  CProjectedDecal::~CProjectedDecal()

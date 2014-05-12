@@ -1,0 +1,12 @@
+CBaseBudgetPanel
+  CBaseBudgetPanel::PerformLayout()
+  CBaseBudgetPanel::PaintBackground()
+  CBaseBudgetPanel::SetTimeLabelText()
+  CBaseBudgetPanel::OnConfigDataChanged(CBudgetPanelConfigData const&)
+  CBaseBudgetPanel::SetHistoryLabelText()
+  CBaseBudgetPanel::GetBudgetGroupPercent(float)
+  CBaseBudgetPanel::ClearTimesForAllGroupsForThisFrame()
+  CBaseBudgetPanel::Paint()
+  CBaseBudgetPanel::Rebuild(CBudgetPanelConfigData const&)
+  CBaseBudgetPanel::ResetAll()
+  CBaseBudgetPanel::~CBaseBudgetPanel()

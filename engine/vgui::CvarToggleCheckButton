@@ -1,0 +1,13 @@
+vgui::CvarToggleCheckButton
+  vgui::CvarToggleCheckButton<ConVarRef>::GetAnimMap()
+  vgui::CvarToggleCheckButton<ConVarRef>::SetSelected(bool)
+  vgui::CvarToggleCheckButton<ConVarRef>::ApplySettings(KeyValues*)
+  vgui::CvarToggleCheckButton<ConVarRef>::GetMessageMap()
+  vgui::CvarToggleCheckButton<ConVarRef>::OnApplyChanges()
+  vgui::CvarToggleCheckButton<ConVarRef>::OnButtonChecked()
+  vgui::CvarToggleCheckButton<ConVarRef>::GetPanelClassName()
+  vgui::CvarToggleCheckButton<ConVarRef>::Paint()
+  vgui::CvarToggleCheckButton<ConVarRef>::GetKBMap()
+  vgui::CvarToggleCheckButton<ConVarRef>::~CvarToggleCheckButton()
+  vgui::CvarToggleCheckButton<ConVarRef>::ChainToMap()::chained
+  vgui::CvarToggleCheckButton<ConVarRef>::ChainToAnimationMap()::chained

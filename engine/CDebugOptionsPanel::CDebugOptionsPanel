@@ -1,0 +1,2 @@
+CDebugOptionsPanel::CDebugOptionsPanel
+  CDebugOptionsPanel::CDebugOptionsPanel(vgui::Panel*, char const*)

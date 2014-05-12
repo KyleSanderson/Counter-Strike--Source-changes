@@ -1,0 +1,5 @@
+CTEKillPlayerAttachments
+  CTEKillPlayerAttachments::GetServerClass()
+  CTEKillPlayerAttachments::YouForgotToImplementOrDeclareServerClass()
+  CTEKillPlayerAttachments::Test(Vector const&, QAngle const&)
+  CTEKillPlayerAttachments::~CTEKillPlayerAttachments()

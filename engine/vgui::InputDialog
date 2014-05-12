@@ -1,0 +1,9 @@
+vgui::InputDialog
+  vgui::InputDialog::GetAnimMap()
+  vgui::InputDialog::SetMultiline(bool)
+  vgui::InputDialog::GetMessageMap()
+  vgui::InputDialog::PerformLayout(int, int, int, int)
+  vgui::InputDialog::GetPanelClassName()
+  vgui::InputDialog::GetKBMap()
+  vgui::InputDialog::OnCommand(char const*)
+  vgui::InputDialog::~InputDialog()

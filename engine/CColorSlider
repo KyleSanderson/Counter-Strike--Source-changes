@@ -1,0 +1,10 @@
+CColorSlider
+  CColorSlider::GetAnimMap()
+  CColorSlider::GetMessageMap()
+  CColorSlider::OnCursorMoved(int, int)
+  CColorSlider::GetPanelClassName()
+  CColorSlider::SetNormalizedValue(int, float)
+  CColorSlider::Paint()
+  CColorSlider::GetKBMap()
+  CColorSlider::PaintKnob(float, unsigned char, unsigned char, unsigned char)
+  CColorSlider::~CColorSlider()

@@ -1,0 +1,5 @@
+CTriggerRemove
+  CTriggerRemove::GetDataDescMap()
+  CTriggerRemove::Spawn()
+  CTriggerRemove::Touch(CBaseEntity*)
+  CTriggerRemove::~CTriggerRemove()

@@ -1,0 +1,4 @@
+vgui::CheckImage
+  vgui::CheckImage::Paint()
+  vgui::CheckImage::SetColor(Color)
+  vgui::CheckImage::~CheckImage()

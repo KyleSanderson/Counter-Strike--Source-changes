@@ -1,0 +1,4 @@
+CDmxSerializer
+  CDmxSerializer::SerializeElementIndex(CUtlBuffer&, CDmxSerializationDictionary&, CDmxElement*)
+  CDmxSerializer::SerializeElementArrayAttribute(CUtlBuffer&, CDmxSerializationDictionary&, CDmxAttribute*)
+  CDmxSerializer::Serialize(CUtlBuffer&, CDmxElement*, char const*)

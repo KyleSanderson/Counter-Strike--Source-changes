@@ -1,0 +1,12 @@
+CEntitySaveRestoreBlockHandler
+  CEntitySaveRestoreBlockHandler::PreRestore()
+  CEntitySaveRestoreBlockHandler::PostRestore()
+  CEntitySaveRestoreBlockHandler::GetBlockName()
+  CEntitySaveRestoreBlockHandler::DoRestoreEntity(CBaseEntity*, IRestore*)
+  CEntitySaveRestoreBlockHandler::SaveInitEntities(CSaveRestoreData*)
+  CEntitySaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+  CEntitySaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+  CEntitySaveRestoreBlockHandler::Save(ISave*)
+  CEntitySaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+  CEntitySaveRestoreBlockHandler::Restore(IRestore*, bool)
+  CEntitySaveRestoreBlockHandler::PostSave()

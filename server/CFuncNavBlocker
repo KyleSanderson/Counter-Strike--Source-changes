@@ -1,0 +1,7 @@
+CFuncNavBlocker
+  CFuncNavBlocker::UpdateBlocked()
+  CFuncNavBlocker::GetDataDescMap()
+  CFuncNavBlocker::UpdateOnRemove()
+  CFuncNavBlocker::DrawDebugTextOverlays()
+  CFuncNavBlocker::Spawn()
+  CFuncNavBlocker::~CFuncNavBlocker()

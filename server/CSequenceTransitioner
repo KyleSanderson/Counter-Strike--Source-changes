@@ -1,0 +1,3 @@
+CSequenceTransitioner
+  CSequenceTransitioner::UpdateCurrent(CStudioHdr*, int, float, float, float)
+  CSequenceTransitioner::CheckForSequenceChange(CStudioHdr*, int, bool, bool)

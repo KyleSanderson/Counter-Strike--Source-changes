@@ -1,0 +1,7 @@
+CDemoActionPausePlayback
+  CDemoActionPausePlayback::FireAction()
+  CDemoActionPausePlayback::SetPauseTime(float)
+  CDemoActionPausePlayback::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionPausePlayback::Init(KeyValues*)
+  CDemoActionPausePlayback::~CDemoActionPausePlayback()
+  CDemoActionPausePlayback::GetPauseTime() const

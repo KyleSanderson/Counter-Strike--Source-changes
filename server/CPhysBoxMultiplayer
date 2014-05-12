@@ -1,0 +1,9 @@
+CPhysBoxMultiplayer
+  CPhysBoxMultiplayer::GetDataDescMap()
+  CPhysBoxMultiplayer::GetServerClass()
+  CPhysBoxMultiplayer::GetMultiplayerPhysicsMode()
+  CPhysBoxMultiplayer::YouForgotToImplementOrDeclareServerClass()
+  CPhysBoxMultiplayer::GetMass()
+  CPhysBoxMultiplayer::Activate()
+  CPhysBoxMultiplayer::IsAsleep()
+  CPhysBoxMultiplayer::~CPhysBoxMultiplayer()

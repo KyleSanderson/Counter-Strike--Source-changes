@@ -1,0 +1,3 @@
+CVEfx
+  CVEfx::GetElightByKey(int)
+  CVEfx::~CVEfx()

@@ -1,0 +1,2 @@
+PathFollower::Draw
+  PathFollower::Draw(Path::Segment const*) const

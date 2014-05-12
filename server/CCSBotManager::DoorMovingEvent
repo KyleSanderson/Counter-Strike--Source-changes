@@ -1,0 +1,4 @@
+CCSBotManager::DoorMovingEvent
+  CCSBotManager::DoorMovingEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::DoorMovingEvent::~DoorMovingEvent()
+  CCSBotManager::DoorMovingEvent::GetEventName() const

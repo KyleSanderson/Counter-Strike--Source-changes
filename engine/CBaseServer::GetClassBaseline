@@ -1,0 +1,2 @@
+CBaseServer::GetClassBaseline
+  CBaseServer::GetClassBaseline(ServerClass*, void const**, int*)::dummy

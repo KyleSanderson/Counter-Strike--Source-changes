@@ -1,0 +1,4 @@
+CDebugSystemPanel
+  CDebugSystemPanel::SetVisible(bool)
+  CDebugSystemPanel::OnCommand(char const*)
+  CDebugSystemPanel::~CDebugSystemPanel()

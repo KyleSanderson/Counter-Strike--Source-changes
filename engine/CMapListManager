@@ -1,0 +1,4 @@
+CMapListManager
+  CMapListManager::RefreshList()
+  CMapListManager::BuildList()
+  CMapListManager::~CMapListManager()

@@ -1,0 +1,2 @@
+CUtlVectorAutoPurge
+  CUtlVectorAutoPurge<char*>::~CUtlVectorAutoPurge()

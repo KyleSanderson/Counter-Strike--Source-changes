@@ -1,0 +1,7 @@
+CFullScreenSelectionPanel
+  CFullScreenSelectionPanel::GetAnimMap()
+  CFullScreenSelectionPanel::GetMessageMap()
+  CFullScreenSelectionPanel::OnCursorMoved(int, int)
+  CFullScreenSelectionPanel::GetPanelClassName()
+  CFullScreenSelectionPanel::GetKBMap()
+  CFullScreenSelectionPanel::~CFullScreenSelectionPanel()

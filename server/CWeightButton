@@ -1,0 +1,6 @@
+CWeightButton
+  CWeightButton::TriggerThink()
+  CWeightButton::CreateVPhysics()
+  CWeightButton::GetDataDescMap()
+  CWeightButton::Spawn()
+  CWeightButton::~CWeightButton()

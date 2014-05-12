@@ -1,0 +1,8 @@
+CPluginMenu
+  CPluginMenu::GetAnimMap()
+  CPluginMenu::GetMessageMap()
+  CPluginMenu::GetPanelClassName()
+  CPluginMenu::Show(KeyValues*)
+  CPluginMenu::GetKBMap()
+  CPluginMenu::OnCommand(char const*)
+  CPluginMenu::~CPluginMenu()

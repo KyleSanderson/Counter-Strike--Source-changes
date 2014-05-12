@@ -1,0 +1,2 @@
+CHFontProperty::GetData
+  CHFontProperty::GetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

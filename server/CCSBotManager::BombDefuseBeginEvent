@@ -1,0 +1,4 @@
+CCSBotManager::BombDefuseBeginEvent
+  CCSBotManager::BombDefuseBeginEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BombDefuseBeginEvent::~BombDefuseBeginEvent()
+  CCSBotManager::BombDefuseBeginEvent::GetEventName() const

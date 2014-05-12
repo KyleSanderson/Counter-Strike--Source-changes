@@ -1,0 +1,21 @@
+CWeaponUSP
+  CWeaponUSP::WeaponIdle()
+  CWeaponUSP::PrimaryAttack()
+  CWeaponUSP::GetServerClass()
+  CWeaponUSP::SendWeaponAnim(int)
+  CWeaponUSP::SecondaryAttack()
+  CWeaponUSP::GetDeployActivity()
+  CWeaponUSP::GetWorldModelIndex()
+  CWeaponUSP::YouForgotToImplementOrDeclareServerClass()
+  CWeaponUSP::Drop(Vector const&)
+  CWeaponUSP::Spawn()
+  CWeaponUSP::Deploy()
+  CWeaponUSP::Reload()
+  CWeaponUSP::Holster(CBaseCombatWeapon*)
+  CWeaponUSP::Precache()
+  CWeaponUSP::CWeaponUSP()
+  CWeaponUSP::~CWeaponUSP()
+  CWeaponUSP::IsSilenced() const
+  CWeaponUSP::GetWeaponID() const
+  CWeaponUSP::GetInaccuracy() const
+  CWeaponUSP::GetWorldModel() const

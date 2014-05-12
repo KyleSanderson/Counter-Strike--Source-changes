@@ -1,0 +1,9 @@
+COcclusionUIPanel
+  COcclusionUIPanel::Deactivate()
+  COcclusionUIPanel::GetAnimMap()
+  COcclusionUIPanel::GetMessageMap()
+  COcclusionUIPanel::OnTextChanged(KeyValues*)
+  COcclusionUIPanel::GetPanelClassName()
+  COcclusionUIPanel::Activate()
+  COcclusionUIPanel::GetKBMap()
+  COcclusionUIPanel::~COcclusionUIPanel()

@@ -1,0 +1,4 @@
+CWorldItem
+  CWorldItem::GetDataDescMap()
+  CWorldItem::Spawn()
+  CWorldItem::~CWorldItem()

@@ -1,0 +1,8 @@
+CUtlVector
+  CUtlVector<char, CUtlMemory<char, int> >::~CUtlVector()
+  CUtlVector<float, CUtlMemory<float, int> >::~CUtlVector()
+  CUtlVector<unsigned char, CUtlMemory<unsigned char, int> >::~CUtlVector()
+  CUtlVector<unsigned char, CHunkMemory<unsigned char> >::~CUtlVector()
+  CUtlVector<int, CUtlMemory<int, int> >::~CUtlVector()
+  CUtlVector<int, CUtlMemoryFixedGrowable<int, 256ul, int> >::InsertBefore(int, int const&)
+  CUtlVector<unsigned int, CUtlMemory<unsigned int, int> >::~CUtlVector()

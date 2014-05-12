@@ -1,0 +1,5 @@
+CVoiceServer
+  CVoiceServer::GetClientListening(int, int)
+  CVoiceServer::SetClientListening(int, int, bool)
+  CVoiceServer::SetClientProximity(int, int, bool)
+  CVoiceServer::~CVoiceServer()

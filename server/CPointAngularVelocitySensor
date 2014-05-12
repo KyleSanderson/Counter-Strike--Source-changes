@@ -1,0 +1,10 @@
+CPointAngularVelocitySensor
+  CPointAngularVelocitySensor::DrawDebugLines()
+  CPointAngularVelocitySensor::GetDataDescMap()
+  CPointAngularVelocitySensor::FireCompareOutput(int, CBaseEntity*)
+  CPointAngularVelocitySensor::CompareToThreshold(CBaseEntity*, float, bool)
+  CPointAngularVelocitySensor::SampleAngularVelocity(CBaseEntity*)
+  CPointAngularVelocitySensor::Spawn()
+  CPointAngularVelocitySensor::Think()
+  CPointAngularVelocitySensor::Activate()
+  CPointAngularVelocitySensor::~CPointAngularVelocitySensor()

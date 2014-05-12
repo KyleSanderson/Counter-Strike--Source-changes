@@ -1,0 +1,16 @@
+CNavLadder
+  CNavLadder::Disconnect(CNavArea*)
+  CNavLadder::CompressIDs()
+  CNavLadder::OnRoundRestart()
+  CNavLadder::OnDestroyNotify(CNavArea*)
+  CNavLadder::DrawConnectedAreas()
+  CNavLadder::ConnectGeneratedLadder(float)
+  CNavLadder::Load(CUtlBuffer&, unsigned int)
+  CNavLadder::Shift(Vector const&)
+  CNavLadder::SetDir(NavDirType)
+  CNavLadder::ConnectTo(CNavArea*)
+  CNavLadder::~CNavLadder()
+  CNavLadder::DrawLadder() const
+  CNavLadder::GetPosAtHeight(float) const
+  CNavLadder::Save(CUtlBuffer&, unsigned int) const
+  CNavLadder::IsInUse(CBasePlayer const*) const

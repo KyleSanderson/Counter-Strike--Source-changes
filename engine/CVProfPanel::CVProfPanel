@@ -1,0 +1,2 @@
+CVProfPanel::CVProfPanel
+  CVProfPanel::CVProfPanel(vgui::Panel*, char const*)

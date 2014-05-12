@@ -1,0 +1,4 @@
+FetchBombState
+  FetchBombState::OnEnter(CCSBot*)
+  FetchBombState::OnUpdate(CCSBot*)
+  FetchBombState::GetName() const

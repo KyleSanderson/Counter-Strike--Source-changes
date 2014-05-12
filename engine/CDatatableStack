@@ -1,0 +1,3 @@
+CDatatableStack
+  CDatatableStack::Init(bool)
+  CDatatableStack::CDatatableStack(CSendTablePrecalc*, unsigned char*, int)

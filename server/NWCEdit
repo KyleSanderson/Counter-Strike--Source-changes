@@ -1,0 +1,9 @@
+NWCEdit
+  NWCEdit::CreateAILink(CBasePlayer*)
+  NWCEdit::CreateAINode(CBasePlayer*)
+  NWCEdit::DestroyAILink(CBasePlayer*)
+  NWCEdit::DestroyAINode(CBasePlayer*)
+  NWCEdit::IsWCVersionValid()
+  NWCEdit::UndoDestroyAINode()
+  NWCEdit::UpdateEntityPosition(CBaseEntity*)
+  NWCEdit::RememberEntityPosition(CBaseEntity*)

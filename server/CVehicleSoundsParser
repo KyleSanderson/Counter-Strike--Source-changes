@@ -1,0 +1,3 @@
+CVehicleSoundsParser
+  CVehicleSoundsParser::SetDefaults(void*)
+  CVehicleSoundsParser::CVehicleSoundsParser()

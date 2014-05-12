@@ -1,0 +1,3 @@
+CInitTracker
+  CInitTracker::Shutdown(char const*, int)
+  CInitTracker::~CInitTracker()

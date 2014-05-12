@@ -1,0 +1,12 @@
+CBaseTempEntity
+  CBaseTempEntity::GetServerClass()
+  CBaseTempEntity::PrecacheTempEnts()
+  CBaseTempEntity::YouForgotToImplementOrDeclareServerClass()
+  CBaseTempEntity::Test(Vector const&, QAngle const&)
+  CBaseTempEntity::Create(IRecipientFilter&, float)
+  CBaseTempEntity::GetList()
+  CBaseTempEntity::GetName()
+  CBaseTempEntity::GetNext()
+  CBaseTempEntity::Precache()
+  CBaseTempEntity::CBaseTempEntity(char const*)
+  CBaseTempEntity::~CBaseTempEntity()

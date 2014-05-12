@@ -1,0 +1,5 @@
+CFilterMultiple
+  CFilterMultiple::GetDataDescMap()
+  CFilterMultiple::PassesDamageFilterImpl(CTakeDamageInfo const&)
+  CFilterMultiple::Activate()
+  CFilterMultiple::~CFilterMultiple()

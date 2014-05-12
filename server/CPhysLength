@@ -1,0 +1,4 @@
+CPhysLength
+  CPhysLength::GetDataDescMap()
+  CPhysLength::DrawDebugGeometryOverlays()
+  CPhysLength::~CPhysLength()

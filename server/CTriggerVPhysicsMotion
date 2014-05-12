@@ -1,0 +1,10 @@
+CTriggerVPhysicsMotion
+  CTriggerVPhysicsMotion::StartTouch(CBaseEntity*)
+  CTriggerVPhysicsMotion::CreateVPhysics()
+  CTriggerVPhysicsMotion::GetDataDescMap()
+  CTriggerVPhysicsMotion::UpdateOnRemove()
+  CTriggerVPhysicsMotion::Spawn()
+  CTriggerVPhysicsMotion::EndTouch(CBaseEntity*)
+  CTriggerVPhysicsMotion::Precache()
+  CTriggerVPhysicsMotion::OnRestore()
+  CTriggerVPhysicsMotion::~CTriggerVPhysicsMotion()

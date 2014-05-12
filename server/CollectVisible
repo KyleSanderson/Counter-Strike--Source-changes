@@ -1,0 +1,2 @@
+CollectVisible
+  CollectVisible::operator()(CBaseEntity*)

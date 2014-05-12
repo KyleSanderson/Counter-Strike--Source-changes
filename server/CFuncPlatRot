@@ -1,0 +1,10 @@
+CFuncPlatRot
+  CFuncPlatRot::SetupRotation()
+  CFuncPlatRot::GetDataDescMap()
+  CFuncPlatRot::GoUp()
+  CFuncPlatRot::Spawn()
+  CFuncPlatRot::GoDown()
+  CFuncPlatRot::HitTop()
+  CFuncPlatRot::RotMove(QAngle&, float)
+  CFuncPlatRot::HitBottom()
+  CFuncPlatRot::~CFuncPlatRot()

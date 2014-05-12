@@ -1,0 +1,3 @@
+CTargetCDAudioRep
+  CTargetCDAudioRep::GetDataDescMap()
+  CTargetCDAudioRep::~CTargetCDAudioRep()

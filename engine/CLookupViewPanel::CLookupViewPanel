@@ -1,0 +1,2 @@
+CLookupViewPanel::CLookupViewPanel
+  CLookupViewPanel::CLookupViewPanel(vgui::Panel*, unsigned int)

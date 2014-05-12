@@ -1,0 +1,4 @@
+IEntityListener
+  IEntityListener::OnEntityCreated(CBaseEntity*)
+  IEntityListener::OnEntityDeleted(CBaseEntity*)
+  IEntityListener::OnEntitySpawned(CBaseEntity*)

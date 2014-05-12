@@ -1,0 +1,29 @@
+CStudioHdr
+  CStudioHdr::pAttachment(int)
+  CStudioHdr::pszNodeName(int)
+  CStudioHdr::pSeqStudioHdr(int)
+  CStudioHdr::GroupStudioHdr(int)
+  CStudioHdr::pAnimStudioHdr(int)
+  CStudioHdr::pPoseParameter(int)
+  CStudioHdr::pIKAutoplayLock(int)
+  CStudioHdr::GetAttachmentBone(int)
+  CStudioHdr::SetEventListVersion(int)
+  CStudioHdr::GetActivityListVersion()
+  CStudioHdr::SetActivityListVersion(int)
+  CStudioHdr::Term()
+  CStudioHdr::ExitNode(int)
+  CStudioHdr::pSeqdesc(int)
+  CStudioHdr::EntryNode(int)
+  CStudioHdr::pAnimdesc(int)
+  CStudioHdr::CStudioHdr()
+  CStudioHdr::~CStudioHdr()
+  CStudioHdr::RemapSeqBone(int, int) const
+  CStudioHdr::iRelativeSeq(int, int) const
+  CStudioHdr::GetTransition(int, int) const
+  CStudioHdr::iRelativeAnim(int, int) const
+  CStudioHdr::GetNumAttachments() const
+  CStudioHdr::SequencesAvailable() const
+  CStudioHdr::GetNumPoseParameters() const
+  CStudioHdr::GetNumIKAutoplayLocks() const
+  CStudioHdr::GetSharedPoseParameter(int, int) const
+  CStudioHdr::GetNumSeq() const

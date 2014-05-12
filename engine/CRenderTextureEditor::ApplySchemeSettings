@@ -1,0 +1,2 @@
+CRenderTextureEditor::ApplySchemeSettings
+  CRenderTextureEditor::ApplySchemeSettings(vgui::IScheme*)

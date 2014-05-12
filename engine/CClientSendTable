@@ -1,0 +1,3 @@
+CClientSendTable
+  CClientSendTable::CClientSendTable()
+  CClientSendTable::~CClientSendTable()

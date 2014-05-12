@@ -1,0 +1,4 @@
+CCSBotManager::PlayerRadioEvent
+  CCSBotManager::PlayerRadioEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::PlayerRadioEvent::~PlayerRadioEvent()
+  CCSBotManager::PlayerRadioEvent::GetEventName() const

@@ -1,0 +1,3 @@
+CRagdollConstraint
+  CRagdollConstraint::GetDataDescMap()
+  CRagdollConstraint::~CRagdollConstraint()

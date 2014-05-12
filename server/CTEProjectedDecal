@@ -1,0 +1,6 @@
+CTEProjectedDecal
+  CTEProjectedDecal::GetServerClass()
+  CTEProjectedDecal::YouForgotToImplementOrDeclareServerClass()
+  CTEProjectedDecal::Test(Vector const&, QAngle const&)
+  CTEProjectedDecal::CTEProjectedDecal(char const*)
+  CTEProjectedDecal::~CTEProjectedDecal()

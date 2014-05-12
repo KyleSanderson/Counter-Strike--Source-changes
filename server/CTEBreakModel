@@ -1,0 +1,7 @@
+CTEBreakModel
+  CTEBreakModel::GetServerClass()
+  CTEBreakModel::YouForgotToImplementOrDeclareServerClass()
+  CTEBreakModel::Test(Vector const&, QAngle const&)
+  CTEBreakModel::Precache()
+  CTEBreakModel::CTEBreakModel(char const*)
+  CTEBreakModel::~CTEBreakModel()

@@ -1,0 +1,5 @@
+CItemNvgs
+  CItemNvgs::Spawn()
+  CItemNvgs::MyTouch(CBasePlayer*)
+  CItemNvgs::Precache()
+  CItemNvgs::~CItemNvgs()

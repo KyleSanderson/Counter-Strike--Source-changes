@@ -1,0 +1,6 @@
+CUtlStreamBuffer
+  CUtlStreamBuffer::ReadBytesFromFile(int, int)
+  CUtlStreamBuffer::StreamGetOverflow(int)
+  CUtlStreamBuffer::StreamPutOverflow(int)
+  CUtlStreamBuffer::Close()
+  CUtlStreamBuffer::~CUtlStreamBuffer()

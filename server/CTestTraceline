@@ -1,0 +1,8 @@
+CTestTraceline
+  CTestTraceline::GetDataDescMap()
+  CTestTraceline::GetServerClass()
+  CTestTraceline::UpdateTransmitState()
+  CTestTraceline::YouForgotToImplementOrDeclareServerClass()
+  CTestTraceline::Spin()
+  CTestTraceline::Spawn()
+  CTestTraceline::~CTestTraceline()

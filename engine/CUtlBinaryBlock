@@ -1,0 +1,3 @@
+CUtlBinaryBlock
+  CUtlBinaryBlock::Set(void const*, int)
+  CUtlBinaryBlock::CUtlBinaryBlock(int, int)

@@ -1,0 +1,3 @@
+CTier2AppSystem
+  CTier2AppSystem<IDedicatedServerAPI, 0>::Init()
+  CTier2AppSystem<IDedicatedServerAPI, 0>::Shutdown()

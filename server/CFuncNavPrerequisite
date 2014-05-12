@@ -1,0 +1,4 @@
+CFuncNavPrerequisite
+  CFuncNavPrerequisite::GetDataDescMap()
+  CFuncNavPrerequisite::Spawn()
+  CFuncNavPrerequisite::~CFuncNavPrerequisite()

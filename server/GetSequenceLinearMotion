@@ -1,0 +1,2 @@
+GetSequenceLinearMotion
+  GetSequenceLinearMotion(CStudioHdr*, int, float const*, Vector*)::msgCount

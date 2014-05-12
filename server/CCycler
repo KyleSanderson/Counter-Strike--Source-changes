@@ -1,0 +1,8 @@
+CCycler
+  CCycler::ObjectCaps()
+  CCycler::OnTakeDamage(CTakeDamageInfo const&)
+  CCycler::GetDataDescMap()
+  CCycler::Spawn()
+  CCycler::Think()
+  CCycler::IsAlive()
+  CCycler::Precache()

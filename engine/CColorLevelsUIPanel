@@ -1,0 +1,13 @@
+CColorLevelsUIPanel
+  CColorLevelsUIPanel::GetAnimMap()
+  CColorLevelsUIPanel::GetOperation()
+  CColorLevelsUIPanel::GetMessageMap()
+  CColorLevelsUIPanel::OnTextChanged(KeyValues*)
+  CColorLevelsUIPanel::GetPanelClassName()
+  CColorLevelsUIPanel::OnColorMaskSelected()
+  CColorLevelsUIPanel::Init()
+  CColorLevelsUIPanel::GetKBMap()
+  CColorLevelsUIPanel::Shutdown()
+  CColorLevelsUIPanel::OnCommand(char const*)
+  CColorLevelsUIPanel::OnMessage(KeyValues const*, unsigned int)
+  CColorLevelsUIPanel::~CColorLevelsUIPanel()

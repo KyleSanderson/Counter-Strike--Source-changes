@@ -1,0 +1,8 @@
+IContextualQuery
+  IContextualQuery::IsHindrance(INextBot const*, CBaseEntity*) const
+  IContextualQuery::ShouldHurry(INextBot const*) const
+  IContextualQuery::ShouldAttack(INextBot const*, CKnownEntity const*) const
+  IContextualQuery::ShouldPickUp(INextBot const*, CBaseEntity*) const
+  IContextualQuery::ShouldRetreat(INextBot const*) const
+  IContextualQuery::IsPositionAllowed(INextBot const*, Vector const&) const
+  IContextualQuery::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const

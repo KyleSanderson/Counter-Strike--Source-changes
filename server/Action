@@ -1,0 +1,46 @@
+Action
+  Action<CSimpleBot>::OnLostSight(CBaseEntity*)
+  Action<CSimpleBot>::OnActorEmoted(CBaseCombatCharacter*, int)
+  Action<CSimpleBot>::OnLeaveGround(CBaseEntity*)
+  Action<CSimpleBot>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+  Action<CSimpleBot>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
+  Action<CSimpleBot>::OnCommandPause(float)
+  Action<CSimpleBot>::OnLandOnGround(CBaseEntity*)
+  Action<CSimpleBot>::OnModelChanged()
+  Action<CSimpleBot>::OnCommandAttack(CBaseEntity*)
+  Action<CSimpleBot>::OnCommandResume()
+  Action<CSimpleBot>::OnCommandString(char const*)
+  Action<CSimpleBot>::OnMoveToFailure(Path const*, MoveToFailureType)
+  Action<CSimpleBot>::OnMoveToSuccess(Path const*)
+  Action<CSimpleBot>::OnTerritoryLost(int)
+  Action<CSimpleBot>::OnCommandRetreat(CBaseEntity*, float)
+  Action<CSimpleBot>::OnPostureChanged()
+  Action<CSimpleBot>::OnCommandApproach(CBaseEntity*)
+  Action<CSimpleBot>::OnCommandApproach(Vector const&, float)
+  Action<CSimpleBot>::OnTerritoryCaptured(int)
+  Action<CSimpleBot>::OnTerritoryContested(int)
+  Action<CSimpleBot>::OnAnimationActivityComplete(int)
+  Action<CSimpleBot>::OnAnimationActivityInterrupted(int)
+  Action<CSimpleBot>::OnWin()
+  Action<CSimpleBot>::OnDrop(CBaseEntity*)
+  Action<CSimpleBot>::OnLose()
+  Action<CSimpleBot>::OnSight(CBaseEntity*)
+  Action<CSimpleBot>::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+  Action<CSimpleBot>::OnStuck()
+  Action<CSimpleBot>::OnIgnite()
+  Action<CSimpleBot>::OnKilled(CTakeDamageInfo const&)
+  Action<CSimpleBot>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
+  Action<CSimpleBot>::OnShoved(CBaseEntity*)
+  Action<CSimpleBot>::OnBlinded(CBaseEntity*)
+  Action<CSimpleBot>::OnContact(CBaseEntity*, CGameTrace*)
+  Action<CSimpleBot>::OnInjured(CTakeDamageInfo const&)
+  Action<CSimpleBot>::OnUnStuck()
+  Action<CSimpleBot>::~Action()
+  Action<CSimpleBot>::GetFullName() const
+  Action<CSimpleBot>::PrintStateToConsole() const
+  Action<CSimpleBot>::NextContainedResponder(INextBotEventResponder*) const
+  Action<CSimpleBot>::FirstContainedResponder() const
+  Action<CSimpleBot>::IsAbleToBlockMovementOf(INextBot const*) const
+  Action<CSimpleBot>::IsNamed(char const*) const
+  Action<CSimpleBot>::DebugString() const::str
+  Action<CSimpleBot>::GetFullName() const::str

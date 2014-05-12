@@ -1,0 +1,13 @@
+vgui::FocusNavGroup
+  vgui::FocusNavGroup::GetCurrentFocus()
+  vgui::FocusNavGroup::GetDefaultPanel()
+  vgui::FocusNavGroup::SetCurrentFocus(unsigned int, unsigned int)
+  vgui::FocusNavGroup::GetDefaultButton()
+  vgui::FocusNavGroup::RequestFocusNext(unsigned int)
+  vgui::FocusNavGroup::RequestFocusPrev(unsigned int)
+  vgui::FocusNavGroup::SetFocusTopLevel(bool)
+  vgui::FocusNavGroup::FindPanelByHotkey(wchar_t)
+  vgui::FocusNavGroup::CanButtonBeDefault(unsigned int)
+  vgui::FocusNavGroup::GetCurrentDefaultButton()
+  vgui::FocusNavGroup::SetCurrentDefaultButton(unsigned int, bool)
+  vgui::FocusNavGroup::~FocusNavGroup()

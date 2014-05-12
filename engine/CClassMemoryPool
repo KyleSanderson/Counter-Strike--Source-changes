@@ -1,0 +1,4 @@
+CClassMemoryPool
+  CClassMemoryPool<PanelAnimationMap>::Clear()
+  CClassMemoryPool<CSfxTable>::Clear()
+  CClassMemoryPool<CSfxTable>::~CClassMemoryPool()

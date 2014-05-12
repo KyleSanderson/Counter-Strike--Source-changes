@@ -1,0 +1,2 @@
+CSmoothingTypeButton
+  CSmoothingTypeButton::~CSmoothingTypeButton()

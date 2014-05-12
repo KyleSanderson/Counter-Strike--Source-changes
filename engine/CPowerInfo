@@ -1,0 +1,2 @@
+CPowerInfo
+  CPowerInfo::GetCornerPointIndex(int) const

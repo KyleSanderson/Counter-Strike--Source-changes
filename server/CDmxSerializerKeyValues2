@@ -1,0 +1,7 @@
+CDmxSerializerKeyValues2
+  CDmxSerializerKeyValues2::Unserialize(char const*, CUtlBuffer&, CDmxElement**)
+  CDmxSerializerKeyValues2::CreateDmxElement(char const*)
+  CDmxSerializerKeyValues2::UnserializeElement(CUtlBuffer&, char const*, int*)
+  CDmxSerializerKeyValues2::UnserializeElement(CUtlBuffer&, int*)
+  CDmxSerializerKeyValues2::EatWhitespacesAndComments(CUtlBuffer&)
+  CDmxSerializerKeyValues2::UnserializeElementArrayAttribute(CUtlBuffer&, int, char const*)

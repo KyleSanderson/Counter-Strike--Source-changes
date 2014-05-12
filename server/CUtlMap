@@ -1,0 +1,4 @@
+CUtlMap
+  CUtlMap<int, CAIHintVector, unsigned short>::Insert(int const&)
+  CUtlMap<int, CAIHintVector, unsigned short>::~CUtlMap()
+  CUtlMap<int, CAIHintVector, unsigned short>::Find(int const&) const

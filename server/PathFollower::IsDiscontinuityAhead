@@ -1,0 +1,2 @@
+PathFollower::IsDiscontinuityAhead
+  PathFollower::IsDiscontinuityAhead(INextBot*, Path::SegmentType, float) const

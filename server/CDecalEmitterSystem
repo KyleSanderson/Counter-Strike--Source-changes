@@ -1,0 +1,11 @@
+CDecalEmitterSystem
+  CDecalEmitterSystem::LevelInitPreEntity()
+  CDecalEmitterSystem::GetDecalIndexForName(char const*)
+  CDecalEmitterSystem::GetDecalNameForIndex(int)
+  CDecalEmitterSystem::LoadDecalsFromScript(char const*)
+  CDecalEmitterSystem::TranslateDecalForGameMaterial(char const*, unsigned char)
+  CDecalEmitterSystem::Init()
+  CDecalEmitterSystem::Clear()
+  CDecalEmitterSystem::Shutdown()
+  CDecalEmitterSystem::CDecalEmitterSystem(char const*)
+  CDecalEmitterSystem::~CDecalEmitterSystem()

@@ -1,0 +1,13 @@
+CFlexAnimationTrack
+  CFlexAnimationTrack::IsComboType()
+  CFlexAnimationTrack::GetIntensity(float, int)
+  CFlexAnimationTrack::IsTrackActive()
+  CFlexAnimationTrack::SetServerSide(bool)
+  CFlexAnimationTrack::GetBoundedSample(int, bool&, int)
+  CFlexAnimationTrack::GetFracIntensity(float, int)
+  CFlexAnimationTrack::GetIntensityInternal(float, int)
+  CFlexAnimationTrack::GetFlexControllerName()
+  CFlexAnimationTrack::GetRawFlexControllerIndex(int)
+  CFlexAnimationTrack::Resort(int)
+  CFlexAnimationTrack::~CFlexAnimationTrack()
+  CFlexAnimationTrack::IsServerSide() const

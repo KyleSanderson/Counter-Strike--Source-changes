@@ -1,0 +1,9 @@
+CDedicatedServerAPI
+  CDedicatedServerAPI::Disconnect()
+  CDedicatedServerAPI::ModShutdown()
+  CDedicatedServerAPI::AddConsoleText(char*)
+  CDedicatedServerAPI::QueryInterface(char const*)
+  CDedicatedServerAPI::UpdateHostname(char*, int)
+  CDedicatedServerAPI::PreMinidumpCallback(void*)
+  CDedicatedServerAPI::Connect(void* (*)(char const*, int*))
+  CDedicatedServerAPI::RunFrame()

@@ -1,0 +1,8 @@
+CEnvGunfire
+  CEnvGunfire::ShootThink()
+  CEnvGunfire::UpdateTarget()
+  CEnvGunfire::GetDataDescMap()
+  CEnvGunfire::Spawn()
+  CEnvGunfire::Activate()
+  CEnvGunfire::Precache()
+  CEnvGunfire::~CEnvGunfire()

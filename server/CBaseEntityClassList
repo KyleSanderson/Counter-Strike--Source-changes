@@ -1,0 +1,3 @@
+CBaseEntityClassList
+  CBaseEntityClassList::CBaseEntityClassList()
+  CBaseEntityClassList::~CBaseEntityClassList()

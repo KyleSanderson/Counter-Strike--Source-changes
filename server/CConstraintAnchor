@@ -1,0 +1,4 @@
+CConstraintAnchor
+  CConstraintAnchor::GetDataDescMap()
+  CConstraintAnchor::Spawn()
+  CConstraintAnchor::~CConstraintAnchor()

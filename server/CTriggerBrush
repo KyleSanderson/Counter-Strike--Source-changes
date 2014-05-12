@@ -1,0 +1,6 @@
+CTriggerBrush
+  CTriggerBrush::StartTouch(CBaseEntity*)
+  CTriggerBrush::GetDataDescMap()
+  CTriggerBrush::Spawn()
+  CTriggerBrush::EndTouch(CBaseEntity*)
+  CTriggerBrush::~CTriggerBrush()

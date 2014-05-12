@@ -1,0 +1,2 @@
+NextBotDestroyer
+  NextBotDestroyer::operator()(INextBot*)

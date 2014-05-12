@@ -1,0 +1,5 @@
+CLogicCollisionPair
+  CLogicCollisionPair::GetDataDescMap()
+  CLogicCollisionPair::EnableCollisions(bool)
+  CLogicCollisionPair::Activate()
+  CLogicCollisionPair::~CLogicCollisionPair()

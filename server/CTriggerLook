@@ -1,0 +1,10 @@
+CTriggerLook
+  CTriggerLook::StartTouch(CBaseEntity*)
+  CTriggerLook::TimeoutThink()
+  CTriggerLook::GetDataDescMap()
+  CTriggerLook::DrawDebugTextOverlays()
+  CTriggerLook::Spawn()
+  CTriggerLook::Touch(CBaseEntity*)
+  CTriggerLook::Trigger(CBaseEntity*, bool)
+  CTriggerLook::EndTouch(CBaseEntity*)
+  CTriggerLook::~CTriggerLook()

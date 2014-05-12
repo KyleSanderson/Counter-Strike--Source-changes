@@ -1,0 +1,12 @@
+CGameEvent
+  CGameEvent::GetInt(char const*, int)
+  CGameEvent::SetInt(char const*, int)
+  CGameEvent::GetBool(char const*, bool)
+  CGameEvent::IsEmpty(char const*)
+  CGameEvent::SetBool(char const*, bool)
+  CGameEvent::GetFloat(char const*, float)
+  CGameEvent::SetFloat(char const*, float)
+  CGameEvent::~CGameEvent()
+  CGameEvent::IsReliable() const
+  CGameEvent::GetName() const
+  CGameEvent::IsLocal() const

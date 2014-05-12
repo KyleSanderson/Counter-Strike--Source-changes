@@ -1,0 +1,10 @@
+CDmxAttribute
+  CDmxAttribute::FreeDataMemory()
+  CDmxAttribute::SetValue(char const*)
+  CDmxAttribute::CDmxAttribute(char const*)
+  CDmxAttribute::~CDmxAttribute()
+  CDmxAttribute::GetArrayCount() const
+  CDmxAttribute::SerializeElement(int, CUtlBuffer&) const
+  CDmxAttribute::SerializesOnMultipleLines() const
+  CDmxAttribute::GetName() const
+  CDmxAttribute::Serialize(CUtlBuffer&) const

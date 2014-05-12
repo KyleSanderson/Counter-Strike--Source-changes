@@ -1,0 +1,2 @@
+CBaseBudgetPanel::CBaseBudgetPanel
+  CBaseBudgetPanel::CBaseBudgetPanel(vgui::Panel*, char const*)

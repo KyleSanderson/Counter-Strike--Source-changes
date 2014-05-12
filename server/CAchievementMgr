@@ -1,0 +1,4 @@
+CAchievementMgr
+  CAchievementMgr::PreRestoreSavedGame()
+  CAchievementMgr::PostRestoreSavedGame()
+  CAchievementMgr::CheckAchievementsEnabled()

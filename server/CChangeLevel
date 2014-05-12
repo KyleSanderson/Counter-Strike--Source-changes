@@ -1,0 +1,13 @@
+CChangeLevel
+  CChangeLevel::FindLandmark(char const*)
+  CChangeLevel::ChangeLevelNow(CBaseEntity*)
+  CChangeLevel::GetDataDescMap()
+  CChangeLevel::TouchChangeLevel(CBaseEntity*)
+  CChangeLevel::InTransitionVolume(CBaseEntity*, char const*)
+  CChangeLevel::WarnAboutActiveLead()
+  CChangeLevel::IsEntityInTransition(CBaseEntity*)
+  CChangeLevel::ComputeEntitySaveFlags(CBaseEntity*)
+  CChangeLevel::NotifyEntitiesOutOfTransition()
+  CChangeLevel::Spawn()
+  CChangeLevel::Activate()
+  CChangeLevel::~CChangeLevel()

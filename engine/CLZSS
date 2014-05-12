@@ -1,0 +1,4 @@
+CLZSS
+  CLZSS::IsCompressed(unsigned char*)
+  CLZSS::GetActualSize(unsigned char*)
+  CLZSS::Compress(unsigned char*, int, unsigned int*)

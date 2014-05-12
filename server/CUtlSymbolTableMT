@@ -1,0 +1,3 @@
+CUtlSymbolTableMT
+  CUtlSymbolTableMT::~CUtlSymbolTableMT()
+  CUtlSymbolTableMT::String(CUtlSymbol) const

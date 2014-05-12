@@ -1,0 +1,2 @@
+CVProfExport::GetBudgetGroupInfos
+  CVProfExport::GetBudgetGroupInfos(IVProfExport::CExportedBudgetGroupInfo*)

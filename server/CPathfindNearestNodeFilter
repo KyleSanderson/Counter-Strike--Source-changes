@@ -1,0 +1,2 @@
+CPathfindNearestNodeFilter
+  CPathfindNearestNodeFilter::ShouldContinue()

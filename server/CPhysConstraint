@@ -1,0 +1,11 @@
+CPhysConstraint
+  CPhysConstraint::Deactivate()
+  CPhysConstraint::GetDataDescMap()
+  CPhysConstraint::ActivateConstraint()
+  CPhysConstraint::DrawDebugTextOverlays()
+  CPhysConstraint::DrawDebugGeometryOverlays()
+  CPhysConstraint::Spawn()
+  CPhysConstraint::OnBreak()
+  CPhysConstraint::Activate()
+  CPhysConstraint::Precache()
+  CPhysConstraint::~CPhysConstraint()

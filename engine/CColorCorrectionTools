@@ -1,0 +1,7 @@
+CColorCorrectionTools
+  CColorCorrectionTools::SetFinalOperation(IColorOperation*)
+  CColorCorrectionTools::UpdateColorCorrection()
+  CColorCorrectionTools::GrabPreColorCorrectedFrame(int, int, int, int)
+  CColorCorrectionTools::Init()
+  CColorCorrectionTools::Shutdown()
+  CColorCorrectionTools::ShouldPause() const

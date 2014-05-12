@@ -1,0 +1,4 @@
+CPointTemplatePrecacher
+  CPointTemplatePrecacher::LevelInitPreEntity()
+  CPointTemplatePrecacher::Shutdown()
+  CPointTemplatePrecacher::~CPointTemplatePrecacher()

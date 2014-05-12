@@ -1,0 +1,12 @@
+CPerfUIPanel
+  CPerfUIPanel::GetAnimMap()
+  CPerfUIPanel::GetMessageMap()
+  CPerfUIPanel::OnTextChanged(KeyValues*)
+  CPerfUIPanel::PopulateControls()
+  CPerfUIPanel::GetPanelClassName()
+  CPerfUIPanel::OnPerfToolSelected()
+  CPerfUIPanel::OnTick()
+  CPerfUIPanel::Activate()
+  CPerfUIPanel::GetKBMap()
+  CPerfUIPanel::OnCommand(char const*)
+  CPerfUIPanel::~CPerfUIPanel()

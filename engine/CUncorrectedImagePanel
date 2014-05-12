@@ -1,0 +1,7 @@
+CUncorrectedImagePanel
+  CUncorrectedImagePanel::GetAnimMap()
+  CUncorrectedImagePanel::GetMessageMap()
+  CUncorrectedImagePanel::OnCursorMoved(int, int)
+  CUncorrectedImagePanel::GetPanelClassName()
+  CUncorrectedImagePanel::GetKBMap()
+  CUncorrectedImagePanel::~CUncorrectedImagePanel()

@@ -1,0 +1,2 @@
+CFloatProperty::InitFromDefault
+  CFloatProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

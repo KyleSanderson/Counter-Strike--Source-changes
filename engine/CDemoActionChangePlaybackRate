@@ -1,0 +1,8 @@
+CDemoActionChangePlaybackRate
+  CDemoActionChangePlaybackRate::FireAction()
+  CDemoActionChangePlaybackRate::SetPlaybackRate(float)
+  CDemoActionChangePlaybackRate::OnActionFinished()
+  CDemoActionChangePlaybackRate::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionChangePlaybackRate::Init(KeyValues*)
+  CDemoActionChangePlaybackRate::~CDemoActionChangePlaybackRate()
+  CDemoActionChangePlaybackRate::GetPlaybackRate() const

@@ -1,0 +1,7 @@
+CWeaponM249
+  CWeaponM249::PrimaryAttack()
+  CWeaponM249::GetServerClass()
+  CWeaponM249::YouForgotToImplementOrDeclareServerClass()
+  CWeaponM249::~CWeaponM249()
+  CWeaponM249::GetWeaponID() const
+  CWeaponM249::GetInaccuracy() const

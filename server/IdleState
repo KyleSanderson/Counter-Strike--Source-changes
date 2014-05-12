@@ -1,0 +1,4 @@
+IdleState
+  IdleState::OnEnter(CCSBot*)
+  IdleState::OnUpdate(CCSBot*)
+  IdleState::GetName() const

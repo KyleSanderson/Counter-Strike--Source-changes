@@ -1,0 +1,6 @@
+CTESpriteSpray
+  CTESpriteSpray::GetServerClass()
+  CTESpriteSpray::YouForgotToImplementOrDeclareServerClass()
+  CTESpriteSpray::Test(Vector const&, QAngle const&)
+  CTESpriteSpray::CTESpriteSpray(char const*)
+  CTESpriteSpray::~CTESpriteSpray()

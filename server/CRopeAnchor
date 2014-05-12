@@ -1,0 +1,6 @@
+CRopeAnchor
+  CRopeAnchor::RemoveThink()
+  CRopeAnchor::GetDataDescMap()
+  CRopeAnchor::Spawn()
+  CRopeAnchor::FallThink()
+  CRopeAnchor::~CRopeAnchor()

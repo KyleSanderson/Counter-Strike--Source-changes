@@ -1,0 +1,2 @@
+CDemoEditorPanel::CDemoEditorPanel
+  CDemoEditorPanel::CDemoEditorPanel(vgui::Panel*)

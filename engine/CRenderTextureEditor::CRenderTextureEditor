@@ -1,0 +1,2 @@
+CRenderTextureEditor::CRenderTextureEditor
+  CRenderTextureEditor::CRenderTextureEditor(vgui::Panel*, char const*)

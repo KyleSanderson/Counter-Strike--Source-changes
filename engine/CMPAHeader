@@ -1,0 +1,6 @@
+CMPAHeader
+  CMPAHeader::DecodeHeader(unsigned int, bool)
+  CMPAHeader::SkipEmptyFrames()
+  CMPAHeader::IsSync(unsigned int, bool)
+  CMPAHeader::CMPAHeader(CMPAFile*, unsigned int, bool, bool)
+  CMPAHeader::~CMPAHeader()

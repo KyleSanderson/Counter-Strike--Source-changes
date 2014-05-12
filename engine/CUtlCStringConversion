@@ -1,0 +1,2 @@
+CUtlCStringConversion
+  CUtlCStringConversion::FindConversion(char const*, int*)

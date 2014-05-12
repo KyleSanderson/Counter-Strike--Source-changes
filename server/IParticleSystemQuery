@@ -1,0 +1,6 @@
+IParticleSystemQuery
+  IParticleSystemQuery::GetLocalPlayerPos()
+  IParticleSystemQuery::SetUpLightingEnvironment(Vector const&)
+  IParticleSystemQuery::GetCollisionGroupFromName(char const*)
+  IParticleSystemQuery::IsPointInControllingObjectHitBox(CParticleCollection*, int, Vector, bool)
+  IParticleSystemQuery::MovePointInsideControllingObject(CParticleCollection*, void*, Vector*)

@@ -1,0 +1,12 @@
+CServerEngineTools
+  CServerEngineTools::InToolMode()
+  CServerEngineTools::GetEntityData(char const*)
+  CServerEngineTools::PreClientUpdateAllTools()
+  CServerEngineTools::LevelInitPreEntityAllTools()
+  CServerEngineTools::PreSetupVisibilityAllTools()
+  CServerEngineTools::LevelInitPostEntityAllTools()
+  CServerEngineTools::LevelShutdownPreEntityAllTools()
+  CServerEngineTools::LevelShutdownPostEntityAllTools()
+  CServerEngineTools::FrameUpdatePreEntityThinkAllTools()
+  CServerEngineTools::FrameUpdatePostEntityThinkAllTools()
+  CServerEngineTools::~CServerEngineTools()

@@ -1,0 +1,9 @@
+CTriggerCamera
+  CTriggerCamera::FollowTarget()
+  CTriggerCamera::GetDataDescMap()
+  CTriggerCamera::UpdateTransmitState()
+  CTriggerCamera::Move()
+  CTriggerCamera::Spawn()
+  CTriggerCamera::Enable()
+  CTriggerCamera::Disable()
+  CTriggerCamera::~CTriggerCamera()

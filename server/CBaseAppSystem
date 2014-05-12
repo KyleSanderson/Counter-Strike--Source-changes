@@ -1,0 +1,6 @@
+CBaseAppSystem
+  CBaseAppSystem<IParticleSystemQuery>::Disconnect()
+  CBaseAppSystem<IParticleSystemQuery>::QueryInterface(char const*)
+  CBaseAppSystem<IParticleSystemQuery>::Init()
+  CBaseAppSystem<IParticleSystemQuery>::Connect(void* (*)(char const*, int*))
+  CBaseAppSystem<IParticleSystemQuery>::Shutdown()

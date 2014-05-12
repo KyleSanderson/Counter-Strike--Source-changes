@@ -1,0 +1,2 @@
+CPropFadeUIPanel::CPropFadeUIPanel
+  CPropFadeUIPanel::CPropFadeUIPanel(vgui::Panel*)

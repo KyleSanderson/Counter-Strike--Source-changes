@@ -1,0 +1,6 @@
+CCommand
+  CCommand::DefaultBreakSet()
+  CCommand::Reset()
+  CCommand::CCommand(int, char const**)
+  CCommand::CCommand()
+  CCommand::FindArg(char const*) const

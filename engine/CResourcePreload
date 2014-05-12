@@ -1,0 +1,2 @@
+CResourcePreload
+  CResourcePreload::OnEndMapLoading(bool)

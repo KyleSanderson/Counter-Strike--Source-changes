@@ -1,0 +1,3 @@
+CPanelAnimationDictionary
+  CPanelAnimationDictionary::FindOrAddPanelAnimationMap(char const*)
+  CPanelAnimationDictionary::~CPanelAnimationDictionary()

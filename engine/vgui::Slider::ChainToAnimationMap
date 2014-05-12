@@ -1,0 +1,2 @@
+vgui::Slider::ChainToAnimationMap
+  vgui::Slider::ChainToAnimationMap()::chained

@@ -1,0 +1,5 @@
+CPhysicsWire
+  CPhysicsWire::GetDataDescMap()
+  CPhysicsWire::Spawn()
+  CPhysicsWire::Precache()
+  CPhysicsWire::~CPhysicsWire()

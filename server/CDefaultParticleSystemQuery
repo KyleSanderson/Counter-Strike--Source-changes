@@ -1,0 +1,3 @@
+CDefaultParticleSystemQuery
+  CDefaultParticleSystemQuery::GetLightingAtPoint(Vector const&, Color&)
+  CDefaultParticleSystemQuery::GetPixelVisibility(int*, Vector const&, float)

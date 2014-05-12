@@ -1,0 +1,10 @@
+PackedEntity
+  PackedEntity::SetRecipients(CUtlMemory<CSendProxyRecipients, int> const&)
+  PackedEntity::CompareRecipients(CUtlMemory<CSendProxyRecipients, int> const&)
+  PackedEntity::AllocAndCopyPadded(void const*, unsigned long)
+  PackedEntity::SetServerAndClientClass(ServerClass*, ClientClass*)
+  PackedEntity::GetPropsChangedAfterTick(int, int*, int)
+  PackedEntity::PackedEntity()
+  PackedEntity::~PackedEntity()
+  PackedEntity::GetRecipients() const
+  PackedEntity::GetNumRecipients() const

@@ -1,0 +1,3 @@
+vgui::VPanelHandle
+  vgui::VPanelHandle::Get()
+  vgui::VPanelHandle::Set(unsigned int)

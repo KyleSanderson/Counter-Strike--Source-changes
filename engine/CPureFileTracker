@@ -1,0 +1,4 @@
+CPureFileTracker
+  CPureFileTracker::ListUserFiles(bool, char const*)
+  CPureFileTracker::ListAllTrackedFiles(bool, char const*, int, int)
+  CPureFileTracker::~CPureFileTracker()

@@ -1,0 +1,2 @@
+CBrushConvexInfo
+  CBrushConvexInfo::GetContents(int)

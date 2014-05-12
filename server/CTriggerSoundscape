@@ -1,0 +1,8 @@
+CTriggerSoundscape
+  CTriggerSoundscape::StartTouch(CBaseEntity*)
+  CTriggerSoundscape::GetDataDescMap()
+  CTriggerSoundscape::PlayerUpdateThink()
+  CTriggerSoundscape::Spawn()
+  CTriggerSoundscape::Activate()
+  CTriggerSoundscape::EndTouch(CBaseEntity*)
+  CTriggerSoundscape::~CTriggerSoundscape()

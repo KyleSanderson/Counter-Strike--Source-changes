@@ -1,0 +1,4 @@
+CTEPlayerAnimEvent
+  CTEPlayerAnimEvent::GetServerClass()
+  CTEPlayerAnimEvent::YouForgotToImplementOrDeclareServerClass()
+  CTEPlayerAnimEvent::~CTEPlayerAnimEvent()

@@ -1,0 +1,12 @@
+CWeaponFiveSeven
+  CWeaponFiveSeven::WeaponIdle()
+  CWeaponFiveSeven::PrimaryAttack()
+  CWeaponFiveSeven::GetServerClass()
+  CWeaponFiveSeven::SecondaryAttack()
+  CWeaponFiveSeven::YouForgotToImplementOrDeclareServerClass()
+  CWeaponFiveSeven::Spawn()
+  CWeaponFiveSeven::Deploy()
+  CWeaponFiveSeven::Reload()
+  CWeaponFiveSeven::~CWeaponFiveSeven()
+  CWeaponFiveSeven::GetWeaponID() const
+  CWeaponFiveSeven::GetInaccuracy() const

@@ -1,0 +1,5 @@
+CItemKevlar
+  CItemKevlar::Spawn()
+  CItemKevlar::MyTouch(CBasePlayer*)
+  CItemKevlar::Precache()
+  CItemKevlar::~CItemKevlar()

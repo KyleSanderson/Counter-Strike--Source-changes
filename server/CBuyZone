@@ -1,0 +1,5 @@
+CBuyZone
+  CBuyZone::BuyZoneTouch(CBaseEntity*)
+  CBuyZone::GetDataDescMap()
+  CBuyZone::Spawn()
+  CBuyZone::~CBuyZone()

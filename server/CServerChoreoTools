@@ -1,0 +1,6 @@
+CServerChoreoTools
+  CServerChoreoTools::GetEntIndex(void*)
+  CServerChoreoTools::GetSceneFile(void*)
+  CServerChoreoTools::NextChoreoEntity(void*)
+  CServerChoreoTools::ReloadSceneFromDisk(int)
+  CServerChoreoTools::~CServerChoreoTools()

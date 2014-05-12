@@ -1,0 +1,28 @@
+IVision
+  IVision::ForgetEntity(CBaseEntity*)
+  IVision::AddKnownEntity(CBaseEntity*)
+  IVision::SetFieldOfView(float)
+  IVision::UpdateKnownEntities()
+  IVision::ForgetAllKnownEntities()
+  IVision::Reset()
+  IVision::Update()
+  IVision::IVision(INextBot*)
+  IVision::~IVision()
+  IVision::IsLookingAt(CBaseCombatCharacter const*, float) const
+  IVision::IsLookingAt(Vector const&, float) const
+  IVision::GetKnownCount(int, bool, float) const
+  IVision::GetFieldOfView() const
+  IVision::GetClosestKnown(INextBotEntityFilter const&) const
+  IVision::GetClosestKnown(int) const
+  IVision::IsInFieldOfView(CBaseEntity*) const
+  IVision::IsInFieldOfView(Vector const&) const
+  IVision::GetMaxVisionRange() const
+  IVision::IsLineOfSightClear(Vector const&) const
+  IVision::GetMinRecognizeTime() const
+  IVision::GetTimeSinceVisible(int) const
+  IVision::GetDefaultFieldOfView() const
+  IVision::GetPrimaryKnownThreat(bool) const
+  IVision::IsVisibleEntityNoticed(CBaseEntity*) const
+  IVision::IsLineOfSightClearToEntity(CBaseEntity const*, Vector*) const
+  IVision::GetKnown(CBaseEntity const*) const
+  IVision::IsIgnored(CBaseEntity*) const

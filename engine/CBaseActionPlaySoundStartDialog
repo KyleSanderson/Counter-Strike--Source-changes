@@ -1,0 +1,11 @@
+CBaseActionPlaySoundStartDialog
+  CBaseActionPlaySoundStartDialog::GetAnimMap()
+  CBaseActionPlaySoundStartDialog::GetMessageMap()
+  CBaseActionPlaySoundStartDialog::OnSaveChanges()
+  CBaseActionPlaySoundStartDialog::OnFileSelected(char const*)
+  CBaseActionPlaySoundStartDialog::GetPanelClassName()
+  CBaseActionPlaySoundStartDialog::Init()
+  CBaseActionPlaySoundStartDialog::GetKBMap()
+  CBaseActionPlaySoundStartDialog::OnCommand(char const*)
+  CBaseActionPlaySoundStartDialog::CBaseActionPlaySoundStartDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionPlaySoundStartDialog::~CBaseActionPlaySoundStartDialog()

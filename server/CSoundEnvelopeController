@@ -1,0 +1,2 @@
+CSoundEnvelopeController
+  CSoundEnvelopeController::GetController()

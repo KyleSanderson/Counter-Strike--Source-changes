@@ -1,0 +1,6 @@
+SmokeTrail
+  SmokeTrail::GetDataDescMap()
+  SmokeTrail::GetServerClass()
+  SmokeTrail::YouForgotToImplementOrDeclareServerClass()
+  SmokeTrail::SmokeTrail()
+  SmokeTrail::~SmokeTrail()

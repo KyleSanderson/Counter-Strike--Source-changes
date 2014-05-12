@@ -1,0 +1,3 @@
+CThreadEvent
+  CThreadEvent::Set()
+  CThreadEvent::CThreadEvent(bool)

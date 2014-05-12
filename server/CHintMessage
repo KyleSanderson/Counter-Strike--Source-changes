@@ -1,0 +1,3 @@
+CHintMessage
+  CHintMessage::Send(CBasePlayer*)
+  CHintMessage::~CHintMessage()

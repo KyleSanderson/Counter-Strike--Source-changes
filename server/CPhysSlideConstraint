@@ -1,0 +1,5 @@
+CPhysSlideConstraint
+  CPhysSlideConstraint::GetDataDescMap()
+  CPhysSlideConstraint::DrawDebugGeometryOverlays()
+  CPhysSlideConstraint::NotifyVPhysicsStateChanged(IPhysicsObject*, CBaseEntity*, bool)
+  CPhysSlideConstraint::~CPhysSlideConstraint()

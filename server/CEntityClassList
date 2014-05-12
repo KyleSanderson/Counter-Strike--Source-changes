@@ -1,0 +1,7 @@
+CEntityClassList
+  CEntityClassList<CSkyCamera>::LevelShutdownPostEntity()
+  CEntityClassList<CSkyCamera>::~CEntityClassList()
+  CEntityClassList<CPointCamera>::LevelShutdownPostEntity()
+  CEntityClassList<CPointCamera>::~CEntityClassList()
+  CEntityClassList<CPhysicsNPCSolver>::LevelShutdownPostEntity()
+  CEntityClassList<CPhysicsNPCSolver>::~CEntityClassList()

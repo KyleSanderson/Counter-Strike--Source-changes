@@ -1,0 +1,2 @@
+IBody::GetHullMins
+  IBody::GetHullMins() const::hullMins

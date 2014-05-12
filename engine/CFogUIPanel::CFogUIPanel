@@ -1,0 +1,2 @@
+CFogUIPanel::CFogUIPanel
+  CFogUIPanel::CFogUIPanel(vgui::Panel*)

@@ -1,0 +1,5 @@
+CTeamSpawnPoint
+  CTeamSpawnPoint::GetDataDescMap()
+  CTeamSpawnPoint::IsValid(CBasePlayer*)
+  CTeamSpawnPoint::Activate()
+  CTeamSpawnPoint::~CTeamSpawnPoint()

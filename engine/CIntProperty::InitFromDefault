@@ -1,0 +1,2 @@
+CIntProperty::InitFromDefault
+  CIntProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

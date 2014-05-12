@@ -1,0 +1,2 @@
+CProportionalIntProperty::GetData
+  CProportionalIntProperty::GetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

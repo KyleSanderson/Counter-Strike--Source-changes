@@ -1,0 +1,7 @@
+CRefCounted1
+  CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT> >::AddRef()
+  CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT> >::Release()
+  CRefCounted1<IWorldRenderList, CRefCountServiceBase<true, CRefMT> >::AddRef()
+  CRefCounted1<IWorldRenderList, CRefCountServiceBase<true, CRefMT> >::Release()
+  CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT> >::AddRef()
+  CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT> >::Release()

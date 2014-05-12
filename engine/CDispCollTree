@@ -1,0 +1,6 @@
+CDispCollTree
+  CDispCollTree::Cache()
+  CDispCollTree::Create(CCoreDispInfo*)
+  CDispCollTree::AddPlane(Vector const&)
+  CDispCollTree::LockCache()
+  CDispCollTree::~CDispCollTree()

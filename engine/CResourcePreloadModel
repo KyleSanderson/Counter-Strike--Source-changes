@@ -1,0 +1,5 @@
+CResourcePreloadModel
+  CResourcePreloadModel::CreateResource(char const*)
+  CResourcePreloadModel::OnEndMapLoading(bool)
+  CResourcePreloadModel::PurgeUnreferencedResources()
+  CResourcePreloadModel::PurgeAll()

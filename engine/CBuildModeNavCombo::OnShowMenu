@@ -1,0 +1,2 @@
+CBuildModeNavCombo::OnShowMenu
+  CBuildModeNavCombo::OnShowMenu(vgui::Menu*)

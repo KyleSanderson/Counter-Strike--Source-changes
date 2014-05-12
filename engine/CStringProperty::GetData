@@ -1,0 +1,2 @@
+CStringProperty::GetData
+  CStringProperty::GetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

@@ -1,0 +1,9 @@
+IterateRIFF
+  IterateRIFF::ChunkReadInt()
+  IterateRIFF::ChunkAvailable()
+  IterateRIFF::ChunkReadPartial(void*, int)
+  IterateRIFF::ChunkName()
+  IterateRIFF::ChunkNext()
+  IterateRIFF::ChunkRead(void*)
+  IterateRIFF::ChunkSize()
+  IterateRIFF::IterateRIFF(InFileRIFF&, int)

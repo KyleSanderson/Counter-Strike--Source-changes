@@ -1,0 +1,14 @@
+CWeaponElite
+  CWeaponElite::WeaponIdle()
+  CWeaponElite::PrimaryAttack()
+  CWeaponElite::GetServerClass()
+  CWeaponElite::GetWorldModelIndex()
+  CWeaponElite::YouForgotToImplementOrDeclareServerClass()
+  CWeaponElite::Spawn()
+  CWeaponElite::Deploy()
+  CWeaponElite::Reload()
+  CWeaponElite::Precache()
+  CWeaponElite::~CWeaponElite()
+  CWeaponElite::GetWeaponID() const
+  CWeaponElite::GetInaccuracy() const
+  CWeaponElite::GetWorldModel() const

@@ -1,0 +1,6 @@
+CSkyCamera
+  CSkyCamera::GetDataDescMap()
+  CSkyCamera::Spawn()
+  CSkyCamera::Activate()
+  CSkyCamera::CSkyCamera()
+  CSkyCamera::~CSkyCamera()

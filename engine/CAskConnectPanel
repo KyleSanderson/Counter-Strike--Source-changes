@@ -1,0 +1,11 @@
+CAskConnectPanel
+  CAskConnectPanel::GetAnimMap()
+  CAskConnectPanel::SetHostName(char const*)
+  CAskConnectPanel::ApplySettings(KeyValues*)
+  CAskConnectPanel::GetMessageMap()
+  CAskConnectPanel::GetPanelClassName()
+  CAskConnectPanel::StartSlideAnimation(float)
+  CAskConnectPanel::OnTick()
+  CAskConnectPanel::GetKBMap()
+  CAskConnectPanel::CAskConnectPanel(unsigned int)
+  CAskConnectPanel::~CAskConnectPanel()

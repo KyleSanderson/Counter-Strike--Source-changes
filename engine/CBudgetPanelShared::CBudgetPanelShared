@@ -1,0 +1,2 @@
+CBudgetPanelShared::CBudgetPanelShared
+  CBudgetPanelShared::CBudgetPanelShared(vgui::Panel*, char const*, int)

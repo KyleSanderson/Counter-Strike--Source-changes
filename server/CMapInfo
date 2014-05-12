@@ -1,0 +1,4 @@
+CMapInfo
+  CMapInfo::GetDataDescMap()
+  CMapInfo::Spawn()
+  CMapInfo::~CMapInfo()

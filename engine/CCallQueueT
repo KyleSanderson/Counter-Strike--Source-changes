@@ -1,0 +1,2 @@
+CCallQueueT
+  CCallQueueT<CTSQueue<CFunctor*, false> >::CallQueued()

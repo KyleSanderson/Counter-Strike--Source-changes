@@ -1,0 +1,5 @@
+CEnvShooter
+  CEnvShooter::GetDataDescMap()
+  CEnvShooter::Precache()
+  CEnvShooter::CreateGib()
+  CEnvShooter::~CEnvShooter()

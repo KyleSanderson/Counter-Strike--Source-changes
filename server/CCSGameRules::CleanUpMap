@@ -1,0 +1,4 @@
+CCSGameRules::CleanUpMap
+  CCSGameRules::CleanUpMap()::CCSMapEntityFilter
+  CCSGameRules::CleanUpMap()::CCSMapEntityFilter::CreateNextEntity(char const*)
+  CCSGameRules::CleanUpMap()::CCSMapEntityFilter::ShouldCreateEntity(char const*)

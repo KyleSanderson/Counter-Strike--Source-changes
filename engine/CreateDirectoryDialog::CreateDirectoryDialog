@@ -1,0 +1,2 @@
+CreateDirectoryDialog::CreateDirectoryDialog
+  CreateDirectoryDialog::CreateDirectoryDialog(vgui::Panel*, char const*)

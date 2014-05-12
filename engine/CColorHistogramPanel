@@ -1,0 +1,8 @@
+CColorHistogramPanel
+  CColorHistogramPanel::GetAnimMap()
+  CColorHistogramPanel::GetMessageMap()
+  CColorHistogramPanel::PaintBackground()
+  CColorHistogramPanel::GetPanelClassName()
+  CColorHistogramPanel::Paint()
+  CColorHistogramPanel::GetKBMap()
+  CColorHistogramPanel::~CColorHistogramPanel()

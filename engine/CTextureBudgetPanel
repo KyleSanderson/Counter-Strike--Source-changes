@@ -1,0 +1,11 @@
+CTextureBudgetPanel
+  CTextureBudgetPanel::PerformLayout()
+  CTextureBudgetPanel::SetTimeLabelText()
+  CTextureBudgetPanel::SetHistoryLabelText()
+  CTextureBudgetPanel::SendConfigDataToBase()
+  CTextureBudgetPanel::DumpGlobalTextureStats(CCommand const&)
+  CTextureBudgetPanel::SnapshotTextureHistory()
+  CTextureBudgetPanel::Paint()
+  CTextureBudgetPanel::OnTick()
+  CTextureBudgetPanel::ResetAll()
+  CTextureBudgetPanel::~CTextureBudgetPanel()

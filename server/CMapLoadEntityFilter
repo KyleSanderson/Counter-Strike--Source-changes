@@ -1,0 +1,3 @@
+CMapLoadEntityFilter
+  CMapLoadEntityFilter::CreateNextEntity(char const*)
+  CMapLoadEntityFilter::ShouldCreateEntity(char const*)

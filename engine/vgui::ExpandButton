@@ -1,0 +1,9 @@
+vgui::ExpandButton
+  vgui::ExpandButton::GetAnimMap()
+  vgui::ExpandButton::SetSelected(bool)
+  vgui::ExpandButton::GetMessageMap()
+  vgui::ExpandButton::GetPanelClassName()
+  vgui::ExpandButton::Paint()
+  vgui::ExpandButton::GetKBMap()
+  vgui::ExpandButton::GetBorder(bool, bool, bool, bool)
+  vgui::ExpandButton::~ExpandButton()

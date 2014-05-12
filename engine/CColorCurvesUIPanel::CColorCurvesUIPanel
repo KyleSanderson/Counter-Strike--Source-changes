@@ -1,0 +1,2 @@
+CColorCurvesUIPanel::CColorCurvesUIPanel
+  CColorCurvesUIPanel::CColorCurvesUIPanel(vgui::Panel*, CCurvesColorOperation*)

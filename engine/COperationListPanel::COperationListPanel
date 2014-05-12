@@ -1,0 +1,2 @@
+COperationListPanel::COperationListPanel
+  COperationListPanel::COperationListPanel(vgui::Panel*, char const*)

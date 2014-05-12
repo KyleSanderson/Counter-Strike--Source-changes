@@ -1,0 +1,6 @@
+CFuncTankTrain
+  CFuncTankTrain::OnTakeDamage(CTakeDamageInfo const&)
+  CFuncTankTrain::GetDataDescMap()
+  CFuncTankTrain::Spawn()
+  CFuncTankTrain::Blocked(CBaseEntity*)
+  CFuncTankTrain::~CFuncTankTrain()

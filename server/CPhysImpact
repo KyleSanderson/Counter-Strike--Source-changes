@@ -1,0 +1,6 @@
+CPhysImpact
+  CPhysImpact::PointAtEntity()
+  CPhysImpact::GetDataDescMap()
+  CPhysImpact::Spawn()
+  CPhysImpact::Activate()
+  CPhysImpact::~CPhysImpact()

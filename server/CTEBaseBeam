@@ -1,0 +1,5 @@
+CTEBaseBeam
+  CTEBaseBeam::GetServerClass()
+  CTEBaseBeam::YouForgotToImplementOrDeclareServerClass()
+  CTEBaseBeam::CTEBaseBeam(char const*)
+  CTEBaseBeam::~CTEBaseBeam()

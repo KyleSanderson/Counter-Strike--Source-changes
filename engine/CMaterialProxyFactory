@@ -1,0 +1,3 @@
+CMaterialProxyFactory
+  CMaterialProxyFactory::CreateProxy(char const*)
+  CMaterialProxyFactory::DeleteProxy(IMaterialProxy*)

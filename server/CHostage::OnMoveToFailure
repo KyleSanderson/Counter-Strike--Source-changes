@@ -1,0 +1,2 @@
+CHostage::OnMoveToFailure
+  CHostage::OnMoveToFailure(Vector const&, CImprovLocomotor::MoveToFailureType)

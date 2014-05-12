@@ -1,0 +1,3 @@
+DownloadCache
+  DownloadCache::BuildKeyNames(char const*)
+  DownloadCache::Init()

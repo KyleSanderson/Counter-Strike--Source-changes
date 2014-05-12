@@ -1,0 +1,2 @@
+CTraceFilterWalkableEntities
+  CTraceFilterWalkableEntities::ShouldHitEntity(IHandleEntity*, int)

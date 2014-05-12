@@ -1,0 +1,6 @@
+CServerDLLSharedAppSystems
+  CServerDLLSharedAppSystems::GetDllName(int)
+  CServerDLLSharedAppSystems::GetInterfaceName(int)
+  CServerDLLSharedAppSystems::Count()
+  CServerDLLSharedAppSystems::CServerDLLSharedAppSystems()
+  CServerDLLSharedAppSystems::~CServerDLLSharedAppSystems()

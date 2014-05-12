@@ -1,0 +1,4 @@
+CBugReportFinishedDialog
+  CBugReportFinishedDialog::PerformLayout()
+  CBugReportFinishedDialog::OnCommand(char const*)
+  CBugReportFinishedDialog::~CBugReportFinishedDialog()

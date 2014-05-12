@@ -1,0 +1,8 @@
+CDemoActionSkipAhead
+  CDemoActionSkipAhead::FireAction()
+  CDemoActionSkipAhead::SetSkipToTick(int)
+  CDemoActionSkipAhead::SetSkipToTime(float)
+  CDemoActionSkipAhead::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionSkipAhead::Init(KeyValues*)
+  CDemoActionSkipAhead::Update(DemoActionTimingContext const&)
+  CDemoActionSkipAhead::~CDemoActionSkipAhead()

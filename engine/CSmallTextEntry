@@ -1,0 +1,6 @@
+CSmallTextEntry
+  CSmallTextEntry::GetAnimMap()
+  CSmallTextEntry::GetMessageMap()
+  CSmallTextEntry::GetPanelClassName()
+  CSmallTextEntry::GetKBMap()
+  CSmallTextEntry::~CSmallTextEntry()

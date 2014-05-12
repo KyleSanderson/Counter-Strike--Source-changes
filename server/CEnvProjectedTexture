@@ -1,0 +1,9 @@
+CEnvProjectedTexture
+  CEnvProjectedTexture::InitialThink()
+  CEnvProjectedTexture::GetDataDescMap()
+  CEnvProjectedTexture::GetServerClass()
+  CEnvProjectedTexture::UpdateTransmitState()
+  CEnvProjectedTexture::YouForgotToImplementOrDeclareServerClass()
+  CEnvProjectedTexture::Activate()
+  CEnvProjectedTexture::CEnvProjectedTexture()
+  CEnvProjectedTexture::~CEnvProjectedTexture()

@@ -1,0 +1,13 @@
+CColorBalanceUIPanel
+  CColorBalanceUIPanel::GetAnimMap()
+  CColorBalanceUIPanel::GetOperation()
+  CColorBalanceUIPanel::ResetSliders()
+  CColorBalanceUIPanel::GetMessageMap()
+  CColorBalanceUIPanel::OnRadioButtonHit()
+  CColorBalanceUIPanel::GetPanelClassName()
+  CColorBalanceUIPanel::Init()
+  CColorBalanceUIPanel::GetKBMap()
+  CColorBalanceUIPanel::Shutdown()
+  CColorBalanceUIPanel::OnCommand(char const*)
+  CColorBalanceUIPanel::OnMessage(KeyValues const*, unsigned int)
+  CColorBalanceUIPanel::~CColorBalanceUIPanel()

@@ -1,0 +1,3 @@
+CFuncNavPrefer
+  CFuncNavPrefer::~CFuncNavPrefer()
+  CFuncNavPrefer::GetCostMultiplier(CBaseCombatCharacter*) const

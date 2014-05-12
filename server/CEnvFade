@@ -1,0 +1,5 @@
+CEnvFade
+  CEnvFade::GetDataDescMap()
+  CEnvFade::DrawDebugTextOverlays()
+  CEnvFade::Spawn()
+  CEnvFade::~CEnvFade()

@@ -1,0 +1,8 @@
+CMemoryStack
+  CMemoryStack::FreeToAllocPoint(unsigned int, bool)
+  CMemoryStack::Init(unsigned int, unsigned int, unsigned int, unsigned int)
+  CMemoryStack::FreeAll(bool)
+  CMemoryStack::GetSize()
+  CMemoryStack::CommitTo(unsigned char*)
+  CMemoryStack::CMemoryStack()
+  CMemoryStack::~CMemoryStack()

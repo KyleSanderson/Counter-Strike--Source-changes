@@ -1,0 +1,11 @@
+CLevelsColorOperation
+  CLevelsColorOperation::SetEnabled(bool)
+  CLevelsColorOperation::GetBlendFactor()
+  CLevelsColorOperation::SetBlendFactor(float)
+  CLevelsColorOperation::ComputeNormalizedInputLevel(float)
+  CLevelsColorOperation::Clone()
+  CLevelsColorOperation::ToolID()
+  CLevelsColorOperation::GetName()
+  CLevelsColorOperation::Release()
+  CLevelsColorOperation::SetName(char const*)
+  CLevelsColorOperation::IsEnabled()

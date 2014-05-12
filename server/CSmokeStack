@@ -1,0 +1,10 @@
+CSmokeStack
+  CSmokeStack::GetDataDescMap()
+  CSmokeStack::GetServerClass()
+  CSmokeStack::RecalcWindVector()
+  CSmokeStack::YouForgotToImplementOrDeclareServerClass()
+  CSmokeStack::Spawn()
+  CSmokeStack::Activate()
+  CSmokeStack::Precache()
+  CSmokeStack::CSmokeStack()
+  CSmokeStack::~CSmokeStack()

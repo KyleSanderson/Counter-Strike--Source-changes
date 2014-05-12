@@ -1,0 +1,2 @@
+CBugUIPanel::CBugUIPanel
+  CBugUIPanel::CBugUIPanel(bool, vgui::Panel*)

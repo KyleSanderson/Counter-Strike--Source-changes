@@ -1,0 +1,8 @@
+CWindowPane
+  CWindowPane::GetDataDescMap()
+  CWindowPane::CreateWindowPane(Vector const&, QAngle const&)
+  CWindowPane::Die()
+  CWindowPane::Spawn()
+  CWindowPane::Precache()
+  CWindowPane::PaneTouch(CBaseEntity*)
+  CWindowPane::~CWindowPane()

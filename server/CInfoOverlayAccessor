@@ -1,0 +1,6 @@
+CInfoOverlayAccessor
+  CInfoOverlayAccessor::GetDataDescMap()
+  CInfoOverlayAccessor::GetServerClass()
+  CInfoOverlayAccessor::UpdateTransmitState()
+  CInfoOverlayAccessor::YouForgotToImplementOrDeclareServerClass()
+  CInfoOverlayAccessor::~CInfoOverlayAccessor()

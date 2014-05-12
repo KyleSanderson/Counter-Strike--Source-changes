@@ -1,0 +1,6 @@
+CRagdollMagnet
+  CRagdollMagnet::DistToPoint(Vector const&)
+  CRagdollMagnet::FindBestMagnet(CBaseEntity*)
+  CRagdollMagnet::GetDataDescMap()
+  CRagdollMagnet::GetForceVector(CBaseEntity*)
+  CRagdollMagnet::~CRagdollMagnet()

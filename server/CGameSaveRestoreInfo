@@ -1,0 +1,2 @@
+CGameSaveRestoreInfo
+  CGameSaveRestoreInfo::GetEntityIndex(CBaseEntity const*)

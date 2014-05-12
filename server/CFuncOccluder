@@ -1,0 +1,8 @@
+CFuncOccluder
+  CFuncOccluder::GetDataDescMap()
+  CFuncOccluder::GetServerClass()
+  CFuncOccluder::UpdateTransmitState()
+  CFuncOccluder::YouForgotToImplementOrDeclareServerClass()
+  CFuncOccluder::Spawn()
+  CFuncOccluder::CFuncOccluder()
+  CFuncOccluder::~CFuncOccluder()

@@ -1,0 +1,2 @@
+ColumnButton::ApplySchemeSettings
+  ColumnButton::ApplySchemeSettings(vgui::IScheme*)

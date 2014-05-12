@@ -1,0 +1,7 @@
+CCSPlayerResource
+  CCSPlayerResource::GetDataDescMap()
+  CCSPlayerResource::GetServerClass()
+  CCSPlayerResource::UpdatePlayerData()
+  CCSPlayerResource::YouForgotToImplementOrDeclareServerClass()
+  CCSPlayerResource::Spawn()
+  CCSPlayerResource::~CCSPlayerResource()

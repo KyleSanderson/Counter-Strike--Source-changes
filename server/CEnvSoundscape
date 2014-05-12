@@ -1,0 +1,9 @@
+CEnvSoundscape
+  CEnvSoundscape::GetDataDescMap()
+  CEnvSoundscape::InRangeOfPlayer(CBasePlayer*)
+  CEnvSoundscape::UpdateTransmitState()
+  CEnvSoundscape::DrawDebugGeometryOverlays()
+  CEnvSoundscape::Spawn()
+  CEnvSoundscape::Precache()
+  CEnvSoundscape::CEnvSoundscape()
+  CEnvSoundscape::~CEnvSoundscape()

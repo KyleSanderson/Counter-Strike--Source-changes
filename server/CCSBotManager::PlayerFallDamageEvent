@@ -1,0 +1,4 @@
+CCSBotManager::PlayerFallDamageEvent
+  CCSBotManager::PlayerFallDamageEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::PlayerFallDamageEvent::~PlayerFallDamageEvent()
+  CCSBotManager::PlayerFallDamageEvent::GetEventName() const

@@ -1,0 +1,2 @@
+CPointContentsEnum
+  CPointContentsEnum::EnumElement(IHandleEntity*)

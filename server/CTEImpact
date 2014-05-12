@@ -1,0 +1,5 @@
+CTEImpact
+  CTEImpact::GetServerClass()
+  CTEImpact::YouForgotToImplementOrDeclareServerClass()
+  CTEImpact::Precache()
+  CTEImpact::~CTEImpact()

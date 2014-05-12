@@ -1,0 +1,3 @@
+NextBotTraceFilterOnlyActors
+  NextBotTraceFilterOnlyActors::ShouldHitEntity(IHandleEntity*, int)
+  NextBotTraceFilterOnlyActors::GetTraceType() const

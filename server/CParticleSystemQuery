@@ -1,0 +1,8 @@
+CParticleSystemQuery
+  CParticleSystemQuery::GetLocalPlayerPos()
+  CParticleSystemQuery::GetLightingAtPoint(Vector const&, Color&)
+  CParticleSystemQuery::GetPixelVisibility(int*, Vector const&, float)
+  CParticleSystemQuery::SetUpLightingEnvironment(Vector const&)
+  CParticleSystemQuery::GetCollisionGroupFromName(char const*)
+  CParticleSystemQuery::IsPointInControllingObjectHitBox(CParticleCollection*, int, Vector, bool)
+  CParticleSystemQuery::MovePointInsideControllingObject(CParticleCollection*, void*, Vector*)

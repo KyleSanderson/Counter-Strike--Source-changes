@@ -1,0 +1,4 @@
+CDispUtilsHelper
+  CDispUtilsHelper::VertIndexToInt(CVertIndex const&) const
+  CDispUtilsHelper::GetEdgeMidPoint(int) const
+  CDispUtilsHelper::GetPower() const

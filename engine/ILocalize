@@ -1,0 +1,4 @@
+ILocalize
+  ILocalize::ConvertANSIToUnicode(char const*, wchar_t*, int)
+  ILocalize::ConvertUnicodeToANSI(wchar_t const*, char*, int)
+  ILocalize::ConstructStringVArgsInternal(wchar_t*, int, wchar_t const*, int, char*)

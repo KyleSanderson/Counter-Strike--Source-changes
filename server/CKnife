@@ -1,0 +1,17 @@
+CKnife
+  CKnife::WeaponIdle()
+  CKnife::SwingOrStab(bool)
+  CKnife::CanBeSelected()
+  CKnife::ItemPostFrame()
+  CKnife::PrimaryAttack()
+  CKnife::GetDataDescMap()
+  CKnife::GetServerClass()
+  CKnife::HasPrimaryAmmo()
+  CKnife::SecondaryAttack()
+  CKnife::YouForgotToImplementOrDeclareServerClass()
+  CKnife::Smack()
+  CKnife::Spawn()
+  CKnife::Deploy()
+  CKnife::Precache()
+  CKnife::~CKnife()
+  CKnife::GetWeaponID() const

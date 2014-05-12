@@ -1,0 +1,2 @@
+CColorLookupUIPanel::CColorLookupUIPanel
+  CColorLookupUIPanel::CColorLookupUIPanel(vgui::Panel*, CColorLookupOperation*)

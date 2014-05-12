@@ -1,0 +1,4 @@
+CEngineBSPTree
+  CEngineBSPTree::EnumerateLeavesAtPoint(Vector const&, ISpatialLeafEnumerator*, int)
+  CEngineBSPTree::EnumerateLeavesInSphere(Vector const&, float, ISpatialLeafEnumerator*, int)
+  CEngineBSPTree::LeafCount() const

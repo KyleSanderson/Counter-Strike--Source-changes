@@ -1,0 +1,10 @@
+CBudgetPanelShared
+  CBudgetPanelShared::PostChildPaint()
+  CBudgetPanelShared::PaintBackground()
+  CBudgetPanelShared::SetTimeLabelText()
+  CBudgetPanelShared::SetHistoryLabelText()
+  CBudgetPanelShared::SendConfigDataToBase()
+  CBudgetPanelShared::SnapshotVProfHistory(float)
+  CBudgetPanelShared::SetupCustomConfigData(CBudgetPanelConfigData&)
+  CBudgetPanelShared::Paint()
+  CBudgetPanelShared::~CBudgetPanelShared()

@@ -1,0 +1,8 @@
+CGameRulesProxy
+  CGameRulesProxy::ObjectCaps()
+  CGameRulesProxy::GetServerClass()
+  CGameRulesProxy::UpdateTransmitState()
+  CGameRulesProxy::NotifyNetworkStateChanged()
+  CGameRulesProxy::YouForgotToImplementOrDeclareServerClass()
+  CGameRulesProxy::CGameRulesProxy()
+  CGameRulesProxy::~CGameRulesProxy()

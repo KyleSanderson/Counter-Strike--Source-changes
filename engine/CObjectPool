@@ -1,0 +1,4 @@
+CObjectPool
+  CObjectPool<CVarBitVec, 2, true>::Purge()
+  CObjectPool<CVarBitVec, 2, true>::CObjectPool()
+  CObjectPool<CWorldRenderList, 0, true>::~CObjectPool()

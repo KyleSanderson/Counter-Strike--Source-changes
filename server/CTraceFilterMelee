@@ -1,0 +1,2 @@
+CTraceFilterMelee
+  CTraceFilterMelee::ShouldHitEntity(IHandleEntity*, int)

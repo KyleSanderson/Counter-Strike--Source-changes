@@ -1,0 +1,4 @@
+CVoteControllerSystem
+  CVoteControllerSystem::LevelInitPreEntity()
+  CVoteControllerSystem::FrameUpdatePostEntityThink()
+  CVoteControllerSystem::~CVoteControllerSystem()

@@ -1,0 +1,3 @@
+CTemplatesHook
+  CTemplatesHook::LevelShutdownPostEntity()
+  CTemplatesHook::~CTemplatesHook()

@@ -1,0 +1,10 @@
+CTriggerHurt
+  CTriggerHurt::HurtEntity(CBaseEntity*, float)
+  CTriggerHurt::GetDataDescMap()
+  CTriggerHurt::RadiationThink()
+  CTriggerHurt::HurtAllTouchers(float)
+  CTriggerHurt::Spawn()
+  CTriggerHurt::Touch(CBaseEntity*)
+  CTriggerHurt::EndTouch(CBaseEntity*)
+  CTriggerHurt::HurtThink()
+  CTriggerHurt::~CTriggerHurt()

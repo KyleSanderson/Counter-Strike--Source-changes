@@ -1,0 +1,12 @@
+vgui::PropertyPage
+  vgui::PropertyPage::GetAnimMap()
+  vgui::PropertyPage::OnPageHide()
+  vgui::PropertyPage::OnPageShow()
+  vgui::PropertyPage::SetVisible(bool)
+  vgui::PropertyPage::OnResetData()
+  vgui::PropertyPage::GetMessageMap()
+  vgui::PropertyPage::OnApplyChanges()
+  vgui::PropertyPage::GetPanelClassName()
+  vgui::PropertyPage::HasUserConfigSettings()
+  vgui::PropertyPage::GetKBMap()
+  vgui::PropertyPage::~PropertyPage()

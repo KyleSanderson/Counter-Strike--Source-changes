@@ -1,0 +1,2 @@
+CColorSlider::CColorSlider
+  CColorSlider::CColorSlider(vgui::Panel*, char const*, int)

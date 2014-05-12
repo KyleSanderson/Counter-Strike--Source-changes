@@ -1,0 +1,3 @@
+GetSteamAppID
+  GetSteamAppID()::bHaveValidSteamInterface (.b)
+  GetSteamAppID()::sunAppID

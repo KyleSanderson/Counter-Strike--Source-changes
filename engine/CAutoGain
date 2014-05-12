@@ -1,0 +1,4 @@
+CAutoGain
+  CAutoGain::ProcessSamples(short*, int)
+  CAutoGain::Reset(int, float, float, float)
+  CAutoGain::CAutoGain()

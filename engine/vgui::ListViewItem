@@ -1,0 +1,9 @@
+vgui::ListViewItem
+  vgui::ListViewItem::GetAnimMap()
+  vgui::ListViewItem::UpdateImage()
+  vgui::ListViewItem::GetMessageMap()
+  vgui::ListViewItem::PerformLayout()
+  vgui::ListViewItem::PaintBackground()
+  vgui::ListViewItem::GetPanelClassName()
+  vgui::ListViewItem::GetKBMap()
+  vgui::ListViewItem::~ListViewItem()

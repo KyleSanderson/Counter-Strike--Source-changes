@@ -1,0 +1,27 @@
+CCSGameMovement
+  CCSGameMovement::FinishDuck()
+  CCSGameMovement::LadderMove()
+  CCSGameMovement::PlayerMove()
+  CCSGameMovement::FinishUnDuck()
+  CCSGameMovement::ReduceTimers()
+  CCSGameMovement::CanAccelerate()
+  CCSGameMovement::CheckForLadders(bool)
+  CCSGameMovement::CheckJumpButton()
+  CCSGameMovement::CheckParameters()
+  CCSGameMovement::DecayPunchAngle()
+  CCSGameMovement::PlayerSolidMask(bool)
+  CCSGameMovement::ProcessMovement(CBasePlayer*, CMoveData*)
+  CCSGameMovement::PreventBunnyJumping()
+  CCSGameMovement::HandleDuckingSpeedCrop()
+  CCSGameMovement::Duck()
+  CCSGameMovement::OnJump(float)
+  CCSGameMovement::OnLand(float)
+  CCSGameMovement::AirMove()
+  CCSGameMovement::OnLadder(CGameTrace&)
+  CCSGameMovement::WalkMove()
+  CCSGameMovement::CanUnduck()
+  CCSGameMovement::~CCSGameMovement()
+  CCSGameMovement::ClimbSpeed() const
+  CCSGameMovement::LadderMask() const
+  CCSGameMovement::LadderDistance() const
+  CCSGameMovement::LadderLateralMultiplier() const

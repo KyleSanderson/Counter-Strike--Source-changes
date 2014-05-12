@@ -1,0 +1,11 @@
+CEngine
+  CEngine::FilterTime(float)
+  CEngine::GetCurTime()
+  CEngine::GetQuitting()
+  CEngine::SetQuitting(int)
+  CEngine::GetFrameTime()
+  CEngine::Load(bool, char const*)
+  CEngine::Frame()
+  CEngine::Unload()
+  CEngine::GetState()
+  CEngine::~CEngine()

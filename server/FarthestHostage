@@ -1,0 +1,2 @@
+FarthestHostage
+  FarthestHostage::operator()(CHostage*)

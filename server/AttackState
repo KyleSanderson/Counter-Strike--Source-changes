@@ -1,0 +1,6 @@
+AttackState
+  AttackState::Dodge(CCSBot*)
+  AttackState::OnExit(CCSBot*)
+  AttackState::OnEnter(CCSBot*)
+  AttackState::OnUpdate(CCSBot*)
+  AttackState::GetName() const

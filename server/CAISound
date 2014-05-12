@@ -1,0 +1,3 @@
+CAISound
+  CAISound::GetDataDescMap()
+  CAISound::~CAISound()

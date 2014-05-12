@@ -1,0 +1,2 @@
+CBotDoorEnumerator
+  CBotDoorEnumerator::EnumElement(IHandleEntity*)

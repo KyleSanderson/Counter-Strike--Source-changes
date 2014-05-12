@@ -1,0 +1,6 @@
+CSfxTable
+  CSfxTable::GetFileName()
+  CSfxTable::OnNameChanged(char const*)
+  CSfxTable::IsPrecachedSound()
+  CSfxTable::getname()
+  CSfxTable::CSfxTable()

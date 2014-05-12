@@ -1,0 +1,12 @@
+CColorCorrection
+  CColorCorrection::ObjectCaps()
+  CColorCorrection::FadeInThink()
+  CColorCorrection::FadeOutThink()
+  CColorCorrection::GetDataDescMap()
+  CColorCorrection::GetServerClass()
+  CColorCorrection::UpdateTransmitState()
+  CColorCorrection::YouForgotToImplementOrDeclareServerClass()
+  CColorCorrection::Spawn()
+  CColorCorrection::Activate()
+  CColorCorrection::CColorCorrection()
+  CColorCorrection::~CColorCorrection()

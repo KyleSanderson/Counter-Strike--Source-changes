@@ -1,0 +1,5 @@
+CEnvHudHint
+  CEnvHudHint::GetDataDescMap()
+  CEnvHudHint::Spawn()
+  CEnvHudHint::Precache()
+  CEnvHudHint::~CEnvHudHint()

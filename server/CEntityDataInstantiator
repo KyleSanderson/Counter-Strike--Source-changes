@@ -1,0 +1,13 @@
+CEntityDataInstantiator
+  CEntityDataInstantiator<ModelScale>::GetDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<ModelScale>::CreateDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<ModelScale>::DestroyDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()
+  CEntityDataInstantiator<CWatcherList>::GetDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<CWatcherList>::CreateDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<CWatcherList>::DestroyDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()
+  CEntityDataInstantiator<StepSimulationData>::GetDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<StepSimulationData>::CreateDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<StepSimulationData>::DestroyDataObject(CBaseEntity const*)
+  CEntityDataInstantiator<StepSimulationData>::~CEntityDataInstantiator()

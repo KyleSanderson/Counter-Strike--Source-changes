@@ -1,0 +1,87 @@
+CCSBotManager
+  CCSBotManager::OnBombBeep(IGameEvent*)
+  CCSBotManager::OnRoundEnd(IGameEvent*)
+  CCSBotManager::StartFrame()
+  CCSBotManager::OnBreakProp(IGameEvent*)
+  CCSBotManager::OnDoorMoving(IGameEvent*)
+  CCSBotManager::OnNavBlocked(IGameEvent*)
+  CCSBotManager::OnRoundStart(IGameEvent*)
+  CCSBotManager::OnWeaponFire(IGameEvent*)
+  CCSBotManager::OnWeaponZoom(IGameEvent*)
+  CCSBotManager::RestartRound()
+  CCSBotManager::SetLooseBomb(CBaseEntity*)
+  CCSBotManager::BotAddCommand(int, bool, char const*, CSWeaponType, BotDifficultyType)
+  CCSBotManager::ClientCommand(CBasePlayer*, CCommand const&)
+  CCSBotManager::OnBombDefused(IGameEvent*)
+  CCSBotManager::OnBombPlanted(IGameEvent*)
+  CCSBotManager::OnPlayerDeath(IGameEvent*)
+  CCSBotManager::OnPlayerRadio(IGameEvent*)
+  CCSBotManager::ServerCommand(char const*)
+  CCSBotManager::OnBombExploded(IGameEvent*)
+  CCSBotManager::OnBombPickedUp(IGameEvent*)
+  CCSBotManager::OnBulletImpact(IGameEvent*)
+  CCSBotManager::OnWeaponReload(IGameEvent*)
+  CCSBotManager::ServerActivate()
+  CCSBotManager::OnGrenadeBounce(IGameEvent*)
+  CCSBotManager::ClientDisconnect(CBaseEntity*)
+  CCSBotManager::MaintainBotQuota()
+  CCSBotManager::OnBreakBreakable(IGameEvent*)
+  CCSBotManager::OnHostageFollows(IGameEvent*)
+  CCSBotManager::OnPlayerFootstep(IGameEvent*)
+  CCSBotManager::OnRoundFreezeEnd(IGameEvent*)
+  CCSBotManager::OnServerShutdown(IGameEvent*)
+  CCSBotManager::ServerDeactivate()
+  CCSBotManager::AllocateBotEntity()
+  CCSBotManager::OnBombDefuseAbort(IGameEvent*)
+  CCSBotManager::OnBombDefuseBegin(IGameEvent*)
+  CCSBotManager::OnPlayerFallDamage(IGameEvent*)
+  CCSBotManager::ExtractScenarioData()
+  CCSBotManager::OnFlashbangDetonate(IGameEvent*)
+  CCSBotManager::OnHEGrenadeDetonate(IGameEvent*)
+  CCSBotManager::OnHostageRescuedAll(IGameEvent*)
+  CCSBotManager::OnWeaponFireOnEmpty(IGameEvent*)
+  CCSBotManager::CheckForBlockedZones()
+  CCSBotManager::EnableEventListeners(bool)
+  CCSBotManager::OnSmokeGrenadeDetonate(IGameEvent*)
+  CCSBotManager::SetRadioMessageTimestamp(RadioType, int)
+  CCSBotManager::CCSBotManager()
+  CCSBotManager::~CCSBotManager()
+  CCSBotManager::GetRandomZone() const
+  CCSBotManager::GetClosestZone(Vector const&) const
+  CCSBotManager::GetRandomSpawn(int) const
+  CCSBotManager::GetBombTimeLeft() const
+  CCSBotManager::IsWeaponUseable(CWeaponCSBase const*) const
+  CCSBotManager::GetPlayerPriority(CBasePlayer*) const
+  CCSBotManager::IsImportantPlayer(CCSPlayer*) const
+  CCSBotManager::GetRadioMessageInterval(RadioType, int) const
+  CCSBotManager::GetZone(Vector const&) const
+  CCSBotManager::BombBeepEvent
+  CCSBotManager::RoundEndEvent
+  CCSBotManager::BreakPropEvent
+  CCSBotManager::DoorMovingEvent
+  CCSBotManager::NavBlockedEvent
+  CCSBotManager::RoundStartEvent
+  CCSBotManager::WeaponFireEvent
+  CCSBotManager::WeaponZoomEvent
+  CCSBotManager::BombDefusedEvent
+  CCSBotManager::BombPlantedEvent
+  CCSBotManager::PlayerDeathEvent
+  CCSBotManager::PlayerRadioEvent
+  CCSBotManager::BombExplodedEvent
+  CCSBotManager::BombPickedUpEvent
+  CCSBotManager::BulletImpactEvent
+  CCSBotManager::WeaponReloadEvent
+  CCSBotManager::GrenadeBounceEvent
+  CCSBotManager::BreakBreakableEvent
+  CCSBotManager::HostageFollowsEvent
+  CCSBotManager::PlayerFootstepEvent
+  CCSBotManager::RoundFreezeEndEvent
+  CCSBotManager::ServerShutdownEvent
+  CCSBotManager::BombDefuseAbortEvent
+  CCSBotManager::BombDefuseBeginEvent
+  CCSBotManager::PlayerFallDamageEvent
+  CCSBotManager::FlashbangDetonateEvent
+  CCSBotManager::HEGrenadeDetonateEvent
+  CCSBotManager::HostageRescuedAllEvent
+  CCSBotManager::WeaponFireOnEmptyEvent
+  CCSBotManager::SmokeGrenadeDetonateEvent

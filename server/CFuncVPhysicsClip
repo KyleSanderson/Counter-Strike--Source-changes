@@ -1,0 +1,7 @@
+CFuncVPhysicsClip
+  CFuncVPhysicsClip::CreateVPhysics()
+  CFuncVPhysicsClip::GetDataDescMap()
+  CFuncVPhysicsClip::ForceVPhysicsCollide(CBaseEntity*)
+  CFuncVPhysicsClip::Spawn()
+  CFuncVPhysicsClip::Activate()
+  CFuncVPhysicsClip::~CFuncVPhysicsClip()

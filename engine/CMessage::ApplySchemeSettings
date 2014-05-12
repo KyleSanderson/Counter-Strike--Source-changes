@@ -1,0 +1,2 @@
+CMessage::ApplySchemeSettings
+  CMessage::ApplySchemeSettings(vgui::IScheme*)

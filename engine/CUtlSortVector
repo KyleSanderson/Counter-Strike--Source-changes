@@ -1,0 +1,5 @@
+CUtlSortVector
+  CUtlSortVector<int, WingedEdgeLessFunc, CUtlVector<int, CUtlMemory<int, int> > >::Insert(int const&)
+  CUtlSortVector<unsigned short, CEdgeList::EdgeLess, CUtlVector<unsigned short, CUtlMemory<unsigned short, int> > >::Insert(unsigned short const&)
+  CUtlSortVector<int, WingedEdgeLessFunc, CUtlVector<int, CUtlMemory<int, int> > >::FindLessOrEqual(int const&) const
+  CUtlSortVector<unsigned short, CEdgeList::EdgeLess, CUtlVector<unsigned short, CUtlMemory<unsigned short, int> > >::FindLessOrEqual(unsigned short const&) const

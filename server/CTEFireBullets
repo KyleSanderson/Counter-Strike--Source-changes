@@ -1,0 +1,4 @@
+CTEFireBullets
+  CTEFireBullets::GetServerClass()
+  CTEFireBullets::YouForgotToImplementOrDeclareServerClass()
+  CTEFireBullets::~CTEFireBullets()

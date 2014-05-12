@@ -1,0 +1,3 @@
+CMPAException
+  CMPAException::ShowError()
+  CMPAException::~CMPAException()

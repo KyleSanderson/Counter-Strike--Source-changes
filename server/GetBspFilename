@@ -1,0 +1,2 @@
+GetBspFilename
+  GetBspFilename(char const*)::bspFilename

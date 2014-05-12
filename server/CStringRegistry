@@ -1,0 +1,12 @@
+CStringRegistry
+  CStringRegistry::GetIDForKey(unsigned short)
+  CStringRegistry::GetStringID(char const*)
+  CStringRegistry::ClearStrings()
+  CStringRegistry::GetStringText(int)
+  CStringRegistry::GetStringForKey(unsigned short)
+  CStringRegistry::AddString(char const*, int)
+  CStringRegistry::CStringRegistry()
+  CStringRegistry::~CStringRegistry()
+  CStringRegistry::InvalidIndex() const
+  CStringRegistry::Next(unsigned short) const
+  CStringRegistry::First() const

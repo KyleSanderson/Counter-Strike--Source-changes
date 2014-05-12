@@ -1,0 +1,7 @@
+CSpotlightEnd
+  CSpotlightEnd::ObjectCaps()
+  CSpotlightEnd::GetDataDescMap()
+  CSpotlightEnd::GetServerClass()
+  CSpotlightEnd::YouForgotToImplementOrDeclareServerClass()
+  CSpotlightEnd::Spawn()
+  CSpotlightEnd::~CSpotlightEnd()

@@ -1,0 +1,5 @@
+CFocusOverlayPanel
+  CFocusOverlayPanel::PostChildPaint()
+  CFocusOverlayPanel::DrawFocusPanelList()
+  CFocusOverlayPanel::DrawTitleSafeOverlay()
+  CFocusOverlayPanel::~CFocusOverlayPanel()

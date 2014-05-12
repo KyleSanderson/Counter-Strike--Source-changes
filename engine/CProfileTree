@@ -1,0 +1,10 @@
+CProfileTree
+  CProfileTree::GetAnimMap()
+  CProfileTree::SetBgColor(Color)
+  CProfileTree::GetMessageMap()
+  CProfileTree::InvalidateLayout(bool, bool)
+  CProfileTree::GetPanelClassName()
+  CProfileTree::GetKBMap()
+  CProfileTree::OnCommand(char const*)
+  CProfileTree::CProfileTree(CVProfPanel*, char const*)
+  CProfileTree::~CProfileTree()

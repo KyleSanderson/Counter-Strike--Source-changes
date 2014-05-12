@@ -1,0 +1,3 @@
+CTraceFilterWorldOnly
+  CTraceFilterWorldOnly::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterWorldOnly::GetTraceType() const

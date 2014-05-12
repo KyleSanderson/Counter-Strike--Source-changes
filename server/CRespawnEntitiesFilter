@@ -1,0 +1,3 @@
+CRespawnEntitiesFilter
+  CRespawnEntitiesFilter::CreateNextEntity(char const*)
+  CRespawnEntitiesFilter::ShouldCreateEntity(char const*)

@@ -1,0 +1,2 @@
+CGameRulesRegister
+  CGameRulesRegister::CGameRulesRegister(char const*, void (*)())

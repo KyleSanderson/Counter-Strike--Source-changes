@@ -1,0 +1,11 @@
+BlankImage
+  BlankImage::SetRotation(int)
+  BlankImage::GetNumFrames()
+  BlankImage::Evict()
+  BlankImage::GetID()
+  BlankImage::Paint()
+  BlankImage::SetPos(int, int)
+  BlankImage::SetSize(int, int)
+  BlankImage::SetColor(Color)
+  BlankImage::SetFrame(int)
+  BlankImage::~BlankImage()

@@ -1,0 +1,9 @@
+CreateDirectoryDialog
+  CreateDirectoryDialog::GetAnimMap()
+  CreateDirectoryDialog::GetMessageMap()
+  CreateDirectoryDialog::PerformLayout()
+  CreateDirectoryDialog::GetPanelClassName()
+  CreateDirectoryDialog::OnClose()
+  CreateDirectoryDialog::GetKBMap()
+  CreateDirectoryDialog::OnCommand(char const*)
+  CreateDirectoryDialog::~CreateDirectoryDialog()

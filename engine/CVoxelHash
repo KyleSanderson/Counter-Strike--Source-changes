@@ -1,0 +1,6 @@
+CVoxelHash
+  CVoxelHash::RenderGrid()
+  CVoxelHash::RemoveFromTree(unsigned short)
+  CVoxelHash::RenderObjectInVoxel(unsigned short, CPartitionVisitor*, float)
+  CVoxelHash::RenderAllObjectsInTree(float)
+  CVoxelHash::Shutdown()

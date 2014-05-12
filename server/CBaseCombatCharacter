@@ -1,0 +1,96 @@
+CBaseCombatCharacter
+  CBaseCombatCharacter::BloodColor()
+  CBaseCombatCharacter::BodyAngles()
+  CBaseCombatCharacter::ChangeTeam(int)
+  CBaseCombatCharacter::CorpseFade()
+  CBaseCombatCharacter::FInAimCone(CBaseEntity*)
+  CBaseCombatCharacter::FInAimCone(Vector const&)
+  CBaseCombatCharacter::GetVehicle()
+  CBaseCombatCharacter::RemoveAmmo(int, char const*)
+  CBaseCombatCharacter::RemoveAmmo(int, int)
+  CBaseCombatCharacter::TakeHealth(float, int)
+  CBaseCombatCharacter::ExitVehicle()
+  CBaseCombatCharacter::FInViewCone(CBaseEntity*)
+  CBaseCombatCharacter::FInViewCone(Vector const&)
+  CBaseCombatCharacter::OnPursuedBy(INextBot*)
+  CBaseCombatCharacter::SetTransmit(CCheckTransmitInfo*, bool)
+  CBaseCombatCharacter::HasAlienGibs()
+  CBaseCombatCharacter::HasHumanGibs()
+  CBaseCombatCharacter::OnTakeDamage(CTakeDamageInfo const&)
+  CBaseCombatCharacter::SetAmmoCount(int, int)
+  CBaseCombatCharacter::AddPlayerItem(CBaseCombatWeapon*)
+  CBaseCombatCharacter::BecomeRagdoll(CTakeDamageInfo const&, Vector const&)
+  CBaseCombatCharacter::DoMuzzleFlash()
+  CBaseCombatCharacter::GetSpreadBias(CBaseCombatWeapon*, CBaseEntity*)
+  CBaseCombatCharacter::IRelationType(CBaseEntity*)
+  CBaseCombatCharacter::PushawayTouch(CBaseEntity*)
+  CBaseCombatCharacter::RemoveAllAmmo()
+  CBaseCombatCharacter::SetBloodColor(int)
+  CBaseCombatCharacter::EyeDirection2D()
+  CBaseCombatCharacter::EyeDirection3D()
+  CBaseCombatCharacter::FindMissTarget()
+  CBaseCombatCharacter::GetDataDescMap()
+  CBaseCombatCharacter::GetServerClass()
+  CBaseCombatCharacter::UpdateOnRemove()
+  CBaseCombatCharacter::VPhysicsUpdate(IPhysicsObject*)
+  CBaseCombatCharacter::BodyDirection2D()
+  CBaseCombatCharacter::BodyDirection3D()
+  CBaseCombatCharacter::GetAttackSpread(CBaseCombatWeapon*, CBaseEntity*)
+  CBaseCombatCharacter::HeadDirection2D()
+  CBaseCombatCharacter::HeadDirection3D()
+  CBaseCombatCharacter::SetActiveWeapon(CBaseCombatWeapon*)
+  CBaseCombatCharacter::GetDeathActivity()
+  CBaseCombatCharacter::GetInteractionID()
+  CBaseCombatCharacter::GetVehicleEntity()
+  CBaseCombatCharacter::OnNavAreaRemoved(CNavArea*)
+  CBaseCombatCharacter::RemoveAllWeapons()
+  CBaseCombatCharacter::RemovePlayerItem(CBaseCombatWeapon*)
+  CBaseCombatCharacter::ApplyStressDamage(IPhysicsObject*, bool)
+  CBaseCombatCharacter::ClearActiveWeapon()
+  CBaseCombatCharacter::IRelationPriority(CBaseEntity*)
+  CBaseCombatCharacter::ClearLastKnownArea()
+  CBaseCombatCharacter::BecomeRagdollBoogie(CBaseEntity*, Vector const&, float, int)
+  CBaseCombatCharacter::OnPlayerKilledOther(CBaseEntity*, CTakeDamageInfo const&)
+  CBaseCombatCharacter::UpdateLastKnownArea()
+  CBaseCombatCharacter::CalcDamageForceVector(CTakeDamageInfo const&)
+  CBaseCombatCharacter::CalcWeaponProficiency(CBaseCombatWeapon*)
+  CBaseCombatCharacter::InitInteractionSystem()
+  CBaseCombatCharacter::NotifyFriendsOfDamage(CBaseEntity*)
+  CBaseCombatCharacter::CanBecomeServerRagdoll()
+  CBaseCombatCharacter::FindEntityRelationship(CBaseEntity*)
+  CBaseCombatCharacter::SwitchToNextBestWeapon(CBaseCombatWeapon*)
+  CBaseCombatCharacter::MyCombatCharacterPointer()
+  CBaseCombatCharacter::RemoveEntityRelationship(CBaseEntity*)
+  CBaseCombatCharacter::FixupBurningServerRagdoll(CBaseEntity*)
+  CBaseCombatCharacter::SetLightingOriginRelative(CBaseEntity*)
+  CBaseCombatCharacter::GetPhysicsImpactDamageTable()
+  CBaseCombatCharacter::AllocateDefaultRelationships()
+  CBaseCombatCharacter::YouForgotToImplementOrDeclareServerClass()
+  CBaseCombatCharacter::Spawn()
+  CBaseCombatCharacter::Restore(IRestore&)
+  CBaseCombatCharacter::FVisible(Vector const&, int, CBaseEntity**)
+  CBaseCombatCharacter::GiveAmmo(int, char const*, bool)
+  CBaseCombatCharacter::GiveAmmo(int, int, bool)
+  CBaseCombatCharacter::Precache()
+  CBaseCombatCharacter::CorpseGib(CTakeDamageInfo const&)
+  CBaseCombatCharacter::ShouldGib(CTakeDamageInfo const&)
+  CBaseCombatCharacter::CBaseCombatCharacter()
+  CBaseCombatCharacter::~CBaseCombatCharacter()
+  CBaseCombatCharacter::GetAmmoCount(int) const
+  CBaseCombatCharacter::IsInAVehicle() const
+  CBaseCombatCharacter::IsHiddenByFog(CBaseEntity*) const
+  CBaseCombatCharacter::IsHiddenByFog(Vector const&) const
+  CBaseCombatCharacter::IsHiddenByFog(float) const
+  CBaseCombatCharacter::GetActiveWeapon() const
+  CBaseCombatCharacter::IsInFieldOfView(CBaseEntity*) const
+  CBaseCombatCharacter::IsInFieldOfView(Vector const&) const
+  CBaseCombatCharacter::GetAliveDuration() const
+  CBaseCombatCharacter::GetLastKnownArea() const
+  CBaseCombatCharacter::IsLookingTowards(CBaseEntity const*, float) const
+  CBaseCombatCharacter::IsLookingTowards(Vector const&, float) const
+  CBaseCombatCharacter::IsAreaTraversable(CNavArea const*) const
+  CBaseCombatCharacter::HasEverBeenInjured(int) const
+  CBaseCombatCharacter::GetFogObscuredRatio(CBaseEntity*) const
+  CBaseCombatCharacter::GetFogObscuredRatio(Vector const&) const
+  CBaseCombatCharacter::GetFogObscuredRatio(float) const
+  CBaseCombatCharacter::GetTimeSinceLastInjury(int) const

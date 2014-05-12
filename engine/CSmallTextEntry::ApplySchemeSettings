@@ -1,0 +1,2 @@
+CSmallTextEntry::ApplySchemeSettings
+  CSmallTextEntry::ApplySchemeSettings(vgui::IScheme*)

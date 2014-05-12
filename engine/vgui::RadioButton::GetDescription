@@ -1,0 +1,2 @@
+vgui::RadioButton::GetDescription
+  vgui::RadioButton::GetDescription()::buf

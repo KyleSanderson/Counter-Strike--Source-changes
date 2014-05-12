@@ -1,0 +1,2 @@
+CBoolProperty::SetData
+  CBoolProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

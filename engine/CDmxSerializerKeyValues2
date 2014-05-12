@@ -1,0 +1,7 @@
+CDmxSerializerKeyValues2
+  CDmxSerializerKeyValues2::SaveElement(CUtlBuffer&, CDmxSerializationDictionary&, CDmxElement*, bool)
+  CDmxSerializerKeyValues2::SerializeAttributes(CUtlBuffer&, CDmxSerializationDictionary&, CDmxElement*)
+  CDmxSerializerKeyValues2::SerializeArrayAttribute(CUtlBuffer&, CDmxAttribute*)
+  CDmxSerializerKeyValues2::SerializeElementAttribute(CUtlBuffer&, CDmxSerializationDictionary&, CDmxAttribute*)
+  CDmxSerializerKeyValues2::SerializeElementArrayAttribute(CUtlBuffer&, CDmxSerializationDictionary&, CDmxAttribute*)
+  CDmxSerializerKeyValues2::Serialize(CUtlBuffer&, CDmxElement*, char const*)

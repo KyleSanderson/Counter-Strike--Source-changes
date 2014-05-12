@@ -1,0 +1,2 @@
+CConPanel::ApplySchemeSettings
+  CConPanel::ApplySchemeSettings(vgui::IScheme*)

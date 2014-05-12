@@ -1,0 +1,8 @@
+CGenericNPC
+  CGenericNPC::MaxYawSpeed()
+  CGenericNPC::TempGunEffect()
+  CGenericNPC::GetSoundInterests()
+  CGenericNPC::Spawn()
+  CGenericNPC::Classify()
+  CGenericNPC::Precache()
+  CGenericNPC::~CGenericNPC()

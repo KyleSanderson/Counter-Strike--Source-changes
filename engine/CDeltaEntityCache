@@ -1,0 +1,2 @@
+CDeltaEntityCache
+  CDeltaEntityCache::FindDeltaBits(int, int, int&)

@@ -1,0 +1,11 @@
+CQueuedPacketSender
+  CQueuedPacketSender::QueuePacket(INetChannel*, int, char const*, int, sockaddr const*, int, unsigned int)
+  CQueuedPacketSender::ClearQueuedPacketsForChannel(INetChannel*)
+  CQueuedPacketSender::Run()
+  CQueuedPacketSender::Setup()
+  CQueuedPacketSender::Start(unsigned int)
+  CQueuedPacketSender::Shutdown()
+  CQueuedPacketSender::IsRunning()
+  CQueuedPacketSender::CQueuedPacketSender()
+  CQueuedPacketSender::~CQueuedPacketSender()
+  CQueuedPacketSender::HasQueuedPackets(INetChannel const*) const

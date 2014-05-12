@@ -1,0 +1,2 @@
+vgui::ToolWindow
+  vgui::ToolWindow::GetToolWindowFactory()

@@ -1,0 +1,4 @@
+CCSBotManager::BreakPropEvent
+  CCSBotManager::BreakPropEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BreakPropEvent::~BreakPropEvent()
+  CCSBotManager::BreakPropEvent::GetEventName() const

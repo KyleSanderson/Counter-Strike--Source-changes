@@ -1,0 +1,2 @@
+MapPropOffsetsToIndices
+  MapPropOffsetsToIndices(CBaseEdict const*, CSendTablePrecalc*, unsigned short const*, unsigned short, unsigned short*)::testDict

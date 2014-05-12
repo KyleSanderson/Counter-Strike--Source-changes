@@ -1,0 +1,4 @@
+CCSGameRulesProxy
+  CCSGameRulesProxy::GetServerClass()
+  CCSGameRulesProxy::YouForgotToImplementOrDeclareServerClass()
+  CCSGameRulesProxy::~CCSGameRulesProxy()

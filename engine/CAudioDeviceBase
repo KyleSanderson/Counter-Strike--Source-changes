@@ -1,0 +1,4 @@
+CAudioDeviceBase
+  CAudioDeviceBase::IsSurround()
+  CAudioDeviceBase::IsHeadphone()
+  CAudioDeviceBase::IsSurroundCenter()

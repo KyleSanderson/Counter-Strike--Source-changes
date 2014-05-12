@@ -1,0 +1,2 @@
+CollectArriveFirstSpotsFunctor
+  CollectArriveFirstSpotsFunctor::operator()(CNavArea*)

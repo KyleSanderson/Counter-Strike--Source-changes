@@ -1,0 +1,6 @@
+RocketTrail
+  RocketTrail::GetDataDescMap()
+  RocketTrail::GetServerClass()
+  RocketTrail::YouForgotToImplementOrDeclareServerClass()
+  RocketTrail::RocketTrail()
+  RocketTrail::~RocketTrail()

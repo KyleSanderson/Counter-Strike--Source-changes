@@ -1,0 +1,10 @@
+CBotManager
+  CBotManager::AddGrenade(CBaseGrenade*)
+  CBotManager::StartFrame()
+  CBotManager::RestartRound()
+  CBotManager::RemoveGrenade(CBaseGrenade*)
+  CBotManager::AddDebugMessage(char const*)
+  CBotManager::SetGrenadeRadius(CBaseGrenade*, float)
+  CBotManager::ValidateActiveGrenades()
+  CBotManager::CBotManager()
+  CBotManager::~CBotManager()

@@ -1,0 +1,7 @@
+CPhysHinge
+  CPhysHinge::Deactivate()
+  CPhysHinge::GetDataDescMap()
+  CPhysHinge::DrawDebugGeometryOverlays()
+  CPhysHinge::NotifyVPhysicsStateChanged(IPhysicsObject*, CBaseEntity*, bool)
+  CPhysHinge::Spawn()
+  CPhysHinge::~CPhysHinge()

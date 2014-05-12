@@ -1,0 +1,7 @@
+CEmptyConVar
+  CEmptyConVar::SetValue(char const*)
+  CEmptyConVar::SetValue(float)
+  CEmptyConVar::SetValue(int)
+  CEmptyConVar::~CEmptyConVar()
+  CEmptyConVar::GetName() const
+  CEmptyConVar::IsFlagSet(int) const

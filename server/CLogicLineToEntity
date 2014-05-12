@@ -1,0 +1,6 @@
+CLogicLineToEntity
+  CLogicLineToEntity::GetDataDescMap()
+  CLogicLineToEntity::Spawn()
+  CLogicLineToEntity::Think()
+  CLogicLineToEntity::Activate()
+  CLogicLineToEntity::~CLogicLineToEntity()

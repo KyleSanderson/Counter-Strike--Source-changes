@@ -1,0 +1,8 @@
+CTSListWithFreeList
+  CTSListWithFreeList<CBaseHandle>::Purge()
+  CTSListWithFreeList<CBaseHandle>::RemoveAll()
+  CTSListWithFreeList<CBaseHandle>::CTSListWithFreeList()
+  CTSListWithFreeList<CBaseHandle>::~CTSListWithFreeList()
+  CTSListWithFreeList<CNavArea::AreaBindInfo>::Purge()
+  CTSListWithFreeList<CNavArea::AreaBindInfo>::CTSListWithFreeList()
+  CTSListWithFreeList<CNavArea::AreaBindInfo>::~CTSListWithFreeList()

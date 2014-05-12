@@ -1,0 +1,13 @@
+CColorCurvesUIPanel
+  CColorCurvesUIPanel::GetAnimMap()
+  CColorCurvesUIPanel::GetOperation()
+  CColorCurvesUIPanel::GetMessageMap()
+  CColorCurvesUIPanel::OnTextChanged(KeyValues*)
+  CColorCurvesUIPanel::GetPanelClassName()
+  CColorCurvesUIPanel::OnColorMaskSelected()
+  CColorCurvesUIPanel::Init()
+  CColorCurvesUIPanel::GetKBMap()
+  CColorCurvesUIPanel::Shutdown()
+  CColorCurvesUIPanel::OnCommand(char const*)
+  CColorCurvesUIPanel::OnMessage(KeyValues const*, unsigned int)
+  CColorCurvesUIPanel::~CColorCurvesUIPanel()

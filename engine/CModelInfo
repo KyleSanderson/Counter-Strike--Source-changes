@@ -1,0 +1,20 @@
+CModelInfo
+  CModelInfo::GetVCollide(int)
+  CModelInfo::OnLevelChange()
+  CModelInfo::GetModelContents(int)
+  CModelInfo::AddRefDynamicModel(int)
+  CModelInfo::LookupDynamicModel(int)
+  CModelInfo::ReleaseDynamicModel(int)
+  CModelInfo::IsDynamicModelLoading(int)
+  CModelInfo::SetViewScreenFadeRange(float, float)
+  CModelInfo::SetLevelScreenFadeRange(float, float)
+  CModelInfo::RegisterModelLoadCallback(int, IModelLoadCallback*, bool)
+  CModelInfo::GetCollideForVirtualTerrain(int)
+  CModelInfo::UnregisterModelLoadCallback(int, IModelLoadCallback*)
+  CModelInfo::GetSurfacepropsForVirtualTerrain(int)
+  CModelInfo::~CModelInfo()
+  CModelInfo::GetModelIndex(char const*) const
+  CModelInfo::ComputeViewScreenFade(Vector const&, float, float) const
+  CModelInfo::ComputeLevelScreenFade(Vector const&, float, float) const
+  CModelInfo::GetModelClientSideIndex(char const*) const
+  CModelInfo::FindModel(void*) const

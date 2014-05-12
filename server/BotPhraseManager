@@ -1,0 +1,7 @@
+BotPhraseManager
+  BotPhraseManager::Initialize(char const*, int)
+  BotPhraseManager::OnMapChange()
+  BotPhraseManager::OnRoundRestart()
+  BotPhraseManager::Reset()
+  BotPhraseManager::BotPhraseManager()
+  BotPhraseManager::GetPhrase(char const*) const

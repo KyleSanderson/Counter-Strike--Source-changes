@@ -1,0 +1,4 @@
+CCSBotManager::FlashbangDetonateEvent
+  CCSBotManager::FlashbangDetonateEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::FlashbangDetonateEvent::~FlashbangDetonateEvent()
+  CCSBotManager::FlashbangDetonateEvent::GetEventName() const

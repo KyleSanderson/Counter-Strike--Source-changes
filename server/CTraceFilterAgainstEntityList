@@ -1,0 +1,3 @@
+CTraceFilterAgainstEntityList
+  CTraceFilterAgainstEntityList::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterAgainstEntityList::GetTraceType() const

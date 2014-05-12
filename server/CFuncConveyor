@@ -1,0 +1,8 @@
+CFuncConveyor
+  CFuncConveyor::GetDataDescMap()
+  CFuncConveyor::GetServerClass()
+  CFuncConveyor::GetGroundVelocityToApply(Vector&)
+  CFuncConveyor::YouForgotToImplementOrDeclareServerClass()
+  CFuncConveyor::Spawn()
+  CFuncConveyor::CFuncConveyor()
+  CFuncConveyor::~CFuncConveyor()

@@ -1,0 +1,11 @@
+CParticleSystemMgr
+  CParticleSystemMgr::ShouldLoadSheets(bool)
+  CParticleSystemMgr::DecommitTempMemory()
+  CParticleSystemMgr::FindParticleSystem(char const*)
+  CParticleSystemMgr::GetParticleSystemCount()
+  CParticleSystemMgr::ReadParticleConfigFile(char const*, bool, bool)
+  CParticleSystemMgr::ReadParticleConfigFile(CUtlBuffer&, bool, bool, char const*)
+  CParticleSystemMgr::ReadParticleDefinitions(CUtlBuffer&, char const*, bool, bool)
+  CParticleSystemMgr::GetParticleSystemNameFromIndex(int)
+  CParticleSystemMgr::Init(IParticleSystemQuery*)
+  CParticleSystemMgr::~CParticleSystemMgr()

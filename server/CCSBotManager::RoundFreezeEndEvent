@@ -1,0 +1,4 @@
+CCSBotManager::RoundFreezeEndEvent
+  CCSBotManager::RoundFreezeEndEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::RoundFreezeEndEvent::~RoundFreezeEndEvent()
+  CCSBotManager::RoundFreezeEndEvent::GetEventName() const

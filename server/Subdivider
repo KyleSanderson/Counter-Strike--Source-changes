@@ -1,0 +1,3 @@
+Subdivider
+  Subdivider::SubdivideX(CNavArea*, bool, bool, int)
+  Subdivider::SubdivideY(CNavArea*, bool, bool, int)

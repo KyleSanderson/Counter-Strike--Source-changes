@@ -1,0 +1,2 @@
+CEntityWriteInfo
+  CEntityWriteInfo::~CEntityWriteInfo()

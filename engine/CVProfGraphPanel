@@ -1,0 +1,7 @@
+CVProfGraphPanel
+  CVProfGraphPanel::ShouldDraw()
+  CVProfGraphPanel::PaintLineArt(int, int, int)
+  CVProfGraphPanel::Paint()
+  CVProfGraphPanel::OnTick()
+  CVProfGraphPanel::CVProfGraphPanel(unsigned int)
+  CVProfGraphPanel::~CVProfGraphPanel()

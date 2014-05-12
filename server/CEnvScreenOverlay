@@ -1,0 +1,9 @@
+CEnvScreenOverlay
+  CEnvScreenOverlay::GetDataDescMap()
+  CEnvScreenOverlay::GetServerClass()
+  CEnvScreenOverlay::UpdateTransmitState()
+  CEnvScreenOverlay::YouForgotToImplementOrDeclareServerClass()
+  CEnvScreenOverlay::Spawn()
+  CEnvScreenOverlay::Precache()
+  CEnvScreenOverlay::CEnvScreenOverlay()
+  CEnvScreenOverlay::~CEnvScreenOverlay()

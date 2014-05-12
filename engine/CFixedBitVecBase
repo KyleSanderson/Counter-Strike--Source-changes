@@ -1,0 +1,2 @@
+CFixedBitVecBase
+  CFixedBitVecBase<2048>::FindNextSetBit(int) const

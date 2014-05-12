@@ -1,0 +1,2 @@
+vgui::CBuildFactoryHelper
+  vgui::CBuildFactoryHelper::InstancePanel(char const*)

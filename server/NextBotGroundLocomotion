@@ -1,0 +1,51 @@
+NextBotGroundLocomotion
+  NextBotGroundLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
+  NextBotGroundLocomotion::FaceTowards(Vector const&)
+  NextBotGroundLocomotion::SetVelocity(Vector const&)
+  NextBotGroundLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
+  NextBotGroundLocomotion::OnLeaveGround(CBaseEntity*)
+  NextBotGroundLocomotion::OnLandOnGround(CBaseEntity*)
+  NextBotGroundLocomotion::SetDesiredLean(QAngle const&)
+  NextBotGroundLocomotion::UpdatePosition(Vector const&)
+  NextBotGroundLocomotion::OnMoveToFailure(Path const*, MoveToFailureType)
+  NextBotGroundLocomotion::OnMoveToSuccess(Path const*)
+  NextBotGroundLocomotion::SetAcceleration(Vector const&)
+  NextBotGroundLocomotion::SetDesiredSpeed(float)
+  NextBotGroundLocomotion::UpdateGroundConstraint()
+  NextBotGroundLocomotion::ApplyAccumulatedApproach()
+  NextBotGroundLocomotion::Run()
+  NextBotGroundLocomotion::Jump()
+  NextBotGroundLocomotion::Stop()
+  NextBotGroundLocomotion::Walk()
+  NextBotGroundLocomotion::Reset()
+  NextBotGroundLocomotion::Update()
+  NextBotGroundLocomotion::DriveTo(Vector const&)
+  NextBotGroundLocomotion::Approach(Vector const&, float)
+  NextBotGroundLocomotion::NextBotGroundLocomotion(INextBot*)
+  NextBotGroundLocomotion::~NextBotGroundLocomotion()
+  NextBotGroundLocomotion::GetGravity() const
+  NextBotGroundLocomotion::IsOnGround() const
+  NextBotGroundLocomotion::GetRunSpeed() const
+  NextBotGroundLocomotion::GetVelocity() const
+  NextBotGroundLocomotion::GetWalkSpeed() const
+  NextBotGroundLocomotion::GetMaxYawRate() const
+  NextBotGroundLocomotion::GetSpeedLimit() const
+  NextBotGroundLocomotion::GetStepHeight() const
+  NextBotGroundLocomotion::IsUsingLadder() const
+  NextBotGroundLocomotion::GetDesiredLean() const
+  NextBotGroundLocomotion::GetAcceleration() const
+  NextBotGroundLocomotion::GetDesiredSpeed() const
+  NextBotGroundLocomotion::GetGroundNormal() const
+  NextBotGroundLocomotion::GetMaxJumpHeight() const
+  NextBotGroundLocomotion::GetDeathDropHeight() const
+  NextBotGroundLocomotion::GetFrictionForward() const
+  NextBotGroundLocomotion::GetMaxAcceleration() const
+  NextBotGroundLocomotion::GetMaxDeceleration() const
+  NextBotGroundLocomotion::IsJumpingAcrossGap() const
+  NextBotGroundLocomotion::GetFrictionSideways() const
+  NextBotGroundLocomotion::IsClimbingOrJumping() const
+  NextBotGroundLocomotion::IsClimbingUpToLedge() const
+  NextBotGroundLocomotion::IsAscendingOrDescendingLadder() const
+  NextBotGroundLocomotion::GetFeet() const
+  NextBotGroundLocomotion::GetGround() const
+  NextBotGroundLocomotion::IsRunning() const

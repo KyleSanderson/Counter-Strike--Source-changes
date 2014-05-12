@@ -1,0 +1,3 @@
+CEntityBlocker
+  CEntityBlocker::Spawn()
+  CEntityBlocker::~CEntityBlocker()

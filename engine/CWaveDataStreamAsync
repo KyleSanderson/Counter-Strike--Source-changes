@@ -1,0 +1,6 @@
+CWaveDataStreamAsync
+  CWaveDataStreamAsync::IsReadyToMix()
+  CWaveDataStreamAsync::ReadSourceData(void**, int, int, char*)
+  CWaveDataStreamAsync::Source()
+  CWaveDataStreamAsync::CWaveDataStreamAsync(CAudioSource&, IWaveStreamSource*, char const*, int, int, CSfxTable*, int)
+  CWaveDataStreamAsync::~CWaveDataStreamAsync()

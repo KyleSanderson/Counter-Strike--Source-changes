@@ -1,0 +1,2 @@
+CBaseCombatCharacter::FindEntityRelationship
+  CBaseCombatCharacter::FindEntityRelationship(CBaseEntity*)::dummy

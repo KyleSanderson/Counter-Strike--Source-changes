@@ -1,0 +1,2 @@
+CBoolProperty::InitFromDefault
+  CBoolProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

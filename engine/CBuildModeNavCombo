@@ -1,0 +1,6 @@
+CBuildModeNavCombo
+  CBuildModeNavCombo::GetAnimMap()
+  CBuildModeNavCombo::GetMessageMap()
+  CBuildModeNavCombo::GetPanelClassName()
+  CBuildModeNavCombo::GetKBMap()
+  CBuildModeNavCombo::~CBuildModeNavCombo()

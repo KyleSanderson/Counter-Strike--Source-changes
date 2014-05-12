@@ -1,0 +1,6 @@
+CChildOperatorDefinition
+  CChildOperatorDefinition::IsObsolete() const
+  CChildOperatorDefinition::GetClassSize() const
+  CChildOperatorDefinition::GetUnpackStructure() const
+  CChildOperatorDefinition::GetId() const
+  CChildOperatorDefinition::GetName() const

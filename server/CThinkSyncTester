@@ -1,0 +1,5 @@
+CThinkSyncTester
+  CThinkSyncTester::FindOrAddItem(CBaseEntity*, float)
+  CThinkSyncTester::EntityThinking(int, CBaseEntity*, float, int)
+  CThinkSyncTester::Report()
+  CThinkSyncTester::~CThinkSyncTester()

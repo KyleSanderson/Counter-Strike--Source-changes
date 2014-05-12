@@ -1,0 +1,6 @@
+vgui::Divider
+  vgui::Divider::GetAnimMap()
+  vgui::Divider::GetMessageMap()
+  vgui::Divider::GetPanelClassName()
+  vgui::Divider::GetKBMap()
+  vgui::Divider::~Divider()

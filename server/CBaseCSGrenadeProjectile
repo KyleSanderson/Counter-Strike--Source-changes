@@ -1,0 +1,13 @@
+CBaseCSGrenadeProjectile
+  CBaseCSGrenadeProjectile::GetDataDescMap()
+  CBaseCSGrenadeProjectile::GetServerClass()
+  CBaseCSGrenadeProjectile::PostConstructor(char const*)
+  CBaseCSGrenadeProjectile::DangerSoundThink()
+  CBaseCSGrenadeProjectile::GetShakeAmplitude()
+  CBaseCSGrenadeProjectile::SetDetonateTimerLength(float)
+  CBaseCSGrenadeProjectile::ResolveFlyCollisionCustom(CGameTrace&, Vector&)
+  CBaseCSGrenadeProjectile::SetupInitialTransmittedGrenadeVelocity(Vector const&)
+  CBaseCSGrenadeProjectile::YouForgotToImplementOrDeclareServerClass()
+  CBaseCSGrenadeProjectile::Spawn()
+  CBaseCSGrenadeProjectile::Splash()
+  CBaseCSGrenadeProjectile::~CBaseCSGrenadeProjectile()

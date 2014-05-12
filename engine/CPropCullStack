@@ -1,0 +1,3 @@
+CPropCullStack
+  CPropCullStack::CullPropsFromProxies(int const*, int, int*, int)
+  CPropCullStack::RecurseAndCallProxies(CSendNode*, unsigned char*)

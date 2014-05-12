@@ -1,0 +1,3 @@
+SCSSDeathData
+  SCSSDeathData::BuildGamestatDataTable(KeyValues*)
+  SCSSDeathData::SCSSDeathData(CBasePlayer*, CTakeDamageInfo const&)

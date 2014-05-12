@@ -1,0 +1,3 @@
+CFlaggedEntitiesEnum
+  CFlaggedEntitiesEnum::EnumElement(IHandleEntity*)
+  CFlaggedEntitiesEnum::CFlaggedEntitiesEnum(CBaseEntity**, int, int)

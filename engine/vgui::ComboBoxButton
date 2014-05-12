@@ -1,0 +1,5 @@
+vgui::ComboBoxButton
+  vgui::ComboBoxButton::OnCursorExited()
+  vgui::ComboBoxButton::GetButtonBgColor()
+  vgui::ComboBoxButton::GetBorder(bool, bool, bool, bool)
+  vgui::ComboBoxButton::~ComboBoxButton()

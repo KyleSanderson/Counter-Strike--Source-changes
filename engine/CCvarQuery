@@ -1,0 +1,5 @@
+CCvarQuery
+  CCvarQuery::QueryInterface(char const*)
+  CCvarQuery::Init()
+  CCvarQuery::Connect(void* (*)(char const*, int*))
+  CCvarQuery::Shutdown()

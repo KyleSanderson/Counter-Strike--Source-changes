@@ -1,0 +1,3 @@
+InFileRIFF
+  InFileRIFF::InFileRIFF(char const*, IFileReadBinary&)
+  InFileRIFF::~InFileRIFF()

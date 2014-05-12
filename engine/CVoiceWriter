@@ -1,0 +1,5 @@
+CVoiceWriter
+  CVoiceWriter::AddDecompressedData(CVoiceChannel*, unsigned char const*, unsigned long)
+  CVoiceWriter::Flush()
+  CVoiceWriter::Finish()
+  CVoiceWriter::~CVoiceWriter()

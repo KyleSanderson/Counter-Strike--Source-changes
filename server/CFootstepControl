@@ -1,0 +1,7 @@
+CFootstepControl
+  CFootstepControl::GetDataDescMap()
+  CFootstepControl::GetServerClass()
+  CFootstepControl::UpdateTransmitState()
+  CFootstepControl::YouForgotToImplementOrDeclareServerClass()
+  CFootstepControl::Spawn()
+  CFootstepControl::~CFootstepControl()

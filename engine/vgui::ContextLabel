@@ -1,0 +1,6 @@
+vgui::ContextLabel
+  vgui::ContextLabel::GetAnimMap()
+  vgui::ContextLabel::GetMessageMap()
+  vgui::ContextLabel::GetPanelClassName()
+  vgui::ContextLabel::GetKBMap()
+  vgui::ContextLabel::~ContextLabel()

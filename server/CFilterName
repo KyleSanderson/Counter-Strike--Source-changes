@@ -1,0 +1,3 @@
+CFilterName
+  CFilterName::GetDataDescMap()
+  CFilterName::~CFilterName()

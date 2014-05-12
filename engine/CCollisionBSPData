@@ -1,0 +1,3 @@
+CCollisionBSPData
+  CCollisionBSPData::nullsurface
+  CCollisionBSPData::~CCollisionBSPData()

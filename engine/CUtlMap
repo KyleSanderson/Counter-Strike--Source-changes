@@ -1,0 +1,3 @@
+CUtlMap
+  CUtlMap<void*, DecalEntry, unsigned short>::~CUtlMap()
+  CUtlMap<void*, SfxDictEntry, unsigned short>::~CUtlMap()

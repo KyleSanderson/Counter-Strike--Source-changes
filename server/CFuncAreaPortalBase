@@ -1,0 +1,6 @@
+CFuncAreaPortalBase
+  CFuncAreaPortalBase::ObjectCaps()
+  CFuncAreaPortalBase::GetDataDescMap()
+  CFuncAreaPortalBase::UpdateVisibility(Vector const&, float, bool&)
+  CFuncAreaPortalBase::CFuncAreaPortalBase()
+  CFuncAreaPortalBase::~CFuncAreaPortalBase()

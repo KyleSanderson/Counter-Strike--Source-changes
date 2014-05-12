@@ -1,0 +1,13 @@
+CMapLoadHelper
+  CMapLoadHelper::LumpOffset()
+  CMapLoadHelper::GetDiskName()
+  CMapLoadHelper::LoadLumpData(int, int, void*)
+  CMapLoadHelper::LoadLumpElement(int, int, void*)
+  CMapLoadHelper::GetMap()
+  CMapLoadHelper::LumpBase()
+  CMapLoadHelper::LumpSize(int)
+  CMapLoadHelper::LumpSize()
+  CMapLoadHelper::Shutdown()
+  CMapLoadHelper::CMapLoadHelper(int)
+  CMapLoadHelper::~CMapLoadHelper()
+  CMapLoadHelper::LumpVersion() const

@@ -1,0 +1,2 @@
+CTriggerTraceEnum
+  CTriggerTraceEnum::EnumEntity(IHandleEntity*)

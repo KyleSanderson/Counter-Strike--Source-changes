@@ -1,0 +1,7 @@
+CEngineTraceClient
+  CEngineTraceClient::GetCollideable(IHandleEntity*)
+  CEngineTraceClient::SetTraceEntity(ICollideable*, CGameTrace*)
+  CEngineTraceClient::GetWorldCollideable()
+  CEngineTraceClient::HandleEntityToCollideable(IHandleEntity*, ICollideable**, char const**)
+  CEngineTraceClient::SpatialPartitionMask() const
+  CEngineTraceClient::SpatialPartitionTriggerMask() const

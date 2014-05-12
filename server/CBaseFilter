@@ -1,0 +1,5 @@
+CBaseFilter
+  CBaseFilter::GetDataDescMap()
+  CBaseFilter::PassesDamageFilter(CTakeDamageInfo const&)
+  CBaseFilter::PassesDamageFilterImpl(CTakeDamageInfo const&)
+  CBaseFilter::~CBaseFilter()

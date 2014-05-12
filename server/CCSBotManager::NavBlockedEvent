@@ -1,0 +1,4 @@
+CCSBotManager::NavBlockedEvent
+  CCSBotManager::NavBlockedEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::NavBlockedEvent::~NavBlockedEvent()
+  CCSBotManager::NavBlockedEvent::GetEventName() const

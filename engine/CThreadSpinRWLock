@@ -1,0 +1,5 @@
+CThreadSpinRWLock
+  CThreadSpinRWLock::UnlockRead()
+  CThreadSpinRWLock::LockForRead()
+  CThreadSpinRWLock::UnlockWrite()
+  CThreadSpinRWLock::SpinLockForWrite(unsigned int)

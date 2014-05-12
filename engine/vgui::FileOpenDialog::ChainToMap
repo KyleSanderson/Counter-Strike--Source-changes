@@ -1,0 +1,2 @@
+vgui::FileOpenDialog::ChainToMap
+  vgui::FileOpenDialog::ChainToMap()::chained

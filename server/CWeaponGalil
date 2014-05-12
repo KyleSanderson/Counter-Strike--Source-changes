@@ -1,0 +1,7 @@
+CWeaponGalil
+  CWeaponGalil::PrimaryAttack()
+  CWeaponGalil::GetServerClass()
+  CWeaponGalil::YouForgotToImplementOrDeclareServerClass()
+  CWeaponGalil::~CWeaponGalil()
+  CWeaponGalil::GetWeaponID() const
+  CWeaponGalil::GetInaccuracy() const

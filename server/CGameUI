@@ -1,0 +1,5 @@
+CGameUI
+  CGameUI::Deactivate(CBaseEntity*)
+  CGameUI::GetDataDescMap()
+  CGameUI::Think()
+  CGameUI::~CGameUI()

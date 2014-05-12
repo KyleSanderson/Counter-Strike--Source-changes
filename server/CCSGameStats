@@ -1,0 +1,23 @@
+CCSGameStats
+  CCSGameStats::PlayerKilled(CBasePlayer*, CTakeDamageInfo const&)
+  CCSGameStats::FireGameEvent(IGameEvent*)
+  CCSGameStats::ResetAllStats()
+  CCSGameStats::PreClientUpdate()
+  CCSGameStats::ResetRoundStats()
+  CCSGameStats::SubmitGameStats(KeyValues*)
+  CCSGameStats::ResetPlayerStats(CBasePlayer*)
+  CCSGameStats::UploadRoundStats()
+  CCSGameStats::SendStatsToPlayer(CCSPlayer*, int)
+  CCSGameStats::GetStatContainerList()
+  CCSGameStats::UpdatePlayerRoundStats(int)
+  CCSGameStats::ComputeDirectStatAverages()
+  CCSGameStats::ResetPlayerClassMatchStats()
+  CCSGameStats::SendDirectStatsAveragesToAllPlayers()
+  CCSGameStats::LevelShutdownPreClearSteamAPIContext()
+  CCSGameStats::Init()
+  CCSGameStats::Clear()
+  CCSGameStats::PostInit()
+  CCSGameStats::CCSGameStats()
+  CCSGameStats::~CCSGameStats()
+  CCSGameStats::GetTeamStats(int) const
+  CCSGameStats::FindPlayerStats(CBasePlayer*) const

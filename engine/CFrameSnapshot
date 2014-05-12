@@ -1,0 +1,5 @@
+CFrameSnapshot
+  CFrameSnapshot::AddReference()
+  CFrameSnapshot::ReleaseReference()
+  CFrameSnapshot::~CFrameSnapshot()
+  CFrameSnapshot::NextSnapshot() const

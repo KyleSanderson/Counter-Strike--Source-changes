@@ -1,0 +1,3 @@
+CBaseEdict
+  CBaseEdict::GetChangeAccessor()
+  CBaseEdict::GetChangeAccessor() const

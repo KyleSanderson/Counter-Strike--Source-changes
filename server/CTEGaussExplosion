@@ -1,0 +1,5 @@
+CTEGaussExplosion
+  CTEGaussExplosion::GetServerClass()
+  CTEGaussExplosion::YouForgotToImplementOrDeclareServerClass()
+  CTEGaussExplosion::Test(Vector const&, QAngle const&)
+  CTEGaussExplosion::~CTEGaussExplosion()

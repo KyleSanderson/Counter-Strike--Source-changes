@@ -1,0 +1,6 @@
+OpenDoorState
+  OpenDoorState::OnExit(CCSBot*)
+  OpenDoorState::OnEnter(CCSBot*)
+  OpenDoorState::SetDoor(CBaseEntity*)
+  OpenDoorState::OnUpdate(CCSBot*)
+  OpenDoorState::GetName() const

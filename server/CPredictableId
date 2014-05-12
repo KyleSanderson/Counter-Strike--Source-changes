@@ -1,0 +1,6 @@
+CPredictableId
+  CPredictableId::ResetInstanceCounters()
+  CPredictableId::CPredictableId()
+  CPredictableId::GetRaw() const
+  CPredictableId::IsActive() const
+  CPredictableId::GetPlayer() const

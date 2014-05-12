@@ -1,0 +1,8 @@
+CFlexCycler
+  CFlexCycler::ObjectCaps()
+  CFlexCycler::OnTakeDamage(CTakeDamageInfo const&)
+  CFlexCycler::GetDataDescMap()
+  CFlexCycler::ProcessSceneEvents()
+  CFlexCycler::Spawn()
+  CFlexCycler::Think()
+  CFlexCycler::IsAlive()

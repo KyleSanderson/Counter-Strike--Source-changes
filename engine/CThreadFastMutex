@@ -1,0 +1,2 @@
+CThreadFastMutex
+  CThreadFastMutex::Lock(unsigned int, unsigned int) volatile

@@ -1,0 +1,4 @@
+CMathRemap
+  CMathRemap::GetDataDescMap()
+  CMathRemap::Spawn()
+  CMathRemap::~CMathRemap()

@@ -1,0 +1,5 @@
+CEngineUniformRandomStream
+  CEngineUniformRandomStream::RandomFloat(float, float)
+  CEngineUniformRandomStream::RandomFloatExp(float, float, float)
+  CEngineUniformRandomStream::SetSeed(int)
+  CEngineUniformRandomStream::RandomInt(int, int)

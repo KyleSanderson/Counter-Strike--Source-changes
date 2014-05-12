@@ -1,0 +1,12 @@
+CPoseController
+  CPoseController::SetPoseValue(float)
+  CPoseController::BuildPropList()
+  CPoseController::RandomizeFMod(float)
+  CPoseController::GetDataDescMap()
+  CPoseController::GetServerClass()
+  CPoseController::SetCurrentPose(float)
+  CPoseController::BuildPoseIndexList()
+  CPoseController::YouForgotToImplementOrDeclareServerClass()
+  CPoseController::Spawn()
+  CPoseController::Think()
+  CPoseController::~CPoseController()

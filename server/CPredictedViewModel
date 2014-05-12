@@ -1,0 +1,4 @@
+CPredictedViewModel
+  CPredictedViewModel::GetServerClass()
+  CPredictedViewModel::YouForgotToImplementOrDeclareServerClass()
+  CPredictedViewModel::~CPredictedViewModel()

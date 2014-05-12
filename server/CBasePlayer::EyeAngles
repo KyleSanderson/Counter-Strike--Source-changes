@@ -1,0 +1,2 @@
+CBasePlayer::EyeAngles
+  CBasePlayer::EyeAngles()::angEyeWorld

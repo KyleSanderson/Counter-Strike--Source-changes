@@ -1,0 +1,4 @@
+CPhysSphere
+  CPhysSphere::CreateVPhysics()
+  CPhysSphere::OverridePropdata()
+  CPhysSphere::~CPhysSphere()

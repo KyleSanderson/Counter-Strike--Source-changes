@@ -1,0 +1,4 @@
+CFogSystem
+  CFogSystem::LevelInitPreEntity()
+  CFogSystem::LevelInitPostEntity()
+  CFogSystem::~CFogSystem()

@@ -1,0 +1,5 @@
+CPointProximitySensor
+  CPointProximitySensor::GetDataDescMap()
+  CPointProximitySensor::Think()
+  CPointProximitySensor::Activate()
+  CPointProximitySensor::~CPointProximitySensor()

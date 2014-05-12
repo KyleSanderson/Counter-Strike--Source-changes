@@ -1,0 +1,2 @@
+CChannelCullList
+  CChannelCullList::Initialize(CChannelList&)

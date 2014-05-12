@@ -1,0 +1,11 @@
+CUtlCachedFileData
+  CUtlCachedFileData<CModelSoundsCache>::SaveManifest()
+  CUtlCachedFileData<CModelSoundsCache>::CheckDiskInfo(bool, long)
+  CUtlCachedFileData<CModelSoundsCache>::InitLargeBuffer(void*&, bool&)
+  CUtlCachedFileData<CModelSoundsCache>::InitSmallBuffer(void*&, int, bool&)
+  CUtlCachedFileData<CModelSoundsCache>::Get(char const*)
+  CUtlCachedFileData<CModelSoundsCache>::Init()
+  CUtlCachedFileData<CModelSoundsCache>::Save()
+  CUtlCachedFileData<CModelSoundsCache>::GetIndex(char const*)
+  CUtlCachedFileData<CModelSoundsCache>::Shutdown()
+  CUtlCachedFileData<CModelSoundsCache>::~CUtlCachedFileData()

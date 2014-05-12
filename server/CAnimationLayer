@@ -1,0 +1,4 @@
+CAnimationLayer
+  CAnimationLayer::StudioFrameAdvance(float, CBaseAnimating*)
+  CAnimationLayer::Init(CBaseAnimatingOverlay*)
+  CAnimationLayer::CAnimationLayer()

@@ -1,0 +1,16 @@
+CNetworkStringTableContainer
+  CNetworkStringTableContainer::DirectUpdate(int)
+  CNetworkStringTableContainer::AllowCreation(bool)
+  CNetworkStringTableContainer::EnableRollback(bool)
+  CNetworkStringTableContainer::RemoveAllTables()
+  CNetworkStringTableContainer::CreateStringTable(char const*, int, int, int)
+  CNetworkStringTableContainer::CreateStringTableEx(char const*, int, int, int, bool)
+  CNetworkStringTableContainer::SetAllowClientSideAddString(INetworkStringTable*, bool)
+  CNetworkStringTableContainer::Dump()
+  CNetworkStringTableContainer::Lock(bool)
+  CNetworkStringTableContainer::SetTick(int)
+  CNetworkStringTableContainer::CNetworkStringTableContainer()
+  CNetworkStringTableContainer::~CNetworkStringTableContainer()
+  CNetworkStringTableContainer::GetNumTables() const
+  CNetworkStringTableContainer::GetTable(int) const
+  CNetworkStringTableContainer::FindTable(char const*) const

@@ -1,0 +1,13 @@
+CUtlString
+  CUtlString::Get()
+  CUtlString::Set(char const*)
+  CUtlString::SetLength(int)
+  CUtlString::CUtlString(char const*)
+  CUtlString::CUtlString()
+  CUtlString::~CUtlString()
+  CUtlString::operator=(char const*)
+  CUtlString::operator+=(char const*)
+  CUtlString::operator+=(char)
+  CUtlString::Get() const
+  CUtlString::Length() const
+  CUtlString::operator char const*() const

@@ -1,0 +1,9 @@
+CDragDropHelperPanel
+  CDragDropHelperPanel::GetAnimMap()
+  CDragDropHelperPanel::GetMessageMap()
+  CDragDropHelperPanel::PostChildPaint()
+  CDragDropHelperPanel::IsWithinTraverse(int, int, bool)
+  CDragDropHelperPanel::GetPanelClassName()
+  CDragDropHelperPanel::GetKBMap()
+  CDragDropHelperPanel::CDragDropHelperPanel()
+  CDragDropHelperPanel::~CDragDropHelperPanel()

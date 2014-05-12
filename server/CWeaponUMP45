@@ -1,0 +1,10 @@
+CWeaponUMP45
+  CWeaponUMP45::PrimaryAttack()
+  CWeaponUMP45::GetServerClass()
+  CWeaponUMP45::YouForgotToImplementOrDeclareServerClass()
+  CWeaponUMP45::Spawn()
+  CWeaponUMP45::Deploy()
+  CWeaponUMP45::Reload()
+  CWeaponUMP45::~CWeaponUMP45()
+  CWeaponUMP45::GetWeaponID() const
+  CWeaponUMP45::GetInaccuracy() const

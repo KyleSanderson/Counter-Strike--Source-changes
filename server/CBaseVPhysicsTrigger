@@ -1,0 +1,4 @@
+CBaseVPhysicsTrigger
+  CBaseVPhysicsTrigger::PassesTriggerFilters(CBaseEntity*)
+  CBaseVPhysicsTrigger::Spawn()
+  CBaseVPhysicsTrigger::Activate()

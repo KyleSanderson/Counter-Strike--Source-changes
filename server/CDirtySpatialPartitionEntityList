@@ -1,0 +1,8 @@
+CDirtySpatialPartitionEntityList
+  CDirtySpatialPartitionEntityList::OnPreQuery(int)
+  CDirtySpatialPartitionEntityList::OnPostQuery(int)
+  CDirtySpatialPartitionEntityList::LevelShutdownPostEntity()
+  CDirtySpatialPartitionEntityList::Init()
+  CDirtySpatialPartitionEntityList::Shutdown()
+  CDirtySpatialPartitionEntityList::CDirtySpatialPartitionEntityList(char const*)
+  CDirtySpatialPartitionEntityList::~CDirtySpatialPartitionEntityList()

@@ -1,0 +1,4 @@
+CUtlSymbol
+  CUtlSymbol::Initialize()
+  CUtlSymbol::CUtlSymbol(char const*)
+  CUtlSymbol::String() const

@@ -1,0 +1,12 @@
+CPrecacheItem
+  CPrecacheItem::SetGeneric(char const*)
+  CPrecacheItem::GetFirstReference()
+  CPrecacheItem::GetReferenceCount()
+  CPrecacheItem::GetMostRecentReference()
+  CPrecacheItem::GetName()
+  CPrecacheItem::SetName(char const*)
+  CPrecacheItem::GetModel()
+  CPrecacheItem::GetSound()
+  CPrecacheItem::SetDecal(char const*)
+  CPrecacheItem::SetSound(CSfxTable const*)
+  CPrecacheItem::CPrecacheItem()

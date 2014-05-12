@@ -1,0 +1,10 @@
+CWeaponAug
+  CWeaponAug::PrimaryAttack()
+  CWeaponAug::GetServerClass()
+  CWeaponAug::SecondaryAttack()
+  CWeaponAug::YouForgotToImplementOrDeclareServerClass()
+  CWeaponAug::Deploy()
+  CWeaponAug::Reload()
+  CWeaponAug::~CWeaponAug()
+  CWeaponAug::GetWeaponID() const
+  CWeaponAug::GetInaccuracy() const

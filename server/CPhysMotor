@@ -1,0 +1,7 @@
+CPhysMotor
+  CPhysMotor::GetDataDescMap()
+  CPhysMotor::Spawn()
+  CPhysMotor::Think()
+  CPhysMotor::Activate()
+  CPhysMotor::OnRestore()
+  CPhysMotor::~CPhysMotor()

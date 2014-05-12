@@ -1,0 +1,6 @@
+CTEDynamicLight
+  CTEDynamicLight::GetServerClass()
+  CTEDynamicLight::YouForgotToImplementOrDeclareServerClass()
+  CTEDynamicLight::Test(Vector const&, QAngle const&)
+  CTEDynamicLight::CTEDynamicLight(char const*)
+  CTEDynamicLight::~CTEDynamicLight()

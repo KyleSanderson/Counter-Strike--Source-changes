@@ -1,0 +1,6 @@
+CFireTrail
+  CFireTrail::GetDataDescMap()
+  CFireTrail::GetServerClass()
+  CFireTrail::YouForgotToImplementOrDeclareServerClass()
+  CFireTrail::Precache()
+  CFireTrail::~CFireTrail()

@@ -1,0 +1,2 @@
+CTextStat
+  CTextStat::~CTextStat()

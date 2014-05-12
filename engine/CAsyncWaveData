@@ -1,0 +1,5 @@
+CAsyncWaveData
+  CAsyncWaveData::DestroyResource()
+  CAsyncWaveData::BlockingCopyData(void*, int, int, int)
+  CAsyncWaveData::SetAsyncPriority(int)
+  CAsyncWaveData::BlockingGetDataPointer(void**)

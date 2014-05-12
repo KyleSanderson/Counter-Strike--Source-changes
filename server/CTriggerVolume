@@ -1,0 +1,3 @@
+CTriggerVolume
+  CTriggerVolume::Spawn()
+  CTriggerVolume::~CTriggerVolume()

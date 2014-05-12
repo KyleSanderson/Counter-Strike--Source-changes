@@ -1,0 +1,13 @@
+CUtlCachedFileData
+  CUtlCachedFileData<CAudioSourceCachedInfo>::IsUpToDate()
+  CUtlCachedFileData<CAudioSourceCachedInfo>::RebuildItem(char const*)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::SaveManifest()
+  CUtlCachedFileData<CAudioSourceCachedInfo>::CheckDiskInfo(bool, long)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::InitLargeBuffer(void*&, bool&)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::InitSmallBuffer(void*&, int, bool&)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::Get(char const*)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::Init()
+  CUtlCachedFileData<CAudioSourceCachedInfo>::Save()
+  CUtlCachedFileData<CAudioSourceCachedInfo>::GetIndex(char const*)
+  CUtlCachedFileData<CAudioSourceCachedInfo>::Shutdown()
+  CUtlCachedFileData<CAudioSourceCachedInfo>::~CUtlCachedFileData()

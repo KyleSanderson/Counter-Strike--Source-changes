@@ -1,0 +1,5 @@
+CAudioSourceVoice::CWaveDataVoice
+  CAudioSourceVoice::CWaveDataVoice::IsReadyToMix()
+  CAudioSourceVoice::CWaveDataVoice::ReadSourceData(void**, int, int, char*)
+  CAudioSourceVoice::CWaveDataVoice::Source()
+  CAudioSourceVoice::CWaveDataVoice::~CWaveDataVoice()

@@ -1,0 +1,3 @@
+CEnvSplash
+  CEnvSplash::GetDataDescMap()
+  CEnvSplash::~CEnvSplash()

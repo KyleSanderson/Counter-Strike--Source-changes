@@ -1,0 +1,2 @@
+FOVClearOfFriends
+  FOVClearOfFriends::operator()(CBasePlayer*)

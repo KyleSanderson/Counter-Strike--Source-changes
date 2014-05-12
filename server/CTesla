@@ -1,0 +1,11 @@
+CTesla
+  CTesla::ShootArcThink()
+  CTesla::GetDataDescMap()
+  CTesla::GetServerClass()
+  CTesla::YouForgotToImplementOrDeclareServerClass()
+  CTesla::Spawn()
+  CTesla::DoSpark()
+  CTesla::Activate()
+  CTesla::Precache()
+  CTesla::CTesla()
+  CTesla::~CTesla()

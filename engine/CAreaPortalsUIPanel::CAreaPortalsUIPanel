@@ -1,0 +1,2 @@
+CAreaPortalsUIPanel::CAreaPortalsUIPanel
+  CAreaPortalsUIPanel::CAreaPortalsUIPanel(vgui::Panel*)

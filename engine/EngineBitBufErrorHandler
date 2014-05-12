@@ -1,0 +1,2 @@
+EngineBitBufErrorHandler
+  EngineBitBufErrorHandler(BitBufErrorType, char const*)::errorNames

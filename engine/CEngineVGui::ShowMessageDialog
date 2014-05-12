@@ -1,0 +1,2 @@
+CEngineVGui::ShowMessageDialog
+  CEngineVGui::ShowMessageDialog(unsigned int, vgui::Panel*)

@@ -1,0 +1,4 @@
+CEnvViewPunch
+  CEnvViewPunch::GetDataDescMap()
+  CEnvViewPunch::Spawn()
+  CEnvViewPunch::~CEnvViewPunch()

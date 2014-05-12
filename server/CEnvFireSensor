@@ -1,0 +1,5 @@
+CEnvFireSensor
+  CEnvFireSensor::GetDataDescMap()
+  CEnvFireSensor::Spawn()
+  CEnvFireSensor::Think()
+  CEnvFireSensor::~CEnvFireSensor()

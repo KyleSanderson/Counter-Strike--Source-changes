@@ -1,0 +1,4 @@
+CBaseDMStart
+  CBaseDMStart::IsTriggered(CBaseEntity*)
+  CBaseDMStart::GetDataDescMap()
+  CBaseDMStart::~CBaseDMStart()

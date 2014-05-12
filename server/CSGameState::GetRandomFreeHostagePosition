@@ -1,0 +1,2 @@
+CSGameState::GetRandomFreeHostagePosition
+  CSGameState::GetRandomFreeHostagePosition() const::freePos

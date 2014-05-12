@@ -1,0 +1,3 @@
+CVarBitVecBase
+  CVarBitVecBase<unsigned short>::ReallocInts(int)
+  CVarBitVecBase<unsigned short>::Resize(int, bool)

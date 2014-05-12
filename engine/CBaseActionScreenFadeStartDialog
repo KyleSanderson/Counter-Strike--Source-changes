@@ -1,0 +1,5 @@
+CBaseActionScreenFadeStartDialog
+  CBaseActionScreenFadeStartDialog::OnSaveChanges()
+  CBaseActionScreenFadeStartDialog::Init()
+  CBaseActionScreenFadeStartDialog::CBaseActionScreenFadeStartDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionScreenFadeStartDialog::~CBaseActionScreenFadeStartDialog()

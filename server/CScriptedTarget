@@ -1,0 +1,10 @@
+CScriptedTarget
+  CScriptedTarget::FindEntity()
+  CScriptedTarget::ObjectCaps()
+  CScriptedTarget::ScriptThink()
+  CScriptedTarget::GetDataDescMap()
+  CScriptedTarget::DrawDebugTextOverlays()
+  CScriptedTarget::DrawDebugGeometryOverlays()
+  CScriptedTarget::Spawn()
+  CScriptedTarget::TurnOff()
+  CScriptedTarget::~CScriptedTarget()

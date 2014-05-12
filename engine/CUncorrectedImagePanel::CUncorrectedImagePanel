@@ -1,0 +1,2 @@
+CUncorrectedImagePanel::CUncorrectedImagePanel
+  CUncorrectedImagePanel::CUncorrectedImagePanel(vgui::Panel*, char const*)

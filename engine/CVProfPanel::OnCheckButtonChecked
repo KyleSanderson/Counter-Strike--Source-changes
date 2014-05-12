@@ -1,0 +1,2 @@
+CVProfPanel::OnCheckButtonChecked
+  CVProfPanel::OnCheckButtonChecked(vgui::Panel*)

@@ -1,0 +1,2 @@
+CPrecisionSlider::CPrecisionSlider
+  CPrecisionSlider::CPrecisionSlider(vgui::Panel*, char const*)

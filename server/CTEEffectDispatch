@@ -1,0 +1,4 @@
+CTEEffectDispatch
+  CTEEffectDispatch::GetServerClass()
+  CTEEffectDispatch::YouForgotToImplementOrDeclareServerClass()
+  CTEEffectDispatch::~CTEEffectDispatch()

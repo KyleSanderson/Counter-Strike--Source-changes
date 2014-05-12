@@ -1,0 +1,6 @@
+CSimThinkManager
+  CSimThinkManager::EntityChanged(CBaseEntity*)
+  CSimThinkManager::OnEntityCreated(CBaseEntity*)
+  CSimThinkManager::OnEntityDeleted(CBaseEntity*)
+  CSimThinkManager::LevelInitPreEntity()
+  CSimThinkManager::~CSimThinkManager()

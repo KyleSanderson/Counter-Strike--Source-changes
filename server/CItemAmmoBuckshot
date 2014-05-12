@@ -1,0 +1,3 @@
+CItemAmmoBuckshot
+  CItemAmmoBuckshot::~CItemAmmoBuckshot()
+  CItemAmmoBuckshot::GetAmmoName() const

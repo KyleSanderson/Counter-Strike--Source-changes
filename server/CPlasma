@@ -1,0 +1,8 @@
+CPlasma
+  CPlasma::EnableSmoke(int)
+  CPlasma::GetDataDescMap()
+  CPlasma::GetServerClass()
+  CPlasma::YouForgotToImplementOrDeclareServerClass()
+  CPlasma::Precache()
+  CPlasma::CPlasma()
+  CPlasma::~CPlasma()

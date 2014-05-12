@@ -1,0 +1,8 @@
+CCvarUtilities
+  CCvarUtilities::CvarToggle(CCommand const&)
+  CCvarUtilities::WriteVariables(CUtlBuffer&)
+  CCvarUtilities::CvarDifferences(CCommand const&)
+  CCvarUtilities::IsValidToggleCommand(char const*)
+  CCvarUtilities::CvarList(CCommand const&)
+  CCvarUtilities::IsCommand(CCommand const&)
+  CCvarUtilities::SetDirect(ConVar*, char const*)

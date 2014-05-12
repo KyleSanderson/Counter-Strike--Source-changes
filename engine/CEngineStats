@@ -1,0 +1,6 @@
+CEngineStats
+  CEngineStats::BeginFrame()
+  CEngineStats::EndRun()
+  CEngineStats::BeginRun()
+  CEngineStats::EndFrame()
+  CEngineStats::CEngineStats()

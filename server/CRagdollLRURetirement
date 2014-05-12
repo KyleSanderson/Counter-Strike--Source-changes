@@ -1,0 +1,6 @@
+CRagdollLRURetirement
+  CRagdollLRURetirement::MoveToTopOfLRU(CBaseAnimating*, bool)
+  CRagdollLRURetirement::LevelInitPreEntity()
+  CRagdollLRURetirement::FrameUpdatePostEntityThink()
+  CRagdollLRURetirement::Update(float)
+  CRagdollLRURetirement::~CRagdollLRURetirement()

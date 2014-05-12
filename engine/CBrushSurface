@@ -1,0 +1,5 @@
+CBrushSurface
+  CBrushSurface::GetMaterial()
+  CBrushSurface::ComputeTextureCoordinate(Vector const&, Vector2D&)
+  CBrushSurface::ComputeLightmapCoordinate(Vector const&, Vector2D&)
+  CBrushSurface::GetVertexCount() const

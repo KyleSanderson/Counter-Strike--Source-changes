@@ -1,0 +1,2 @@
+CEntityReportPanel::CEntityReportPanel
+  CEntityReportPanel::CEntityReportPanel(vgui::Panel*)

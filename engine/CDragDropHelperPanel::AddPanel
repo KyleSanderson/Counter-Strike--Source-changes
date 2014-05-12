@@ -1,0 +1,2 @@
+CDragDropHelperPanel::AddPanel
+  CDragDropHelperPanel::AddPanel(vgui::Panel*)

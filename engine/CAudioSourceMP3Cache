@@ -1,0 +1,10 @@
+CAudioSourceMP3Cache
+  CAudioSourceMP3Cache::CacheUnload()
+  CAudioSourceMP3Cache::CreateMixer(int)
+  CAudioSourceMP3Cache::GetOutputData(void**, int, int, char*)
+  CAudioSourceMP3Cache::GetCacheStatus()
+  CAudioSourceMP3Cache::GetDataPointer()
+  CAudioSourceMP3Cache::Prefetch()
+  CAudioSourceMP3Cache::CacheLoad()
+  CAudioSourceMP3Cache::CAudioSourceMP3Cache(CSfxTable*)
+  CAudioSourceMP3Cache::~CAudioSourceMP3Cache()

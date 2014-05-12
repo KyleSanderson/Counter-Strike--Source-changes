@@ -1,0 +1,3 @@
+CItemAmmo9MM
+  CItemAmmo9MM::~CItemAmmo9MM()
+  CItemAmmo9MM::GetAmmoName() const

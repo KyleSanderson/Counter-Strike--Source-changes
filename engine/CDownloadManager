@@ -1,0 +1,12 @@
+CDownloadManager
+  CDownloadManager::FileDenied(char const*, unsigned int)
+  CDownloadManager::FileReceived(char const*, unsigned int)
+  CDownloadManager::StartNewDownload()
+  CDownloadManager::NewRequestContext()
+  CDownloadManager::UpdateProgressBar()
+  CDownloadManager::CheckActiveDownload()
+  CDownloadManager::PruneCompletedRequests()
+  CDownloadManager::ShouldAttemptCompressedFileDownload()
+  CDownloadManager::Reset()
+  CDownloadManager::Update()
+  CDownloadManager::~CDownloadManager()

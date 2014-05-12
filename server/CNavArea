@@ -1,0 +1,77 @@
+CNavArea
+  CNavArea::CheckFloor(CBaseEntity*)
+  CNavArea::Disconnect(CNavLadder*)
+  CNavArea::ResetNodes()
+  CNavArea::TestStairs()
+  CNavArea::AddLadderUp(CNavLadder*)
+  CNavArea::CalcDebugID()
+  CNavArea::CompressIDs()
+  CNavArea::RaiseCorner(NavCornerType, int, bool)
+  CNavArea::AddLadderDown(CNavLadder*)
+  CNavArea::AddToOpenList()
+  CNavArea::MarkAsBlocked(int, CBaseEntity*, bool)
+  CNavArea::PlaceOnGround(NavCornerType, float)
+  CNavArea::UpdateBlocked(bool, int)
+  CNavArea::CustomAnalysis(bool)
+  CNavArea::IncreaseDanger(int, float)
+  CNavArea::OnRoundRestart()
+  CNavArea::AddPrerequisite(CFuncNavPrerequisite*)
+  CNavArea::CheckWaterLevel()
+  CNavArea::ComputeLighting()
+  CNavArea::OnDestroyNotify(CNavLadder*)
+  CNavArea::ClearSearchLists()
+  CNavArea::OnServerActivate()
+  CNavArea::UpdateOnOpenList()
+  CNavArea::ComputeHidingSpots()
+  CNavArea::ComputeSniperSpots()
+  CNavArea::RemoveFromOpenList()
+  CNavArea::MarkObstacleToAvoid(float)
+  CNavArea::OnEditDestroyNotify(CNavLadder*)
+  CNavArea::AddFuncNavCostEntity(CFuncNavCost*)
+  CNavArea::ComputeSpotEncounters()
+  CNavArea::RestoreFromSelectedSet(KeyValues*)
+  CNavArea::ClearAllNavCostEntities()
+  CNavArea::ComputeVisibilityToMesh()
+  CNavArea::OnRoundRestartPreEntity()
+  CNavArea::UpdateAvoidanceObstacles()
+  CNavArea::ComputeEarliestOccupyTimes()
+  CNavArea::RemoveOrthogonalConnections(NavDirType)
+  CNavArea::ResetPotentiallyVisibleAreas()
+  CNavArea::UpdateBlockedFromNavBlockers()
+  CNavArea::Load(CUtlBuffer&, unsigned int, unsigned int)
+  CNavArea::Shift(Vector const&)
+  CNavArea::Strip()
+  CNavArea::PostLoad()
+  CNavArea::ConnectTo(CNavLadder*)
+  CNavArea::GetDanger(int)
+  CNavArea::CNavArea()
+  CNavArea::~CNavArea()
+  CNavArea::DrawFilled(int, int, int, int, float, bool, float) const
+  CNavArea::ComputeNormal(Vector*, bool) const
+  CNavArea::IsOverlapping(Extent const&) const
+  CNavArea::IsOverlapping(Vector const&, float) const
+  CNavArea::DrawHidingSpots() const
+  CNavArea::DrawSelectedSet(Vector const&) const
+  CNavArea::FindClosestNode(Vector const&, NavDirType) const
+  CNavArea::HasFuncNavAvoid() const
+  CNavArea::IsRoughlySquare() const
+  CNavArea::GetCornerHotspot(NavCornerType, Vector*) const
+  CNavArea::HasFuncNavPrefer() const
+  CNavArea::IsEntirelyVisible(Vector const&, CBaseEntity*) const
+  CNavArea::SaveToSelectedSet(KeyValues*) const
+  CNavArea::DrawConnectedAreas() const
+  CNavArea::GetDangerDecayRate() const
+  CNavArea::IsPartiallyVisible(Vector const&, CBaseEntity*) const
+  CNavArea::DrawDragSelectionSet(Color&) const
+  CNavArea::GetDistanceSquaredToPoint(Vector const&) const
+  CNavArea::IsCompletelyVisibleToTeam(int) const
+  CNavArea::IsPotentiallyVisibleToTeam(int) const
+  CNavArea::Draw() const
+  CNavArea::GetZ(float, float) const
+  CNavArea::Save(CUtlBuffer&, unsigned int) const
+  CNavArea::IsFlat() const
+  CNavArea::Contains(Vector const&) const
+  CNavArea::HasNodes() const
+  CNavArea::SetupPVS() const
+  CNavArea::GetExtent(Extent*) const
+  CNavArea::IsBlocked(int, bool) const

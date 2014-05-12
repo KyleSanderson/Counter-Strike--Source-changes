@@ -1,0 +1,4 @@
+CBenchmarkResults
+  CBenchmarkResults::StopBenchmark()
+  CBenchmarkResults::StartBenchmark(CCommand const&)
+  CBenchmarkResults::Upload()

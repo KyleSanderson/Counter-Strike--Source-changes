@@ -1,0 +1,3 @@
+CGenericFlexCycler
+  CGenericFlexCycler::Spawn()
+  CGenericFlexCycler::~CGenericFlexCycler()

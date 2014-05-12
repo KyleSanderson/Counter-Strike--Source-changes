@@ -1,0 +1,2 @@
+BotState
+  BotState::OnExit(CCSBot*)

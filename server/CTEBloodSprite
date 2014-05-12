@@ -1,0 +1,6 @@
+CTEBloodSprite
+  CTEBloodSprite::GetServerClass()
+  CTEBloodSprite::YouForgotToImplementOrDeclareServerClass()
+  CTEBloodSprite::Test(Vector const&, QAngle const&)
+  CTEBloodSprite::CTEBloodSprite(char const*)
+  CTEBloodSprite::~CTEBloodSprite()

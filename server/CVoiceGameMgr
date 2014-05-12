@@ -1,0 +1,7 @@
+CVoiceGameMgr
+  CVoiceGameMgr::UpdateMasks()
+  CVoiceGameMgr::ClientCommand(CBasePlayer*, CCommand const&)
+  CVoiceGameMgr::IsPlayerIgnoringPlayer(int, int)
+  CVoiceGameMgr::Init(IVoiceGameMgrHelper*, int)
+  CVoiceGameMgr::Update(double)
+  CVoiceGameMgr::~CVoiceGameMgr()

@@ -1,0 +1,2 @@
+CDemoFile::WriteCmdHeader
+  CDemoFile::WriteCmdHeader(unsigned char, int)::cmdname

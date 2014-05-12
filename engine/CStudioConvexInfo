@@ -1,0 +1,2 @@
+CStudioConvexInfo
+  CStudioConvexInfo::GetContents(int)

@@ -1,0 +1,5 @@
+CBlood
+  CBlood::BloodPosition(CBaseEntity*)
+  CBlood::GetDataDescMap()
+  CBlood::Spawn()
+  CBlood::~CBlood()

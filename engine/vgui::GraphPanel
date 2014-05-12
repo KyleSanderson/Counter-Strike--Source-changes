@@ -1,0 +1,8 @@
+vgui::GraphPanel
+  vgui::GraphPanel::GetAnimMap()
+  vgui::GraphPanel::GetMessageMap()
+  vgui::GraphPanel::PerformLayout()
+  vgui::GraphPanel::GetPanelClassName()
+  vgui::GraphPanel::Paint()
+  vgui::GraphPanel::GetKBMap()
+  vgui::GraphPanel::~GraphPanel()

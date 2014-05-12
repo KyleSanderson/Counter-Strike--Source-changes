@@ -1,0 +1,2 @@
+CDemoSmootherPanel::CDemoSmootherPanel
+  CDemoSmootherPanel::CDemoSmootherPanel(vgui::Panel*)

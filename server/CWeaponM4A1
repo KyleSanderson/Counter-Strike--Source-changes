@@ -1,0 +1,21 @@
+CWeaponM4A1
+  CWeaponM4A1::WeaponIdle()
+  CWeaponM4A1::DoFireEffects()
+  CWeaponM4A1::PrimaryAttack()
+  CWeaponM4A1::GetServerClass()
+  CWeaponM4A1::SecondaryAttack()
+  CWeaponM4A1::GetDeployActivity()
+  CWeaponM4A1::GetWorldModelIndex()
+  CWeaponM4A1::YouForgotToImplementOrDeclareServerClass()
+  CWeaponM4A1::Drop(Vector const&)
+  CWeaponM4A1::Spawn()
+  CWeaponM4A1::Deploy()
+  CWeaponM4A1::Reload()
+  CWeaponM4A1::Holster(CBaseCombatWeapon*)
+  CWeaponM4A1::Precache()
+  CWeaponM4A1::CWeaponM4A1()
+  CWeaponM4A1::~CWeaponM4A1()
+  CWeaponM4A1::IsSilenced() const
+  CWeaponM4A1::GetWeaponID() const
+  CWeaponM4A1::GetInaccuracy() const
+  CWeaponM4A1::GetWorldModel() const

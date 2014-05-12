@@ -1,0 +1,3 @@
+BuildSelectedSet
+  BuildSelectedSet::WriteConnections(CNavArea*, KeyValues*, NavDirType, char const*)
+  BuildSelectedSet::operator()(CNavArea*)

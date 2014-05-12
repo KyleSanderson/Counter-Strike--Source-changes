@@ -1,0 +1,2 @@
+CGamePlayerTeam
+  CGamePlayerTeam::~CGamePlayerTeam()

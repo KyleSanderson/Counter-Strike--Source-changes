@@ -1,0 +1,4 @@
+CCombatCharVisCache
+  CCombatCharVisCache::LevelShutdownPreEntity()
+  CCombatCharVisCache::FrameUpdatePreEntityThink()
+  CCombatCharVisCache::~CCombatCharVisCache()

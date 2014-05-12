@@ -1,0 +1,6 @@
+CPointPlayerMoveConstraint
+  CPointPlayerMoveConstraint::GetDataDescMap()
+  CPointPlayerMoveConstraint::ConstraintThink()
+  CPointPlayerMoveConstraint::UpdateTransmitState()
+  CPointPlayerMoveConstraint::Activate()
+  CPointPlayerMoveConstraint::~CPointPlayerMoveConstraint()

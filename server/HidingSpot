@@ -1,0 +1,6 @@
+HidingSpot
+  HidingSpot::Load(CUtlBuffer&, unsigned int)
+  HidingSpot::PostLoad()
+  HidingSpot::HidingSpot()
+  HidingSpot::~HidingSpot()
+  HidingSpot::Save(CUtlBuffer&, unsigned int) const

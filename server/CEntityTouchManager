@@ -1,0 +1,6 @@
+CEntityTouchManager
+  CEntityTouchManager::OnEntityCreated(CBaseEntity*)
+  CEntityTouchManager::OnEntityDeleted(CBaseEntity*)
+  CEntityTouchManager::LevelInitPreEntity()
+  CEntityTouchManager::FrameUpdatePostEntityThink()
+  CEntityTouchManager::~CEntityTouchManager()

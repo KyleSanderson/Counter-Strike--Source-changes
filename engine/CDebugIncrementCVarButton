@@ -1,0 +1,4 @@
+CDebugIncrementCVarButton
+  CDebugIncrementCVarButton::OnTick()
+  CDebugIncrementCVarButton::OnCommand(char const*)
+  CDebugIncrementCVarButton::~CDebugIncrementCVarButton()

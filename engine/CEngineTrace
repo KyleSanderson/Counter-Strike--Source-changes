@@ -1,0 +1,5 @@
+CEngineTrace
+  CEngineTrace::GetStatByIndex(int, bool)
+  CEngineTrace::GetPointContents(Vector const&, IHandleEntity**)
+  CEngineTrace::PointOutsideWorld(Vector const&)
+  CEngineTrace::GetLeafContainingPoint(Vector const&)

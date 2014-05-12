@@ -1,0 +1,3 @@
+CBaseEdict
+  CBaseEdict::StateChanged(unsigned short)
+  CBaseEdict::GetChangeAccessor()

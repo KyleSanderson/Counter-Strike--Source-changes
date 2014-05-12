@@ -1,0 +1,3 @@
+CPhysConvert
+  CPhysConvert::GetDataDescMap()
+  CPhysConvert::~CPhysConvert()

@@ -1,0 +1,8 @@
+CIKContext
+  CIKContext::ClearTargets()
+  CIKContext::AutoIKRelease()
+  CIKContext::AddAutoplayLocks(Vector*, Quaternion*)
+  CIKContext::SolveAutoplayLocks(Vector*, Quaternion*)
+  CIKContext::Init(CStudioHdr const*, QAngle const&, Vector const&, float, int, int)
+  CIKContext::CIKContext()
+  CIKContext::~CIKContext()

@@ -1,0 +1,8 @@
+CFuncMonitor
+  CFuncMonitor::GetDataDescMap()
+  CFuncMonitor::GetServerClass()
+  CFuncMonitor::UpdateOnRemove()
+  CFuncMonitor::SetCameraByName(char const*)
+  CFuncMonitor::YouForgotToImplementOrDeclareServerClass()
+  CFuncMonitor::Activate()
+  CFuncMonitor::~CFuncMonitor()

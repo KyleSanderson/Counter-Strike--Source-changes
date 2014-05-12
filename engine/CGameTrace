@@ -1,0 +1,2 @@
+CGameTrace
+  CGameTrace::GetEdict() const

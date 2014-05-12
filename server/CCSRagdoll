@@ -1,0 +1,6 @@
+CCSRagdoll
+  CCSRagdoll::GetServerClass()
+  CCSRagdoll::UpdateTransmitState()
+  CCSRagdoll::YouForgotToImplementOrDeclareServerClass()
+  CCSRagdoll::Init()
+  CCSRagdoll::~CCSRagdoll()

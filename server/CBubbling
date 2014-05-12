@@ -1,0 +1,7 @@
+CBubbling
+  CBubbling::GetDataDescMap()
+  CBubbling::Spawn()
+  CBubbling::Toggle()
+  CBubbling::Precache()
+  CBubbling::FizzThink()
+  CBubbling::~CBubbling()

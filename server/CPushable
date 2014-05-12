@@ -1,0 +1,7 @@
+CPushable
+  CPushable::ObjectCaps()
+  CPushable::OnTakeDamage(CTakeDamageInfo const&)
+  CPushable::CreateVPhysics()
+  CPushable::Spawn()
+  CPushable::~CPushable()
+  CPushable::PhysicsSolidMaskForEntity() const

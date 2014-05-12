@@ -1,0 +1,29 @@
+CSGameState
+  CSGameState::OnRoundEnd(IGameEvent*)
+  CSGameState::OnRoundStart(IGameEvent*)
+  CSGameState::UpdateBomber(Vector const&)
+  CSGameState::ClearBombsite(int)
+  CSGameState::OnBombDefused(IGameEvent*)
+  CSGameState::OnBombPlanted(IGameEvent*)
+  CSGameState::OnBombExploded(IGameEvent*)
+  CSGameState::UpdateLooseBomb(Vector const&)
+  CSGameState::UpdatePlantedBomb(Vector const&)
+  CSGameState::OnHostageRescuedAll(IGameEvent*)
+  CSGameState::InitializeHostageInfo()
+  CSGameState::MarkBombsiteAsPlanted(int)
+  CSGameState::GetNextBombsiteToSearch()
+  CSGameState::ValidateHostagePositions()
+  CSGameState::Reset()
+  CSGameState::CSGameState(CCSBot*)
+  CSGameState::IsRoundOver() const
+  CSGameState::GetBombPosition() const
+  CSGameState::IsBombsiteClear(int) const
+  CSGameState::AreAllHostagesGone() const
+  CSGameState::GetPlantedBombsite() const
+  CSGameState::IsAtPlantedBombsite() const
+  CSGameState::GetNearestFreeHostage(Vector*) const
+  CSGameState::IsLooseBombLocationKnown() const
+  CSGameState::AreAllHostagesBeingRescued() const
+  CSGameState::IsPlantedBombLocationKnown() const
+  CSGameState::GetNearestVisibleFreeHostage() const
+  CSGameState::GetRandomFreeHostagePosition() const

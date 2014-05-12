@@ -1,0 +1,6 @@
+CEnvQuadraticBeam
+  CEnvQuadraticBeam::GetDataDescMap()
+  CEnvQuadraticBeam::GetServerClass()
+  CEnvQuadraticBeam::YouForgotToImplementOrDeclareServerClass()
+  CEnvQuadraticBeam::Spawn()
+  CEnvQuadraticBeam::~CEnvQuadraticBeam()

@@ -1,0 +1,2 @@
+CVmtTextEntry::CVmtTextEntry
+  CVmtTextEntry::CVmtTextEntry(vgui::Panel*, char const*)

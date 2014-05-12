@@ -1,0 +1,3 @@
+CUtlBinaryBlock
+  CUtlBinaryBlock::SetLength(int)
+  CUtlBinaryBlock::CUtlBinaryBlock(int, int)

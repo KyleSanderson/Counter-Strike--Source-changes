@@ -1,0 +1,7 @@
+CFishPool
+  CFishPool::FireGameEvent(IGameEvent*)
+  CFishPool::GetDataDescMap()
+  CFishPool::Spawn()
+  CFishPool::Update()
+  CFishPool::CFishPool()
+  CFishPool::~CFishPool()

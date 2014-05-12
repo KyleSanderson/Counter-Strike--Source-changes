@@ -1,0 +1,5 @@
+CBaseActionZoomDialog
+  CBaseActionZoomDialog::OnSaveChanges()
+  CBaseActionZoomDialog::Init()
+  CBaseActionZoomDialog::CBaseActionZoomDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionZoomDialog::~CBaseActionZoomDialog()

@@ -1,0 +1,3 @@
+CRender::EndUpdateLightmaps
+  CRender::EndUpdateLightmaps()::threadDlights
+  CRender::EndUpdateLightmaps()::threadFrameCount

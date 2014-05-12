@@ -1,0 +1,2 @@
+CVGuiTree::ApplySchemeSettings
+  CVGuiTree::ApplySchemeSettings(vgui::IScheme*)

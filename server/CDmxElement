@@ -1,0 +1,14 @@
+CDmxElement
+  CDmxElement::AddAttribute(char const*)
+  CDmxElement::GetAttribute(char const*)
+  CDmxElement::LockForChanges(bool)
+  CDmxElement::RemoveAllElementsRecursive()
+  CDmxElement::CDmxElement(char const*)
+  CDmxElement::~CDmxElement()
+  CDmxElement::GetAttribute(char const*) const
+  CDmxElement::HasAttribute(char const*) const
+  CDmxElement::FindAttribute(char const*) const
+  CDmxElement::GetTypeString() const
+  CDmxElement::GetId() const
+  CDmxElement::Resort() const
+  CDmxElement::GetName() const

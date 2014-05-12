@@ -1,0 +1,10 @@
+CColorCorrectionUIChildPanel
+  CColorCorrectionUIChildPanel::GetAnimMap()
+  CColorCorrectionUIChildPanel::GetOperation()
+  CColorCorrectionUIChildPanel::GetMessageMap()
+  CColorCorrectionUIChildPanel::GetPanelClassName()
+  CColorCorrectionUIChildPanel::Init()
+  CColorCorrectionUIChildPanel::OnClose()
+  CColorCorrectionUIChildPanel::GetKBMap()
+  CColorCorrectionUIChildPanel::Shutdown()
+  CColorCorrectionUIChildPanel::~CColorCorrectionUIChildPanel()

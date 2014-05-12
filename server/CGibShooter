@@ -1,0 +1,9 @@
+CGibShooter
+  CGibShooter::ShootThink()
+  CGibShooter::InitPointGib(CGib*, Vector const&, float)
+  CGibShooter::GetDataDescMap()
+  CGibShooter::Spawn()
+  CGibShooter::Precache()
+  CGibShooter::SpawnGib(Vector const&, float)
+  CGibShooter::CreateGib()
+  CGibShooter::~CGibShooter()

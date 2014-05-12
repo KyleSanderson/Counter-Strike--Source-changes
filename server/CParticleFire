@@ -1,0 +1,5 @@
+CParticleFire
+  CParticleFire::GetDataDescMap()
+  CParticleFire::GetServerClass()
+  CParticleFire::YouForgotToImplementOrDeclareServerClass()
+  CParticleFire::~CParticleFire()

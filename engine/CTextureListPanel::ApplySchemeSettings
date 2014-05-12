@@ -1,0 +1,2 @@
+CTextureListPanel::ApplySchemeSettings
+  CTextureListPanel::ApplySchemeSettings(vgui::IScheme*)

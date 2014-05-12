@@ -1,0 +1,2 @@
+CProfileTree::ApplySchemeSettings
+  CProfileTree::ApplySchemeSettings(vgui::IScheme*)

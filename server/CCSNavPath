@@ -1,0 +1,4 @@
+CCSNavPath
+  CCSNavPath::ComputePathPositions()
+  CCSNavPath::Draw(Vector const&)
+  CCSNavPath::GetLength() const

@@ -1,0 +1,13 @@
+CSoundscapeSystem
+  CSoundscapeSystem::IsValidIndex(int)
+  CSoundscapeSystem::PrintDebugInfo()
+  CSoundscapeSystem::AddSoundscapeFile(char const*)
+  CSoundscapeSystem::GetSoundscapeIndex(char const*)
+  CSoundscapeSystem::LevelInitPreEntity()
+  CSoundscapeSystem::AddSoundscapeEntity(CEnvSoundscape*)
+  CSoundscapeSystem::LevelInitPostEntity()
+  CSoundscapeSystem::RemoveSoundscapeEntity(CEnvSoundscape*)
+  CSoundscapeSystem::FrameUpdatePostEntityThink()
+  CSoundscapeSystem::Init()
+  CSoundscapeSystem::Shutdown()
+  CSoundscapeSystem::~CSoundscapeSystem()

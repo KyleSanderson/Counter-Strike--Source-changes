@@ -1,0 +1,2 @@
+CTraceFilterPushFinal
+  CTraceFilterPushFinal::ShouldHitEntity(IHandleEntity*, int)

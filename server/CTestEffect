@@ -1,0 +1,5 @@
+CTestEffect
+  CTestEffect::Spawn()
+  CTestEffect::Think()
+  CTestEffect::Precache()
+  CTestEffect::~CTestEffect()

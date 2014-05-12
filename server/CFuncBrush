@@ -1,0 +1,9 @@
+CFuncBrush
+  CFuncBrush::ObjectCaps()
+  CFuncBrush::CreateVPhysics()
+  CFuncBrush::GetDataDescMap()
+  CFuncBrush::DrawDebugTextOverlays()
+  CFuncBrush::IsOn()
+  CFuncBrush::Spawn()
+  CFuncBrush::TurnOn()
+  CFuncBrush::~CFuncBrush()

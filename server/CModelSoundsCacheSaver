@@ -1,0 +1,4 @@
+CModelSoundsCacheSaver
+  CModelSoundsCacheSaver::LevelInitPostEntity()
+  CModelSoundsCacheSaver::LevelShutdownPostEntity()
+  CModelSoundsCacheSaver::~CModelSoundsCacheSaver()

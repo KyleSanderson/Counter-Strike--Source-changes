@@ -1,0 +1,4 @@
+CEnginePerfTools
+  CEnginePerfTools::Init()
+  CEnginePerfTools::Shutdown()
+  CEnginePerfTools::ShouldPause() const

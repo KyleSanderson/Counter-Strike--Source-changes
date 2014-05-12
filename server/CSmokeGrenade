@@ -1,0 +1,6 @@
+CSmokeGrenade
+  CSmokeGrenade::GetDataDescMap()
+  CSmokeGrenade::GetServerClass()
+  CSmokeGrenade::YouForgotToImplementOrDeclareServerClass()
+  CSmokeGrenade::~CSmokeGrenade()
+  CSmokeGrenade::GetWeaponID() const

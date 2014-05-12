@@ -1,0 +1,2 @@
+ShiftSet
+  ShiftSet::operator()(CNavArea*)

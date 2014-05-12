@@ -1,0 +1,5 @@
+BotPhrase
+  BotPhrase::InitVoiceBank(int)
+  BotPhrase::BotPhrase(bool)
+  BotPhrase::~BotPhrase()
+  BotPhrase::GetSpeakable(int, float*) const

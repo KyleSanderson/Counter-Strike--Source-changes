@@ -1,0 +1,5 @@
+CConCommandMemberAccessor
+  CConCommandMemberAccessor<CEngineVGui>::CommandCallback(CCommand const&)
+  CConCommandMemberAccessor<CEngineVGui>::~CConCommandMemberAccessor()
+  CConCommandMemberAccessor<CTextureBudgetPanel>::CommandCallback(CCommand const&)
+  CConCommandMemberAccessor<CTextureBudgetPanel>::~CConCommandMemberAccessor()

@@ -1,0 +1,3 @@
+CFilterClass
+  CFilterClass::GetDataDescMap()
+  CFilterClass::~CFilterClass()

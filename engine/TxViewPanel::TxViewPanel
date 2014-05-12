@@ -1,0 +1,2 @@
+TxViewPanel::TxViewPanel
+  TxViewPanel::TxViewPanel(vgui::Panel*)

@@ -1,0 +1,6 @@
+CTEShatterSurface
+  CTEShatterSurface::GetServerClass()
+  CTEShatterSurface::YouForgotToImplementOrDeclareServerClass()
+  CTEShatterSurface::Test(Vector const&, QAngle const&)
+  CTEShatterSurface::CTEShatterSurface(char const*)
+  CTEShatterSurface::~CTEShatterSurface()

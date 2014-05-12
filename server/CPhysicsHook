@@ -1,0 +1,10 @@
+CPhysicsHook
+  CPhysicsHook::PreClientUpdate()
+  CPhysicsHook::LevelInitPreEntity()
+  CPhysicsHook::LevelInitPostEntity()
+  CPhysicsHook::LevelShutdownPreEntity()
+  CPhysicsHook::LevelShutdownPostEntity()
+  CPhysicsHook::FrameUpdatePostEntityThink()
+  CPhysicsHook::Init()
+  CPhysicsHook::Name()
+  CPhysicsHook::~CPhysicsHook()

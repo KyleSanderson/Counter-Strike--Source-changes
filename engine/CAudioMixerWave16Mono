@@ -1,0 +1,3 @@
+CAudioMixerWave16Mono
+  CAudioMixerWave16Mono::GetMixSampleSize()
+  CAudioMixerWave16Mono::~CAudioMixerWave16Mono()

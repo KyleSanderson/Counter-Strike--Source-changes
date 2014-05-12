@@ -1,0 +1,4 @@
+SendProp
+  SendProp::SendProp()
+  SendProp::~SendProp()
+  SendProp::GetNumArrayLengthBits() const

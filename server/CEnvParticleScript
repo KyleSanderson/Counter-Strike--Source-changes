@@ -1,0 +1,10 @@
+CEnvParticleScript
+  CEnvParticleScript::GetDataDescMap()
+  CEnvParticleScript::GetServerClass()
+  CEnvParticleScript::UpdateTransmitState()
+  CEnvParticleScript::PrecacheAnimationEventMaterials()
+  CEnvParticleScript::YouForgotToImplementOrDeclareServerClass()
+  CEnvParticleScript::Spawn()
+  CEnvParticleScript::Activate()
+  CEnvParticleScript::Precache()
+  CEnvParticleScript::~CEnvParticleScript()

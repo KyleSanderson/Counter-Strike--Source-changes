@@ -1,0 +1,2 @@
+CTextureIdProperty::SetData
+  CTextureIdProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

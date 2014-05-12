@@ -1,0 +1,5 @@
+CWaveDataMemoryAsync
+  CWaveDataMemoryAsync::IsReadyToMix()
+  CWaveDataMemoryAsync::ReadSourceData(void**, int, int, char*)
+  CWaveDataMemoryAsync::Source()
+  CWaveDataMemoryAsync::~CWaveDataMemoryAsync()

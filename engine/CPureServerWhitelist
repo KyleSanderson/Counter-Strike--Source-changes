@@ -1,0 +1,15 @@
+CPureServerWhitelist
+  CPureServerWhitelist::GetBestEntry(char const*)
+  CPureServerWhitelist::GetFileClass(char const*)
+  CPureServerWhitelist::PrintWhitelistContents()
+  CPureServerWhitelist::LoadCommandsFromKeyValues(KeyValues*)
+  CPureServerWhitelist::LoadTrustedKeysFromKeyValues(KeyValues*)
+  CPureServerWhitelist::Load(bool)
+  CPureServerWhitelist::AddRef()
+  CPureServerWhitelist::Create(IFileSystem*)
+  CPureServerWhitelist::Decode(CUtlBuffer&)
+  CPureServerWhitelist::Encode(CUtlBuffer&)
+  CPureServerWhitelist::Release()
+  CPureServerWhitelist::~CPureServerWhitelist()
+  CPureServerWhitelist::GetTrustedKey(int, int*) const
+  CPureServerWhitelist::GetTrustedKeyCount() const

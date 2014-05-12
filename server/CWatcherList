@@ -1,0 +1,3 @@
+CWatcherList
+  CWatcherList::GetCallbackObjects(IWatcherCallback**, int)
+  CWatcherList::AddToList(CBaseEntity*)

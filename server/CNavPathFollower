@@ -1,0 +1,7 @@
+CNavPathFollower
+  CNavPathFollower::FindPathPoint(float, Vector*, int*)
+  CNavPathFollower::FeelerReflexAdjustment(Vector*, float)
+  CNavPathFollower::Reset()
+  CNavPathFollower::Update(float, bool)
+  CNavPathFollower::CNavPathFollower()
+  CNavPathFollower::FindOurPositionOnPath(Vector*, bool) const

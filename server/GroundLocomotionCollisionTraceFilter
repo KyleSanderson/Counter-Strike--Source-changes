@@ -1,0 +1,2 @@
+GroundLocomotionCollisionTraceFilter
+  GroundLocomotionCollisionTraceFilter::ShouldHitEntity(IHandleEntity*, int)

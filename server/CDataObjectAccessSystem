@@ -1,0 +1,4 @@
+CDataObjectAccessSystem
+  CDataObjectAccessSystem::Init()
+  CDataObjectAccessSystem::Shutdown()
+  CDataObjectAccessSystem::~CDataObjectAccessSystem()

@@ -1,0 +1,4 @@
+FilterDamageType
+  FilterDamageType::GetDataDescMap()
+  FilterDamageType::PassesDamageFilterImpl(CTakeDamageInfo const&)
+  FilterDamageType::~FilterDamageType()

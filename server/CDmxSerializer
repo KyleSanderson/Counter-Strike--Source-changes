@@ -1,0 +1,2 @@
+CDmxSerializer
+  CDmxSerializer::Unserialize(CUtlBuffer&, int, CDmxElement**)

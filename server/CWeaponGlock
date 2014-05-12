@@ -1,0 +1,15 @@
+CWeaponGlock
+  CWeaponGlock::WeaponIdle()
+  CWeaponGlock::FireRemaining(float)
+  CWeaponGlock::ItemPostFrame()
+  CWeaponGlock::PrimaryAttack()
+  CWeaponGlock::GetServerClass()
+  CWeaponGlock::SecondaryAttack()
+  CWeaponGlock::YouForgotToImplementOrDeclareServerClass()
+  CWeaponGlock::Spawn()
+  CWeaponGlock::Deploy()
+  CWeaponGlock::Reload()
+  CWeaponGlock::CWeaponGlock()
+  CWeaponGlock::~CWeaponGlock()
+  CWeaponGlock::GetWeaponID() const
+  CWeaponGlock::GetInaccuracy() const

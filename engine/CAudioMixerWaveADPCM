@@ -1,0 +1,9 @@
+CAudioMixerWaveADPCM
+  CAudioMixerWaveADPCM::DecodeBlock()
+  CAudioMixerWaveADPCM::GetOutputData(void**, int, char*)
+  CAudioMixerWaveADPCM::SetSampleStart(int)
+  CAudioMixerWaveADPCM::GetMixSampleSize()
+  CAudioMixerWaveADPCM::DecompressBlockMono(short*, char const*, int)
+  CAudioMixerWaveADPCM::DecompressBlockStereo(short*, char const*, int)
+  CAudioMixerWaveADPCM::CAudioMixerWaveADPCM(IWaveData*)
+  CAudioMixerWaveADPCM::~CAudioMixerWaveADPCM()

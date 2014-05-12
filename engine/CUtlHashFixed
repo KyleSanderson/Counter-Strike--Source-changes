@@ -1,0 +1,3 @@
+CUtlHashFixed
+  CUtlHashFixed<int, 512, CUtlHashFixedGenericHash<512> >::Remove(int)
+  CUtlHashFixed<int, 512, CUtlHashFixedGenericHash<512> >::~CUtlHashFixed()

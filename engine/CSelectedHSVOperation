@@ -1,0 +1,12 @@
+CSelectedHSVOperation
+  CSelectedHSVOperation::SetEnabled(bool)
+  CSelectedHSVOperation::GetBlendFactor()
+  CSelectedHSVOperation::SetBlendFactor(float)
+  CSelectedHSVOperation::AddSelectedColor(unsigned char, unsigned char, unsigned char)
+  CSelectedHSVOperation::Clone()
+  CSelectedHSVOperation::ToolID()
+  CSelectedHSVOperation::GetName()
+  CSelectedHSVOperation::Release()
+  CSelectedHSVOperation::SetName(char const*)
+  CSelectedHSVOperation::IsEnabled()
+  CSelectedHSVOperation::GetSelectionAmount(Vector const&) const

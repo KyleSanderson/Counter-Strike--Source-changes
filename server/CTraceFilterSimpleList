@@ -1,0 +1,4 @@
+CTraceFilterSimpleList
+  CTraceFilterSimpleList::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterSimpleList::AddEntityToIgnore(IHandleEntity*)
+  CTraceFilterSimpleList::CTraceFilterSimpleList(int)

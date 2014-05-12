@@ -1,0 +1,11 @@
+IIntention
+  IIntention::Reset()
+  IIntention::Update()
+  IIntention::~IIntention()
+  IIntention::IsHindrance(INextBot const*, CBaseEntity*) const
+  IIntention::ShouldHurry(INextBot const*) const
+  IIntention::ShouldAttack(INextBot const*, CKnownEntity const*) const
+  IIntention::ShouldPickUp(INextBot const*, CBaseEntity*) const
+  IIntention::ShouldRetreat(INextBot const*) const
+  IIntention::IsPositionAllowed(INextBot const*, Vector const&) const
+  IIntention::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const

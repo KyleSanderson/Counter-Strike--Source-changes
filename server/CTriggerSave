@@ -1,0 +1,5 @@
+CTriggerSave
+  CTriggerSave::GetDataDescMap()
+  CTriggerSave::Spawn()
+  CTriggerSave::Touch(CBaseEntity*)
+  CTriggerSave::~CTriggerSave()

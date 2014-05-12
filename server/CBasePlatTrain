@@ -1,0 +1,6 @@
+CBasePlatTrain
+  CBasePlatTrain::IsTogglePlat()
+  CBasePlatTrain::GetDataDescMap()
+  CBasePlatTrain::PlayMovingSound()
+  CBasePlatTrain::Precache()
+  CBasePlatTrain::~CBasePlatTrain()

@@ -1,0 +1,3 @@
+CTraceFilterPlayersNPCsPhysicsProps
+  CTraceFilterPlayersNPCsPhysicsProps::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterPlayersNPCsPhysicsProps::GetTraceType() const

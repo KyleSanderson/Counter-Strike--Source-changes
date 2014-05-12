@@ -1,0 +1,2 @@
+CProportionalIntWithScreenspacePropertyX::SetData
+  CProportionalIntWithScreenspacePropertyX::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

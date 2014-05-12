@@ -1,0 +1,2 @@
+CFloatProperty::SetData
+  CFloatProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

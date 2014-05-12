@@ -1,0 +1,6 @@
+CMSurfaceSortList
+  CMSurfaceSortList::EnsureMaxSortIDs(int)
+  CMSurfaceSortList::Init(int, int)
+  CMSurfaceSortList::Reset()
+  CMSurfaceSortList::Shutdown()
+  CMSurfaceSortList::~CMSurfaceSortList()

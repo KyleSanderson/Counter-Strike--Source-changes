@@ -1,0 +1,7 @@
+CNetMessage
+  CNetMessage::SetReliable(bool)
+  CNetMessage::SetNetChannel(INetChannel*)
+  CNetMessage::Process()
+  CNetMessage::IsReliable() const
+  CNetMessage::GetNetChannel() const
+  CNetMessage::GetGroup() const

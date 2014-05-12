@@ -1,0 +1,12 @@
+CWin32UploadGameStats
+  CWin32UploadGameStats::SendWholeFile(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::CloseTCPSocket(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::CreateTCPSocket(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::DoBlockingReceive(unsigned int, CUtlBuffer&)
+  CWin32UploadGameStats::SendGracefulClose(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::SendUploadCommand(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::ReceiveOKToSendFile(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::ReceiveProtocolOkay(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::SendProtocolVersion(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::ConnectToHarvesterServer(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::ReceiveFileUploadSuccess(EGameStatsUploadStatus&, CUtlBuffer&)

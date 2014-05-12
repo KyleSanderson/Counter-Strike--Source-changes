@@ -1,0 +1,2 @@
+CTraceFilterNoCombatCharacters
+  CTraceFilterNoCombatCharacters::ShouldHitEntity(IHandleEntity*, int)

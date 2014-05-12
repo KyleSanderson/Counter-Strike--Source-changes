@@ -1,0 +1,2 @@
+CDrawTreeFrame::CDrawTreeFrame
+  CDrawTreeFrame::CDrawTreeFrame(vgui::Panel*, char const*)

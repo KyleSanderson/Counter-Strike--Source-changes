@@ -1,0 +1,6 @@
+CTEBubbleTrail
+  CTEBubbleTrail::GetServerClass()
+  CTEBubbleTrail::YouForgotToImplementOrDeclareServerClass()
+  CTEBubbleTrail::Test(Vector const&, QAngle const&)
+  CTEBubbleTrail::CTEBubbleTrail(char const*)
+  CTEBubbleTrail::~CTEBubbleTrail()

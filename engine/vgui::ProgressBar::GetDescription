@@ -1,0 +1,2 @@
+vgui::ProgressBar::GetDescription
+  vgui::ProgressBar::GetDescription()::buf

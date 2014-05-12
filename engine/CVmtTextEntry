@@ -1,0 +1,8 @@
+CVmtTextEntry
+  CVmtTextEntry::GetAnimMap()
+  CVmtTextEntry::OpenEditMenu()
+  CVmtTextEntry::GetMessageMap()
+  CVmtTextEntry::OpenVmtSelected()
+  CVmtTextEntry::GetPanelClassName()
+  CVmtTextEntry::GetKBMap()
+  CVmtTextEntry::~CVmtTextEntry()

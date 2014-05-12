@@ -1,0 +1,2 @@
+vgui::CMenuManager
+  vgui::CMenuManager::~CMenuManager()

@@ -1,0 +1,5 @@
+vgui::ImageList
+  vgui::ImageList::IsValidIndex(int)
+  vgui::ImageList::GetImage(int)
+  vgui::ImageList::ImageList(bool)
+  vgui::ImageList::~ImageList()

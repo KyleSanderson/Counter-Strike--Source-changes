@@ -1,0 +1,3 @@
+CThreadLocalInt
+  CThreadLocalInt<int>::~CThreadLocalInt()
+  CThreadLocalInt<unsigned int>::~CThreadLocalInt()

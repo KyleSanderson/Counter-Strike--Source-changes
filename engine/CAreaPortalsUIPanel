@@ -1,0 +1,8 @@
+CAreaPortalsUIPanel
+  CAreaPortalsUIPanel::Deactivate()
+  CAreaPortalsUIPanel::GetAnimMap()
+  CAreaPortalsUIPanel::GetMessageMap()
+  CAreaPortalsUIPanel::GetPanelClassName()
+  CAreaPortalsUIPanel::Activate()
+  CAreaPortalsUIPanel::GetKBMap()
+  CAreaPortalsUIPanel::~CAreaPortalsUIPanel()

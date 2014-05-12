@@ -1,0 +1,4 @@
+CTextStatsMgr
+  CTextStatsMgr::GetStatsFilename()
+  CTextStatsMgr::SetStatsFilename(char*)
+  CTextStatsMgr::WriteFile(IFileSystem*, char const*)

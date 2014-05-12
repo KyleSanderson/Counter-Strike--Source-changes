@@ -1,0 +1,4 @@
+CEntityMapData
+  CEntityMapData::ExtractValue(char const*, char*)
+  CEntityMapData::CurrentBufferPosition()
+  CEntityMapData::SetValue(char const*, char*, int)

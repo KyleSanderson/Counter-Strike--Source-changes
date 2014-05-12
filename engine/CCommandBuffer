@@ -1,0 +1,11 @@
+CCommandBuffer
+  CCommandBuffer::InsertCommand(char const*, int, int)
+  CCommandBuffer::SetWaitDelayTime(int)
+  CCommandBuffer::DequeueNextCommand()
+  CCommandBuffer::GetNextCommandHandle()
+  CCommandBuffer::IsProcessingCommands()
+  CCommandBuffer::EndProcessingCommands()
+  CCommandBuffer::BeginProcessingCommands(int)
+  CCommandBuffer::AddText(char const*, int)
+  CCommandBuffer::CCommandBuffer()
+  CCommandBuffer::~CCommandBuffer()

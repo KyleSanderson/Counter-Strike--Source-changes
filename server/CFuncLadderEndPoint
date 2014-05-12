@@ -1,0 +1,4 @@
+CFuncLadderEndPoint
+  CFuncLadderEndPoint::Activate()
+  CFuncLadderEndPoint::Validate()
+  CFuncLadderEndPoint::~CFuncLadderEndPoint()

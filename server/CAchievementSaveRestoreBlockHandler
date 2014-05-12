@@ -1,0 +1,6 @@
+CAchievementSaveRestoreBlockHandler
+  CAchievementSaveRestoreBlockHandler::GetBlockName()
+  CAchievementSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+  CAchievementSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+  CAchievementSaveRestoreBlockHandler::Save(ISave*)
+  CAchievementSaveRestoreBlockHandler::Restore(IRestore*, bool)

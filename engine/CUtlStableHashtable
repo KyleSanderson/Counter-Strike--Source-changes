@@ -1,0 +1,3 @@
+CUtlStableHashtable
+  CUtlStableHashtable<CUtlConstStringBase<char>, CNetworkStringTableItem, CaselessStringHashFunctor, UTLConstStringCaselessStringEqualFunctor<char>, unsigned short, char const*>::Purge()
+  CUtlStableHashtable<CUtlConstStringBase<char>, CNetworkStringTableItem, CaselessStringHashFunctor, UTLConstStringCaselessStringEqualFunctor<char>, unsigned short, char const*>::~CUtlStableHashtable()

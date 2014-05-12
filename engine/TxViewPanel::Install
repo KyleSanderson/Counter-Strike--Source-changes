@@ -1,0 +1,2 @@
+TxViewPanel::Install
+  TxViewPanel::Install(vgui::Panel*)

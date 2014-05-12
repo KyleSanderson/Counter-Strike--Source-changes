@@ -1,0 +1,2 @@
+InvokeMethod
+  InvokeMethod(void (IGameSystem::*)(), char const*)

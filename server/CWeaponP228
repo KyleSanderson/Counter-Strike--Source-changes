@@ -1,0 +1,11 @@
+CWeaponP228
+  CWeaponP228::WeaponIdle()
+  CWeaponP228::PrimaryAttack()
+  CWeaponP228::GetServerClass()
+  CWeaponP228::YouForgotToImplementOrDeclareServerClass()
+  CWeaponP228::Spawn()
+  CWeaponP228::Deploy()
+  CWeaponP228::Reload()
+  CWeaponP228::~CWeaponP228()
+  CWeaponP228::GetWeaponID() const
+  CWeaponP228::GetInaccuracy() const

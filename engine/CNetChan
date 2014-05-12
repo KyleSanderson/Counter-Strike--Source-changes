@@ -1,0 +1,77 @@
+CNetChan
+  CNetChan::FlowUpdate(int, int)
+  CNetChan::SendNetMsg(INetMessage&, bool, bool)
+  CNetChan::SetTimeout(float)
+  CNetChan::RequestFile(char const*)
+  CNetChan::SetDataRate(float)
+  CNetChan::FlowNewPacket(int, int, int, int, int, int)
+  CNetChan::ProcessStream()
+  CNetChan::ResetStreaming()
+  CNetChan::SetChallengeNr(unsigned int)
+  CNetChan::StartStreaming(unsigned int)
+  CNetChan::ProcessPlayback()
+  CNetChan::RegisterMessage(INetMessage*)
+  CNetChan::SetDemoRecorder(IDemoRecorder*)
+  CNetChan::SetSequenceData(int, int, int)
+  CNetChan::SetMaxBufferSize(bool, int, bool)
+  CNetChan::CompressFragments()
+  CNetChan::GetNumBitsWritten(bool)
+  CNetChan::UpdateSubChannels()
+  CNetChan::CheckReceivingList(int)
+  CNetChan::GetProtocolVersion()
+  CNetChan::SetCompressionMode(bool)
+  CNetChan::SetRemoteFramerate(float, float)
+  CNetChan::UpdateMessageStats(int, int)
+  CNetChan::DecrementQueuedPackets()
+  CNetChan::HasPendingReliableData()
+  CNetChan::IncrementQueuedPackets()
+  CNetChan::IsValidFileForTransfer(char const*)
+  CNetChan::SetInterpolationAmount(float)
+  CNetChan::CreateFragmentsFromFile(char const*, int, unsigned int)
+  CNetChan::RemoveHeadInWaitingList(int)
+  CNetChan::SendReliableAcknowledge(int)
+  CNetChan::SetFileTransmissionMode(bool)
+  CNetChan::GetMaxRoutablePayloadSize()
+  CNetChan::SetMaxRoutablePayloadSize(int)
+  CNetChan::IncrementSplitPacketSequence()
+  CNetChan::Clear()
+  CNetChan::Reset()
+  CNetChan::DenyFile(char const*, unsigned int)
+  CNetChan::SendFile(char const*, unsigned int)
+  CNetChan::Shutdown(char const*)
+  CNetChan::Transmit(bool)
+  CNetChan::SetChoked()
+  CNetChan::CNetChan()
+  CNetChan::~CNetChan()
+  CNetChan::GetAddress() const
+  CNetChan::GetAvgData(int) const
+  CNetChan::GetAvgLoss(int) const
+  CNetChan::GetLatency(int) const
+  CNetChan::IsLoopback() const
+  CNetChan::IsPlayback() const
+  CNetChan::IsTimedOut() const
+  CNetChan::GetAvgChoke(int) const
+  CNetChan::GetDataRate() const
+  CNetChan::IsTimingOut() const
+  CNetChan::GetTotalData(int) const
+  CNetChan::IsOverflowed() const
+  CNetChan::GetAvgLatency(int) const
+  CNetChan::GetAvgPackets(int) const
+  CNetChan::GetBufferSize() const
+  CNetChan::GetDropNumber() const
+  CNetChan::GetMsgHandler() const
+  CNetChan::GetPacketTime(int, int) const
+  CNetChan::GetSequenceNr(int) const
+  CNetChan::IsValidPacket(int, int) const
+  CNetChan::GetChallengeNr() const
+  CNetChan::GetPacketBytes(int, int, int) const
+  CNetChan::GetRemoteAddress() const
+  CNetChan::GetTimeConnected() const
+  CNetChan::GetTimeoutSeconds() const
+  CNetChan::GetTimeSinceLastReceived() const
+  CNetChan::GetCommandInterpolationAmount(int, int) const
+  CNetChan::IsNull() const
+  CNetChan::GetName() const
+  CNetChan::GetTime() const
+  CNetChan::CanPacket() const
+  CNetChan::GetSocket() const

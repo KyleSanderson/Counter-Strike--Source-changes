@@ -1,0 +1,10 @@
+CEnvEntityMaker
+  CEnvEntityMaker::SpawnEntity(Vector, QAngle)
+  CEnvEntityMaker::FindTemplate()
+  CEnvEntityMaker::GetDataDescMap()
+  CEnvEntityMaker::HasRoomToSpawn()
+  CEnvEntityMaker::CheckSpawnThink()
+  CEnvEntityMaker::IsPlayerLooking()
+  CEnvEntityMaker::Spawn()
+  CEnvEntityMaker::Activate()
+  CEnvEntityMaker::~CEnvEntityMaker()

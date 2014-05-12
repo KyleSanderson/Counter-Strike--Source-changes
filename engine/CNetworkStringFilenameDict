@@ -1,0 +1,10 @@
+CNetworkStringFilenameDict
+  CNetworkStringFilenameDict::IsValidIndex(int)
+  CNetworkStringFilenameDict::Find(char const*)
+  CNetworkStringFilenameDict::Count()
+  CNetworkStringFilenameDict::Purge()
+  CNetworkStringFilenameDict::Insert(char const*)
+  CNetworkStringFilenameDict::String(int)
+  CNetworkStringFilenameDict::Element(int)
+  CNetworkStringFilenameDict::~CNetworkStringFilenameDict()
+  CNetworkStringFilenameDict::Element(int) const

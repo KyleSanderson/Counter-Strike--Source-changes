@@ -1,0 +1,4 @@
+CGameGibManager
+  CGameGibManager::GetDataDescMap()
+  CGameGibManager::Activate()
+  CGameGibManager::~CGameGibManager()

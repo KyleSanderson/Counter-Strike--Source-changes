@@ -1,0 +1,4 @@
+CCurveData
+  CCurveData::GetIntensity(ICurveDataAccessor*, float)
+  CCurveData::GetBoundedSample(ICurveDataAccessor*, int, bool&)
+  CCurveData::RestoreFromBuffer(CUtlBuffer&, IChoreoStringPool*)

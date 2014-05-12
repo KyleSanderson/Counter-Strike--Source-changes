@@ -1,0 +1,2 @@
+CProportionalFloatProperty::InitFromDefault
+  CProportionalFloatProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

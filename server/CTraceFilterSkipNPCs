@@ -1,0 +1,2 @@
+CTraceFilterSkipNPCs
+  CTraceFilterSkipNPCs::ShouldHitEntity(IHandleEntity*, int)

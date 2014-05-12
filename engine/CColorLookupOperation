@@ -1,0 +1,11 @@
+CColorLookupOperation
+  CColorLookupOperation::SetEnabled(bool)
+  CColorLookupOperation::GetBlendFactor()
+  CColorLookupOperation::SetBlendFactor(float)
+  CColorLookupOperation::LoadLookupTable(char const*)
+  CColorLookupOperation::Clone()
+  CColorLookupOperation::ToolID()
+  CColorLookupOperation::GetName()
+  CColorLookupOperation::Release()
+  CColorLookupOperation::SetName(char const*)
+  CColorLookupOperation::IsEnabled()

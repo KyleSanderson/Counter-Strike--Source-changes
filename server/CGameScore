@@ -1,0 +1,4 @@
+CGameScore
+  CGameScore::GetDataDescMap()
+  CGameScore::Spawn()
+  CGameScore::~CGameScore()

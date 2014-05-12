@@ -1,0 +1,7 @@
+CBaseFire
+  CBaseFire::GetDataDescMap()
+  CBaseFire::Scale(float, float)
+  CBaseFire::Scale(float, float, float)
+  CBaseFire::Enable(int)
+  CBaseFire::CBaseFire()
+  CBaseFire::~CBaseFire()

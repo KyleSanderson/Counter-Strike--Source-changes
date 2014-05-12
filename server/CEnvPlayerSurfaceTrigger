@@ -1,0 +1,8 @@
+CEnvPlayerSurfaceTrigger
+  CEnvPlayerSurfaceTrigger::GetDataDescMap()
+  CEnvPlayerSurfaceTrigger::SetPlayerSurface(CBasePlayer*, char)
+  CEnvPlayerSurfaceTrigger::UpdateMaterialThink()
+  CEnvPlayerSurfaceTrigger::PlayerSurfaceChanged(CBasePlayer*, char)
+  CEnvPlayerSurfaceTrigger::Spawn()
+  CEnvPlayerSurfaceTrigger::OnRestore()
+  CEnvPlayerSurfaceTrigger::~CEnvPlayerSurfaceTrigger()

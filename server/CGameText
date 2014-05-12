@@ -1,0 +1,4 @@
+CGameText
+  CGameText::GetDataDescMap()
+  CGameText::Display(CBaseEntity*)
+  CGameText::~CGameText()

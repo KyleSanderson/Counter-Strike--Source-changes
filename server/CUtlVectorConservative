@@ -1,0 +1,2 @@
+CUtlVectorConservative
+  CUtlVectorConservative<CNavArea::AreaBindInfo>::~CUtlVectorConservative()

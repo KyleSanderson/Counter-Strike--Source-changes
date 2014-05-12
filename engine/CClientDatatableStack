@@ -1,0 +1,2 @@
+CClientDatatableStack
+  CClientDatatableStack::RecurseAndCallProxies(CSendNode*, unsigned char*)

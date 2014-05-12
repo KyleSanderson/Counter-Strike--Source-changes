@@ -1,0 +1,11 @@
+CEventLog
+  CEventLog::PrintEvent(IGameEvent*)
+  CEventLog::FireGameEvent(IGameEvent*)
+  CEventLog::PrintGameEvent(IGameEvent*)
+  CEventLog::PrintTeamEvent(IGameEvent*)
+  CEventLog::PrintOtherEvent(IGameEvent*)
+  CEventLog::PrintPlayerEvent(IGameEvent*)
+  CEventLog::Init()
+  CEventLog::Shutdown()
+  CEventLog::CEventLog()
+  CEventLog::~CEventLog()

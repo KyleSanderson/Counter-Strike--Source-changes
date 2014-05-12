@@ -1,0 +1,5 @@
+CPointDevShotCamera
+  CPointDevShotCamera::GetDataDescMap()
+  CPointDevShotCamera::UpdateTransmitState()
+  CPointDevShotCamera::Spawn()
+  CPointDevShotCamera::~CPointDevShotCamera()

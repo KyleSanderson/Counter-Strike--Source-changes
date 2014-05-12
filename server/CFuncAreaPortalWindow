@@ -1,0 +1,9 @@
+CFuncAreaPortalWindow
+  CFuncAreaPortalWindow::GetDataDescMap()
+  CFuncAreaPortalWindow::GetServerClass()
+  CFuncAreaPortalWindow::UpdateVisibility(Vector const&, float, bool&)
+  CFuncAreaPortalWindow::YouForgotToImplementOrDeclareServerClass()
+  CFuncAreaPortalWindow::Spawn()
+  CFuncAreaPortalWindow::Activate()
+  CFuncAreaPortalWindow::CFuncAreaPortalWindow()
+  CFuncAreaPortalWindow::~CFuncAreaPortalWindow()

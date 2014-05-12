@@ -1,0 +1,2 @@
+CDefaultDataCacheClient
+  CDefaultDataCacheClient::GetItemName(unsigned int, void const*, char*, unsigned int)

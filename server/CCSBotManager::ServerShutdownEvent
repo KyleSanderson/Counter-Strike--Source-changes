@@ -1,0 +1,4 @@
+CCSBotManager::ServerShutdownEvent
+  CCSBotManager::ServerShutdownEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::ServerShutdownEvent::~ServerShutdownEvent()
+  CCSBotManager::ServerShutdownEvent::GetEventName() const

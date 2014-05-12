@@ -1,0 +1,4 @@
+CDispLeafBuilder
+  CDispLeafBuilder::WriteLeafList(unsigned short*)
+  CDispLeafBuilder::BuildLeafListForDisplacement(int)
+  CDispLeafBuilder::CDispLeafBuilder(CCollisionBSPData*)

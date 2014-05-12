@@ -1,0 +1,13 @@
+CWeaponCSBaseGun
+  CWeaponCSBaseGun::WeaponIdle()
+  CWeaponCSBaseGun::CSBaseGunFire(float, CSWeaponMode)
+  CWeaponCSBaseGun::DoFireEffects()
+  CWeaponCSBaseGun::ItemPostFrame()
+  CWeaponCSBaseGun::PrimaryAttack()
+  CWeaponCSBaseGun::GetServerClass()
+  CWeaponCSBaseGun::YouForgotToImplementOrDeclareServerClass()
+  CWeaponCSBaseGun::Spawn()
+  CWeaponCSBaseGun::Deploy()
+  CWeaponCSBaseGun::Reload()
+  CWeaponCSBaseGun::CWeaponCSBaseGun()
+  CWeaponCSBaseGun::~CWeaponCSBaseGun()

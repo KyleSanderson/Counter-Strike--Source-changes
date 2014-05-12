@@ -1,0 +1,13 @@
+PathFollower
+  PathFollower::Invalidate()
+  PathFollower::AdjustSpeed(INextBot*)
+  PathFollower::FindBlocker(INextBot*)
+  PathFollower::LadderUpdate(INextBot*)
+  PathFollower::CheckProgress(INextBot*)
+  PathFollower::SetMinLookAheadDistance(float)
+  PathFollower::Update(INextBot*)
+  PathFollower::PathFollower()
+  PathFollower::~PathFollower()
+  PathFollower::GetHindrance() const
+  PathFollower::GetCurrentGoal() const
+  PathFollower::IsAtGoal(INextBot*) const

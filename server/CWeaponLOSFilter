@@ -1,0 +1,2 @@
+CWeaponLOSFilter
+  CWeaponLOSFilter::ShouldHitEntity(IHandleEntity*, int)

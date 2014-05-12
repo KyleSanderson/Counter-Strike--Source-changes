@@ -1,0 +1,18 @@
+ConVar
+  ConVar::ClampValue(float&)
+  ConVar::InternalSetValue(char const*)
+  ConVar::ChangeStringValue(char const*, float)
+  ConVar::InternalSetIntValue(int)
+  ConVar::InternalSetFloatValue(float)
+  ConVar::Init()
+  ConVar::AddFlags(int)
+  ConVar::SetValue(char const*)
+  ConVar::SetValue(float)
+  ConVar::SetValue(int)
+  ConVar::~ConVar()
+  ConVar::GetDefault() const
+  ConVar::GetHelpText() const
+  ConVar::IsRegistered() const
+  ConVar::GetName() const
+  ConVar::IsCommand() const
+  ConVar::IsFlagSet(int) const

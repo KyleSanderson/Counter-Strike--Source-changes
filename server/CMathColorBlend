@@ -1,0 +1,4 @@
+CMathColorBlend
+  CMathColorBlend::GetDataDescMap()
+  CMathColorBlend::Spawn()
+  CMathColorBlend::~CMathColorBlend()

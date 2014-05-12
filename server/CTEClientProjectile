@@ -1,0 +1,6 @@
+CTEClientProjectile
+  CTEClientProjectile::GetServerClass()
+  CTEClientProjectile::YouForgotToImplementOrDeclareServerClass()
+  CTEClientProjectile::Test(Vector const&, QAngle const&)
+  CTEClientProjectile::CTEClientProjectile(char const*)
+  CTEClientProjectile::~CTEClientProjectile()

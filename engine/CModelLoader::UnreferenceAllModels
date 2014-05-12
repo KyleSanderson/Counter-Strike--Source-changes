@@ -1,0 +1,2 @@
+CModelLoader::UnreferenceAllModels
+  CModelLoader::UnreferenceAllModels(IModelLoader::REFERENCETYPE)

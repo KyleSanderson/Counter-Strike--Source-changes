@@ -1,0 +1,4 @@
+CLoaderProgress
+  CLoaderProgress::EndProgress()
+  CLoaderProgress::BeginProgress()
+  CLoaderProgress::UpdateProgress(float)

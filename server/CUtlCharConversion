@@ -1,0 +1,2 @@
+CUtlCharConversion
+  CUtlCharConversion::FindConversion(char const*, int*)

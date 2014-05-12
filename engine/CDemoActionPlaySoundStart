@@ -1,0 +1,7 @@
+CDemoActionPlaySoundStart
+  CDemoActionPlaySoundStart::FireAction()
+  CDemoActionPlaySoundStart::SetSoundName(char const*)
+  CDemoActionPlaySoundStart::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionPlaySoundStart::Init(KeyValues*)
+  CDemoActionPlaySoundStart::~CDemoActionPlaySoundStart()
+  CDemoActionPlaySoundStart::GetSoundName() const

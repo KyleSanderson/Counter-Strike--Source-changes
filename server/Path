@@ -1,0 +1,25 @@
+Path
+  Path::Invalidate()
+  Path::PostProcess()
+  Path::MoveCursorToEnd()
+  Path::BuildTrivialPath(INextBot*, Vector const&)
+  Path::DrawInterpolated(float, float)
+  Path::MoveCursorToStart()
+  Path::ComputePathDetails(INextBot*, Vector const&)
+  Path::ComputeWithOpenGoal(INextBot*, IPathCost const&, IPathOpenGoalSelector const&, float)
+  Path::CollectAdjacentAreas(CNavArea*)
+  Path::AssemblePrecomputedPath(INextBot*, Vector const&, CNavArea*)
+  Path::Optimize(INextBot*)
+  Path::Path()
+  Path::~Path()
+  Path::GetSubject() const
+  Path::LastSegment() const
+  Path::FirstSegment() const
+  Path::GetCursorData() const
+  Path::GetCurrentGoal() const
+  Path::GetEndPosition() const
+  Path::GetStartPosition() const
+  Path::GetCursorPosition() const
+  Path::GetAge() const
+  Path::IsValid() const
+  Path::GetLength() const

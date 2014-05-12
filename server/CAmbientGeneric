@@ -1,0 +1,12 @@
+CAmbientGeneric
+  CAmbientGeneric::SetTransmit(CCheckTransmitInfo*, bool)
+  CAmbientGeneric::ToggleSound()
+  CAmbientGeneric::GetDataDescMap()
+  CAmbientGeneric::UpdateOnRemove()
+  CAmbientGeneric::InitModulationParms()
+  CAmbientGeneric::ComputeMaxAudibleDistance()
+  CAmbientGeneric::Spawn()
+  CAmbientGeneric::Activate()
+  CAmbientGeneric::Precache()
+  CAmbientGeneric::RampThink()
+  CAmbientGeneric::~CAmbientGeneric()

@@ -1,0 +1,2 @@
+CBudgetPanelEngine::CBudgetPanelEngine
+  CBudgetPanelEngine::CBudgetPanelEngine(vgui::Panel*, char const*)

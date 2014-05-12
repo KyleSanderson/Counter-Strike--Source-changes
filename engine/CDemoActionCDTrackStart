@@ -1,0 +1,7 @@
+CDemoActionCDTrackStart
+  CDemoActionCDTrackStart::FireAction()
+  CDemoActionCDTrackStart::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionCDTrackStart::Init(KeyValues*)
+  CDemoActionCDTrackStart::SetTrack(int)
+  CDemoActionCDTrackStart::~CDemoActionCDTrackStart()
+  CDemoActionCDTrackStart::GetTrack() const

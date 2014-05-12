@@ -1,0 +1,7 @@
+CSmokeGrenadeProjectile
+  CSmokeGrenadeProjectile::BounceSound()
+  CSmokeGrenadeProjectile::GetDataDescMap()
+  CSmokeGrenadeProjectile::Spawn()
+  CSmokeGrenadeProjectile::Detonate()
+  CSmokeGrenadeProjectile::Precache()
+  CSmokeGrenadeProjectile::~CSmokeGrenadeProjectile()

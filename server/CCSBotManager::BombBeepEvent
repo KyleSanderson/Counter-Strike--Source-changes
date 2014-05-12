@@ -1,0 +1,4 @@
+CCSBotManager::BombBeepEvent
+  CCSBotManager::BombBeepEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BombBeepEvent::~BombBeepEvent()
+  CCSBotManager::BombBeepEvent::GetEventName() const

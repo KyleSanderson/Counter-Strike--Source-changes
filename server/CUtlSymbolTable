@@ -1,0 +1,7 @@
+CUtlSymbolTable
+  CUtlSymbolTable::AddString(char const*)
+  CUtlSymbolTable::RemoveAll()
+  CUtlSymbolTable::CUtlSymbolTable(int, int, bool)
+  CUtlSymbolTable::~CUtlSymbolTable()
+  CUtlSymbolTable::Find(char const*) const
+  CUtlSymbolTable::String(CUtlSymbol) const

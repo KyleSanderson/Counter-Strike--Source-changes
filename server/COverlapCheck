@@ -1,0 +1,2 @@
+COverlapCheck
+  COverlapCheck::operator()(CNavArea*)

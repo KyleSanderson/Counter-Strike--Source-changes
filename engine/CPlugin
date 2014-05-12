@@ -1,0 +1,2 @@
+CPlugin
+  CPlugin::Load(char const*)

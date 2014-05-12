@@ -1,0 +1,10 @@
+CRagdollBoogie
+  CRagdollBoogie::BoogieThink()
+  CRagdollBoogie::AttachToEntity(CBaseEntity*)
+  CRagdollBoogie::GetDataDescMap()
+  CRagdollBoogie::DecrementSuppressionCount(CBaseEntity*)
+  CRagdollBoogie::IncrementSuppressionCount(CBaseEntity*)
+  CRagdollBoogie::Spawn()
+  CRagdollBoogie::Create(CBaseEntity*, float, float, float, int)
+  CRagdollBoogie::ZapThink()
+  CRagdollBoogie::~CRagdollBoogie()

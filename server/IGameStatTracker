@@ -1,0 +1,4 @@
+IGameStatTracker
+  IGameStatTracker::CGameStatList<SCSSDeathData>
+  IGameStatTracker::CGameStatList<SCSSWeaponData>
+  IGameStatTracker::CGameStatList<SMarketPurchases>

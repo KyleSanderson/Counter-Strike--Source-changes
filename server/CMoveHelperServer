@@ -1,0 +1,11 @@
+CMoveHelperServer
+  CMoveHelperServer::StartSound(Vector const&, char const*)
+  CMoveHelperServer::AddToTouched(CGameTrace const&, Vector const&)
+  CMoveHelperServer::IsWorldEntity(CBaseHandle const&)
+  CMoveHelperServer::ProcessImpacts()
+  CMoveHelperServer::ResetTouchList()
+  CMoveHelperServer::GetSurfaceProps()
+  CMoveHelperServer::PlayerFallingDamage()
+  CMoveHelperServer::SetHost(CBasePlayer*)
+  CMoveHelperServer::~CMoveHelperServer()
+  CMoveHelperServer::GetName(CBaseHandle) const

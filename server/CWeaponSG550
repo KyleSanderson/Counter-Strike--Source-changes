@@ -1,0 +1,12 @@
+CWeaponSG550
+  CWeaponSG550::PrimaryAttack()
+  CWeaponSG550::GetServerClass()
+  CWeaponSG550::SecondaryAttack()
+  CWeaponSG550::YouForgotToImplementOrDeclareServerClass()
+  CWeaponSG550::Spawn()
+  CWeaponSG550::Deploy()
+  CWeaponSG550::Reload()
+  CWeaponSG550::~CWeaponSG550()
+  CWeaponSG550::GetMaxSpeed() const
+  CWeaponSG550::GetWeaponID() const
+  CWeaponSG550::GetInaccuracy() const

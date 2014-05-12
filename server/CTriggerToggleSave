@@ -1,0 +1,5 @@
+CTriggerToggleSave
+  CTriggerToggleSave::GetDataDescMap()
+  CTriggerToggleSave::Spawn()
+  CTriggerToggleSave::Touch(CBaseEntity*)
+  CTriggerToggleSave::~CTriggerToggleSave()

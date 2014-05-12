@@ -1,0 +1,7 @@
+CDynamicLight
+  CDynamicLight::GetDataDescMap()
+  CDynamicLight::GetServerClass()
+  CDynamicLight::DynamicLightThink()
+  CDynamicLight::YouForgotToImplementOrDeclareServerClass()
+  CDynamicLight::Spawn()
+  CDynamicLight::~CDynamicLight()

@@ -1,0 +1,7 @@
+IBoneSetup
+  IBoneSetup::CalcBoneAdj(Vector*, Quaternion*, float const*)
+  IBoneSetup::AccumulatePose(Vector*, Quaternion*, int, float, float, float, CIKContext*)
+  IBoneSetup::CalcAutoplaySequences(Vector*, Quaternion*, float, CIKContext*)
+  IBoneSetup::InitPose(Vector*, Quaternion*)
+  IBoneSetup::IBoneSetup(CStudioHdr const*, int, float const*, IPoseDebugger*)
+  IBoneSetup::~IBoneSetup()

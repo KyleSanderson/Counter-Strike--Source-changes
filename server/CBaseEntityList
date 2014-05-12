@@ -1,0 +1,10 @@
+CBaseEntityList
+  CBaseEntityList::OnAddEntity(IHandleEntity*, CBaseHandle)
+  CBaseEntityList::RemoveEntity(CBaseHandle)
+  CBaseEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)
+  CBaseEntityList::AddEntityAtSlot(IHandleEntity*, int, int)
+  CBaseEntityList::RemoveEntityAtSlot(int)
+  CBaseEntityList::AddNetworkableEntity(IHandleEntity*, int, int)
+  CBaseEntityList::AddNonNetworkableEntity(IHandleEntity*)
+  CBaseEntityList::CBaseEntityList()
+  CBaseEntityList::~CBaseEntityList()

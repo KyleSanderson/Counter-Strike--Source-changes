@@ -1,0 +1,4 @@
+vgui::TreeViewSubPanel
+  vgui::TreeViewSubPanel::OnCursorMoved(int, int)
+  vgui::TreeViewSubPanel::OnMouseWheeled(int)
+  vgui::TreeViewSubPanel::~TreeViewSubPanel()

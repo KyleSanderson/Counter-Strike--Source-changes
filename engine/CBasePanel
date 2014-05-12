@@ -1,0 +1,3 @@
+CBasePanel
+  CBasePanel::OnTick()
+  CBasePanel::~CBasePanel()

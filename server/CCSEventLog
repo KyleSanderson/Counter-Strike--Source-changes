@@ -1,0 +1,5 @@
+CCSEventLog
+  CCSEventLog::PrintEvent(IGameEvent*)
+  CCSEventLog::PrintCStrikeEvent(IGameEvent*)
+  CCSEventLog::Init()
+  CCSEventLog::~CCSEventLog()

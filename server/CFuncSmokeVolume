@@ -1,0 +1,8 @@
+CFuncSmokeVolume
+  CFuncSmokeVolume::GetDataDescMap()
+  CFuncSmokeVolume::GetServerClass()
+  CFuncSmokeVolume::YouForgotToImplementOrDeclareServerClass()
+  CFuncSmokeVolume::Spawn()
+  CFuncSmokeVolume::Activate()
+  CFuncSmokeVolume::CFuncSmokeVolume()
+  CFuncSmokeVolume::~CFuncSmokeVolume()

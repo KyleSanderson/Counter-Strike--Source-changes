@@ -1,0 +1,5 @@
+CBaseEntityOutput
+  CBaseEntityOutput::GetMaxDelay()
+  CBaseEntityOutput::NumberOfElements()
+  CBaseEntityOutput::Restore(IRestore&, int)
+  CBaseEntityOutput::~CBaseEntityOutput()

@@ -1,0 +1,2 @@
+IsLadderFreeFunctor
+  IsLadderFreeFunctor::operator()(CBasePlayer*)

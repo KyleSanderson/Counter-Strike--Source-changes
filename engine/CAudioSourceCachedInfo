@@ -1,0 +1,6 @@
+CAudioSourceCachedInfo
+  CAudioSourceCachedInfo::Save(CUtlBuffer&)
+  CAudioSourceCachedInfo::Clear()
+  CAudioSourceCachedInfo::Rebuild(char const*)
+  CAudioSourceCachedInfo::Restore(CUtlBuffer&)
+  CAudioSourceCachedInfo::~CAudioSourceCachedInfo()

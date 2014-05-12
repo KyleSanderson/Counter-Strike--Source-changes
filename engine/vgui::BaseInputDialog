@@ -1,0 +1,10 @@
+vgui::BaseInputDialog
+  vgui::BaseInputDialog::GetAnimMap()
+  vgui::BaseInputDialog::GetMessageMap()
+  vgui::BaseInputDialog::PerformLayout(int, int, int, int)
+  vgui::BaseInputDialog::PerformLayout()
+  vgui::BaseInputDialog::GetPanelClassName()
+  vgui::BaseInputDialog::DoModal(KeyValues*)
+  vgui::BaseInputDialog::GetKBMap()
+  vgui::BaseInputDialog::OnCommand(char const*)
+  vgui::BaseInputDialog::~BaseInputDialog()

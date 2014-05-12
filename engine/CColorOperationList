@@ -1,0 +1,3 @@
+CColorOperationList
+  CColorOperationList::BringForward(int)
+  CColorOperationList::PushBack(int)

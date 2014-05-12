@@ -1,0 +1,200 @@
+CCSBot
+  CCSBot::AdjustZoom(float)
+  CCSBot::BumpWeapon(CBaseCombatWeapon*)
+  CCSBot::DefuseBomb()
+  CCSBot::EquipKnife()
+  CCSBot::GiveWeapon(char const*)
+  CCSBot::Initialize(BotProfile const*, int)
+  CCSBot::OnBombBeep(IGameEvent*)
+  CCSBot::OnRoundEnd(IGameEvent*)
+  CCSBot::SpeakAudio(char const*, float, int)
+  CCSBot::StuckCheck()
+  CCSBot::ComputePath(Vector const&, RouteType)
+  CCSBot::EquipPistol()
+  CCSBot::OnBreakProp(IGameEvent*)
+  CCSBot::ReloadCheck()
+  CCSBot::ResetValues()
+  CCSBot::SetBotEnemy(CCSPlayer*)
+  CCSBot::BuildUserCmd(CUserCmd&, QAngle const&, float, float, float, int, unsigned char)
+  CCSBot::EquipGrenade(bool)
+  CCSBot::GetMoveSpeed()
+  CCSBot::GetOffLadder()
+  CCSBot::OnDoorMoving(IGameEvent*)
+  CCSBot::OnNavBlocked(IGameEvent*)
+  CCSBot::OnRoundStart(IGameEvent*)
+  CCSBot::OnTakeDamage(CTakeDamageInfo const&)
+  CCSBot::OnWeaponFire(IGameEvent*)
+  CCSBot::OnWeaponZoom(IGameEvent*)
+  CCSBot::SetAimOffset(float)
+  CCSBot::SetPathIndex(int)
+  CCSBot::ThrowGrenade(Vector const&)
+  CCSBot::TryToRetreat(float, float)
+  CCSBot::UpdateLookAt()
+  CCSBot::BotDeathThink()
+  CCSBot::FindPathPoint(float, Vector*, int*)
+  CCSBot::IgnoreEnemies(float)
+  CCSBot::OnBombDefused(IGameEvent*)
+  CCSBot::OnBombPlanted(IGameEvent*)
+  CCSBot::OnPlayerDeath(IGameEvent*)
+  CCSBot::OnPlayerRadio(IGameEvent*)
+  CCSBot::PrimaryAttack()
+  CCSBot::PushawayTouch(CBaseEntity*)
+  CCSBot::SilencerCheck()
+  CCSBot::StayOnNavMesh()
+  CCSBot::StopAttacking()
+  CCSBot::StopFollowing()
+  CCSBot::AdjustSafeTime()
+  CCSBot::DecreaseMorale()
+  CCSBot::EscapeFromBomb()
+  CCSBot::GetDataDescMap()
+  CCSBot::IncreaseMorale()
+  CCSBot::OnAudibleEvent(IGameEvent*, CBasePlayer*, float, PriorityType, bool, bool, Vector const*)
+  CCSBot::OnBombExploded(IGameEvent*)
+  CCSBot::OnBombPickedUp(IGameEvent*)
+  CCSBot::OnBulletImpact(IGameEvent*)
+  CCSBot::OnWeaponReload(IGameEvent*)
+  CCSBot::BreakablesCheck()
+  CCSBot::EquipBestWeapon(bool)
+  CCSBot::GuardRandomZone(float)
+  CCSBot::OnGrenadeBounce(IGameEvent*)
+  CCSBot::UpdateAimOffset()
+  CCSBot::BuildTrivialPath(Vector const&)
+  CCSBot::InvestigateNoise()
+  CCSBot::IsFriendInTheWay(Vector const&)
+  CCSBot::OnBreakBreakable(IGameEvent*)
+  CCSBot::OnEnteredNavArea(CNavArea*)
+  CCSBot::OnHostageFollows(IGameEvent*)
+  CCSBot::OnPlayerFootstep(IGameEvent*)
+  CCSBot::SendRadioMessage(RadioType)
+  CCSBot::UpdateLookAngles()
+  CCSBot::UpdateLookAround(bool)
+  CCSBot::ContinueFollowing()
+  CCSBot::DiscontinuityJump(float, bool, bool)
+  CCSBot::FireWeaponAtEnemy()
+  CCSBot::InhibitLookAround(float)
+  CCSBot::OnBombDefuseAbort(IGameEvent*)
+  CCSBot::OnBombDefuseBegin(IGameEvent*)
+  CCSBot::ResetStuckMonitor()
+  CCSBot::UpdateLookAtNoise()
+  CCSBot::AvoidEnemyGrenades()
+  CCSBot::FindEntitiesOnPath(float, CPushAwayEnumerator*, bool)
+  CCSBot::GetRecognizedEnemy()
+  CCSBot::OnPlayerFallDamage(IGameEvent*)
+  CCSBot::UpdateGrenadeThrow()
+  CCSBot::UpdatePathMovement(bool)
+  CCSBot::MoveTowardsPosition(Vector const&)
+  CCSBot::OnFlashbangDetonate(IGameEvent*)
+  CCSBot::OnHEGrenadeDetonate(IGameEvent*)
+  CCSBot::OnHostageRescuedAll(IGameEvent*)
+  CCSBot::OnWeaponFireOnEmpty(IGameEvent*)
+  CCSBot::SetupLadderMovement()
+  CCSBot::UpdateReactionQueue()
+  CCSBot::ComputePartPositions(CCSPlayer*)
+  CCSBot::ComputePathPositions()
+  CCSBot::IsFriendInLineOfFire()
+  CCSBot::MoveAwayFromPosition(Vector const&)
+  CCSBot::RespondToHelpRequest(CCSPlayer*, unsigned int, float)
+  CCSBot::UpdateLadderMovement()
+  CCSBot::ComputeApproachPoints()
+  CCSBot::ComputeLadderEndpoint(bool)
+  CCSBot::HeardInterestingNoise()
+  CCSBot::LookForGrenadeTargets()
+  CCSBot::UpdatePanicLookAround()
+  CCSBot::FeelerReflexAdjustment(Vector*)
+  CCSBot::MoveToInitialEncounter()
+  CCSBot::OnSmokeGrenadeDetonate(IGameEvent*)
+  CCSBot::RespondToRadioCommands()
+  CCSBot::StrafeAwayFromPosition(Vector const&)
+  CCSBot::UpdatePeripheralVision()
+  CCSBot::ComputeWeaponSightRange()
+  CCSBot::FindMostDangerousThreat()
+  CCSBot::UpdateHostageEscortCount()
+  CCSBot::IsRecognizedEnemyReloading()
+  CCSBot::SetHidingSpotCheckTimestamp(HidingSpot*)
+  CCSBot::UpdateTravelDistanceToAllPlayers()
+  CCSBot::IsRecognizedEnemyProtectedByShield()
+  CCSBot::Buy()
+  CCSBot::Hide(CNavArea*, float, float, bool)
+  CCSBot::Hide(Vector const&, float, bool)
+  CCSBot::Hunt()
+  CCSBot::Idle()
+  CCSBot::Jump(bool)
+  CCSBot::Walk()
+  CCSBot::Blind(float, float, float)
+  CCSBot::Spawn()
+  CCSBot::Touch(CBaseEntity*)
+  CCSBot::Attack(CCSPlayer*)
+  CCSBot::Follow(CCSPlayer*)
+  CCSBot::MoveTo(Vector const&, RouteType)
+  CCSBot::Update()
+  CCSBot::Upkeep()
+  CCSBot::Wiggle()
+  CCSBot::DrawPath()
+  CCSBot::OpenDoor(CBaseEntity*)
+  CCSBot::SetState(BotState*)
+  CCSBot::DoorCheck()
+  CCSBot::FetchBomb()
+  CCSBot::PlantBomb()
+  CCSBot::SetLookAt(char const*, Vector const&, PriorityType, float, bool, float, bool)
+  CCSBot::TryToHide(CNavArea*, float, float, bool, bool)
+  CCSBot::UseEntity(CBaseEntity*)
+  CCSBot::CCSBot()
+  CCSBot::~CCSBot()
+  CCSBot::HasGrenade() const
+  CCSBot::IsHurrying() const
+  CCSBot::GetAttacker() const
+  CCSBot::GetTaskName() const
+  CCSBot::IsAttacking() const
+  CCSBot::IsNoticable(CCSPlayer const*, unsigned char) const
+  CCSBot::DebugDisplay() const
+  CCSBot::IsNoiseHeard() const
+  CCSBot::IsUsingKnife() const
+  CCSBot::GetHidingTime() const
+  CCSBot::GetMoraleName() const
+  CCSBot::IsOutnumbered() const
+  CCSBot::IsUsingPistol() const
+  CCSBot::GetDisposition() const
+  CCSBot::IsAtEnemySpawn() const
+  CCSBot::IsAtHidingSpot() const
+  CCSBot::IsDefusingBomb() const
+  CCSBot::IsUsingGrenade() const
+  CCSBot::IsUsingShotgun() const
+  CCSBot::IsWellPastSafe() const
+  CCSBot::CanSeeLooseBomb() const
+  CCSBot::IsDoingScenario() const
+  CCSBot::NoticeLooseBomb() const
+  CCSBot::GetLastKnownArea() const
+  CCSBot::OutnumberedCount() const
+  CCSBot::CanSeePlantedBomb() const
+  CCSBot::IsUsingMachinegun() const
+  CCSBot::DrawApproachPoints() const
+  CCSBot::GetDispositionName() const
+  CCSBot::IsEscapingFromBomb() const
+  CCSBot::IsUsingSniperRifle() const
+  CCSBot::CanActiveWeaponFire() const
+  CCSBot::CanSeeNoisePosition() const
+  CCSBot::GetSafeTimeRemaining() const
+  CCSBot::IsInvestigatingNoise() const
+  CCSBot::IsPrimaryWeaponEmpty() const
+  CCSBot::FindOurPositionOnPath(Vector*, bool) const
+  CCSBot::DidPlayerJustFireWeapon(CCSPlayer const*) const
+  CCSBot::GetApproximateFallDamage(float) const
+  CCSBot::GetPathDistanceRemaining() const
+  CCSBot::CanHearNearbyEnemyGunfire(float) const
+  CCSBot::HasNotSeenEnemyForLongTime() const
+  CCSBot::GetHidingSpotCheckTimestamp(HidingSpot*) const
+  CCSBot::IsAnyVisibleEnemyLookingAtMe(bool) const
+  CCSBot::GetRangeToFarthestEscortedHostage() const
+  CCSBot::IsBusy() const
+  CCSBot::IsSafe() const
+  CCSBot::IsRogue() const
+  CCSBot::IsUsing(CSWeaponID) const
+  CCSBot::GetPlace() const
+  CCSBot::IsBuying() const
+  CCSBot::IsHiding() const
+  CCSBot::IsSniper() const
+  CCSBot::IsHunting() const
+  CCSBot::IsRunning() const
+  CCSBot::IsSniping() const
+  CCSBot::IsVisible(CCSPlayer*, bool, unsigned char*) const
+  CCSBot::IsVisible(Vector const&, bool, CBaseEntity const*) const

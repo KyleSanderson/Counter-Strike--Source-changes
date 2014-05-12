@@ -1,0 +1,8 @@
+CInfoLightingRelative
+  CInfoLightingRelative::SetTransmit(CCheckTransmitInfo*, bool)
+  CInfoLightingRelative::GetDataDescMap()
+  CInfoLightingRelative::GetServerClass()
+  CInfoLightingRelative::UpdateTransmitState()
+  CInfoLightingRelative::YouForgotToImplementOrDeclareServerClass()
+  CInfoLightingRelative::Activate()
+  CInfoLightingRelative::~CInfoLightingRelative()

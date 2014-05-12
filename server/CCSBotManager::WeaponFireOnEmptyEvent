@@ -1,0 +1,4 @@
+CCSBotManager::WeaponFireOnEmptyEvent
+  CCSBotManager::WeaponFireOnEmptyEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::WeaponFireOnEmptyEvent::~WeaponFireOnEmptyEvent()
+  CCSBotManager::WeaponFireOnEmptyEvent::GetEventName() const

@@ -1,0 +1,7 @@
+CItemDefuser
+  CItemDefuser::DefuserTouch(CBaseEntity*)
+  CItemDefuser::ActivateThink()
+  CItemDefuser::GetDataDescMap()
+  CItemDefuser::Spawn()
+  CItemDefuser::Precache()
+  CItemDefuser::~CItemDefuser()

@@ -1,0 +1,3 @@
+CCurveData::GetBoundedSample
+  CCurveData::GetBoundedSample(ICurveDataAccessor*, int, bool&)::nullend
+  CCurveData::GetBoundedSample(ICurveDataAccessor*, int, bool&)::nullstart

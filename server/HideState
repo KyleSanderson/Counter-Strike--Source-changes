@@ -1,0 +1,5 @@
+HideState
+  HideState::OnExit(CCSBot*)
+  HideState::OnEnter(CCSBot*)
+  HideState::OnUpdate(CCSBot*)
+  HideState::GetName() const

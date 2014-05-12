@@ -1,0 +1,2 @@
+CClientState::GetCDKeyHash
+  CClientState::GetCDKeyHash()::szHashedKeyBuffer

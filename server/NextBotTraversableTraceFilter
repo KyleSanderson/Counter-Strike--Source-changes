@@ -1,0 +1,2 @@
+NextBotTraversableTraceFilter
+  NextBotTraversableTraceFilter::ShouldHitEntity(IHandleEntity*, int)

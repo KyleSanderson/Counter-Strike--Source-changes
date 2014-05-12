@@ -1,0 +1,17 @@
+NextBotManager
+  NextBotManager::UnRegister(INextBot*)
+  NextBotManager::OnMapLoaded()
+  NextBotManager::ShouldUpdate(INextBot*)
+  NextBotManager::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
+  NextBotManager::DebugFilterAdd(char const*)
+  NextBotManager::OnRoundRestart()
+  NextBotManager::NotifyEndUpdate(INextBot*)
+  NextBotManager::NotifyBeginUpdate(INextBot*)
+  NextBotManager::OnBeginChangeLevel()
+  NextBotManager::Update()
+  NextBotManager::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+  NextBotManager::OnKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+  NextBotManager::Register(INextBot*)
+  NextBotManager::sInstance
+  NextBotManager::~NextBotManager()
+  NextBotManager::IsDebugFilterMatch(INextBot const*) const

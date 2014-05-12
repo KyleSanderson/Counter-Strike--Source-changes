@@ -1,0 +1,9 @@
+CEnvMicrophone
+  CEnvMicrophone::CanHearSound(CSound*, float&)
+  CEnvMicrophone::GetDataDescMap()
+  CEnvMicrophone::ActivateSpeaker()
+  CEnvMicrophone::Spawn()
+  CEnvMicrophone::Think()
+  CEnvMicrophone::Activate()
+  CEnvMicrophone::OnRestore()
+  CEnvMicrophone::~CEnvMicrophone()

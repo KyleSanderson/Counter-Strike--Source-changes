@@ -1,0 +1,8 @@
+CEnvScreenEffect
+  CEnvScreenEffect::GetDataDescMap()
+  CEnvScreenEffect::GetServerClass()
+  CEnvScreenEffect::UpdateTransmitState()
+  CEnvScreenEffect::YouForgotToImplementOrDeclareServerClass()
+  CEnvScreenEffect::Spawn()
+  CEnvScreenEffect::Precache()
+  CEnvScreenEffect::~CEnvScreenEffect()

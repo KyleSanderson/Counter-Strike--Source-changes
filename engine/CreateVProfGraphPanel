@@ -1,0 +1,2 @@
+CreateVProfGraphPanel
+  CreateVProfGraphPanel(vgui::Panel*)

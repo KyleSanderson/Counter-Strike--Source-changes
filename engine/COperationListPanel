@@ -1,0 +1,12 @@
+COperationListPanel
+  COperationListPanel::GetAnimMap()
+  COperationListPanel::RemoveItem(int)
+  COperationListPanel::GetMessageMap()
+  COperationListPanel::OnTextNewLine(KeyValues*)
+  COperationListPanel::SetSortColumn(int)
+  COperationListPanel::AddSelectedItem(int)
+  COperationListPanel::GetPanelClassName()
+  COperationListPanel::ClearSelectedItems()
+  COperationListPanel::GetKBMap()
+  COperationListPanel::SortList()
+  COperationListPanel::~COperationListPanel()

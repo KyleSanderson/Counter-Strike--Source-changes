@@ -1,0 +1,7 @@
+CEffectsServer
+  CEffectsServer::MuzzleFlash(Vector const&, QAngle const&, float, int)
+  CEffectsServer::SuppressEffectsSounds(bool)
+  CEffectsServer::Time()
+  CEffectsServer::Smoke(Vector const&, int, float, float)
+  CEffectsServer::IsServer()
+  CEffectsServer::~CEffectsServer()

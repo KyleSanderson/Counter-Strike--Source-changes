@@ -1,0 +1,10 @@
+CMaterialModifyControl
+  CMaterialModifyControl::ObjectCaps()
+  CMaterialModifyControl::GetDataDescMap()
+  CMaterialModifyControl::GetServerClass()
+  CMaterialModifyControl::ShouldTransmit(CCheckTransmitInfo const*)
+  CMaterialModifyControl::UpdateTransmitState()
+  CMaterialModifyControl::YouForgotToImplementOrDeclareServerClass()
+  CMaterialModifyControl::Spawn()
+  CMaterialModifyControl::CMaterialModifyControl()
+  CMaterialModifyControl::~CMaterialModifyControl()

@@ -1,0 +1,12 @@
+vgui::CheckButton
+  vgui::CheckButton::GetAnimMap()
+  vgui::CheckButton::SetSelected(bool)
+  vgui::CheckButton::GetMessageMap()
+  vgui::CheckButton::GetButtonFgColor()
+  vgui::CheckButton::GetPanelClassName()
+  vgui::CheckButton::SetHighlightColor(Color)
+  vgui::CheckButton::SetCheckButtonCheckable(bool)
+  vgui::CheckButton::GetKBMap()
+  vgui::CheckButton::GetBorder(bool, bool, bool, bool)
+  vgui::CheckButton::~CheckButton()
+  vgui::CheckButton::IsCheckButtonCheckable() const

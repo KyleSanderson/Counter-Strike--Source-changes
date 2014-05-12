@@ -1,0 +1,11 @@
+CFourWheelServerVehicle
+  CFourWheelServerVehicle::SetVehicle(CBaseEntity*)
+  CFourWheelServerVehicle::GetVehicleParams()
+  CFourWheelServerVehicle::IsVehicleUpright()
+  CFourWheelServerVehicle::IsPassengerExiting()
+  CFourWheelServerVehicle::GetFourWheelVehicle()
+  CFourWheelServerVehicle::IsPassengerEntering()
+  CFourWheelServerVehicle::GetVehicleController()
+  CFourWheelServerVehicle::IsVehicleBodyInWater()
+  CFourWheelServerVehicle::GetVehicleViewPosition(int, Vector*, QAngle*, float*)
+  CFourWheelServerVehicle::~CFourWheelServerVehicle()

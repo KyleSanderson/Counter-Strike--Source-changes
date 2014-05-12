@@ -1,0 +1,4 @@
+CGamePlayerEquip
+  CGamePlayerEquip::GetDataDescMap()
+  CGamePlayerEquip::Touch(CBaseEntity*)
+  CGamePlayerEquip::~CGamePlayerEquip()

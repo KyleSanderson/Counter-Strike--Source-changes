@@ -1,0 +1,2 @@
+SelectOverlappingAreas
+  SelectOverlappingAreas::operator()(CNavArea*)

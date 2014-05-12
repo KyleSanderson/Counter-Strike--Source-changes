@@ -1,0 +1,8 @@
+vgui::FrameSystemButton
+  vgui::FrameSystemButton::GetAnimMap()
+  vgui::FrameSystemButton::SetEnabled(bool)
+  vgui::FrameSystemButton::GetMessageMap()
+  vgui::FrameSystemButton::GetPanelClassName()
+  vgui::FrameSystemButton::GetKBMap()
+  vgui::FrameSystemButton::GetBorder(bool, bool, bool, bool)
+  vgui::FrameSystemButton::~FrameSystemButton()

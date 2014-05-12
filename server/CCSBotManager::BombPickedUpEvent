@@ -1,0 +1,4 @@
+CCSBotManager::BombPickedUpEvent
+  CCSBotManager::BombPickedUpEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BombPickedUpEvent::~BombPickedUpEvent()
+  CCSBotManager::BombPickedUpEvent::GetEventName() const

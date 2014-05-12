@@ -1,0 +1,8 @@
+CTriggerProximity
+  CTriggerProximity::StartTouch(CBaseEntity*)
+  CTriggerProximity::MeasureThink()
+  CTriggerProximity::GetDataDescMap()
+  CTriggerProximity::Spawn()
+  CTriggerProximity::Activate()
+  CTriggerProximity::EndTouch(CBaseEntity*)
+  CTriggerProximity::~CTriggerProximity()

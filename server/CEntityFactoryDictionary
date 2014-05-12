@@ -1,0 +1,7 @@
+CEntityFactoryDictionary
+  CEntityFactoryDictionary::FindFactory(char const*)
+  CEntityFactoryDictionary::InstallFactory(IEntityFactory*, char const*)
+  CEntityFactoryDictionary::GetCannonicalName(char const*)
+  CEntityFactoryDictionary::Create(char const*)
+  CEntityFactoryDictionary::Destroy(char const*, IServerNetworkable*)
+  CEntityFactoryDictionary::~CEntityFactoryDictionary()

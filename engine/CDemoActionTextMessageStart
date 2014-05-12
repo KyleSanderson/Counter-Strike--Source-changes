@@ -1,0 +1,10 @@
+CDemoActionTextMessageStart
+  CDemoActionTextMessageStart::FireAction()
+  CDemoActionTextMessageStart::SetFontName(char const*)
+  CDemoActionTextMessageStart::GetTextMessage()
+  CDemoActionTextMessageStart::SetMessageText(char const*)
+  CDemoActionTextMessageStart::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionTextMessageStart::Init(KeyValues*)
+  CDemoActionTextMessageStart::~CDemoActionTextMessageStart()
+  CDemoActionTextMessageStart::GetFontName() const
+  CDemoActionTextMessageStart::GetMessageText() const

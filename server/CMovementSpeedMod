@@ -1,0 +1,3 @@
+CMovementSpeedMod
+  CMovementSpeedMod::GetDataDescMap()
+  CMovementSpeedMod::~CMovementSpeedMod()

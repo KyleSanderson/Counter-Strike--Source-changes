@@ -1,0 +1,3 @@
+vgui::FileCompletionMenu
+  vgui::FileCompletionMenu::SetVisible(bool)
+  vgui::FileCompletionMenu::~FileCompletionMenu()

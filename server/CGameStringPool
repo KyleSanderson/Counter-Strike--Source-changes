@@ -1,0 +1,5 @@
+CGameStringPool
+  CGameStringPool::LevelShutdownPostEntity()
+  CGameStringPool::Dump()
+  CGameStringPool::Name()
+  CGameStringPool::~CGameStringPool()

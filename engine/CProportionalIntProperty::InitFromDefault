@@ -1,0 +1,2 @@
+CProportionalIntProperty::InitFromDefault
+  CProportionalIntProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

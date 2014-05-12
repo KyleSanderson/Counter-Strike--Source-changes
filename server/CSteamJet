@@ -1,0 +1,8 @@
+CSteamJet
+  CSteamJet::GetDataDescMap()
+  CSteamJet::GetServerClass()
+  CSteamJet::YouForgotToImplementOrDeclareServerClass()
+  CSteamJet::Spawn()
+  CSteamJet::Precache()
+  CSteamJet::CSteamJet()
+  CSteamJet::~CSteamJet()

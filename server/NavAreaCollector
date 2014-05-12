@@ -1,0 +1,2 @@
+NavAreaCollector
+  NavAreaCollector::operator()(CNavArea*)

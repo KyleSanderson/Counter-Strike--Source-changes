@@ -1,0 +1,2 @@
+COcclusionUIPanel::OnCheckButtonChecked
+  COcclusionUIPanel::OnCheckButtonChecked(vgui::Panel*)

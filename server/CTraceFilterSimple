@@ -1,0 +1,4 @@
+CTraceFilterSimple
+  CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+  CTraceFilterSimple::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterSimple::SetCollisionGroup(int)

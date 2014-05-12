@@ -1,0 +1,10 @@
+TxViewPanel
+  TxViewPanel::GetAnimMap()
+  TxViewPanel::GetMessageMap()
+  TxViewPanel::OnFileSelected(char const*)
+  TxViewPanel::GetPanelClassName()
+  TxViewPanel::OnTick()
+  TxViewPanel::GetKBMap()
+  TxViewPanel::OnCommand(char const*)
+  TxViewPanel::OnMessage(KeyValues const*, unsigned int)
+  TxViewPanel::~TxViewPanel()

@@ -1,0 +1,7 @@
+CWorldRenderList
+  CWorldRenderList::OnFinalRelease()
+  CWorldRenderList::FindOrCreateList(int)
+  CWorldRenderList::Purge()
+  CWorldRenderList::Reset()
+  CWorldRenderList::PurgeAll()
+  CWorldRenderList::~CWorldRenderList()

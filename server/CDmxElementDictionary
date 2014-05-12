@@ -1,0 +1,5 @@
+CDmxElementDictionary
+  CDmxElementDictionary::HookUpElementAttributes()
+  CDmxElementDictionary::HookUpElementArrayAttributes()
+  CDmxElementDictionary::Clear()
+  CDmxElementDictionary::~CDmxElementDictionary()

@@ -1,0 +1,7 @@
+CChangeFrameList
+  CChangeFrameList::GetNumProps()
+  CChangeFrameList::SetChangeTick(int const*, int, int)
+  CChangeFrameList::GetPropsChangedAfterTick(int, int*, int)
+  CChangeFrameList::Copy()
+  CChangeFrameList::Release()
+  CChangeFrameList::~CChangeFrameList()

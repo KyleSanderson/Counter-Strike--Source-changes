@@ -1,0 +1,4 @@
+CPlane
+  CPlane::PointInFront(Vector const&)
+  CPlane::PointDist(Vector const&)
+  CPlane::CPlane()

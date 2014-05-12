@@ -1,0 +1,6 @@
+CShower
+  CShower::ObjectCaps()
+  CShower::Spawn()
+  CShower::Think()
+  CShower::Touch(CBaseEntity*)
+  CShower::~CShower()

@@ -1,0 +1,2 @@
+MaybeReportMissingWav
+  MaybeReportMissingWav(char const*)::wavErrors

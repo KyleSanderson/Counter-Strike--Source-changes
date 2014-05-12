@@ -1,0 +1,11 @@
+CWeaponScout
+  CWeaponScout::PrimaryAttack()
+  CWeaponScout::GetServerClass()
+  CWeaponScout::SecondaryAttack()
+  CWeaponScout::YouForgotToImplementOrDeclareServerClass()
+  CWeaponScout::Deploy()
+  CWeaponScout::Reload()
+  CWeaponScout::~CWeaponScout()
+  CWeaponScout::GetMaxSpeed() const
+  CWeaponScout::GetWeaponID() const
+  CWeaponScout::GetInaccuracy() const

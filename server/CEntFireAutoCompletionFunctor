@@ -1,0 +1,2 @@
+CEntFireAutoCompletionFunctor
+  CEntFireAutoCompletionFunctor::CommandCallback(CCommand const&)

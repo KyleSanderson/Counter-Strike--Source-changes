@@ -1,0 +1,3 @@
+CBoneCache
+  CBoneCache::GetCachedBone(int)
+  CBoneCache::IsValid(float, float)

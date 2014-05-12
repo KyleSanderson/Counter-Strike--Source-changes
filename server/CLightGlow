@@ -1,0 +1,9 @@
+CLightGlow
+  CLightGlow::GetDataDescMap()
+  CLightGlow::GetServerClass()
+  CLightGlow::UpdateTransmitState()
+  CLightGlow::YouForgotToImplementOrDeclareServerClass()
+  CLightGlow::Spawn()
+  CLightGlow::Activate()
+  CLightGlow::CLightGlow()
+  CLightGlow::~CLightGlow()

@@ -1,0 +1,4 @@
+CCSBotManager::GrenadeBounceEvent
+  CCSBotManager::GrenadeBounceEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::GrenadeBounceEvent::~GrenadeBounceEvent()
+  CCSBotManager::GrenadeBounceEvent::GetEventName() const

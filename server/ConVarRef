@@ -1,0 +1,4 @@
+ConVarRef
+  ConVarRef::ConVarRef(IConVar*)
+  ConVarRef::ConVarRef(char const*)
+  ConVarRef::IsValid() const

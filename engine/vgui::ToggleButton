@@ -1,0 +1,9 @@
+vgui::ToggleButton
+  vgui::ToggleButton::GetAnimMap()
+  vgui::ToggleButton::GetMessageMap()
+  vgui::ToggleButton::GetButtonFgColor()
+  vgui::ToggleButton::GetPanelClassName()
+  vgui::ToggleButton::CanBeDefaultButton()
+  vgui::ToggleButton::DoClick()
+  vgui::ToggleButton::GetKBMap()
+  vgui::ToggleButton::~ToggleButton()

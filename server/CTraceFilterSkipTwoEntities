@@ -1,0 +1,3 @@
+CTraceFilterSkipTwoEntities
+  CTraceFilterSkipTwoEntities::SetPassEntity2(IHandleEntity const*)
+  CTraceFilterSkipTwoEntities::ShouldHitEntity(IHandleEntity*, int)

@@ -1,0 +1,5 @@
+CSound
+  CSound::GetSoundReactOrigin()
+  CSound::Reset()
+  CSound::FIsScent()
+  CSound::FIsSound()

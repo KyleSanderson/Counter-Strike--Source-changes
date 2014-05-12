@@ -1,0 +1,6 @@
+CHLTVFrame
+  CHLTVFrame::FreeBuffers()
+  CHLTVFrame::AllocBuffers()
+  CHLTVFrame::IsMemPoolAllocated()
+  CHLTVFrame::CHLTVFrame()
+  CHLTVFrame::~CHLTVFrame()

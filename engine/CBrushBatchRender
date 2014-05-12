@@ -1,0 +1,3 @@
+CBrushBatchRender
+  CBrushBatchRender::LevelInit()
+  CBrushBatchRender::~CBrushBatchRender()

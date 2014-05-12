@@ -1,0 +1,10 @@
+CPluginHudMessage
+  CPluginHudMessage::GetAnimMap()
+  CPluginHudMessage::ShowMessage(wchar_t const*, int, Color, bool)
+  CPluginHudMessage::GetMessageMap()
+  CPluginHudMessage::OnSizeChanged(int, int)
+  CPluginHudMessage::GetPanelClassName()
+  CPluginHudMessage::OnTick()
+  CPluginHudMessage::GetKBMap()
+  CPluginHudMessage::CPluginHudMessage(unsigned int)
+  CPluginHudMessage::~CPluginHudMessage()

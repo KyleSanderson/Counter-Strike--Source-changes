@@ -1,0 +1,4 @@
+CCSBotManager::WeaponReloadEvent
+  CCSBotManager::WeaponReloadEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::WeaponReloadEvent::~WeaponReloadEvent()
+  CCSBotManager::WeaponReloadEvent::GetEventName() const

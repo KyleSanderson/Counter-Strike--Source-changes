@@ -1,0 +1,21 @@
+CC4
+  CC4::OnPickedUp(CBaseCombatCharacter*)
+  CC4::WeaponIdle()
+  CC4::IsRemoveable()
+  CC4::ItemPostFrame()
+  CC4::PrimaryAttack()
+  CC4::AbortBombPlant()
+  CC4::GetServerClass()
+  CC4::PlayArmingBeeps()
+  CC4::UpdateShieldState()
+  CC4::GetControlPanelInfo(int, char const*&)
+  CC4::ShouldRemoveOnRoundRestart()
+  CC4::YouForgotToImplementOrDeclareServerClass()
+  CC4::Drop(Vector const&)
+  CC4::Spawn()
+  CC4::Holster(CBaseCombatWeapon*)
+  CC4::Precache()
+  CC4::~CC4()
+  CC4::GetMaxSpeed() const
+  CC4::GetWeaponID() const
+  CC4::PhysicsSolidMaskForEntity() const

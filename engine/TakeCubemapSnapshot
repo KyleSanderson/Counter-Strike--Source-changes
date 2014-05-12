@@ -1,0 +1,3 @@
+TakeCubemapSnapshot
+  TakeCubemapSnapshot(Vector const&, char const*, int, int, bool)::angle0
+  TakeCubemapSnapshot(Vector const&, char const*, int, int, bool)::angle1

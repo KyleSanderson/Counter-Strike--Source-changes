@@ -1,0 +1,2 @@
+CLog::Printf
+  CLog::Printf(char const*, ...)::string

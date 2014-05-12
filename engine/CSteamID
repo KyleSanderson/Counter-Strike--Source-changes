@@ -1,0 +1,2 @@
+CSteamID
+  CSteamID::Render() const

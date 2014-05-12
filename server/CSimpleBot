@@ -1,0 +1,8 @@
+CSimpleBot
+  CSimpleBot::Spawn()
+  CSimpleBot::Precache()
+  CSimpleBot::CSimpleBot()
+  CSimpleBot::~CSimpleBot()
+  CSimpleBot::GetIntentionInterface() const
+  CSimpleBot::GetLocomotionInterface() const
+  CSimpleBot::CSimpleBotIntention

@@ -1,0 +1,6 @@
+CPointHurt
+  CPointHurt::GetDataDescMap()
+  CPointHurt::Spawn()
+  CPointHurt::Precache()
+  CPointHurt::HurtThink()
+  CPointHurt::~CPointHurt()

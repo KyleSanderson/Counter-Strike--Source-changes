@@ -1,0 +1,4 @@
+CDevShotGenerator
+  CDevShotGenerator::BuildMapList()
+  CDevShotGenerator::StartDevShotGeneration()
+  CDevShotGenerator::~CDevShotGenerator()

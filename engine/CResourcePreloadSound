@@ -1,0 +1,5 @@
+CResourcePreloadSound
+  CResourcePreloadSound::CreateResource(char const*)
+  CResourcePreloadSound::PurgeUnreferencedResources()
+  CResourcePreloadSound::PurgeAll()
+  CResourcePreloadSound::~CResourcePreloadSound()

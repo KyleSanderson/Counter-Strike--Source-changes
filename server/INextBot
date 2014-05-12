@@ -1,0 +1,46 @@
+INextBot
+  INextBot::BeginUpdate()
+  INextBot::SetPosition(Vector const&)
+  INextBot::SetCurrentPath(PathFollower const*)
+  INextBot::DebugConColorMsg(NextBotDebugType, Color const&, char const*, ...)
+  INextBot::RegisterComponent(INextBotComponent*)
+  INextBot::ClearImmobileStatus()
+  INextBot::UpdateImmobileStatus()
+  INextBot::NotifyPathDestruction(PathFollower const*)
+  INextBot::Reset()
+  INextBot::Update()
+  INextBot::Upkeep()
+  INextBot::EndUpdate()
+  INextBot::INextBot()
+  INextBot::~INextBot()
+  INextBot::GetRangeTo(CBaseEntity*) const
+  INextBot::GetRangeTo(Vector const&) const
+  INextBot::IsImmobile() const
+  INextBot::GetPosition() const
+  INextBot::IsDebugging(unsigned int) const
+  INextBot::ShouldTouch(CBaseEntity const*) const
+  INextBot::IsAbleToBreak(CBaseEntity const*) const
+  INextBot::GetCurrentPath() const
+  INextBot::IsRangeLessThan(CBaseEntity*, float) const
+  INextBot::IsRangeLessThan(Vector const&, float) const
+  INextBot::DisplayDebugText(char const*) const
+  INextBot::GetBodyInterface() const
+  INextBot::IsRemovedOnReset() const
+  INextBot::GetRangeSquaredTo(CBaseEntity*) const
+  INextBot::GetRangeSquaredTo(Vector const&) const
+  INextBot::IsAbleToClimbOnto(CBaseEntity const*) const
+  INextBot::GetDebugIdentifier() const
+  INextBot::GetVisionInterface() const
+  INextBot::IsDebugFilterMatch(char const*) const
+  INextBot::IsRangeGreaterThan(CBaseEntity*, float) const
+  INextBot::IsRangeGreaterThan(Vector const&, float) const
+  INextBot::GetImmobileDuration() const
+  INextBot::GetIntentionInterface() const
+  INextBot::GetLocomotionInterface() const
+  INextBot::NextContainedResponder(INextBotEventResponder*) const
+  INextBot::FirstContainedResponder() const
+  INextBot::GetImmobileSpeedThreshold() const
+  INextBot::GetNextBotCombatCharacter() const
+  INextBot::IsSelf(CBaseEntity const*) const
+  INextBot::IsEnemy(CBaseEntity const*) const
+  INextBot::IsFriend(CBaseEntity const*) const

@@ -1,0 +1,4 @@
+CPointBonusMapsAccessor
+  CPointBonusMapsAccessor::GetDataDescMap()
+  CPointBonusMapsAccessor::Activate()
+  CPointBonusMapsAccessor::~CPointBonusMapsAccessor()

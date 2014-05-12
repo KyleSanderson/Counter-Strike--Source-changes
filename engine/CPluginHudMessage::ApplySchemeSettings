@@ -1,0 +1,2 @@
+CPluginHudMessage::ApplySchemeSettings
+  CPluginHudMessage::ApplySchemeSettings(vgui::IScheme*)

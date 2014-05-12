@@ -1,0 +1,2 @@
+GetAttachTypeFromString
+  GetAttachTypeFromString(char const*)::pAttachmentNames

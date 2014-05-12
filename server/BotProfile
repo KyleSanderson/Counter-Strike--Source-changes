@@ -1,0 +1,6 @@
+BotProfile
+  BotProfile::InheritsFrom(char const*) const
+  BotProfile::IsValidForTeam(int) const
+  BotProfile::HasPistolPreference() const
+  BotProfile::HasPrimaryPreference() const
+  BotProfile::GetWeaponPreferenceAsString(int) const

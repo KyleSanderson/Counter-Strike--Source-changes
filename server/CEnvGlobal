@@ -1,0 +1,5 @@
+CEnvGlobal
+  CEnvGlobal::GetDataDescMap()
+  CEnvGlobal::DrawDebugTextOverlays()
+  CEnvGlobal::Spawn()
+  CEnvGlobal::~CEnvGlobal()

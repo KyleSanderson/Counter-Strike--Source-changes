@@ -1,0 +1,10 @@
+CRConVProfExport
+  CRConVProfExport::AddListener()
+  CRConVProfExport::OnRemoteData(void const*, int)
+  CRConVProfExport::PauseProfile()
+  CRConVProfExport::ResumeProfile()
+  CRConVProfExport::RemoveListener()
+  CRConVProfExport::OnRemoteGroupData(void const*, int)
+  CRConVProfExport::GetNumBudgetGroups()
+  CRConVProfExport::GetBudgetGroupTimes(float*)
+  CRConVProfExport::SetBudgetFlagsFilter(int)

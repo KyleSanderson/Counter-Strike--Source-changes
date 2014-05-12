@@ -1,0 +1,12 @@
+CFuncMoveLinear
+  CFuncMoveLinear::StopMoveSound()
+  CFuncMoveLinear::CreateVPhysics()
+  CFuncMoveLinear::GetDataDescMap()
+  CFuncMoveLinear::ShouldSavePhysics()
+  CFuncMoveLinear::DrawDebugTextOverlays()
+  CFuncMoveLinear::Spawn()
+  CFuncMoveLinear::MoveTo(Vector, float)
+  CFuncMoveLinear::Blocked(CBaseEntity*)
+  CFuncMoveLinear::MoveDone()
+  CFuncMoveLinear::Precache()
+  CFuncMoveLinear::~CFuncMoveLinear()

@@ -1,0 +1,5 @@
+CEntityList
+  CEntityList::DeleteEntity(CBaseEntity*)
+  CEntityList::AddEntity(CBaseEntity*)
+  CEntityList::CEntityList()
+  CEntityList::~CEntityList()

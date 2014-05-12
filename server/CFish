@@ -1,0 +1,10 @@
+CFish
+  CFish::Initialize(CFishPool*, unsigned int)
+  CFish::GetDataDescMap()
+  CFish::GetServerClass()
+  CFish::YouForgotToImplementOrDeclareServerClass()
+  CFish::Avoid()
+  CFish::Spawn()
+  CFish::Touch(CBaseEntity*)
+  CFish::Update(float)
+  CFish::~CFish()

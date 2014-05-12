@@ -1,0 +1,2 @@
+ParseTokenFromString
+  ParseTokenFromString(char const**)::buf

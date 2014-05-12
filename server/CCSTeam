@@ -1,0 +1,9 @@
+CCSTeam
+  CCSTeam::RemovePlayer(CBasePlayer*)
+  CCSTeam::GetServerClass()
+  CCSTeam::YouForgotToImplementOrDeclareServerClass()
+  CCSTeam::Init(char const*, int)
+  CCSTeam::Think()
+  CCSTeam::Precache()
+  CCSTeam::AddPlayer(CBasePlayer*)
+  CCSTeam::~CCSTeam()

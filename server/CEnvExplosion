@@ -1,0 +1,7 @@
+CEnvExplosion
+  CEnvExplosion::GetDataDescMap()
+  CEnvExplosion::DrawDebugTextOverlays()
+  CEnvExplosion::Smoke()
+  CEnvExplosion::Spawn()
+  CEnvExplosion::Precache()
+  CEnvExplosion::~CEnvExplosion()

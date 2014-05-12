@@ -1,0 +1,8 @@
+CClockDriftMgr
+  CClockDriftMgr::SetServerTick(int)
+  CClockDriftMgr::ShowDebugInfo(float)
+  CClockDriftMgr::AdjustFrameTime(float)
+  CClockDriftMgr::IsClockCorrectionEnabled()
+  CClockDriftMgr::AdjustAverageDifferenceBy(float)
+  CClockDriftMgr::Clear()
+  CClockDriftMgr::CClockDriftMgr()

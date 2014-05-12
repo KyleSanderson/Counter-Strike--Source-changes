@@ -1,0 +1,8 @@
+CLagCompensationManager
+  CLagCompensationManager::BacktrackPlayer(CBasePlayer*, float)
+  CLagCompensationManager::StartLagCompensation(CBasePlayer*, CUserCmd*)
+  CLagCompensationManager::FinishLagCompensation(CBasePlayer*)
+  CLagCompensationManager::LevelShutdownPostEntity()
+  CLagCompensationManager::FrameUpdatePostEntityThink()
+  CLagCompensationManager::Shutdown()
+  CLagCompensationManager::~CLagCompensationManager()

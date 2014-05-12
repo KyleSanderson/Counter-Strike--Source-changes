@@ -1,0 +1,11 @@
+CFuncNavObstruction
+  CFuncNavObstruction::GetDataDescMap()
+  CFuncNavObstruction::UpdateOnRemove()
+  CFuncNavObstruction::OnNavMeshLoaded()
+  CFuncNavObstruction::GetObstructingEntity()
+  CFuncNavObstruction::DrawDebugTextOverlays()
+  CFuncNavObstruction::Spawn()
+  CFuncNavObstruction::~CFuncNavObstruction()
+  CFuncNavObstruction::CanObstructNavAreas() const
+  CFuncNavObstruction::GetNavObstructionHeight() const
+  CFuncNavObstruction::IsPotentiallyAbleToObstructNavAreas() const

@@ -1,0 +1,5 @@
+CCSHLTVDirector
+  CCSHLTVDirector::GetModEvents()
+  CCSHLTVDirector::SetHLTVServer(IHLTVServer*)
+  CCSHLTVDirector::CreateShotFromEvent(CHLTVGameEvent*)
+  CCSHLTVDirector::~CCSHLTVDirector()

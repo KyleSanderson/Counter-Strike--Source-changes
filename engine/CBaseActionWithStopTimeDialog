@@ -1,0 +1,5 @@
+CBaseActionWithStopTimeDialog
+  CBaseActionWithStopTimeDialog::OnSaveChanges()
+  CBaseActionWithStopTimeDialog::Init()
+  CBaseActionWithStopTimeDialog::CBaseActionWithStopTimeDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionWithStopTimeDialog::~CBaseActionWithStopTimeDialog()

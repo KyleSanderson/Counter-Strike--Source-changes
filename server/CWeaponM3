@@ -1,0 +1,11 @@
+CWeaponM3
+  CWeaponM3::WeaponIdle()
+  CWeaponM3::PrimaryAttack()
+  CWeaponM3::GetServerClass()
+  CWeaponM3::YouForgotToImplementOrDeclareServerClass()
+  CWeaponM3::Reload()
+  CWeaponM3::CWeaponM3()
+  CWeaponM3::~CWeaponM3()
+  CWeaponM3::GetWeaponID() const
+  CWeaponM3::GetInaccuracy() const
+  CWeaponM3::GetSpread() const

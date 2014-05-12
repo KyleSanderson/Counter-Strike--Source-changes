@@ -1,0 +1,2 @@
+CSolidSetDefaults
+  CSolidSetDefaults::SetDefaults(void*)

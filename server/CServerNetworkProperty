@@ -1,0 +1,21 @@
+CServerNetworkProperty
+  CServerNetworkProperty::GetPVSInfo()
+  CServerNetworkProperty::GetBaseEntity()
+  CServerNetworkProperty::GetDataDescMap()
+  CServerNetworkProperty::GetServerClass()
+  CServerNetworkProperty::GetEntityHandle()
+  CServerNetworkProperty::MarkForDeletion()
+  CServerNetworkProperty::GetNetworkParent()
+  CServerNetworkProperty::SetUpdateInterval(float)
+  CServerNetworkProperty::GetBaseNetworkable()
+  CServerNetworkProperty::RecomputePVSInformation()
+  CServerNetworkProperty::Init(CBaseEntity*)
+  CServerNetworkProperty::IsInPVS(CCheckTransmitInfo const*)
+  CServerNetworkProperty::Release()
+  CServerNetworkProperty::FireEvent()
+  CServerNetworkProperty::CServerNetworkProperty()
+  CServerNetworkProperty::~CServerNetworkProperty()
+  CServerNetworkProperty::GetClassName() const
+  CServerNetworkProperty::IsMarkedForDeletion() const
+  CServerNetworkProperty::AreaNum() const
+  CServerNetworkProperty::GetEdict() const

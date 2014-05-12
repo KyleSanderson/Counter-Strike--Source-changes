@@ -1,0 +1,4 @@
+CCSBotManager::BulletImpactEvent
+  CCSBotManager::BulletImpactEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BulletImpactEvent::~BulletImpactEvent()
+  CCSBotManager::BulletImpactEvent::GetEventName() const

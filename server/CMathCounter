@@ -1,0 +1,6 @@
+CMathCounter
+  CMathCounter::GetDataDescMap()
+  CMathCounter::UpdateOutValue(CBaseEntity*, float)
+  CMathCounter::DrawDebugTextOverlays()
+  CMathCounter::Spawn()
+  CMathCounter::~CMathCounter()

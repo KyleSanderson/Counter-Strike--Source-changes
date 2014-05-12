@@ -1,0 +1,5 @@
+UseEntityState
+  UseEntityState::OnExit(CCSBot*)
+  UseEntityState::OnEnter(CCSBot*)
+  UseEntityState::OnUpdate(CCSBot*)
+  UseEntityState::GetName() const

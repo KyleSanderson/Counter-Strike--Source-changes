@@ -1,0 +1,2 @@
+CTextureIdProperty::InitFromDefault
+  CTextureIdProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

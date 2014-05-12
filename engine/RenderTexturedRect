@@ -1,0 +1,2 @@
+RenderTexturedRect
+  RenderTexturedRect(vgui::Panel*, IMaterial*, int, int, int, int, int, int)

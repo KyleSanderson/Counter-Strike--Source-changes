@@ -1,0 +1,4 @@
+CInfoIntermission
+  CInfoIntermission::Spawn()
+  CInfoIntermission::Think()
+  CInfoIntermission::~CInfoIntermission()

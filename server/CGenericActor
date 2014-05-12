@@ -1,0 +1,8 @@
+CGenericActor
+  CGenericActor::MaxYawSpeed()
+  CGenericActor::GetDataDescMap()
+  CGenericActor::GetSoundInterests()
+  CGenericActor::Spawn()
+  CGenericActor::Classify()
+  CGenericActor::Precache()
+  CGenericActor::~CGenericActor()

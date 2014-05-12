@@ -1,0 +1,2 @@
+CFogUIPanel::InstallFogUI
+  CFogUIPanel::InstallFogUI(vgui::Panel*)

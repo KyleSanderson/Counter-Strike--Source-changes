@@ -1,0 +1,7 @@
+CDefaultPlayerPickupVPhysics
+  CDefaultPlayerPickupVPhysics::ForcePhysgunOpen(CBasePlayer*)
+  CDefaultPlayerPickupVPhysics::PreferredCarryAngles()
+  CDefaultPlayerPickupVPhysics::OnFailedPhysGunPickup(Vector)
+  CDefaultPlayerPickupVPhysics::PhysGunLaunchVelocity(Vector const&, float)
+  CDefaultPlayerPickupVPhysics::PhysGunLaunchAngularImpulse()
+  CDefaultPlayerPickupVPhysics::HasPreferredCarryAnglesForPlayer(CBasePlayer*)

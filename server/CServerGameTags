@@ -1,0 +1,2 @@
+CServerGameTags
+  CServerGameTags::GetTaggedConVarList(KeyValues*)

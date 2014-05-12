@@ -1,0 +1,6 @@
+CPathKeyFrame
+  CPathKeyFrame::GetDataDescMap()
+  CPathKeyFrame::CalculateFrameDuration()
+  CPathKeyFrame::Spawn()
+  CPathKeyFrame::Activate()
+  CPathKeyFrame::~CPathKeyFrame()

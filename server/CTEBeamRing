@@ -1,0 +1,5 @@
+CTEBeamRing
+  CTEBeamRing::GetServerClass()
+  CTEBeamRing::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamRing::Test(Vector const&, QAngle const&)
+  CTEBeamRing::~CTEBeamRing()

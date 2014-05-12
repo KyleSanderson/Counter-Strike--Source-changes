@@ -1,0 +1,4 @@
+CAnchorList
+  CAnchorList::LevelShutdownPostEntity()
+  CAnchorList::AddToList(CBaseEntity*, float)
+  CAnchorList::~CAnchorList()

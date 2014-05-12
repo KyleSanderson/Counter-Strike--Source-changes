@@ -1,0 +1,3 @@
+CSceneEventInfo
+  CSceneEventInfo::InitWeight(CBaseFlex*)
+  CSceneEventInfo::UpdateWeight(CBaseFlex*)

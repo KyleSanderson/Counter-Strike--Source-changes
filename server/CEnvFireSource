@@ -1,0 +1,5 @@
+CEnvFireSource
+  CEnvFireSource::GetDataDescMap()
+  CEnvFireSource::Spawn()
+  CEnvFireSource::Think()
+  CEnvFireSource::~CEnvFireSource()

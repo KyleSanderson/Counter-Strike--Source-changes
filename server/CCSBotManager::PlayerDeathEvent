@@ -1,0 +1,4 @@
+CCSBotManager::PlayerDeathEvent
+  CCSBotManager::PlayerDeathEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::PlayerDeathEvent::~PlayerDeathEvent()
+  CCSBotManager::PlayerDeathEvent::GetEventName() const

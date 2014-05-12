@@ -1,0 +1,20 @@
+NextBotCombatCharacter
+  NextBotCombatCharacter::EyePosition()
+  NextBotCombatCharacter::BecomeRagdoll(CTakeDamageInfo const&, Vector const&)
+  NextBotCombatCharacter::GetDataDescMap()
+  NextBotCombatCharacter::GetServerClass()
+  NextBotCombatCharacter::IsUseableEntity(CBaseEntity*, unsigned int)
+  NextBotCombatCharacter::MyNextBotPointer()
+  NextBotCombatCharacter::YouForgotToImplementOrDeclareServerClass()
+  NextBotCombatCharacter::Spawn()
+  NextBotCombatCharacter::Touch(CBaseEntity*)
+  NextBotCombatCharacter::Ignite(float, CBaseEntity*)
+  NextBotCombatCharacter::Ignite(float, bool, float, bool)
+  NextBotCombatCharacter::DoThink()
+  NextBotCombatCharacter::SetModel(char const*)
+  NextBotCombatCharacter::NextBotCombatCharacter()
+  NextBotCombatCharacter::~NextBotCombatCharacter()
+  NextBotCombatCharacter::GetLastAttacker() const
+  NextBotCombatCharacter::IsAreaTraversable(CNavArea const*) const
+  NextBotCombatCharacter::GetNextBotCombatCharacter() const
+  NextBotCombatCharacter::GetEntity() const

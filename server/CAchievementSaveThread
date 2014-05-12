@@ -1,0 +1,4 @@
+CAchievementSaveThread
+  CAchievementSaveThread::Run()
+  CAchievementSaveThread::CAchievementSaveThread()
+  CAchievementSaveThread::~CAchievementSaveThread()

@@ -1,0 +1,6 @@
+CReplayFrame
+  CReplayFrame::FreeBuffers()
+  CReplayFrame::AllocBuffers()
+  CReplayFrame::IsMemPoolAllocated()
+  CReplayFrame::CReplayFrame()
+  CReplayFrame::~CReplayFrame()

@@ -1,0 +1,2 @@
+CBugUIPanel::OnChooseArea
+  CBugUIPanel::OnChooseArea(vgui::Panel*)

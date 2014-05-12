@@ -1,0 +1,3 @@
+CFuncIllusionary
+  CFuncIllusionary::Spawn()
+  CFuncIllusionary::~CFuncIllusionary()

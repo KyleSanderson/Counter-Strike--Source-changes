@@ -1,0 +1,5 @@
+CStringPool
+  CStringPool::Find(char const*)
+  CStringPool::Allocate(char const*)
+  CStringPool::CStringPool()
+  CStringPool::~CStringPool()

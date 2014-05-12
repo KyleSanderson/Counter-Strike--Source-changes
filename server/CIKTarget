@@ -1,0 +1,5 @@
+CIKTarget
+  CIKTarget::SetPos(Vector const&)
+  CIKTarget::IsActive()
+  CIKTarget::SetAngles(QAngle const&)
+  CIKTarget::SetNormal(Vector const&)

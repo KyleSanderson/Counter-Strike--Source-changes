@@ -1,0 +1,2 @@
+CBrushBSPIterator
+  CBrushBSPIterator::EnumerateLeaf(int, int)

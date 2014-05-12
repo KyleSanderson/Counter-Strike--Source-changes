@@ -1,0 +1,2 @@
+CTraceFilterPushMove
+  CTraceFilterPushMove::ShouldHitEntity(IHandleEntity*, int)

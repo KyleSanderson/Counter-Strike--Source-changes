@@ -1,0 +1,2 @@
+alBufferDataStaticProc
+  alBufferDataStaticProc(int, int, void*, int, int)::proc

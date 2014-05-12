@@ -1,0 +1,12 @@
+CWeaponXM1014
+  CWeaponXM1014::WeaponIdle()
+  CWeaponXM1014::PrimaryAttack()
+  CWeaponXM1014::GetServerClass()
+  CWeaponXM1014::YouForgotToImplementOrDeclareServerClass()
+  CWeaponXM1014::Spawn()
+  CWeaponXM1014::Reload()
+  CWeaponXM1014::CWeaponXM1014()
+  CWeaponXM1014::~CWeaponXM1014()
+  CWeaponXM1014::GetWeaponID() const
+  CWeaponXM1014::GetInaccuracy() const
+  CWeaponXM1014::GetSpread() const

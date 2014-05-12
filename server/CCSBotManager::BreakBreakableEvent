@@ -1,0 +1,4 @@
+CCSBotManager::BreakBreakableEvent
+  CCSBotManager::BreakBreakableEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::BreakBreakableEvent::~BreakBreakableEvent()
+  CCSBotManager::BreakBreakableEvent::GetEventName() const

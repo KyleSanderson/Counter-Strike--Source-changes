@@ -1,0 +1,2 @@
+SvTagsChangeCallback
+  SvTagsChangeCallback(IConVar*, char const*, float)::bTagsChangeCallback (.b)

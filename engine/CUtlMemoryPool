@@ -1,0 +1,8 @@
+CUtlMemoryPool
+  CUtlMemoryPool::AddNewBlob()
+  CUtlMemoryPool::Free(void*)
+  CUtlMemoryPool::Alloc(unsigned long)
+  CUtlMemoryPool::Alloc()
+  CUtlMemoryPool::Clear()
+  CUtlMemoryPool::CUtlMemoryPool(int, int, int, char const*, int)
+  CUtlMemoryPool::~CUtlMemoryPool()

@@ -1,0 +1,5 @@
+CSceneTokenProcessor
+  CSceneTokenProcessor::CurrentToken()
+  CSceneTokenProcessor::TokenAvailable()
+  CSceneTokenProcessor::Error(char const*, ...)
+  CSceneTokenProcessor::GetToken(bool)

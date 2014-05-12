@@ -1,0 +1,8 @@
+CMessageEntity
+  CMessageEntity::DrawOverlays()
+  CMessageEntity::GetDataDescMap()
+  CMessageEntity::UpdateOnRemove()
+  CMessageEntity::Spawn()
+  CMessageEntity::Think()
+  CMessageEntity::Activate()
+  CMessageEntity::~CMessageEntity()

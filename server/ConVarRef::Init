@@ -1,0 +1,2 @@
+ConVarRef::Init
+  ConVarRef::Init(char const*, bool)::bFirst (.b)

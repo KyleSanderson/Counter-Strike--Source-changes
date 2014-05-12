@@ -1,0 +1,10 @@
+CPhysicsNPCSolver
+  CPhysicsNPCSolver::CheckTouching()
+  CPhysicsNPCSolver::GetDataDescMap()
+  CPhysicsNPCSolver::IsIntersecting()
+  CPhysicsNPCSolver::UpdateOnRemove()
+  CPhysicsNPCSolver::BecomePenetrationSolver()
+  CPhysicsNPCSolver::Spawn()
+  CPhysicsNPCSolver::Think()
+  CPhysicsNPCSolver::OnRestore()
+  CPhysicsNPCSolver::~CPhysicsNPCSolver()

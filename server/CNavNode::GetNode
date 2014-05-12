@@ -1,0 +1,2 @@
+CNavNode::GetNode
+  CNavNode::GetNode(Vector const&)::lookup

@@ -1,0 +1,7 @@
+CEnvShake
+  CEnvShake::GetDataDescMap()
+  CEnvShake::DrawDebugTextOverlays()
+  CEnvShake::Spawn()
+  CEnvShake::Think()
+  CEnvShake::OnRestore()
+  CEnvShake::~CEnvShake()

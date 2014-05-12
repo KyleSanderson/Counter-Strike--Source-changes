@@ -1,0 +1,5 @@
+CFuncWall
+  CFuncWall::CreateVPhysics()
+  CFuncWall::GetDataDescMap()
+  CFuncWall::Spawn()
+  CFuncWall::~CFuncWall()

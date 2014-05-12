@@ -1,0 +1,4 @@
+CDecal::StaticDecal
+  CDecal::StaticDecal()::CTraceFilterValidForDecal
+  CDecal::StaticDecal()::ppszIgnoredClasses
+  CDecal::StaticDecal()::CTraceFilterValidForDecal::ShouldHitEntity(IHandleEntity*, int)

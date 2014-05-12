@@ -1,0 +1,3 @@
+SetHumanTeamFunctor
+  SetHumanTeamFunctor::SetHumanTeamFunctor(int)
+  SetHumanTeamFunctor::operator()(CBasePlayer*)

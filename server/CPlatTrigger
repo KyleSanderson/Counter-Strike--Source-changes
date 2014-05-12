@@ -1,0 +1,5 @@
+CPlatTrigger
+  CPlatTrigger::ObjectCaps()
+  CPlatTrigger::SpawnInsideTrigger(CFuncPlat*)
+  CPlatTrigger::Touch(CBaseEntity*)
+  CPlatTrigger::~CPlatTrigger()

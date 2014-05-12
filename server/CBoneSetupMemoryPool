@@ -1,0 +1,5 @@
+CBoneSetupMemoryPool
+  CBoneSetupMemoryPool<Quaternion>::Alloc()
+  CBoneSetupMemoryPool<Quaternion>::~CBoneSetupMemoryPool()
+  CBoneSetupMemoryPool<Vector>::Alloc()
+  CBoneSetupMemoryPool<Vector>::~CBoneSetupMemoryPool()

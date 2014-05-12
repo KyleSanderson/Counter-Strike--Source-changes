@@ -1,0 +1,23 @@
+CRecipientFilter
+  CRecipientFilter::AddRecipient(CBasePlayer*)
+  CRecipientFilter::MakeReliable()
+  CRecipientFilter::AddAllPlayers()
+  CRecipientFilter::MakeInitMessage()
+  CRecipientFilter::RemoveRecipient(CBasePlayer*)
+  CRecipientFilter::AddRecipientsByPAS(Vector const&)
+  CRecipientFilter::AddRecipientsByPVS(Vector const&)
+  CRecipientFilter::UsePredictionRules()
+  CRecipientFilter::AddRecipientsByTeam(CTeam*)
+  CRecipientFilter::RemoveAllRecipients()
+  CRecipientFilter::RemoveRecipientsByPVS(Vector const&)
+  CRecipientFilter::SetIgnorePredictionCull(bool)
+  CRecipientFilter::RemovePlayersFromBitMask(CBitVec<255>&)
+  CRecipientFilter::RemoveRecipientsNotOnTeam(CTeam*)
+  CRecipientFilter::RemoveRecipientByPlayerIndex(int)
+  CRecipientFilter::CRecipientFilter()
+  CRecipientFilter::~CRecipientFilter()
+  CRecipientFilter::IsReliable() const
+  CRecipientFilter::IsInitMessage() const
+  CRecipientFilter::GetRecipientCount() const
+  CRecipientFilter::GetRecipientIndex(int) const
+  CRecipientFilter::IgnorePredictionCull() const

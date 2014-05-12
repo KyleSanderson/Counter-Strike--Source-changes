@@ -1,0 +1,3 @@
+CTriggerOnce
+  CTriggerOnce::Spawn()
+  CTriggerOnce::~CTriggerOnce()

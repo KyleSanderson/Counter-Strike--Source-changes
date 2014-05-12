@@ -1,0 +1,6 @@
+CTEGlowSprite
+  CTEGlowSprite::GetServerClass()
+  CTEGlowSprite::YouForgotToImplementOrDeclareServerClass()
+  CTEGlowSprite::Test(Vector const&, QAngle const&)
+  CTEGlowSprite::CTEGlowSprite(char const*)
+  CTEGlowSprite::~CTEGlowSprite()

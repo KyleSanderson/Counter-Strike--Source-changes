@@ -1,0 +1,9 @@
+ParticleSmokeGrenade
+  ParticleSmokeGrenade::FillVolume()
+  ParticleSmokeGrenade::SetFadeTime(float, float)
+  ParticleSmokeGrenade::GetDataDescMap()
+  ParticleSmokeGrenade::GetServerClass()
+  ParticleSmokeGrenade::UpdateTransmitState()
+  ParticleSmokeGrenade::YouForgotToImplementOrDeclareServerClass()
+  ParticleSmokeGrenade::ParticleSmokeGrenade()
+  ParticleSmokeGrenade::~ParticleSmokeGrenade()

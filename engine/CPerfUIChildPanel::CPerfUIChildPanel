@@ -1,0 +1,2 @@
+CPerfUIChildPanel::CPerfUIChildPanel
+  CPerfUIChildPanel::CPerfUIChildPanel(vgui::Panel*, char const*)

@@ -1,0 +1,12 @@
+CColorCurvesEditPanel
+  CColorCurvesEditPanel::GetAnimMap()
+  CColorCurvesEditPanel::GetMessageMap()
+  CColorCurvesEditPanel::FindControlPoint(float, float)
+  CColorCurvesEditPanel::ControlPointCount()
+  CColorCurvesEditPanel::GetPanelClassName()
+  CColorCurvesEditPanel::ModifyControlPoint(int, float, float)
+  CColorCurvesEditPanel::RemoveControlPoint(int)
+  CColorCurvesEditPanel::FindOrAddControlPoint(float, float, float)
+  CColorCurvesEditPanel::GetKBMap()
+  CColorCurvesEditPanel::GetValue(float)
+  CColorCurvesEditPanel::~CColorCurvesEditPanel()

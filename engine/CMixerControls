@@ -1,0 +1,6 @@
+CMixerControls
+  CMixerControls::GetMixerName()
+  CMixerControls::SelectMicrophoneForWaveInput()
+  CMixerControls::Release()
+  CMixerControls::CMixerControls()
+  CMixerControls::~CMixerControls()

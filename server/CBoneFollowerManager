@@ -1,0 +1,6 @@
+CBoneFollowerManager
+  CBoneFollowerManager::GetBoneFollower(int)
+  CBoneFollowerManager::UpdateBoneFollowers(CBaseAnimating*)
+  CBoneFollowerManager::DestroyBoneFollowers()
+  CBoneFollowerManager::CBoneFollowerManager()
+  CBoneFollowerManager::~CBoneFollowerManager()

@@ -1,0 +1,2 @@
+CIntProperty::SetData
+  CIntProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

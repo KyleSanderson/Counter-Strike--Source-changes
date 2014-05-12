@@ -1,0 +1,5 @@
+CLogicRelay
+  CLogicRelay::GetDataDescMap()
+  CLogicRelay::Think()
+  CLogicRelay::Activate()
+  CLogicRelay::~CLogicRelay()

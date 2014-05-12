@@ -1,0 +1,2 @@
+CPluginBotManager
+  CPluginBotManager::CreateBot(char const*)

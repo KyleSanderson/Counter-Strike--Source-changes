@@ -1,0 +1,12 @@
+CBaseToggle
+  CBaseToggle::LinearMove(Vector const&, float)
+  CBaseToggle::AngularMove(QAngle const&, float)
+  CBaseToggle::GetDataDescMap()
+  CBaseToggle::IsLockedByMaster()
+  CBaseToggle::AxisDir()
+  CBaseToggle::GetDelay()
+  CBaseToggle::KeyValue(char const*, Vector)
+  CBaseToggle::KeyValue(char const*, float)
+  CBaseToggle::MoveDone()
+  CBaseToggle::CBaseToggle()
+  CBaseToggle::~CBaseToggle()

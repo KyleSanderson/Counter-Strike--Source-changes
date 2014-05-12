@@ -1,0 +1,2 @@
+CUtlStringList
+  CUtlStringList::CopyAndAddToTail(char const*)

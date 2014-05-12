@@ -1,0 +1,9 @@
+CCurveEditorPanel
+  CCurveEditorPanel::GetAnimMap()
+  CCurveEditorPanel::GetMessageMap()
+  CCurveEditorPanel::OnCursorMoved(int, int)
+  CCurveEditorPanel::PaintBackground()
+  CCurveEditorPanel::GetPanelClassName()
+  CCurveEditorPanel::Paint()
+  CCurveEditorPanel::GetKBMap()
+  CCurveEditorPanel::~CCurveEditorPanel()

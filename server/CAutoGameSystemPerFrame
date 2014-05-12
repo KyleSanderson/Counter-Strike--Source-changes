@@ -1,0 +1,4 @@
+CAutoGameSystemPerFrame
+  CAutoGameSystemPerFrame::Name()
+  CAutoGameSystemPerFrame::CAutoGameSystemPerFrame(char const*)
+  CAutoGameSystemPerFrame::~CAutoGameSystemPerFrame()

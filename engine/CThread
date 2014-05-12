@@ -1,0 +1,11 @@
+CThread
+  CThread::GetThreadProc()
+  CThread::IsThreadRunning()
+  CThread::Init()
+  CThread::Join(unsigned int)
+  CThread::Start(unsigned int)
+  CThread::OnExit()
+  CThread::IsAlive()
+  CThread::SetName(char const*)
+  CThread::CThread()
+  CThread::~CThread()

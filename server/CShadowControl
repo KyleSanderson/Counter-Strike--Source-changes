@@ -1,0 +1,9 @@
+CShadowControl
+  CShadowControl::ObjectCaps()
+  CShadowControl::GetDataDescMap()
+  CShadowControl::GetServerClass()
+  CShadowControl::UpdateTransmitState()
+  CShadowControl::YouForgotToImplementOrDeclareServerClass()
+  CShadowControl::Spawn()
+  CShadowControl::CShadowControl()
+  CShadowControl::~CShadowControl()

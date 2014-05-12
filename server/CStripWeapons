@@ -1,0 +1,3 @@
+CStripWeapons
+  CStripWeapons::GetDataDescMap()
+  CStripWeapons::~CStripWeapons()

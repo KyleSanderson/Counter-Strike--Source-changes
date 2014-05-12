@@ -1,0 +1,3 @@
+CDatadescGeneratedNameHolder
+  CDatadescGeneratedNameHolder::GenerateName(char const*)
+  CDatadescGeneratedNameHolder::~CDatadescGeneratedNameHolder()

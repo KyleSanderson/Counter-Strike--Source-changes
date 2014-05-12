@@ -1,0 +1,4 @@
+CCSBotManager::RoundStartEvent
+  CCSBotManager::RoundStartEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::RoundStartEvent::~RoundStartEvent()
+  CCSBotManager::RoundStartEvent::GetEventName() const

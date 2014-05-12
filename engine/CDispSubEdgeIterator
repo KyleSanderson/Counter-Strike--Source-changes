@@ -1,0 +1,5 @@
+CDispSubEdgeIterator
+  CDispSubEdgeIterator::Next()
+  CDispSubEdgeIterator::Start(CDispUtilsHelper*, int, int, bool)
+  CDispSubEdgeIterator::CDispSubEdgeIterator()
+  CDispSubEdgeIterator::IsLastVert() const

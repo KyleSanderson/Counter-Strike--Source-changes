@@ -1,0 +1,5 @@
+CTSQueue
+  CTSQueue<CFunctor*, false>::Pop()
+  CTSQueue<CFunctor*, false>::Purge()
+  CTSQueue<CFunctor*, false>::CTSQueue()
+  CTSQueue<CFunctor*, false>::~CTSQueue()

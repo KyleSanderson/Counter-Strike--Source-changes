@@ -1,0 +1,9 @@
+CPluginUIManager
+  CPluginUIManager::GetAnimMap()
+  CPluginUIManager::GetMessageMap()
+  CPluginUIManager::GetPanelClassName()
+  CPluginUIManager::OnTick()
+  CPluginUIManager::GetKBMap()
+  CPluginUIManager::Shutdown()
+  CPluginUIManager::CPluginUIManager()
+  CPluginUIManager::~CPluginUIManager()

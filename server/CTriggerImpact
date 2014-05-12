@@ -1,0 +1,6 @@
+CTriggerImpact
+  CTriggerImpact::StartTouch(CBaseEntity*)
+  CTriggerImpact::GetDataDescMap()
+  CTriggerImpact::DrawDebugTextOverlays()
+  CTriggerImpact::Spawn()
+  CTriggerImpact::~CTriggerImpact()

@@ -1,0 +1,3 @@
+CFilterMassGreater
+  CFilterMassGreater::GetDataDescMap()
+  CFilterMassGreater::~CFilterMassGreater()

@@ -1,0 +1,3 @@
+CTraceFilterPlayersNPCs
+  CTraceFilterPlayersNPCs::ShouldHitEntity(IHandleEntity*, int)
+  CTraceFilterPlayersNPCs::GetTraceType() const

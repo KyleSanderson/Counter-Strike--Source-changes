@@ -1,0 +1,5 @@
+CServerRagdollTrigger
+  CServerRagdollTrigger::StartTouch(CBaseEntity*)
+  CServerRagdollTrigger::Spawn()
+  CServerRagdollTrigger::EndTouch(CBaseEntity*)
+  CServerRagdollTrigger::~CServerRagdollTrigger()

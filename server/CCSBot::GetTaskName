@@ -1,0 +1,2 @@
+CCSBot::GetTaskName
+  CCSBot::GetTaskName() const::name

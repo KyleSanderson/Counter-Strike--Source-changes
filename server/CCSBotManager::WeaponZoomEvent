@@ -1,0 +1,4 @@
+CCSBotManager::WeaponZoomEvent
+  CCSBotManager::WeaponZoomEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::WeaponZoomEvent::~WeaponZoomEvent()
+  CCSBotManager::WeaponZoomEvent::GetEventName() const

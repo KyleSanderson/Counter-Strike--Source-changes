@@ -1,0 +1,2 @@
+CTraceFilterLOS
+  CTraceFilterLOS::ShouldHitEntity(IHandleEntity*, int)

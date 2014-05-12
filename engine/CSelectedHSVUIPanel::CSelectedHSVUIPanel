@@ -1,0 +1,2 @@
+CSelectedHSVUIPanel::CSelectedHSVUIPanel
+  CSelectedHSVUIPanel::CSelectedHSVUIPanel(vgui::Panel*, CSelectedHSVOperation*)

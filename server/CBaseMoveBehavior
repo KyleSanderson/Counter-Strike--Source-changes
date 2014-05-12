@@ -1,0 +1,9 @@
+CBaseMoveBehavior
+  CBaseMoveBehavior::StopMoving()
+  CBaseMoveBehavior::StartMoving(int)
+  CBaseMoveBehavior::GetDataDescMap()
+  CBaseMoveBehavior::Spawn()
+  CBaseMoveBehavior::Activate()
+  CBaseMoveBehavior::IsMoving()
+  CBaseMoveBehavior::MoveDone()
+  CBaseMoveBehavior::~CBaseMoveBehavior()

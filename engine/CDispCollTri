@@ -1,0 +1,3 @@
+CDispCollTri
+  CDispCollTri::FindMinMax(CDispVector<Vector>&)
+  CDispCollTri::CalcPlane(CDispVector<Vector>&)

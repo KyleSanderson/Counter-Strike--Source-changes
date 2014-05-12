@@ -1,0 +1,7 @@
+CAK47
+  CAK47::PrimaryAttack()
+  CAK47::GetServerClass()
+  CAK47::YouForgotToImplementOrDeclareServerClass()
+  CAK47::~CAK47()
+  CAK47::GetWeaponID() const
+  CAK47::GetInaccuracy() const

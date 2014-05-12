@@ -1,0 +1,6 @@
+CPhysicsEntitySolver
+  CPhysicsEntitySolver::GetDataDescMap()
+  CPhysicsEntitySolver::UpdateOnRemove()
+  CPhysicsEntitySolver::Spawn()
+  CPhysicsEntitySolver::Think()
+  CPhysicsEntitySolver::~CPhysicsEntitySolver()

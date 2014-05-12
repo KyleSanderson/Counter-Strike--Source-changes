@@ -1,0 +1,6 @@
+CTriggerPlayerMovement
+  CTriggerPlayerMovement::StartTouch(CBaseEntity*)
+  CTriggerPlayerMovement::GetDataDescMap()
+  CTriggerPlayerMovement::Spawn()
+  CTriggerPlayerMovement::EndTouch(CBaseEntity*)
+  CTriggerPlayerMovement::~CTriggerPlayerMovement()

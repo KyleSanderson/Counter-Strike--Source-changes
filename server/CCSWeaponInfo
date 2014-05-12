@@ -1,0 +1,4 @@
+CCSWeaponInfo
+  CCSWeaponInfo::GetDefaultPrice()
+  CCSWeaponInfo::Parse(KeyValues*, char const*)
+  CCSWeaponInfo::GetWeaponPrice() const

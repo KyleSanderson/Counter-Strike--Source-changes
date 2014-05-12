@@ -1,0 +1,4 @@
+CSimplePhysicsProp
+  CSimplePhysicsProp::ObjectCaps()
+  CSimplePhysicsProp::Spawn()
+  CSimplePhysicsProp::~CSimplePhysicsProp()

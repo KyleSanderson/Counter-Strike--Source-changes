@@ -1,0 +1,5 @@
+CHostageRescueZone
+  CHostageRescueZone::GetDataDescMap()
+  CHostageRescueZone::HostageRescueTouch(CBaseEntity*)
+  CHostageRescueZone::Spawn()
+  CHostageRescueZone::~CHostageRescueZone()

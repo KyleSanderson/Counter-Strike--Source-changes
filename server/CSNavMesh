@@ -1,0 +1,15 @@
+CSNavMesh
+  CSNavMesh::LoadCustomData(CUtlBuffer&, unsigned int)
+  CSNavMesh::EndCustomAnalysis()
+  CSNavMesh::PostCustomAnalysis()
+  CSNavMesh::BeginCustomAnalysis(bool)
+  CSNavMesh::Load()
+  CSNavMesh::Reset()
+  CSNavMesh::Update()
+  CSNavMesh::PostLoad(unsigned int)
+  CSNavMesh::CSNavMesh()
+  CSNavMesh::~CSNavMesh()
+  CSNavMesh::CreateArea() const
+  CSNavMesh::SaveCustomData(CUtlBuffer&) const
+  CSNavMesh::GetSubVersionNumber() const
+  CSNavMesh::Save() const

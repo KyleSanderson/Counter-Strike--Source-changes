@@ -1,0 +1,2 @@
+CSmallTextEntry::CSmallTextEntry
+  CSmallTextEntry::CSmallTextEntry(vgui::Panel*, char const*)

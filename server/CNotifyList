@@ -1,0 +1,7 @@
+CNotifyList
+  CNotifyList::ClearEntity(CBaseEntity*)
+  CNotifyList::OnEntityCreated(CBaseEntity*)
+  CNotifyList::OnEntityDeleted(CBaseEntity*)
+  CNotifyList::ReportNamedEvent(CBaseEntity*, char const*)
+  CNotifyList::LevelInitPreEntity()
+  CNotifyList::~CNotifyList()

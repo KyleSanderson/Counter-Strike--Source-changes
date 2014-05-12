@@ -1,0 +1,3 @@
+CTargetChangeGravity
+  CTargetChangeGravity::GetDataDescMap()
+  CTargetChangeGravity::~CTargetChangeGravity()

@@ -1,0 +1,5 @@
+CEnvDetailController
+  CEnvDetailController::GetServerClass()
+  CEnvDetailController::UpdateTransmitState()
+  CEnvDetailController::YouForgotToImplementOrDeclareServerClass()
+  CEnvDetailController::~CEnvDetailController()

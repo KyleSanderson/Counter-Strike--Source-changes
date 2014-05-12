@@ -1,0 +1,7 @@
+CPointAngleSensor
+  CPointAngleSensor::GetDataDescMap()
+  CPointAngleSensor::DrawDebugTextOverlays()
+  CPointAngleSensor::Spawn()
+  CPointAngleSensor::Think()
+  CPointAngleSensor::Activate()
+  CPointAngleSensor::~CPointAngleSensor()

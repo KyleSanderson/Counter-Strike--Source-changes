@@ -1,0 +1,14 @@
+CSocketCreator
+  CSocketCreator::Disconnect()
+  CSocketCreator::ProcessAccept()
+  CSocketCreator::ConfigureSocket(int)
+  CSocketCreator::CloseListenSocket()
+  CSocketCreator::CloseAcceptedSocket(int)
+  CSocketCreator::GetAcceptedSocketData(int)
+  CSocketCreator::CloseAllAcceptedSockets()
+  CSocketCreator::RunFrame()
+  CSocketCreator::CSocketCreator(ISocketCreatorListener*)
+  CSocketCreator::~CSocketCreator()
+  CSocketCreator::GetAcceptedSocketCount() const
+  CSocketCreator::GetAcceptedSocketHandle(int) const
+  CSocketCreator::GetAcceptedSocketAddress(int) const

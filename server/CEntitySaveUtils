@@ -1,0 +1,2 @@
+CEntitySaveUtils
+  CEntitySaveUtils::GetEntityDependencyCount(CBaseEntity*)

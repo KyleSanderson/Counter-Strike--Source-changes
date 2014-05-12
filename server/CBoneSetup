@@ -1,0 +1,3 @@
+CBoneSetup
+  CBoneSetup::AccumulatePose(Vector*, Quaternion*, int, float, float, float, CIKContext*)
+  CBoneSetup::CalcAutoplaySequences(Vector*, Quaternion*, float, CIKContext*)

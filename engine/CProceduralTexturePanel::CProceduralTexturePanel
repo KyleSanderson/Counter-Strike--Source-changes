@@ -1,0 +1,2 @@
+CProceduralTexturePanel::CProceduralTexturePanel
+  CProceduralTexturePanel::CProceduralTexturePanel(vgui::Panel*, char const*)

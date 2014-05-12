@@ -1,0 +1,2 @@
+CColorProperty::SetData
+  CColorProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

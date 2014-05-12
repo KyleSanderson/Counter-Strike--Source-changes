@@ -1,0 +1,6 @@
+CSimpleBot::CSimpleBotIntention
+  CSimpleBot::CSimpleBotIntention::Reset()
+  CSimpleBot::CSimpleBotIntention::Update()
+  CSimpleBot::CSimpleBotIntention::~CSimpleBotIntention()
+  CSimpleBot::CSimpleBotIntention::NextContainedResponder(INextBotEventResponder*) const
+  CSimpleBot::CSimpleBotIntention::FirstContainedResponder() const

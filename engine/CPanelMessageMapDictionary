@@ -1,0 +1,4 @@
+CPanelMessageMapDictionary
+  CPanelMessageMapDictionary::FindOrAddPanelMessageMap(char const*)
+  CPanelMessageMapDictionary::CPanelMessageMapDictionary()
+  CPanelMessageMapDictionary::~CPanelMessageMapDictionary()

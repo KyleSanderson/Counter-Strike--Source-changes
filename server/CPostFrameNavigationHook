@@ -1,0 +1,6 @@
+CPostFrameNavigationHook
+  CPostFrameNavigationHook::FrameUpdatePreEntityThink()
+  CPostFrameNavigationHook::FrameUpdatePostEntityThink()
+  CPostFrameNavigationHook::Init()
+  CPostFrameNavigationHook::Name()
+  CPostFrameNavigationHook::~CPostFrameNavigationHook()

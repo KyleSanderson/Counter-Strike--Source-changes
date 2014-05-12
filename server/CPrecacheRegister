@@ -1,0 +1,3 @@
+CPrecacheRegister
+  CPrecacheRegister::Precache()
+  CPrecacheRegister::CPrecacheRegister(void (*)(void*), void const*)

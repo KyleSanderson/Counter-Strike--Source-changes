@@ -1,0 +1,13 @@
+CAudioSourceMemWave
+  CAudioSourceMemWave::ParseChunk(IterateRIFF&, int)
+  CAudioSourceMemWave::CacheUnload()
+  CAudioSourceMemWave::CreateMixer(int)
+  CAudioSourceMemWave::GetOutputData(void**, int, int, char*)
+  CAudioSourceMemWave::GetCacheStatus()
+  CAudioSourceMemWave::GetDataPointer()
+  CAudioSourceMemWave::ParseDataChunk(IterateRIFF&)
+  CAudioSourceMemWave::ZeroCrossingAfter(int)
+  CAudioSourceMemWave::ZeroCrossingBefore(int)
+  CAudioSourceMemWave::Prefetch()
+  CAudioSourceMemWave::CacheLoad()
+  CAudioSourceMemWave::~CAudioSourceMemWave()

@@ -1,0 +1,5 @@
+CMessage
+  CMessage::GetDataDescMap()
+  CMessage::Spawn()
+  CMessage::Precache()
+  CMessage::~CMessage()

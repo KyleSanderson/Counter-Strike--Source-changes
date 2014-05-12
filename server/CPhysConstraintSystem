@@ -1,0 +1,4 @@
+CPhysConstraintSystem
+  CPhysConstraintSystem::GetDataDescMap()
+  CPhysConstraintSystem::Spawn()
+  CPhysConstraintSystem::~CPhysConstraintSystem()

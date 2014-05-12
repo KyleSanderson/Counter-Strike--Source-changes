@@ -1,0 +1,4 @@
+CCSBotManager::HostageFollowsEvent
+  CCSBotManager::HostageFollowsEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::HostageFollowsEvent::~HostageFollowsEvent()
+  CCSBotManager::HostageFollowsEvent::GetEventName() const

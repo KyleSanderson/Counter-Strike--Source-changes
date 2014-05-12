@@ -1,0 +1,2 @@
+CProportionalFloatProperty::SetData
+  CProportionalFloatProperty::SetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

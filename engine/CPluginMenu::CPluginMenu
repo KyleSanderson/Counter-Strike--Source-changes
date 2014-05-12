@@ -1,0 +1,2 @@
+CPluginMenu::CPluginMenu
+  CPluginMenu::CPluginMenu(vgui::Panel*)

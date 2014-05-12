@@ -1,0 +1,4 @@
+CLogicActiveAutosave
+  CLogicActiveAutosave::GetDataDescMap()
+  CLogicActiveAutosave::SaveThink()
+  CLogicActiveAutosave::~CLogicActiveAutosave()

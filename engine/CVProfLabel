@@ -1,0 +1,6 @@
+CVProfLabel
+  CVProfLabel::GetAnimMap()
+  CVProfLabel::GetMessageMap()
+  CVProfLabel::GetPanelClassName()
+  CVProfLabel::GetKBMap()
+  CVProfLabel::~CVProfLabel()

@@ -1,0 +1,5 @@
+CEngineBugReporter
+  CEngineBugReporter::Init()
+  CEngineBugReporter::Shutdown()
+  CEngineBugReporter::ShouldPause() const
+  CEngineBugReporter::IsVisible() const

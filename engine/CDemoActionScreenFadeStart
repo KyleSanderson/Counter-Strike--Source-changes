@@ -1,0 +1,6 @@
+CDemoActionScreenFadeStart
+  CDemoActionScreenFadeStart::FireAction()
+  CDemoActionScreenFadeStart::GetScreenFade()
+  CDemoActionScreenFadeStart::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionScreenFadeStart::Init(KeyValues*)
+  CDemoActionScreenFadeStart::~CDemoActionScreenFadeStart()

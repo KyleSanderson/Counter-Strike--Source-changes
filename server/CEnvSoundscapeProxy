@@ -1,0 +1,5 @@
+CEnvSoundscapeProxy
+  CEnvSoundscapeProxy::GetDataDescMap()
+  CEnvSoundscapeProxy::Activate()
+  CEnvSoundscapeProxy::Precache()
+  CEnvSoundscapeProxy::~CEnvSoundscapeProxy()

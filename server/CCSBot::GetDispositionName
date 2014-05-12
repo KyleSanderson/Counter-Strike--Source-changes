@@ -1,0 +1,2 @@
+CCSBot::GetDispositionName
+  CCSBot::GetDispositionName() const::name

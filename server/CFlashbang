@@ -1,0 +1,6 @@
+CFlashbang
+  CFlashbang::GetDataDescMap()
+  CFlashbang::GetServerClass()
+  CFlashbang::YouForgotToImplementOrDeclareServerClass()
+  CFlashbang::~CFlashbang()
+  CFlashbang::GetWeaponID() const

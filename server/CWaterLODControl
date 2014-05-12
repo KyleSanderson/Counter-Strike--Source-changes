@@ -1,0 +1,9 @@
+CWaterLODControl
+  CWaterLODControl::ObjectCaps()
+  CWaterLODControl::GetDataDescMap()
+  CWaterLODControl::GetServerClass()
+  CWaterLODControl::UpdateTransmitState()
+  CWaterLODControl::YouForgotToImplementOrDeclareServerClass()
+  CWaterLODControl::Spawn()
+  CWaterLODControl::CWaterLODControl()
+  CWaterLODControl::~CWaterLODControl()

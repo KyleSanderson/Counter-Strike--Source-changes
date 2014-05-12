@@ -1,0 +1,3 @@
+FollowTargetCollector
+  FollowTargetCollector::FollowTargetCollector(CBasePlayer*)
+  FollowTargetCollector::operator()(CNavArea*)

@@ -1,0 +1,2 @@
+CBaseAppSystem
+  CBaseAppSystem<ICvarQuery>::Disconnect()

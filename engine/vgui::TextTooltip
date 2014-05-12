@@ -1,0 +1,5 @@
+vgui::TextTooltip
+  vgui::TextTooltip::HideTooltip()
+  vgui::TextTooltip::PerformLayout()
+  vgui::TextTooltip::SizeTextWindow()
+  vgui::TextTooltip::SetText(char const*)

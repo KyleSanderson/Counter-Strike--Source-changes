@@ -1,0 +1,11 @@
+CTriggerWind
+  CTriggerWind::StartTouch(CBaseEntity*)
+  CTriggerWind::CreateVPhysics()
+  CTriggerWind::GetDataDescMap()
+  CTriggerWind::UpdateOnRemove()
+  CTriggerWind::DrawDebugTextOverlays()
+  CTriggerWind::Spawn()
+  CTriggerWind::EndTouch(CBaseEntity*)
+  CTriggerWind::OnRestore()
+  CTriggerWind::WindThink()
+  CTriggerWind::~CTriggerWind()

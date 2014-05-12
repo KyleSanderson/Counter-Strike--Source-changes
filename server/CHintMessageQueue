@@ -1,0 +1,4 @@
+CHintMessageQueue
+  CHintMessageQueue::Reset()
+  CHintMessageQueue::Update()
+  CHintMessageQueue::CHintMessageQueue(CBasePlayer*)

@@ -1,0 +1,4 @@
+CTakeDamageInfo
+  CTakeDamageInfo::DebugGetDamageTypeString(unsigned int, char*, int)
+  CTakeDamageInfo::AdjustPlayerDamageInflictedForSkillLevel()
+  CTakeDamageInfo::CTakeDamageInfo()

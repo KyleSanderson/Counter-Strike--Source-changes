@@ -1,0 +1,9 @@
+COcclusionSystem
+  COcclusionSystem::ActivateOccluder(int, bool)
+  COcclusionSystem::DrawDebugOverlays()
+  COcclusionSystem::AddPolygonToEdgeList(CEdgeList&, Vector**, int, int, bool)
+  COcclusionSystem::StitchClippedVertices(Vector*, int)
+  COcclusionSystem::SetOcclusionParameters(float, float)
+  COcclusionSystem::RecomputeOccluderEdgeList()
+  COcclusionSystem::~COcclusionSystem()
+  COcclusionSystem::MinOccluderArea() const

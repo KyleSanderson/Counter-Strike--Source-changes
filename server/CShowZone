@@ -1,0 +1,2 @@
+CShowZone
+  CShowZone::Inspect(CNavArea const*)

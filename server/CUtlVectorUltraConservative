@@ -1,0 +1,10 @@
+CUtlVectorUltraConservative
+  CUtlVectorUltraConservative<NavConnect, CUtlVectorUltraConservativeAllocator>::EnsureCapacity(int)
+  CUtlVectorUltraConservative<NavConnect, CUtlVectorUltraConservativeAllocator>::Remove(int)
+  CUtlVectorUltraConservative<NavConnect, CUtlVectorUltraConservativeAllocator>::RemoveAll()
+  CUtlVectorUltraConservative<HidingSpot*, CUtlVectorUltraConservativeAllocator>::~CUtlVectorUltraConservative()
+  CUtlVectorUltraConservative<SpotEncounter*, CUtlVectorUltraConservativeAllocator>::PurgeAndDeleteElements()
+  CUtlVectorUltraConservative<NavConnect, CUtlVectorUltraConservativeAllocator>::StaticData()::staticData
+  CUtlVectorUltraConservative<NavLadderConnect, CUtlVectorUltraConservativeAllocator>::StaticData()::staticData
+  CUtlVectorUltraConservative<HidingSpot*, CUtlVectorUltraConservativeAllocator>::StaticData()::staticData
+  CUtlVectorUltraConservative<SpotEncounter*, CUtlVectorUltraConservativeAllocator>::StaticData()::staticData

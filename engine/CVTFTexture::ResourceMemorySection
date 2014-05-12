@@ -1,0 +1,2 @@
+CVTFTexture::ResourceMemorySection
+  CVTFTexture::ResourceMemorySection::LoadData(CUtlBuffer&, CByteswap&)

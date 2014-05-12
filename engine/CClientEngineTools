@@ -1,0 +1,12 @@
+CClientEngineTools
+  CClientEngineTools::InToolMode()
+  CClientEngineTools::PostToolMessage(unsigned int, KeyValues*)
+  CClientEngineTools::SetupEngineView(Vector&, QAngle&, float&)
+  CClientEngineTools::PreRenderAllTools()
+  CClientEngineTools::PostRenderAllTools()
+  CClientEngineTools::IsThirdPersonCamera()
+  CClientEngineTools::LevelInitPreEntityAllTools()
+  CClientEngineTools::LevelInitPostEntityAllTools()
+  CClientEngineTools::LevelShutdownPreEntityAllTools()
+  CClientEngineTools::LevelShutdownPostEntityAllTools()
+  CClientEngineTools::~CClientEngineTools()

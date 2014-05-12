@@ -1,0 +1,6 @@
+ActiveGrenade
+  ActiveGrenade::OnEntityGone()
+  ActiveGrenade::Update()
+  ActiveGrenade::ActiveGrenade(CBaseGrenade*)
+  ActiveGrenade::GetPosition() const
+  ActiveGrenade::IsValid() const

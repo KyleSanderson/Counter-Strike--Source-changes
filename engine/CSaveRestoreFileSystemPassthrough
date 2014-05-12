@@ -1,0 +1,11 @@
+CSaveRestoreFileSystemPassthrough
+  CSaveRestoreFileSystemPassthrough::AuditFiles()
+  CSaveRestoreFileSystemPassthrough::DirectoryClear(char const*, bool)
+  CSaveRestoreFileSystemPassthrough::DirectoryCount(char const*)
+  CSaveRestoreFileSystemPassthrough::DirectoryExtract(void*, int, bool)
+  CSaveRestoreFileSystemPassthrough::LoadFileFromDisk(char const*)
+  CSaveRestoreFileSystemPassthrough::AsyncFinishAllWrites()
+  CSaveRestoreFileSystemPassthrough::Size(void*)
+  CSaveRestoreFileSystemPassthrough::Tell(void*)
+  CSaveRestoreFileSystemPassthrough::Close(void*)
+  CSaveRestoreFileSystemPassthrough::Write(void const*, int, void*)

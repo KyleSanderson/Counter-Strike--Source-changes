@@ -1,0 +1,6 @@
+CDefaultResponseSystemSaveRestoreBlockHandler
+  CDefaultResponseSystemSaveRestoreBlockHandler::GetBlockName()
+  CDefaultResponseSystemSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+  CDefaultResponseSystemSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+  CDefaultResponseSystemSaveRestoreBlockHandler::Save(ISave*)
+  CDefaultResponseSystemSaveRestoreBlockHandler::Restore(IRestore*, bool)

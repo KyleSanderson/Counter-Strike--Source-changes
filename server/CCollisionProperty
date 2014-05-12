@@ -1,0 +1,34 @@
+CCollisionProperty
+  CCollisionProperty::SetSolidFlags(int)
+  CCollisionProperty::GetDataDescMap()
+  CCollisionProperty::GetEntityHandle()
+  CCollisionProperty::UpdatePartition()
+  CCollisionProperty::UseTriggerBounds(bool, float)
+  CCollisionProperty::GetCollisionModel()
+  CCollisionProperty::GetIClientUnknown()
+  CCollisionProperty::NetworkStateChanged(void*)
+  CCollisionProperty::NetworkStateChanged()
+  CCollisionProperty::DestroyPartitionHandle()
+  CCollisionProperty::GetCollisionModelIndex()
+  CCollisionProperty::MarkPartitionHandleDirty()
+  CCollisionProperty::UpdateServerPartitionMask()
+  CCollisionProperty::MarkSurroundingBoundsDirty()
+  CCollisionProperty::RefreshScaledCollisionBounds()
+  CCollisionProperty::Init(CBaseEntity*)
+  CCollisionProperty::CCollisionProperty()
+  CCollisionProperty::~CCollisionProperty()
+  CCollisionProperty::GetSolidFlags() const
+  CCollisionProperty::IsPointInBounds(Vector const&) const
+  CCollisionProperty::OBBMaxsPreScaled() const
+  CCollisionProperty::OBBMinsPreScaled() const
+  CCollisionProperty::GetCollisionGroup() const
+  CCollisionProperty::GetCollisionAngles() const
+  CCollisionProperty::GetCollisionOrigin() const
+  CCollisionProperty::ShouldTouchTrigger(int) const
+  CCollisionProperty::CalcDistanceFromPoint(Vector const&) const
+  CCollisionProperty::CollisionToWorldTransform() const
+  CCollisionProperty::GetRootParentToWorldTransform() const
+  CCollisionProperty::DoesVPhysicsInvalidateSurroundingBox() const
+  CCollisionProperty::OBBMaxs() const
+  CCollisionProperty::OBBMins() const
+  CCollisionProperty::GetSolid() const

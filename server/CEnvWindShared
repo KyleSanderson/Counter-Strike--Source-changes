@@ -1,0 +1,7 @@
+CEnvWindShared
+  CEnvWindShared::NetworkStateChanged(void*)
+  CEnvWindShared::NetworkStateChanged()
+  CEnvWindShared::Init(int, int, float, int, float)
+  CEnvWindShared::WindThink(float)
+  CEnvWindShared::CEnvWindShared()
+  CEnvWindShared::~CEnvWindShared()

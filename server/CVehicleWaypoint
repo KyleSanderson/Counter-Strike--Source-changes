@@ -1,0 +1,2 @@
+CVehicleWaypoint
+  CVehicleWaypoint::RecalculateSpline()

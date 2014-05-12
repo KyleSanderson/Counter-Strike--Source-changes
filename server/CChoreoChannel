@@ -1,0 +1,10 @@
+CChoreoChannel
+  CChoreoChannel::GetNumEvents()
+  CChoreoChannel::RestoreFromBuffer(CUtlBuffer&, CChoreoScene*, CChoreoActor*, IChoreoStringPool*)
+  CChoreoChannel::ReconcileCloseCaption()
+  CChoreoChannel::GetName()
+  CChoreoChannel::SetName(char const*)
+  CChoreoChannel::AddEvent(CChoreoEvent*)
+  CChoreoChannel::GetEvent(int)
+  CChoreoChannel::SetActor(CChoreoActor*)
+  CChoreoChannel::CChoreoChannel()

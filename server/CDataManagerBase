@@ -1,0 +1,12 @@
+CDataManagerBase
+  CDataManagerBase::CreateHandle(bool)
+  CDataManagerBase::TouchByIndex(unsigned short)
+  CDataManagerBase::EnsureCapacity(unsigned int)
+  CDataManagerBase::GetForFreeByIndex(unsigned short)
+  CDataManagerBase::StoreResourceInHandle(unsigned short, void*, unsigned int)
+  CDataManagerBase::Lock()
+  CDataManagerBase::Unlock()
+  CDataManagerBase::TryLock()
+  CDataManagerBase::FlushAll()
+  CDataManagerBase::CDataManagerBase(unsigned int)
+  CDataManagerBase::~CDataManagerBase()

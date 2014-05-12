@@ -1,0 +1,9 @@
+CBaseProp
+  CBaseProp::ParsePropData()
+  CBaseProp::OverridePropdata()
+  CBaseProp::CalculateBlockLOS()
+  CBaseProp::DrawDebugGeometryOverlays()
+  CBaseProp::Spawn()
+  CBaseProp::IsAlive()
+  CBaseProp::Activate()
+  CBaseProp::Precache()

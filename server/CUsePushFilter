@@ -1,0 +1,2 @@
+CUsePushFilter
+  CUsePushFilter::ShouldHitEntity(IHandleEntity*, int)

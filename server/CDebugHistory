@@ -1,0 +1,6 @@
+CDebugHistory
+  CDebugHistory::GetDataDescMap()
+  CDebugHistory::Save(ISave&)
+  CDebugHistory::Spawn()
+  CDebugHistory::Restore(IRestore&)
+  CDebugHistory::~CDebugHistory()

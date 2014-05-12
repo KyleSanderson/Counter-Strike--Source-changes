@@ -1,0 +1,8 @@
+CHintCriteria
+  CHintCriteria::AddHintType(int)
+  CHintCriteria::SetHintType(int)
+  CHintCriteria::AddExcludePosition(Vector const&, float)
+  CHintCriteria::AddIncludePosition(Vector const&, float)
+  CHintCriteria::SetFlag(int)
+  CHintCriteria::CHintCriteria()
+  CHintCriteria::~CHintCriteria()

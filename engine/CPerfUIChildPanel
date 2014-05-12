@@ -1,0 +1,8 @@
+CPerfUIChildPanel
+  CPerfUIChildPanel::Deactivate()
+  CPerfUIChildPanel::GetAnimMap()
+  CPerfUIChildPanel::GetMessageMap()
+  CPerfUIChildPanel::GetPanelClassName()
+  CPerfUIChildPanel::Activate()
+  CPerfUIChildPanel::GetKBMap()
+  CPerfUIChildPanel::~CPerfUIChildPanel()

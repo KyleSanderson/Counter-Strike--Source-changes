@@ -1,0 +1,5 @@
+CSpriteOriented
+  CSpriteOriented::GetServerClass()
+  CSpriteOriented::YouForgotToImplementOrDeclareServerClass()
+  CSpriteOriented::Spawn()
+  CSpriteOriented::~CSpriteOriented()

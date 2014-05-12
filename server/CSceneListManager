@@ -1,0 +1,6 @@
+CSceneListManager
+  CSceneListManager::RemoveScene(int)
+  CSceneListManager::SceneStarted(CBaseEntity*)
+  CSceneListManager::GetDataDescMap()
+  CSceneListManager::Activate()
+  CSceneListManager::~CSceneListManager()

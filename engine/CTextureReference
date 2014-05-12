@@ -1,0 +1,5 @@
+CTextureReference
+  CTextureReference::Init(ITexture*)
+  CTextureReference::Shutdown(bool)
+  CTextureReference::CTextureReference()
+  CTextureReference::~CTextureReference()

@@ -1,0 +1,3 @@
+CCleanupDefaultRelationShips
+  CCleanupDefaultRelationShips::Shutdown()
+  CCleanupDefaultRelationShips::~CCleanupDefaultRelationShips()

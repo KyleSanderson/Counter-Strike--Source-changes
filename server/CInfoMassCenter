@@ -1,0 +1,3 @@
+CInfoMassCenter
+  CInfoMassCenter::Spawn()
+  CInfoMassCenter::~CInfoMassCenter()

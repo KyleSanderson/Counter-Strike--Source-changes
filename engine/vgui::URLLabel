@@ -1,0 +1,9 @@
+vgui::URLLabel
+  vgui::URLLabel::GetAnimMap()
+  vgui::URLLabel::GetSettings(KeyValues*)
+  vgui::URLLabel::ApplySettings(KeyValues*)
+  vgui::URLLabel::GetMessageMap()
+  vgui::URLLabel::GetDescription()
+  vgui::URLLabel::GetPanelClassName()
+  vgui::URLLabel::GetKBMap()
+  vgui::URLLabel::~URLLabel()

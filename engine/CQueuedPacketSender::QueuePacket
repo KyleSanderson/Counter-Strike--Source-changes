@@ -1,0 +1,2 @@
+CQueuedPacketSender::QueuePacket
+  CQueuedPacketSender::QueuePacket(INetChannel*, int, char const*, int, sockaddr const*, int, unsigned int)::nWarnings

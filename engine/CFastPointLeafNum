@@ -1,0 +1,3 @@
+CFastPointLeafNum
+  CFastPointLeafNum::GetLeaf(Vector const&)
+  CFastPointLeafNum::CFastPointLeafNum()

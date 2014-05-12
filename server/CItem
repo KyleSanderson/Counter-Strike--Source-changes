@@ -1,0 +1,16 @@
+CItem
+  CItem::ComeToRest()
+  CItem::ObjectCaps()
+  CItem::Materialize()
+  CItem::GetDataDescMap()
+  CItem::ActivateWhenAtRest(float)
+  CItem::CreateItemVPhysicsObject()
+  CItem::ItemCanBeTouchedByPlayer(CBasePlayer*)
+  CItem::Spawn()
+  CItem::MyTouch(CBasePlayer*)
+  CItem::Respawn()
+  CItem::Precache()
+  CItem::ItemTouch(CBaseEntity*)
+  CItem::CItem()
+  CItem::~CItem()
+  CItem::PhysicsSolidMaskForEntity() const

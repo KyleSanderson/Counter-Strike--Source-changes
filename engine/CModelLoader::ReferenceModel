@@ -1,0 +1,2 @@
+CModelLoader::ReferenceModel
+  CModelLoader::ReferenceModel(char const*, IModelLoader::REFERENCETYPE)

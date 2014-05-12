@@ -1,0 +1,6 @@
+CBlendingCycler
+  CBlendingCycler::ObjectCaps()
+  CBlendingCycler::GetDataDescMap()
+  CBlendingCycler::Spawn()
+  CBlendingCycler::Think()
+  CBlendingCycler::~CBlendingCycler()

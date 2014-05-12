@@ -1,0 +1,8 @@
+CEventQueue
+  CEventQueue::CancelEvents(CBaseEntity*)
+  CEventQueue::ServiceEvents()
+  CEventQueue::Dump()
+  CEventQueue::Init()
+  CEventQueue::Clear()
+  CEventQueue::Restore(IRestore&)
+  CEventQueue::~CEventQueue()

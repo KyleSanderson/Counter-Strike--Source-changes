@@ -1,0 +1,8 @@
+CNewOperationDialog
+  CNewOperationDialog::GetAnimMap()
+  CNewOperationDialog::GetMessageMap()
+  CNewOperationDialog::PopulateControls()
+  CNewOperationDialog::GetPanelClassName()
+  CNewOperationDialog::GetKBMap()
+  CNewOperationDialog::OnCommand(char const*)
+  CNewOperationDialog::~CNewOperationDialog()

@@ -1,0 +1,166 @@
+CBaseCombatWeapon
+  CBaseCombatWeapon::CanHolster()
+  CBaseCombatWeapon::GetSubType()
+  CBaseCombatWeapon::HasAnyAmmo()
+  CBaseCombatWeapon::MakeTracer(Vector const&, CGameTrace const&, int)
+  CBaseCombatWeapon::ObjectCaps()
+  CBaseCombatWeapon::OnPickedUp(CBaseCombatCharacter*)
+  CBaseCombatWeapon::SetSubType(int)
+  CBaseCombatWeapon::WeaponIdle()
+  CBaseCombatWeapon::AbortReload()
+  CBaseCombatWeapon::AddViewKick()
+  CBaseCombatWeapon::CanOverload()
+  CBaseCombatWeapon::CheckReload()
+  CBaseCombatWeapon::DestroyItem()
+  CBaseCombatWeapon::GetFireRate()
+  CBaseCombatWeapon::GetMaxBurst()
+  CBaseCombatWeapon::GetMinBurst()
+  CBaseCombatWeapon::IsHolstered()
+  CBaseCombatWeapon::Materialize()
+  CBaseCombatWeapon::SetActivity(Activity, float)
+  CBaseCombatWeapon::ActivityList()
+  CBaseCombatWeapon::CheckRespawn()
+  CBaseCombatWeapon::DefaultTouch(CBaseEntity*)
+  CBaseCombatWeapon::FinishReload()
+  CBaseCombatWeapon::ItemPreFrame()
+  CBaseCombatWeapon::SetViewModel()
+  CBaseCombatWeapon::CanBeSelected()
+  CBaseCombatWeapon::DefaultReload(int, int, int)
+  CBaseCombatWeapon::GetBulletType()
+  CBaseCombatWeapon::GetLastWeapon()
+  CBaseCombatWeapon::ItemBusyFrame()
+  CBaseCombatWeapon::ItemPostFrame()
+  CBaseCombatWeapon::PrimaryAttack()
+  CBaseCombatWeapon::StopSprinting()
+  CBaseCombatWeapon::GetDataDescMap()
+  CBaseCombatWeapon::GetMaxRestTime()
+  CBaseCombatWeapon::GetMinRestTime()
+  CBaseCombatWeapon::GetRandomBurst()
+  CBaseCombatWeapon::GetServerClass()
+  CBaseCombatWeapon::HasPrimaryAmmo()
+  CBaseCombatWeapon::IsWeaponZoomed()
+  CBaseCombatWeapon::SendWeaponAnim(int)
+  CBaseCombatWeapon::SetPickupTouch()
+  CBaseCombatWeapon::StartSprinting()
+  CBaseCombatWeapon::UpdateAutoFire()
+  CBaseCombatWeapon::AddViewmodelBob(CBaseViewModel*, Vector&, QAngle&)
+  CBaseCombatWeapon::CapabilitiesGet()
+  CBaseCombatWeapon::GetBulletSpread()
+  CBaseCombatWeapon::GetDrawActivity()
+  CBaseCombatWeapon::GiveDefaultAmmo()
+  CBaseCombatWeapon::HolsterOnDetach()
+  CBaseCombatWeapon::IsWeaponVisible()
+  CBaseCombatWeapon::SecondaryAttack()
+  CBaseCombatWeapon::UsesPrimaryAmmo()
+  CBaseCombatWeapon::ActivityOverride(Activity, bool*)
+  CBaseCombatWeapon::CalcViewmodelBob()
+  CBaseCombatWeapon::GetEncryptionKey()
+  CBaseCombatWeapon::HasSecondaryAmmo()
+  CBaseCombatWeapon::ItemHolsterFrame()
+  CBaseCombatWeapon::SetIdealActivity(Activity)
+  CBaseCombatWeapon::SetWeaponVisible(bool)
+  CBaseCombatWeapon::UpdateClientData(CBasePlayer*)
+  CBaseCombatWeapon::ActivityListCount()
+  CBaseCombatWeapon::AutoFiresFullClip()
+  CBaseCombatWeapon::GetDmgAccumulator()
+  CBaseCombatWeapon::GetWeaponIdleTime()
+  CBaseCombatWeapon::HandleFireOnEmpty()
+  CBaseCombatWeapon::IsAllowedToSwitch()
+  CBaseCombatWeapon::SendViewModelAnim(int)
+  CBaseCombatWeapon::SetViewModelIndex(int)
+  CBaseCombatWeapon::SetWeaponIdleTime(float)
+  CBaseCombatWeapon::UsesSecondaryAmmo()
+  CBaseCombatWeapon::GetDeathNoticeName()
+  CBaseCombatWeapon::WeaponAutoAimScale()
+  CBaseCombatWeapon::CanBePickedUpByNPCs()
+  CBaseCombatWeapon::GetControlPanelInfo(int, char const*&)
+  CBaseCombatWeapon::GetDefaultAnimSpeed()
+  CBaseCombatWeapon::UpdateTransmitState()
+  CBaseCombatWeapon::AttemptToMaterialize()
+  CBaseCombatWeapon::DisplayReloadHudHint()
+  CBaseCombatWeapon::GetProficiencyValues()
+  CBaseCombatWeapon::OnActiveStateChanged(int)
+  CBaseCombatWeapon::RescindReloadHudHint()
+  CBaseCombatWeapon::DisplayAltFireHudHint()
+  CBaseCombatWeapon::MyCombatWeaponPointer()
+  CBaseCombatWeapon::ReloadOrSwitchWeapons()
+  CBaseCombatWeapon::RescindAltFireHudHint()
+  CBaseCombatWeapon::ShouldBlockPrimaryFire()
+  CBaseCombatWeapon::GetMaxAutoAimDeflection()
+  CBaseCombatWeapon::ShouldShowControlPanels()
+  CBaseCombatWeapon::GetControlPanelClassName(int, char const*&)
+  CBaseCombatWeapon::GetPrimaryAttackActivity()
+  CBaseCombatWeapon::HasWeaponIdleTimeElapsed()
+  CBaseCombatWeapon::VisibleInWeaponSelection()
+  CBaseCombatWeapon::GetSecondaryAttackActivity()
+  CBaseCombatWeapon::ShouldDisplayReloadHUDHint()
+  CBaseCombatWeapon::IsViewModelSequenceFinished()
+  CBaseCombatWeapon::ShouldDisplayAltFireHUDHint()
+  CBaseCombatWeapon::WeaponMeleeAttack1Condition(float, float)
+  CBaseCombatWeapon::WeaponMeleeAttack2Condition(float, float)
+  CBaseCombatWeapon::WeaponRangeAttack1Condition(float, float)
+  CBaseCombatWeapon::WeaponRangeAttack2Condition(float, float)
+  CBaseCombatWeapon::YouForgotToImplementOrDeclareServerClass()
+  CBaseCombatWeapon::Drop(Vector const&)
+  CBaseCombatWeapon::Kill()
+  CBaseCombatWeapon::Lock(float, CBaseEntity*)
+  CBaseCombatWeapon::Clip1()
+  CBaseCombatWeapon::Clip2()
+  CBaseCombatWeapon::Equip(CBaseCombatCharacter*)
+  CBaseCombatWeapon::Lower()
+  CBaseCombatWeapon::Ready()
+  CBaseCombatWeapon::Spawn()
+  CBaseCombatWeapon::Delete()
+  CBaseCombatWeapon::Deploy()
+  CBaseCombatWeapon::Detach()
+  CBaseCombatWeapon::GiveTo(CBaseEntity*)
+  CBaseCombatWeapon::Reload()
+  CBaseCombatWeapon::HasAmmo()
+  CBaseCombatWeapon::Respawn()
+  CBaseCombatWeapon::Activate()
+  CBaseCombatWeapon::CanLower()
+  CBaseCombatWeapon::FallInit()
+  CBaseCombatWeapon::IsLocked(CBaseEntity*)
+  CBaseCombatWeapon::Precache()
+  CBaseCombatWeapon::SetOwner(CBaseCombatCharacter*)
+  CBaseCombatWeapon::CanDeploy()
+  CBaseCombatWeapon::CanReload()
+  CBaseCombatWeapon::FallThink()
+  CBaseCombatWeapon::GetDamage(float, int)
+  CBaseCombatWeapon::HideThink()
+  CBaseCombatWeapon::CBaseCombatWeapon()
+  CBaseCombatWeapon::~CBaseCombatWeapon()
+  CBaseCombatWeapon::GetWpnData() const
+  CBaseCombatWeapon::GetMaxClip1() const
+  CBaseCombatWeapon::GetMaxClip2() const
+  CBaseCombatWeapon::GetPosition() const
+  CBaseCombatWeapon::IsPredicted() const
+  CBaseCombatWeapon::GetPrintName() const
+  CBaseCombatWeapon::GetViewModel(int) const
+  CBaseCombatWeapon::GetAnimPrefix() const
+  CBaseCombatWeapon::GetShootSound(int) const
+  CBaseCombatWeapon::GetSpriteAmmo() const
+  CBaseCombatWeapon::GetWorldModel() const
+  CBaseCombatWeapon::GetSpriteAmmo2() const
+  CBaseCombatWeapon::GetWeaponFlags() const
+  CBaseCombatWeapon::GetDefaultClip1() const
+  CBaseCombatWeapon::GetDefaultClip2() const
+  CBaseCombatWeapon::GetRumbleEffect() const
+  CBaseCombatWeapon::GetSkinOverride() const
+  CBaseCombatWeapon::GetSpriteActive() const
+  CBaseCombatWeapon::GetSpriteAutoaim() const
+  CBaseCombatWeapon::GetSpriteInactive() const
+  CBaseCombatWeapon::UsesClipsForAmmo1() const
+  CBaseCombatWeapon::UsesClipsForAmmo2() const
+  CBaseCombatWeapon::AllowsAutoSwitchTo() const
+  CBaseCombatWeapon::GetPrimaryAmmoType() const
+  CBaseCombatWeapon::GetSpriteCrosshair() const
+  CBaseCombatWeapon::IsBaseCombatWeapon() const
+  CBaseCombatWeapon::AllowsAutoSwitchFrom() const
+  CBaseCombatWeapon::GetSecondaryAmmoType() const
+  CBaseCombatWeapon::GetSpriteZoomedAutoaim() const
+  CBaseCombatWeapon::GetSpriteZoomedCrosshair() const
+  CBaseCombatWeapon::GetName() const
+  CBaseCombatWeapon::GetSlot() const
+  CBaseCombatWeapon::GetOwner() const
+  CBaseCombatWeapon::GetWeight() const

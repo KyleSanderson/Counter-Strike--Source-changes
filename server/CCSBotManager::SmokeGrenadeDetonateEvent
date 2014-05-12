@@ -1,0 +1,4 @@
+CCSBotManager::SmokeGrenadeDetonateEvent
+  CCSBotManager::SmokeGrenadeDetonateEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::SmokeGrenadeDetonateEvent::~SmokeGrenadeDetonateEvent()
+  CCSBotManager::SmokeGrenadeDetonateEvent::GetEventName() const

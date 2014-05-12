@@ -1,0 +1,3 @@
+EntityMatrix
+  EntityMatrix::InitFromEntity(CBaseEntity*, int)
+  EntityMatrix::InitFromEntityLocal(CBaseEntity*)

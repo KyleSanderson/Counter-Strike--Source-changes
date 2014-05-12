@@ -1,0 +1,2 @@
+CColorHistogramPanel::CColorHistogramPanel
+  CColorHistogramPanel::CColorHistogramPanel(vgui::Panel*, char const*, CLevelsColorOperation*)

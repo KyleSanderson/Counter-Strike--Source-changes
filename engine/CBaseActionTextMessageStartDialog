@@ -1,0 +1,6 @@
+CBaseActionTextMessageStartDialog
+  CBaseActionTextMessageStartDialog::FillInFonts()
+  CBaseActionTextMessageStartDialog::OnSaveChanges()
+  CBaseActionTextMessageStartDialog::Init()
+  CBaseActionTextMessageStartDialog::CBaseActionTextMessageStartDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
+  CBaseActionTextMessageStartDialog::~CBaseActionTextMessageStartDialog()

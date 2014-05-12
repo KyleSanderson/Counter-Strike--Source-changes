@@ -1,0 +1,9 @@
+CBaseParticleEntity
+  CBaseParticleEntity::FollowEntity(CBaseEntity*)
+  CBaseParticleEntity::GetServerClass()
+  CBaseParticleEntity::UpdateTransmitState()
+  CBaseParticleEntity::YouForgotToImplementOrDeclareServerClass()
+  CBaseParticleEntity::Think()
+  CBaseParticleEntity::Activate()
+  CBaseParticleEntity::CBaseParticleEntity()
+  CBaseParticleEntity::~CBaseParticleEntity()

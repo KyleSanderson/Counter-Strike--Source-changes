@@ -1,0 +1,142 @@
+vgui
+  vgui::MaterialSystem()
+  vgui::MatSystemSurface()
+  vgui::GetControlsModuleName()
+  vgui::GetAnimationController()
+  vgui::FindOrAddPanelMessageMap(char const*)
+  vgui::FindOrAddPanelKeyBindingMap(char const*)
+  vgui::GetPanelKeyBindingMapDictionary()
+  vgui::Segments
+  VTT for vgui::ClickPanel
+  VTT for vgui::GraphPanel
+  VTT for vgui::ImagePanel
+  VTT for vgui::MenuButton
+  VTT for vgui::MessageBox
+  VTT for vgui::CheckButton
+  VTT for vgui::FrameButton
+  VTT for vgui::InputDialog
+  VTT for vgui::ProgressBar
+  VTT for vgui::RadioButton
+  VTT for vgui::ContextLabel
+  VTT for vgui::ExpandButton
+  VTT for vgui::ListViewItem
+  VTT for vgui::PropertyPage
+  VTT for vgui::ToggleButton
+  VTT for vgui::TreeNodeText
+  VTT for vgui::EditablePanel
+  VTT for vgui::ListViewPanel
+  VTT for vgui::MenuSeparator
+  VTT for vgui::PropertySheet
+  VTT for vgui::TreeNodeImage
+  VTT for vgui::ComboBoxButton
+  VTT for vgui::FileOpenDialog
+  VTT for vgui::PanelListPanel
+  VTT for vgui::PropertyDialog
+  VTT for vgui::BaseInputDialog
+  VTT for vgui::BuildModeDialog
+  VTT for vgui::ScrollBarSlider
+  VTT for vgui::TileViewPanelEx
+  VTT for vgui::RichTextInterior
+  VTT for vgui::TreeViewSubPanel
+  VTT for vgui::CBitmapImagePanel
+  VTT for vgui::DirectoryTreeView
+  VTT for vgui::FrameSystemButton
+  VTT for vgui::FileCompletionEdit
+  VTT for vgui::FileCompletionMenu
+  VTT for vgui::ScalableImagePanel
+  VTT for vgui::AnimatingImagePanel
+  VTT for vgui::AnimationController
+  VTT for vgui::CircularProgressBar
+  VTT for vgui::CTreeViewListControl
+  VTT for vgui::ContinuousProgressBar
+  VTT for vgui::CvarToggleCheckButton<ConVarRef>
+  VTT for vgui::DirectorySelectDialog
+  VTT for vgui::Menu
+  VTT for vgui::Frame
+  VTT for vgui::Label
+  VTT for vgui::Panel
+  VTT for vgui::Button
+  VTT for vgui::Slider
+  VTT for vgui::Divider
+  VTT for vgui::MenuBar
+  VTT for vgui::PageTab
+  VTT for vgui::ComboBox
+  VTT for vgui::MenuItem
+  VTT for vgui::RichText
+  VTT for vgui::TreeNode
+  VTT for vgui::TreeView
+  VTT for vgui::URLLabel
+  VTT for vgui::ListPanel
+  VTT for vgui::ScrollBar
+  VTT for vgui::TextEntry
+  vgui::BuildGroup
+  vgui::CheckImage
+  vgui::ClickPanel
+  vgui::GraphPanel
+  vgui::ImagePanel
+  vgui::MenuButton
+  vgui::MessageBox
+  vgui::RadioImage
+  vgui::BaseTooltip
+  vgui::CheckButton
+  vgui::FrameButton
+  vgui::InputDialog
+  vgui::ProgressBar
+  vgui::RadioButton
+  vgui::TextTooltip
+  vgui::ContextLabel
+  vgui::ExpandButton
+  vgui::IClientPanel
+  vgui::ListViewItem
+  vgui::PropertyPage
+  vgui::ToggleButton
+  vgui::TreeNodeText
+  vgui::EditablePanel
+  vgui::FocusNavGroup
+  vgui::ListViewPanel
+  vgui::MenuSeparator
+  vgui::PropertySheet
+  vgui::TreeNodeImage
+  vgui::ComboBoxButton
+  vgui::FileOpenDialog
+  vgui::PanelListPanel
+  vgui::PropertyDialog
+  vgui::BaseInputDialog
+  vgui::BuildModeDialog
+  vgui::ScrollBarSlider
+  vgui::TileViewPanelEx
+  vgui::RichTextInterior
+  vgui::TreeViewSubPanel
+  vgui::CBitmapImagePanel
+  vgui::DirectoryTreeView
+  vgui::FrameSystemButton
+  vgui::FileCompletionEdit
+  vgui::FileCompletionMenu
+  vgui::ScalableImagePanel
+  vgui::AnimatingImagePanel
+  vgui::AnimationController
+  vgui::CircularProgressBar
+  vgui::CTreeViewListControl
+  vgui::ContinuousProgressBar
+  vgui::CvarToggleCheckButton<ConVarRef>
+  vgui::DirectorySelectDialog
+  vgui::Menu
+  vgui::Frame
+  vgui::Image
+  vgui::Label
+  vgui::Panel
+  vgui::Button
+  vgui::Slider
+  vgui::Divider
+  vgui::MenuBar
+  vgui::PageTab
+  vgui::ComboBox
+  vgui::MenuItem
+  vgui::RichText
+  vgui::TreeNode
+  vgui::TreeView
+  vgui::URLLabel
+  vgui::ListPanel
+  vgui::ScrollBar
+  vgui::TextEntry
+  vgui::TextImage

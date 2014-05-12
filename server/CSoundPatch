@@ -1,0 +1,5 @@
+CSoundPatch
+  CSoundPatch::StartSound(float)
+  CSoundPatch::ResumeSound()
+  CSoundPatch::AddPlayerPost(CBasePlayer*)
+  CSoundPatch::Update(float, float)

@@ -1,0 +1,3 @@
+CAssaultPoint
+  CAssaultPoint::GetDataDescMap()
+  CAssaultPoint::~CAssaultPoint()

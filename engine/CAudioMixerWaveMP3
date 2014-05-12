@@ -1,0 +1,12 @@
+CAudioMixerWaveMP3
+  CAudioMixerWaveMP3::GetOutputData(void**, int, char*)
+  CAudioMixerWaveMP3::SetSampleStart(int)
+  CAudioMixerWaveMP3::GetMixSampleSize()
+  CAudioMixerWaveMP3::StreamRequestData(void*, int, int)
+  CAudioMixerWaveMP3::GetID3HeaderOffset()
+  CAudioMixerWaveMP3::GetPositionForSave()
+  CAudioMixerWaveMP3::GetStreamOutputRate()
+  CAudioMixerWaveMP3::SetPositionFromSaved(int)
+  CAudioMixerWaveMP3::SetStartupDelaySamples(int)
+  CAudioMixerWaveMP3::CAudioMixerWaveMP3(IWaveData*)
+  CAudioMixerWaveMP3::~CAudioMixerWaveMP3()

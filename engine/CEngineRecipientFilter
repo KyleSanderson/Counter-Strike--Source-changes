@@ -1,0 +1,12 @@
+CEngineRecipientFilter
+  CEngineRecipientFilter::AddRecipient(int)
+  CEngineRecipientFilter::MakeReliable()
+  CEngineRecipientFilter::AddAllPlayers()
+  CEngineRecipientFilter::IncludesPlayer(int)
+  CEngineRecipientFilter::AddPlayersFromFilter(IRecipientFilter const*)
+  CEngineRecipientFilter::CEngineRecipientFilter()
+  CEngineRecipientFilter::~CEngineRecipientFilter()
+  CEngineRecipientFilter::IsReliable() const
+  CEngineRecipientFilter::IsInitMessage() const
+  CEngineRecipientFilter::GetRecipientCount() const
+  CEngineRecipientFilter::GetRecipientIndex(int) const

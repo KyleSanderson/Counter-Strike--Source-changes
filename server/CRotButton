@@ -1,0 +1,4 @@
+CRotButton
+  CRotButton::CreateVPhysics()
+  CRotButton::Spawn()
+  CRotButton::~CRotButton()

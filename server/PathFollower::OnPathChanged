@@ -1,0 +1,2 @@
+PathFollower::OnPathChanged
+  PathFollower::OnPathChanged(INextBot*, Path::ResultType)

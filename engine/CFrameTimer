@@ -1,0 +1,3 @@
+CFrameTimer
+  CFrameTimer::ComputeFrameVariability()
+  CFrameTimer::MarkFrame()

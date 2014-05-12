@@ -1,0 +1,5 @@
+vgui::FrameButton
+  vgui::FrameButton::PerformLayout()
+  vgui::FrameButton::SetDisabledLook(bool)
+  vgui::FrameButton::GetBorder(bool, bool, bool, bool)
+  vgui::FrameButton::~FrameButton()

@@ -1,0 +1,2 @@
+IAudioDevice
+  IAudioDevice::AutoDetectInit(bool)

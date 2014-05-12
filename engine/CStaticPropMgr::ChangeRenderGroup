@@ -1,0 +1,2 @@
+CStaticPropMgr::ChangeRenderGroup
+  CStaticPropMgr::ChangeRenderGroup(CStaticProp&)::opaqueRenderGroup

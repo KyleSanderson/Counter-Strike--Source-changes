@@ -1,0 +1,4 @@
+CServerGameEnts
+  CServerGameEnts::CheckTransmit(CCheckTransmitInfo*, unsigned short const*, int)
+  CServerGameEnts::BaseEntityToEdict(CBaseEntity*)
+  CServerGameEnts::~CServerGameEnts()

@@ -1,0 +1,3 @@
+CSteamID::Render
+  CSteamID::Render() const::nBuf
+  CSteamID::Render() const::rgchBuf

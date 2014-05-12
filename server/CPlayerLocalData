@@ -1,0 +1,5 @@
+CPlayerLocalData
+  CPlayerLocalData::UpdateAreaBits(CBasePlayer*, unsigned char*)
+  CPlayerLocalData::NetworkStateChanged(void*)
+  CPlayerLocalData::NetworkStateChanged()
+  CPlayerLocalData::CPlayerLocalData()

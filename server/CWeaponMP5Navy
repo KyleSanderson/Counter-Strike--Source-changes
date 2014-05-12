@@ -1,0 +1,10 @@
+CWeaponMP5Navy
+  CWeaponMP5Navy::PrimaryAttack()
+  CWeaponMP5Navy::GetServerClass()
+  CWeaponMP5Navy::YouForgotToImplementOrDeclareServerClass()
+  CWeaponMP5Navy::Spawn()
+  CWeaponMP5Navy::Deploy()
+  CWeaponMP5Navy::Reload()
+  CWeaponMP5Navy::~CWeaponMP5Navy()
+  CWeaponMP5Navy::GetWeaponID() const
+  CWeaponMP5Navy::GetInaccuracy() const

@@ -1,0 +1,14 @@
+CAudioSourceCache
+  CAudioSourceCache::BuildCache(char const*)
+  CAudioSourceCache::LevelShutdown()
+  CAudioSourceCache::LookUpCacheEntry(char const*, int, bool, CSfxTable*)
+  CAudioSourceCache::RebuildCacheEntry(int, bool, CSfxTable*)
+  CAudioSourceCache::ForceRecheckDiskInfo()
+  CAudioSourceCache::CreateCacheForSearchPath(char const*)
+  CAudioSourceCache::AsyncLookaheadMetaChecksum()
+  CAudioSourceCache::Init(unsigned int)
+  CAudioSourceCache::GetInfo(int, bool, CSfxTable*)
+  CAudioSourceCache::Shutdown()
+  CAudioSourceCache::LevelInit(char const*)
+  CAudioSourceCache::~CAudioSourceCache()
+  CAudioSourceCache::SearchPathCache

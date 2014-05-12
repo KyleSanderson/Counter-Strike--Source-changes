@@ -1,0 +1,7 @@
+CPhysicsSpring
+  CPhysicsSpring::GetDataDescMap()
+  CPhysicsSpring::DrawDebugTextOverlays()
+  CPhysicsSpring::DrawDebugGeometryOverlays()
+  CPhysicsSpring::Spawn()
+  CPhysicsSpring::Activate()
+  CPhysicsSpring::~CPhysicsSpring()

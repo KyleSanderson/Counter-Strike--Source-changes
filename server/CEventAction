@@ -1,0 +1,2 @@
+CEventAction
+  CEventAction::CEventAction(char const*)

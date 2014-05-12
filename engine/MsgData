@@ -1,0 +1,3 @@
+MsgData
+  MsgData::MsgData()
+  MsgData::~MsgData()

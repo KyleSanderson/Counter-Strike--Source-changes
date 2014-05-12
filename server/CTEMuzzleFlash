@@ -1,0 +1,6 @@
+CTEMuzzleFlash
+  CTEMuzzleFlash::GetServerClass()
+  CTEMuzzleFlash::YouForgotToImplementOrDeclareServerClass()
+  CTEMuzzleFlash::Test(Vector const&, QAngle const&)
+  CTEMuzzleFlash::CTEMuzzleFlash(char const*)
+  CTEMuzzleFlash::~CTEMuzzleFlash()

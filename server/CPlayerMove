@@ -1,0 +1,12 @@
+CPlayerMove
+  CPlayerMove::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)
+  CPlayerMove::RunCommand(CBasePlayer*, CUserCmd*, IMoveHelper*)
+  CPlayerMove::RunPreThink(CBasePlayer*)
+  CPlayerMove::RunPostThink(CBasePlayer*)
+  CPlayerMove::StartCommand(CBasePlayer*, CUserCmd*)
+  CPlayerMove::FinishCommand(CBasePlayer*)
+  CPlayerMove::CheckMovingGround(CBasePlayer*, double)
+  CPlayerMove::RunThink(CBasePlayer*, double)
+  CPlayerMove::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)
+  CPlayerMove::CPlayerMove()
+  CPlayerMove::~CPlayerMove()

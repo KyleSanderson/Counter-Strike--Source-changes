@@ -1,0 +1,7 @@
+IVModelInfo
+  IVModelInfo::ReferenceModel(int)
+  IVModelInfo::AddDynamicModel(char const*, int)
+  IVModelInfo::UnreferenceModel(int)
+  IVModelInfo::InitDynamicModels()
+  IVModelInfo::CleanupDynamicModels(bool)
+  IVModelInfo::ShutdownDynamicModels()

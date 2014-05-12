@@ -1,0 +1,13 @@
+CFuncTrain
+  CFuncTrain::SetupTarget()
+  CFuncTrain::GetDataDescMap()
+  CFuncTrain::Next()
+  CFuncTrain::Stop()
+  CFuncTrain::Wait()
+  CFuncTrain::Spawn()
+  CFuncTrain::Start()
+  CFuncTrain::Blocked(CBaseEntity*)
+  CFuncTrain::Activate()
+  CFuncTrain::Precache()
+  CFuncTrain::OnRestore()
+  CFuncTrain::~CFuncTrain()

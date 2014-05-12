@@ -1,0 +1,2 @@
+vgui::RichText::GetDescription
+  vgui::RichText::GetDescription()::buf

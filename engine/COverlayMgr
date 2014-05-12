@@ -1,0 +1,12 @@
+COverlayMgr
+  COverlayMgr::LoadOverlays()
+  COverlayMgr::RenderOverlays(int)
+  COverlayMgr::UnloadOverlays()
+  COverlayMgr::CreateFragments()
+  COverlayMgr::ReSortMaterials()
+  COverlayMgr::ClearRenderLists(int)
+  COverlayMgr::ClearRenderLists()
+  COverlayMgr::GetMaterialSortID(IMaterial*, int)
+  COverlayMgr::SetOverlayBindProxy(int, void*)
+  COverlayMgr::AddFragmentListToRenderList(int, unsigned short, bool)
+  COverlayMgr::~COverlayMgr()

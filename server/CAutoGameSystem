@@ -1,0 +1,4 @@
+CAutoGameSystem
+  CAutoGameSystem::Name()
+  CAutoGameSystem::CAutoGameSystem(char const*)
+  CAutoGameSystem::~CAutoGameSystem()

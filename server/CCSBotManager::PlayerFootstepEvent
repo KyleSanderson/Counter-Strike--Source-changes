@@ -1,0 +1,4 @@
+CCSBotManager::PlayerFootstepEvent
+  CCSBotManager::PlayerFootstepEvent::FireGameEvent(IGameEvent*)
+  CCSBotManager::PlayerFootstepEvent::~PlayerFootstepEvent()
+  CCSBotManager::PlayerFootstepEvent::GetEventName() const

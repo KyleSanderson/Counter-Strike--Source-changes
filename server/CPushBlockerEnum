@@ -1,0 +1,5 @@
+CPushBlockerEnum
+  CPushBlockerEnum::EnumElement(IHandleEntity*)
+  CPushBlockerEnum::GetPushableEntity(IHandleEntity*)
+  CPushBlockerEnum::IntersectsPushers(CBaseEntity*)
+  CPushBlockerEnum::CPushBlockerEnum(CPhysicsPushedEntities*)

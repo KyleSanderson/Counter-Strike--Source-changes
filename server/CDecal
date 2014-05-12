@@ -1,0 +1,6 @@
+CDecal
+  CDecal::StaticDecal()
+  CDecal::GetDataDescMap()
+  CDecal::Spawn()
+  CDecal::Activate()
+  CDecal::~CDecal()

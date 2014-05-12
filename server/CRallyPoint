@@ -1,0 +1,4 @@
+CRallyPoint
+  CRallyPoint::GetDataDescMap()
+  CRallyPoint::DrawDebugTextOverlays()
+  CRallyPoint::~CRallyPoint()

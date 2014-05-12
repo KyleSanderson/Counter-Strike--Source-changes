@@ -1,0 +1,2 @@
+vgui::Panel::InitPropertyConverters
+  vgui::Panel::InitPropertyConverters()::initialized (.b)

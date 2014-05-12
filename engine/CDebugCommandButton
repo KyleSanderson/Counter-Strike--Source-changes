@@ -1,0 +1,4 @@
+CDebugCommandButton
+  CDebugCommandButton::OnTick()
+  CDebugCommandButton::OnCommand(char const*)
+  CDebugCommandButton::~CDebugCommandButton()

@@ -1,0 +1,4 @@
+CPrecacheOtherList
+  CPrecacheOtherList::LevelInitPreEntity()
+  CPrecacheOtherList::LevelShutdownPostEntity()
+  CPrecacheOtherList::~CPrecacheOtherList()

@@ -1,0 +1,7 @@
+CWeaponP90
+  CWeaponP90::PrimaryAttack()
+  CWeaponP90::GetServerClass()
+  CWeaponP90::YouForgotToImplementOrDeclareServerClass()
+  CWeaponP90::~CWeaponP90()
+  CWeaponP90::GetWeaponID() const
+  CWeaponP90::GetInaccuracy() const

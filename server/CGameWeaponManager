@@ -1,0 +1,6 @@
+CGameWeaponManager
+  CGameWeaponManager::GetDataDescMap()
+  CGameWeaponManager::Spawn()
+  CGameWeaponManager::Think()
+  CGameWeaponManager::CGameWeaponManager()
+  CGameWeaponManager::~CGameWeaponManager()

@@ -1,0 +1,20 @@
+CKnownEntity
+  CKnownEntity::UpdatePosition()
+  CKnownEntity::UpdateVisibilityStatus(bool)
+  CKnownEntity::MarkLastKnownPositionAsSeen()
+  CKnownEntity::Destroy()
+  CKnownEntity::~CKnownEntity()
+  CKnownEntity::IsObsolete() const
+  CKnownEntity::WasEverVisible() const
+  CKnownEntity::GetLastKnownArea() const
+  CKnownEntity::IsVisibleInFOVNow() const
+  CKnownEntity::IsVisibleRecently() const
+  CKnownEntity::GetLastKnownPosition() const
+  CKnownEntity::GetTimeSinceLastSeen() const
+  CKnownEntity::GetTimeSinceLastKnown() const
+  CKnownEntity::GetTimeSinceBecameKnown() const
+  CKnownEntity::GetTimeWhenBecameVisible() const
+  CKnownEntity::GetTimeSinceBecameVisible() const
+  CKnownEntity::HasLastKnownPositionBeenSeen() const
+  CKnownEntity::Is(CBaseEntity*) const
+  CKnownEntity::GetEntity() const

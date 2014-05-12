@@ -1,0 +1,4 @@
+CTeamVehicleSpawnPoint
+  CTeamVehicleSpawnPoint::GetDataDescMap()
+  CTeamVehicleSpawnPoint::Activate()
+  CTeamVehicleSpawnPoint::~CTeamVehicleSpawnPoint()

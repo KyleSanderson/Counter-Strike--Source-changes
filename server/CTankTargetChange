@@ -1,0 +1,4 @@
+CTankTargetChange
+  CTankTargetChange::GetDataDescMap()
+  CTankTargetChange::Precache()
+  CTankTargetChange::~CTankTargetChange()

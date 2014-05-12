@@ -1,0 +1,5 @@
+CThreadLocalBase
+  CThreadLocalBase::Set(void*)
+  CThreadLocalBase::CThreadLocalBase()
+  CThreadLocalBase::~CThreadLocalBase()
+  CThreadLocalBase::Get() const

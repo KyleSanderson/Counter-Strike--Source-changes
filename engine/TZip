@@ -1,0 +1,8 @@
+TZip
+  TZip::AddCentral()
+  TZip::Add(char const*, void*, unsigned int, unsigned int)
+  TZip::sread(TState&, char*, unsigned int)
+  TZip::istore()
+  TZip::sflush(void*, char const*, unsigned int*)
+  TZip::swrite(void*, char const*, unsigned int)
+  TZip::ideflate(zlist*)

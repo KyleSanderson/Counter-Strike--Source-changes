@@ -1,0 +1,11 @@
+CDrawTreeFrame
+  CDrawTreeFrame::GetAnimMap()
+  CDrawTreeFrame::GetMessageMap()
+  CDrawTreeFrame::PerformLayout()
+  CDrawTreeFrame::OnItemSelected()
+  CDrawTreeFrame::GetPanelClassName()
+  CDrawTreeFrame::RecalculateSelectedHighlight()
+  CDrawTreeFrame::OnClose()
+  CDrawTreeFrame::GetKBMap()
+  CDrawTreeFrame::OnCommand(char const*)
+  CDrawTreeFrame::~CDrawTreeFrame()

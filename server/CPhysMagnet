@@ -1,0 +1,11 @@
+CPhysMagnet
+  CPhysMagnet::DoMagnetSuck(CBaseEntity*)
+  CPhysMagnet::GetDataDescMap()
+  CPhysMagnet::GetServerClass()
+  CPhysMagnet::ConstraintBroken(IPhysicsConstraint*)
+  CPhysMagnet::YouForgotToImplementOrDeclareServerClass()
+  CPhysMagnet::Spawn()
+  CPhysMagnet::Touch(CBaseEntity*)
+  CPhysMagnet::Precache()
+  CPhysMagnet::DetachAll()
+  CPhysMagnet::~CPhysMagnet()

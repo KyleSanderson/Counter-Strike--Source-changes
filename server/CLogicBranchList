@@ -1,0 +1,7 @@
+CLogicBranchList
+  CLogicBranchList::GetDataDescMap()
+  CLogicBranchList::DrawDebugTextOverlays()
+  CLogicBranchList::Spawn()
+  CLogicBranchList::DoTest(CBaseEntity*)
+  CLogicBranchList::Activate()
+  CLogicBranchList::~CLogicBranchList()

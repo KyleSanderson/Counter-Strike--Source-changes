@@ -1,0 +1,4 @@
+CUtlHandleTable
+  CUtlHandleTable<vgui::BuildGroup, 20>::RemoveHandle(unsigned int)
+  CUtlHandleTable<vgui::BuildGroup, 20>::AddHandle()
+  CUtlHandleTable<vgui::BuildGroup, 20>::~CUtlHandleTable()

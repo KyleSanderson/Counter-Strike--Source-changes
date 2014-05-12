@@ -1,0 +1,4 @@
+CBaseDemoActionWithStopTime
+  CBaseDemoActionWithStopTime::SetStopTick(int)
+  CBaseDemoActionWithStopTime::SetStopTime(float)
+  CBaseDemoActionWithStopTime::Update(DemoActionTimingContext const&)

@@ -1,0 +1,14 @@
+CWeaponAWP
+  CWeaponAWP::PrimaryAttack()
+  CWeaponAWP::GetDataDescMap()
+  CWeaponAWP::GetServerClass()
+  CWeaponAWP::SecondaryAttack()
+  CWeaponAWP::YouForgotToImplementOrDeclareServerClass()
+  CWeaponAWP::Spawn()
+  CWeaponAWP::Deploy()
+  CWeaponAWP::Reload()
+  CWeaponAWP::~CWeaponAWP()
+  CWeaponAWP::GetMaxSpeed() const
+  CWeaponAWP::GetWeaponID() const
+  CWeaponAWP::GetInaccuracy() const
+  CWeaponAWP::IsAwp() const

@@ -1,0 +1,4 @@
+CPhysTorque
+  CPhysTorque::GetDataDescMap()
+  CPhysTorque::Spawn()
+  CPhysTorque::~CPhysTorque()

@@ -1,0 +1,6 @@
+CTESmoke
+  CTESmoke::GetServerClass()
+  CTESmoke::YouForgotToImplementOrDeclareServerClass()
+  CTESmoke::Test(Vector const&, QAngle const&)
+  CTESmoke::CTESmoke(char const*)
+  CTESmoke::~CTESmoke()

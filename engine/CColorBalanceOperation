@@ -1,0 +1,11 @@
+CColorBalanceOperation
+  CColorBalanceOperation::SetEnabled(bool)
+  CColorBalanceOperation::GetBlendFactor()
+  CColorBalanceOperation::SetBlendFactor(float)
+  CColorBalanceOperation::CreateLookupTables()
+  CColorBalanceOperation::Clone()
+  CColorBalanceOperation::ToolID()
+  CColorBalanceOperation::GetName()
+  CColorBalanceOperation::Release()
+  CColorBalanceOperation::SetName(char const*)
+  CColorBalanceOperation::IsEnabled()

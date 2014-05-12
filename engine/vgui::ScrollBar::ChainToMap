@@ -1,0 +1,2 @@
+vgui::ScrollBar::ChainToMap
+  vgui::ScrollBar::ChainToMap()::chained

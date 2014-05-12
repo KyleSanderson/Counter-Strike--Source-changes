@@ -1,0 +1,2 @@
+CSaveRestore::GetSaveDir
+  CSaveRestore::GetSaveDir()::szDirectory

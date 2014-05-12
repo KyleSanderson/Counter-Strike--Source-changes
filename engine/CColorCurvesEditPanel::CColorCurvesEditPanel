@@ -1,0 +1,2 @@
+CColorCurvesEditPanel::CColorCurvesEditPanel
+  CColorCurvesEditPanel::CColorCurvesEditPanel(vgui::Panel*, char const*)

@@ -1,0 +1,12 @@
+CModelInfoClient
+  CModelInfoClient::FindOrLoadModel(char const*)
+  CModelInfoClient::RegisterDynamicModel(char const*, bool)
+  CModelInfoClient::SetViewScreenFadeRange(float, float)
+  CModelInfoClient::SetLevelScreenFadeRange(float, float)
+  CModelInfoClient::OnDynamicModelsStringTableChange(int, char const*, void const*)
+  CModelInfoClient::GetModel(int)
+  CModelInfoClient::~CModelInfoClient()
+  CModelInfoClient::ComputeViewScreenFade(Vector const&, float, float) const
+  CModelInfoClient::ComputeLevelScreenFade(Vector const&, float, float) const
+  CModelInfoClient::LookupPrecachedModelIndex(char const*) const
+  CModelInfoClient::GetDynamicModelStringTable() const

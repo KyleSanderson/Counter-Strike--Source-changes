@@ -1,0 +1,4 @@
+CEnvMuzzleFlash
+  CEnvMuzzleFlash::GetDataDescMap()
+  CEnvMuzzleFlash::Spawn()
+  CEnvMuzzleFlash::~CEnvMuzzleFlash()

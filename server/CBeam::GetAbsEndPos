@@ -1,0 +1,2 @@
+CBeam::GetAbsEndPos
+  CBeam::GetAbsEndPos() const::vecAbsPos

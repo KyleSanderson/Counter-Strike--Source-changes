@@ -1,0 +1,6 @@
+CCSAmmoDef
+  CCSAmmoDef::AddAmmoCost(char const*, int, int)
+  CCSAmmoDef::CCSAmmoDef()
+  CCSAmmoDef::~CCSAmmoDef()
+  CCSAmmoDef::GetBuySize(int) const
+  CCSAmmoDef::GetCost(int) const

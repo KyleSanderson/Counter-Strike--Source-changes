@@ -1,0 +1,5 @@
+CTEBeamSpline
+  CTEBeamSpline::GetServerClass()
+  CTEBeamSpline::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamSpline::Test(Vector const&, QAngle const&)
+  CTEBeamSpline::~CTEBeamSpline()

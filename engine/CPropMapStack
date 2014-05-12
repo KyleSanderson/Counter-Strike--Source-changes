@@ -1,0 +1,2 @@
+CPropMapStack
+  CPropMapStack::RecurseAndCallProxies(CSendNode*, unsigned char*)

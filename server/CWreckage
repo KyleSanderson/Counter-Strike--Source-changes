@@ -1,0 +1,6 @@
+CWreckage
+  CWreckage::GetDataDescMap()
+  CWreckage::Spawn()
+  CWreckage::Think()
+  CWreckage::Precache()
+  CWreckage::~CWreckage()

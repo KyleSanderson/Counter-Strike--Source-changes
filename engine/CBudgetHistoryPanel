@@ -1,0 +1,7 @@
+CBudgetHistoryPanel
+  CBudgetHistoryPanel::DrawBudgetLine(float)
+  CBudgetHistoryPanel::Paint()
+  CBudgetHistoryPanel::SetData(double*, int, int, int)
+  CBudgetHistoryPanel::SetRange(float, float)
+  CBudgetHistoryPanel::CBudgetHistoryPanel(CBaseBudgetPanel*, char const*)
+  CBudgetHistoryPanel::~CBudgetHistoryPanel()

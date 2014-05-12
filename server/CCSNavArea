@@ -1,0 +1,12 @@
+CCSNavArea
+  CCSNavArea::LoadLegacy(CUtlBuffer&, unsigned int, unsigned int)
+  CCSNavArea::CustomAnalysis(bool)
+  CCSNavArea::OnRoundRestart()
+  CCSNavArea::OnServerActivate()
+  CCSNavArea::ComputeApproachAreas()
+  CCSNavArea::Load(CUtlBuffer&, unsigned int, unsigned int)
+  CCSNavArea::PostLoad()
+  CCSNavArea::CCSNavArea()
+  CCSNavArea::~CCSNavArea()
+  CCSNavArea::Draw() const
+  CCSNavArea::Save(CUtlBuffer&, unsigned int) const

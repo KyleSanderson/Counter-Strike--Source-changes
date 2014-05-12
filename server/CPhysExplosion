@@ -1,0 +1,5 @@
+CPhysExplosion
+  CPhysExplosion::GetDataDescMap()
+  CPhysExplosion::DrawDebugTextOverlays()
+  CPhysExplosion::Spawn()
+  CPhysExplosion::~CPhysExplosion()

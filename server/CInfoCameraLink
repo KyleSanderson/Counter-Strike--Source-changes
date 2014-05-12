@@ -1,0 +1,6 @@
+CInfoCameraLink
+  CInfoCameraLink::GetDataDescMap()
+  CInfoCameraLink::SetCameraByName(char const*)
+  CInfoCameraLink::Activate()
+  CInfoCameraLink::CInfoCameraLink()
+  CInfoCameraLink::~CInfoCameraLink()

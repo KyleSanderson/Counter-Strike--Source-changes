@@ -1,0 +1,6 @@
+INextBotComponent
+  INextBotComponent::Reset()
+  INextBotComponent::Upkeep()
+  INextBotComponent::INextBotComponent(INextBot*)
+  INextBotComponent::~INextBotComponent()
+  INextBotComponent::GetBot() const

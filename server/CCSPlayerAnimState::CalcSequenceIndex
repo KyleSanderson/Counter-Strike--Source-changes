@@ -1,0 +1,2 @@
+CCSPlayerAnimState::CalcSequenceIndex
+  CCSPlayerAnimState::CalcSequenceIndex(char const*, ...)::dict

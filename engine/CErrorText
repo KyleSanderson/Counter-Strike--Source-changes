@@ -1,0 +1,4 @@
+CErrorText
+  CErrorText::BuildComment(char const*, bool)
+  CErrorText::BuildCommentExtended(int)
+  CErrorText::~CErrorText()

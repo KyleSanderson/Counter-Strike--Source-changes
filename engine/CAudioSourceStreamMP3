@@ -1,0 +1,9 @@
+CAudioSourceStreamMP3
+  CAudioSourceStreamMP3::CreateMixer(int)
+  CAudioSourceStreamMP3::IsStereoWav()
+  CAudioSourceStreamMP3::IsStreaming()
+  CAudioSourceStreamMP3::GetOutputData(void**, int, int, char*)
+  CAudioSourceStreamMP3::UpdateSamples(char*, int)
+  CAudioSourceStreamMP3::UpdateLoopingSamplePosition(int)
+  CAudioSourceStreamMP3::Prefetch()
+  CAudioSourceStreamMP3::~CAudioSourceStreamMP3()

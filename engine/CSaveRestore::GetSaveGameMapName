@@ -1,0 +1,2 @@
+CSaveRestore::GetSaveGameMapName
+  CSaveRestore::GetSaveGameMapName(char const*)::mapname

@@ -1,0 +1,5 @@
+CEnvBeverage
+  CEnvBeverage::GetDataDescMap()
+  CEnvBeverage::Spawn()
+  CEnvBeverage::Precache()
+  CEnvBeverage::~CEnvBeverage()

@@ -1,0 +1,11 @@
+CFireSmoke
+  CFireSmoke::EnableGlow(int)
+  CFireSmoke::EnableSmoke(int)
+  CFireSmoke::GetDataDescMap()
+  CFireSmoke::GetServerClass()
+  CFireSmoke::EnableVisibleFromAbove(int)
+  CFireSmoke::YouForgotToImplementOrDeclareServerClass()
+  CFireSmoke::Spawn()
+  CFireSmoke::Precache()
+  CFireSmoke::CFireSmoke()
+  CFireSmoke::~CFireSmoke()

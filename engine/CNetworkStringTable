@@ -1,0 +1,26 @@
+CNetworkStringTable
+  CNetworkStringTable::GetCallback()
+  CNetworkStringTable::RestoreTick(int)
+  CNetworkStringTable::SetMirrorTable(INetworkStringTable*)
+  CNetworkStringTable::FindStringIndex(char const*)
+  CNetworkStringTable::DeleteAllStrings()
+  CNetworkStringTable::GetStringUserData(int, int*)
+  CNetworkStringTable::SetStringUserData(int, int, void const*)
+  CNetworkStringTable::UpdateMirrorTable(int)
+  CNetworkStringTable::SetAllowClientSideAddString(bool)
+  CNetworkStringTable::Dump()
+  CNetworkStringTable::Lock(bool)
+  CNetworkStringTable::SetTick(int)
+  CNetworkStringTable::AddString(bool, char const*, int, void const*)
+  CNetworkStringTable::GetString(int)
+  CNetworkStringTable::CNetworkStringTable(int, char const*, int, int, int, bool)
+  CNetworkStringTable::~CNetworkStringTable()
+  CNetworkStringTable::GetTableId() const
+  CNetworkStringTable::GetEntryBits() const
+  CNetworkStringTable::GetTableName() const
+  CNetworkStringTable::GetMaxStrings() const
+  CNetworkStringTable::GetNumStrings() const
+  CNetworkStringTable::GetUserDataSize() const
+  CNetworkStringTable::ChangedSinceTick(int) const
+  CNetworkStringTable::HasFileNameStrings() const
+  CNetworkStringTable::GetUserDataSizeBits() const

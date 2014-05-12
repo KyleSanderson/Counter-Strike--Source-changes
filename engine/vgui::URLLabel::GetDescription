@@ -1,0 +1,2 @@
+vgui::URLLabel::GetDescription
+  vgui::URLLabel::GetDescription()::buf

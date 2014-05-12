@@ -1,0 +1,33 @@
+CReplayServer
+  CReplayServer::SendNetMsg(INetMessage&, bool)
+  CReplayServer::UpdateTick()
+  CReplayServer::AddNewFrame(CClientFrame*)
+  CReplayServer::Changelevel()
+  CReplayServer::GetDirector()
+  CReplayServer::IsRecording()
+  CReplayServer::StartMaster(CGameClient*)
+  CReplayServer::FireGameEvent(IGameEvent*)
+  CReplayServer::GetBaseServer()
+  CReplayServer::GetOnlineTime()
+  CReplayServer::GetReplaySlot()
+  CReplayServer::SetMaxClients(int)
+  CReplayServer::StopRecording()
+  CReplayServer::BroadcastEvent(IGameEvent*)
+  CReplayServer::StartRecording()
+  CReplayServer::UserInfoChanged(int)
+  CReplayServer::CreateFakeClient(char const*)
+  CReplayServer::SendPendingEvents()
+  CReplayServer::InstallStringTables()
+  CReplayServer::FreeClientRecvTables()
+  CReplayServer::ShouldUpdateMasterServer()
+  CReplayServer::Init(bool)
+  CReplayServer::Clear()
+  CReplayServer::RunFrame()
+  CReplayServer::Shutdown()
+  CReplayServer::GetBuffer(int)
+  CReplayServer::CReplayServer()
+  CReplayServer::~CReplayServer()
+  CReplayServer::GetPassword() const
+  CReplayServer::IsMultiplayer() const
+  CReplayServer::GetName() const
+  CReplayServer::IsReplay() const

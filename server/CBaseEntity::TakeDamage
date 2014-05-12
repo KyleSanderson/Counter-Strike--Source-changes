@@ -1,0 +1,2 @@
+CBaseEntity::TakeDamage
+  CBaseEntity::TakeDamage(CTakeDamageInfo const&)::warningCount

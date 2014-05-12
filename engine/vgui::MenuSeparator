@@ -1,0 +1,7 @@
+vgui::MenuSeparator
+  vgui::MenuSeparator::GetAnimMap()
+  vgui::MenuSeparator::GetMessageMap()
+  vgui::MenuSeparator::GetPanelClassName()
+  vgui::MenuSeparator::Paint()
+  vgui::MenuSeparator::GetKBMap()
+  vgui::MenuSeparator::~MenuSeparator()

@@ -1,0 +1,7 @@
+CRotDoor
+  CRotDoor::CreateVPhysics()
+  CRotDoor::GetDataDescMap()
+  CRotDoor::IsRotatingDoor()
+  CRotDoor::SetToggleState(int)
+  CRotDoor::Spawn()
+  CRotDoor::~CRotDoor()

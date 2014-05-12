@@ -1,0 +1,13 @@
+CSpriteTrail
+  CSpriteTrail::SetLifeTime(float)
+  CSpriteTrail::SetStartWidth(float)
+  CSpriteTrail::GetDataDescMap()
+  CSpriteTrail::GetServerClass()
+  CSpriteTrail::ShouldTransmit(CCheckTransmitInfo const*)
+  CSpriteTrail::SpriteTrailCreate(char const*, Vector const&, bool)
+  CSpriteTrail::SetTextureResolution(float)
+  CSpriteTrail::YouForgotToImplementOrDeclareServerClass()
+  CSpriteTrail::Spawn()
+  CSpriteTrail::Precache()
+  CSpriteTrail::CSpriteTrail()
+  CSpriteTrail::~CSpriteTrail()

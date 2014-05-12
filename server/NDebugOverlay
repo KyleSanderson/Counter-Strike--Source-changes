@@ -1,0 +1,13 @@
+NDebugOverlay
+  NDebugOverlay::ScreenText(float, float, char const*, int, int, int, int, float)
+  NDebugOverlay::EntityBounds(CBaseEntity const*, int, int, int, int, float)
+  NDebugOverlay::EntityTextAtPosition(Vector const&, int, char const*, float, int, int, int, int)
+  NDebugOverlay::DrawGroundCrossHairOverlay()
+  NDebugOverlay::Axis(Vector const&, QAngle const&, float, bool, float)
+  NDebugOverlay::Grid(Vector const&)
+  NDebugOverlay::Text(Vector const&, char const*, bool, float)
+  NDebugOverlay::Circle(Vector const&, QAngle const&, float, int, int, int, int, bool, float)
+  NDebugOverlay::Sphere(Vector const&, QAngle const&, float, int, int, int, int, bool, float)
+  NDebugOverlay::Sphere(Vector const&, float, int, int, int, bool, float)
+  NDebugOverlay::Cross3D(Vector const&, float, int, int, int, bool, float)
+  NDebugOverlay::YawArrow(Vector const&, float, float, float, int, int, int, int, bool, float)

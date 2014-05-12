@@ -1,0 +1,5 @@
+CTEWorldDecal
+  CTEWorldDecal::GetServerClass()
+  CTEWorldDecal::YouForgotToImplementOrDeclareServerClass()
+  CTEWorldDecal::Test(Vector const&, QAngle const&)
+  CTEWorldDecal::~CTEWorldDecal()

@@ -1,0 +1,2 @@
+CPlayerInfoManager
+  CPlayerInfoManager::GetGlobalVars()

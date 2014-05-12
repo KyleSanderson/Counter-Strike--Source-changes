@@ -1,0 +1,12 @@
+CRConServer
+  CRConServer::SetAddress(char const*)
+  CRConServer::SetPassword(char const*)
+  CRConServer::CreateSocket()
+  CRConServer::SetRequestID(unsigned int, int)
+  CRConServer::SendRCONResponse(int, void const*, int, bool)
+  CRConServer::BCloseAcceptedSocket(unsigned int)
+  CRConServer::RunFrame()
+  CRConServer::CRConServer()
+  CRConServer::~CRConServer()
+  CRConServer::IsPassword(char const*) const
+  CRConServer::HasPassword() const

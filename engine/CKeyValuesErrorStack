@@ -1,0 +1,2 @@
+CKeyValuesErrorStack
+  CKeyValuesErrorStack::ReportError(char const*)

@@ -1,0 +1,5 @@
+CFuncReflectiveGlass
+  CFuncReflectiveGlass::GetDataDescMap()
+  CFuncReflectiveGlass::GetServerClass()
+  CFuncReflectiveGlass::YouForgotToImplementOrDeclareServerClass()
+  CFuncReflectiveGlass::~CFuncReflectiveGlass()

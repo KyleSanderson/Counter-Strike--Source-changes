@@ -1,0 +1,10 @@
+CChoreoActor
+  CChoreoActor::AddChannel(CChoreoChannel*)
+  CChoreoActor::GetChannel(int)
+  CChoreoActor::GetNumChannels()
+  CChoreoActor::FindChannelIndex(CChoreoChannel*)
+  CChoreoActor::RestoreFromBuffer(CUtlBuffer&, CChoreoScene*, IChoreoStringPool*)
+  CChoreoActor::GetName()
+  CChoreoActor::SetName(char const*)
+  CChoreoActor::SetActive(bool)
+  CChoreoActor::CChoreoActor()

@@ -1,0 +1,13 @@
+CParticleSystem
+  CParticleSystem::GetDataDescMap()
+  CParticleSystem::GetServerClass()
+  CParticleSystem::StartParticleSystem()
+  CParticleSystem::UpdateTransmitState()
+  CParticleSystem::ReadControlPointEnts()
+  CParticleSystem::StartParticleSystemThink()
+  CParticleSystem::YouForgotToImplementOrDeclareServerClass()
+  CParticleSystem::Spawn()
+  CParticleSystem::Activate()
+  CParticleSystem::Precache()
+  CParticleSystem::CParticleSystem()
+  CParticleSystem::~CParticleSystem()

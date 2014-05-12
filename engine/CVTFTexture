@@ -1,0 +1,61 @@
+CVTFTexture
+  CVTFTexture::Unserialize(CUtlBuffer&, bool, int)
+  CVTFTexture::SetBumpScale(float)
+  CVTFTexture::WriteImageData(CUtlBuffer&)
+  CVTFTexture::GenerateMipmaps()
+  CVTFTexture::InitLowResImage(int, int, ImageFormat)
+  CVTFTexture::LowResImageData()
+  CVTFTexture::SetReflectivity(Vector const&)
+  CVTFTexture::SetResourceData(unsigned int, void const*, unsigned long)
+  CVTFTexture::ComputeAlphaFlags()
+  CVTFTexture::ConvertImageFormat(ImageFormat, bool)
+  CVTFTexture::ComputeReflectivity()
+  CVTFTexture::MatchCubeMapBorders(int, ImageFormat, bool)
+  CVTFTexture::ConstructLowResImage()
+  CVTFTexture::NormalizeTopMipLevel()
+  CVTFTexture::BlendCubeMapFaceEdges(int, int, CEdgeMatch const*)
+  CVTFTexture::BuildCubeMapMatchLists(CEdgeMatch*, CCornerMatch*, bool)
+  CVTFTexture::BlendCubeMapFaceCorners(int, int, CCornerMatch const*)
+  CVTFTexture::RemoveResourceEntryInfo(unsigned int)
+  CVTFTexture::SetAlphaTestThreshholds(float, float)
+  CVTFTexture::BlendCubeMapEdgePalettes(int, int, CEdgeMatch const*)
+  CVTFTexture::MatchCubeMapS3TCPalettes(CEdgeMatch*, CCornerMatch*)
+  CVTFTexture::FixCubemapFaceOrientation()
+  CVTFTexture::PutOneOverMipLevelInAlpha()
+  CVTFTexture::SetPostProcessingSettings(VtfProcessingOptions const*)
+  CVTFTexture::BlendCubeMapCornerPalettes(int, int, CCornerMatch const*)
+  CVTFTexture::SetupTextureEdgeIncrements(int, int, int, bool, CEdgeIncrements*)
+  CVTFTexture::FindOrCreateResourceEntryInfo(unsigned int)
+  CVTFTexture::Init(int, int, int, ImageFormat, int, int, int)
+  CVTFTexture::Shutdown()
+  CVTFTexture::ImageData(int, int, int)
+  CVTFTexture::ImageData(int, int, int, int, int, int)
+  CVTFTexture::ImageData()
+  CVTFTexture::Serialize(CUtlBuffer&)
+  CVTFTexture::~CVTFTexture()
+  CVTFTexture::FrameCount() const
+  CVTFTexture::IsNormalMap() const
+  CVTFTexture::LowResWidth() const
+  CVTFTexture::LowResFormat() const
+  CVTFTexture::LowResHeight() const
+  CVTFTexture::Reflectivity() const
+  CVTFTexture::ComputeMipSize(int) const
+  CVTFTexture::GetImageOffset(int, int, int, ImageFormat) const
+  CVTFTexture::RowSizeInBytes(int) const
+  CVTFTexture::ComputeFaceSize(int) const
+  CVTFTexture::FaceSizeInBytes(int) const
+  CVTFTexture::GetResourceData(unsigned int, unsigned long*) const
+  CVTFTexture::IsVolumeTexture() const
+  CVTFTexture::ComputeTotalSize() const
+  CVTFTexture::GetResourceTypes(unsigned int*, int) const
+  CVTFTexture::HasResourceEntry(unsigned int) const
+  CVTFTexture::Depth() const
+  CVTFTexture::Flags() const
+  CVTFTexture::Width() const
+  CVTFTexture::Format() const
+  CVTFTexture::Height() const
+  CVTFTexture::FileSize(int) const
+  CVTFTexture::MipCount() const
+  CVTFTexture::BumpScale() const
+  CVTFTexture::FaceCount() const
+  CVTFTexture::IsCubeMap() const

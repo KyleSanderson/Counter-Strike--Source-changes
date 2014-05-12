@@ -1,0 +1,8 @@
+CClientFrame
+  CClientFrame::SetSnapshot(CFrameSnapshot*)
+  CClientFrame::IsMemPoolAllocated()
+  CClientFrame::Init(CFrameSnapshot*)
+  CClientFrame::Init(int)
+  CClientFrame::CClientFrame(CFrameSnapshot*)
+  CClientFrame::CClientFrame()
+  CClientFrame::~CClientFrame()

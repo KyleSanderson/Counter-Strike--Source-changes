@@ -1,0 +1,2 @@
+CHFontProperty::InitFromDefault
+  CHFontProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

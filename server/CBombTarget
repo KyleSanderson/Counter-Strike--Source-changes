@@ -1,0 +1,5 @@
+CBombTarget
+  CBombTarget::GetDataDescMap()
+  CBombTarget::BombTargetTouch(CBaseEntity*)
+  CBombTarget::Spawn()
+  CBombTarget::~CBombTarget()

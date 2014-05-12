@@ -1,0 +1,2 @@
+CEntityReportPanel::ApplySchemeSettings
+  CEntityReportPanel::ApplySchemeSettings(vgui::IScheme*)

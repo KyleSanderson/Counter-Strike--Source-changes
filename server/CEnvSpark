@@ -1,0 +1,6 @@
+CEnvSpark
+  CEnvSpark::SparkThink()
+  CEnvSpark::GetDataDescMap()
+  CEnvSpark::Spawn()
+  CEnvSpark::Precache()
+  CEnvSpark::~CEnvSpark()

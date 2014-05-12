@@ -1,0 +1,11 @@
+ConCommandBase
+  ConCommandBase::Init()
+  ConCommandBase::GetNext()
+  ConCommandBase::AddFlags(int)
+  ConCommandBase::Shutdown()
+  ConCommandBase::GetHelpText() const
+  ConCommandBase::IsRegistered() const
+  ConCommandBase::GetDLLIdentifier() const
+  ConCommandBase::GetName() const
+  ConCommandBase::GetNext() const
+  ConCommandBase::IsFlagSet(int) const

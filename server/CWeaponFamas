@@ -1,0 +1,12 @@
+CWeaponFamas
+  CWeaponFamas::FireRemaining()
+  CWeaponFamas::ItemPostFrame()
+  CWeaponFamas::PrimaryAttack()
+  CWeaponFamas::GetServerClass()
+  CWeaponFamas::SecondaryAttack()
+  CWeaponFamas::YouForgotToImplementOrDeclareServerClass()
+  CWeaponFamas::Deploy()
+  CWeaponFamas::CWeaponFamas()
+  CWeaponFamas::~CWeaponFamas()
+  CWeaponFamas::GetWeaponID() const
+  CWeaponFamas::GetInaccuracy() const

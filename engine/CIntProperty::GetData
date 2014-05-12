@@ -1,0 +1,2 @@
+CIntProperty::GetData
+  CIntProperty::GetData(vgui::Panel*, KeyValues*, PanelAnimationMapEntry*)

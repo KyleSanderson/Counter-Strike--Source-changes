@@ -1,0 +1,6 @@
+CFlashbangProjectile
+  CFlashbangProjectile::BounceSound()
+  CFlashbangProjectile::Spawn()
+  CFlashbangProjectile::Detonate()
+  CFlashbangProjectile::Precache()
+  CFlashbangProjectile::~CFlashbangProjectile()

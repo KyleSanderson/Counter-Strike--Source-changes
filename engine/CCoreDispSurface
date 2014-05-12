@@ -1,0 +1,4 @@
+CCoreDispSurface
+  CCoreDispSurface::SetNeighborData(CDispNeighbor const*, CDispCornerNeighbors const*)
+  CCoreDispSurface::AdjustSurfPointData()
+  CCoreDispSurface::FindSurfPointStartIndex()

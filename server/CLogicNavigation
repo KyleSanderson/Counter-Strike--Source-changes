@@ -1,0 +1,7 @@
+CLogicNavigation
+  CLogicNavigation::GetDataDescMap()
+  CLogicNavigation::UpdateOnRemove()
+  CLogicNavigation::UpdateProperty()
+  CLogicNavigation::OnEntitySpawned(CBaseEntity*)
+  CLogicNavigation::Activate()
+  CLogicNavigation::~CLogicNavigation()

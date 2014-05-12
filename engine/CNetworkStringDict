@@ -1,0 +1,10 @@
+CNetworkStringDict
+  CNetworkStringDict::IsValidIndex(int)
+  CNetworkStringDict::Find(char const*)
+  CNetworkStringDict::Count()
+  CNetworkStringDict::Purge()
+  CNetworkStringDict::Insert(char const*)
+  CNetworkStringDict::String(int)
+  CNetworkStringDict::Element(int)
+  CNetworkStringDict::~CNetworkStringDict()
+  CNetworkStringDict::Element(int) const

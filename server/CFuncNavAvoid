@@ -1,0 +1,3 @@
+CFuncNavAvoid
+  CFuncNavAvoid::~CFuncNavAvoid()
+  CFuncNavAvoid::GetCostMultiplier(CBaseCombatCharacter*) const

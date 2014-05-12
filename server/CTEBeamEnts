@@ -1,0 +1,5 @@
+CTEBeamEnts
+  CTEBeamEnts::GetServerClass()
+  CTEBeamEnts::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamEnts::Test(Vector const&, QAngle const&)
+  CTEBeamEnts::~CTEBeamEnts()

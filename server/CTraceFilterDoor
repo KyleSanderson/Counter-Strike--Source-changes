@@ -1,0 +1,2 @@
+CTraceFilterDoor
+  CTraceFilterDoor::ShouldHitEntity(IHandleEntity*, int)

@@ -1,0 +1,4 @@
+CParticleSystemDictionary
+  CParticleSystemDictionary::AddParticleSystem(CDmxElement*)
+  CParticleSystemDictionary::DestroyExistingElement(CDmxElement*)
+  CParticleSystemDictionary::~CParticleSystemDictionary()

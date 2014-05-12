@@ -1,0 +1,7 @@
+CPrecipitation
+  CPrecipitation::GetDataDescMap()
+  CPrecipitation::GetServerClass()
+  CPrecipitation::YouForgotToImplementOrDeclareServerClass()
+  CPrecipitation::Spawn()
+  CPrecipitation::CPrecipitation()
+  CPrecipitation::~CPrecipitation()

@@ -1,0 +1,3 @@
+CBrushModelTransform
+  CBrushModelTransform::CBrushModelTransform(Vector const&, QAngle const&, IMatRenderContext*)
+  CBrushModelTransform::~CBrushModelTransform()

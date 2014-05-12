@@ -1,0 +1,11 @@
+CEnvEffectsScript
+  CEnvEffectsScript::GetDataDescMap()
+  CEnvEffectsScript::ParseNewEffect()
+  CEnvEffectsScript::ParseScriptFile()
+  CEnvEffectsScript::TrailEffectEvent(CEffectScriptElement*)
+  CEnvEffectsScript::SpriteEffectEvent(CEffectScriptElement*)
+  CEnvEffectsScript::UpdateTransmitState()
+  CEnvEffectsScript::Spawn()
+  CEnvEffectsScript::Think()
+  CEnvEffectsScript::Precache()
+  CEnvEffectsScript::~CEnvEffectsScript()

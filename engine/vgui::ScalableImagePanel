@@ -1,0 +1,12 @@
+vgui::ScalableImagePanel
+  vgui::ScalableImagePanel::GetAnimMap()
+  vgui::ScalableImagePanel::GetSettings(KeyValues*)
+  vgui::ScalableImagePanel::ApplySettings(KeyValues*)
+  vgui::ScalableImagePanel::GetMessageMap()
+  vgui::ScalableImagePanel::PerformLayout()
+  vgui::ScalableImagePanel::GetDescription()
+  vgui::ScalableImagePanel::PaintBackground()
+  vgui::ScalableImagePanel::GetPanelClassName()
+  vgui::ScalableImagePanel::GetKBMap()
+  vgui::ScalableImagePanel::SetImage(char const*)
+  vgui::ScalableImagePanel::~ScalableImagePanel()

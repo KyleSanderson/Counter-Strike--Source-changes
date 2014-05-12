@@ -1,0 +1,6 @@
+CPASAttenuationFilter
+  CPASAttenuationFilter::Filter(Vector const&, float)
+  CPASAttenuationFilter::CPASAttenuationFilter(CBaseEntity*, char const*)
+  CPASAttenuationFilter::CPASAttenuationFilter(CBaseEntity*, float)
+  CPASAttenuationFilter::CPASAttenuationFilter(Vector const&, float)
+  CPASAttenuationFilter::~CPASAttenuationFilter()

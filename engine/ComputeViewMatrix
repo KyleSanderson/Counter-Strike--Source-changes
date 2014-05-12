@@ -1,0 +1,3 @@
+ComputeViewMatrix
+  ComputeViewMatrix(VMatrix*, Vector const&, QAngle const&)::baseRotation
+  ComputeViewMatrix(VMatrix*, Vector const&, QAngle const&)::bDidInit (.b)

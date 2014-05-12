@@ -1,0 +1,4 @@
+CBidirectionalSet
+  CBidirectionalSet<unsigned short, unsigned short, unsigned short, unsigned short>::RemoveBucket(unsigned short)
+  CBidirectionalSet<unsigned short, unsigned short, unsigned short, unsigned short>::RemoveElement(unsigned short)
+  CBidirectionalSet<unsigned short, unsigned short, unsigned short, unsigned short>::AddElementToBucket(unsigned short, unsigned short)

@@ -1,0 +1,7 @@
+CPropData
+  CPropData::ParsePropDataFile()
+  CPropData::ParsePropFromBase(CBaseEntity*, char const*)
+  CPropData::LevelInitPreEntity()
+  CPropData::GetRandomChunkModel(char const*, int)
+  CPropData::LevelShutdownPostEntity()
+  CPropData::~CPropData()

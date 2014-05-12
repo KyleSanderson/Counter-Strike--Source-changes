@@ -1,0 +1,8 @@
+CWaterBullet
+  CWaterBullet::BulletThink()
+  CWaterBullet::GetDataDescMap()
+  CWaterBullet::GetServerClass()
+  CWaterBullet::YouForgotToImplementOrDeclareServerClass()
+  CWaterBullet::Touch(CBaseEntity*)
+  CWaterBullet::Precache()
+  CWaterBullet::~CWaterBullet()

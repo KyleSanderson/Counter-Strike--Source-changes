@@ -1,0 +1,67 @@
+CStaticProp
+  CStaticProp::GetFxBlend()
+  CStaticProp::ShouldDraw()
+  CStaticProp::RenderHandle()
+  CStaticProp::DrawModelSlow(int)
+  CStaticProp::GetAttachment(int, Vector&, QAngle&)
+  CStaticProp::GetBaseEntity()
+  CStaticProp::IsShadowDirty()
+  CStaticProp::IsTransparent()
+  CStaticProp::SetRefEHandle(CBaseHandle const&)
+  CStaticProp::ComputeFxBlend()
+  CStaticProp::CreateVPhysics(IPhysicsEnvironment*, IVPhysicsKeyHandler*, void*)
+  CStaticProp::GetCollideable()
+  CStaticProp::NextShadowPeer()
+  CStaticProp::ShadowCastType()
+  CStaticProp::GetEntityHandle()
+  CStaticProp::GetRenderAngles()
+  CStaticProp::GetRenderOrigin()
+  CStaticProp::GetShadowParent()
+  CStaticProp::MarkShadowDirty(bool)
+  CStaticProp::FirstShadowChild()
+  CStaticProp::GetIClientEntity()
+  CStaticProp::GetModelInstance()
+  CStaticProp::LookupAttachment(char const*)
+  CStaticProp::DoAnimationEvents()
+  CStaticProp::GetCollisionModel()
+  CStaticProp::GetIClientUnknown()
+  CStaticProp::RecordToolMessage()
+  CStaticProp::GetClientThinkable()
+  CStaticProp::GetColorModulation(float*)
+  CStaticProp::GetRenderClipPlane()
+  CStaticProp::CreateModelInstance()
+  CStaticProp::GetClientRenderable()
+  CStaticProp::OnThreadedDrawSetup()
+  CStaticProp::GetClientNetworkable()
+  CStaticProp::InsertPropIntoKDTree()
+  CStaticProp::DisplayStaticPropInfo(int)
+  CStaticProp::GetPVSNotifyInterface()
+  CStaticProp::ShouldCacheRenderInfo()
+  CStaticProp::GetCollisionModelIndex()
+  CStaticProp::UsesFlexDelayedWeights()
+  CStaticProp::RenderableToWorldTransform()
+  CStaticProp::UsesFullFrameBufferTexture()
+  CStaticProp::ShouldReceiveProjectedTextures(int)
+  CStaticProp::UsesPowerOfTwoFrameBufferTexture()
+  CStaticProp::GetBody()
+  CStaticProp::GetSkin()
+  CStaticProp::LODTest()
+  CStaticProp::DrawModel(int)
+  CStaticProp::IsTwoPass()
+  CStaticProp::~CStaticProp()
+  CStaticProp::GetRefEHandle() const
+  CStaticProp::GetSolidFlags() const
+  CStaticProp::IgnoresZBuffer() const
+  CStaticProp::GetShadowHandle() const
+  CStaticProp::OBBMaxsPreScaled() const
+  CStaticProp::OBBMinsPreScaled() const
+  CStaticProp::GetCollisionGroup() const
+  CStaticProp::GetCollisionAngles() const
+  CStaticProp::GetCollisionOrigin() const
+  CStaticProp::ShouldTouchTrigger(int) const
+  CStaticProp::CollisionToWorldTransform() const
+  CStaticProp::GetRootParentToWorldTransform() const
+  CStaticProp::OBBMaxs() const
+  CStaticProp::OBBMins() const
+  CStaticProp::GetModel() const
+  CStaticProp::GetSolid() const

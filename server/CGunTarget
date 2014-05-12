@@ -1,0 +1,13 @@
+CGunTarget
+  CGunTarget::BloodColor()
+  CGunTarget::BodyTarget(Vector const&, bool)
+  CGunTarget::OnTakeDamage(CTakeDamageInfo const&)
+  CGunTarget::CreateVPhysics()
+  CGunTarget::GetDataDescMap()
+  CGunTarget::Next()
+  CGunTarget::Wait()
+  CGunTarget::Spawn()
+  CGunTarget::Start()
+  CGunTarget::Activate()
+  CGunTarget::Classify()
+  CGunTarget::~CGunTarget()

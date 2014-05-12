@@ -1,0 +1,2 @@
+CDemoUIPanel::CDemoUIPanel
+  CDemoUIPanel::CDemoUIPanel(vgui::Panel*)

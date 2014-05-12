@@ -1,0 +1,6 @@
+CCircularBuffer
+  CCircularBuffer::GetReadAvailable()
+  CCircularBuffer::Read(void*, int)
+  CCircularBuffer::Flush()
+  CCircularBuffer::Write(void*, int)
+  CCircularBuffer::CCircularBuffer(int)

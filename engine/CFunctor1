@@ -1,0 +1,3 @@
+CFunctor1
+  CFunctor1<void (*)(int), int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT> > >::~CFunctor1()
+  CFunctor1<void (*)(int), int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT> > >::operator()()

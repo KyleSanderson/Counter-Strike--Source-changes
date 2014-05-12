@@ -1,0 +1,7 @@
+CTriggerMultiple
+  CTriggerMultiple::MultiTouch(CBaseEntity*)
+  CTriggerMultiple::MultiWaitOver()
+  CTriggerMultiple::GetDataDescMap()
+  CTriggerMultiple::ActivateMultiTrigger(CBaseEntity*)
+  CTriggerMultiple::Spawn()
+  CTriggerMultiple::~CTriggerMultiple()

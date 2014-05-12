@@ -1,0 +1,30 @@
+CStaticPropMgr
+  CStaticPropMgr::GetStaticProp(IHandleEntity*)
+  CStaticPropMgr::LevelShutdown()
+  CStaticPropMgr::DrawStaticProps(IClientRenderable**, int, bool, bool)
+  CStaticPropMgr::LevelInitClient()
+  CStaticPropMgr::PrecacheLighting()
+  CStaticPropMgr::ChangeRenderGroup(CStaticProp&)
+  CStaticPropMgr::ComputeScreenFade(CStaticProp&, float, float, float)
+  CStaticPropMgr::UnserializeModels(CUtlBuffer&)
+  CStaticPropMgr::ComputePropOpacity(CStaticProp&)
+  CStaticPropMgr::ComputePropOpacity(Vector const&, float)
+  CStaticPropMgr::LevelShutdownClient()
+  CStaticPropMgr::UnserializeLeafList(CUtlBuffer&)
+  CStaticPropMgr::GetStaticPropByIndex(int)
+  CStaticPropMgr::UnserializeModelDict(CUtlBuffer&)
+  CStaticPropMgr::AddShadowToStaticProp(unsigned short, IClientRenderable*)
+  CStaticPropMgr::UnserializeStaticProps()
+  CStaticPropMgr::RecomputeStaticLighting()
+  CStaticPropMgr::CreateVPhysicsRepresentations(IPhysicsEnvironment*, IVPhysicsKeyHandler*, void*)
+  CStaticPropMgr::RemoveAllShadowsFromStaticProp(IClientRenderable*)
+  CStaticPropMgr::GetLightCacheHandleForStaticProp(IHandleEntity*)
+  CStaticPropMgr::Init()
+  CStaticPropMgr::Shutdown()
+  CStaticPropMgr::LevelInit()
+  CStaticPropMgr::~CStaticPropMgr()
+  CStaticPropMgr::IsPropInPVS(IHandleEntity*, unsigned char const*) const
+  CStaticPropMgr::IsStaticProp(CBaseHandle) const
+  CStaticPropMgr::IsStaticProp(IHandleEntity*) const
+  CStaticPropMgr::GetStaticPropIndex(IHandleEntity*) const
+  CStaticPropMgr::PropHasBakedLightingDisabled(IHandleEntity*) const

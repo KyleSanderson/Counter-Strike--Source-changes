@@ -1,0 +1,5 @@
+CItemAssaultSuit
+  CItemAssaultSuit::Spawn()
+  CItemAssaultSuit::MyTouch(CBasePlayer*)
+  CItemAssaultSuit::Precache()
+  CItemAssaultSuit::~CItemAssaultSuit()

@@ -1,0 +1,57 @@
+CBaseClient
+  CBaseClient::Disconnect(char const*, ...)
+  CBaseClient::Inactivate()
+  CBaseClient::SendNetMsg(INetMessage&, bool)
+  CBaseClient::SetSteamID(CSteamID const&)
+  CBaseClient::DemoRestart()
+  CBaseClient::SpawnPlayer()
+  CBaseClient::ClientPrintf(char const*, ...)
+  CBaseClient::SendSnapshot(CClientFrame*)
+  CBaseClient::FireGameEvent(IGameEvent*)
+  CBaseClient::FreeBaselines()
+  CBaseClient::GetDeltaFrame(int)
+  CBaseClient::GetNetChannel()
+  CBaseClient::SetUpdateRate(int, bool)
+  CBaseClient::ActivatePlayer()
+  CBaseClient::SendServerInfo()
+  CBaseClient::SendSignonData()
+  CBaseClient::SetSignonState(int, int)
+  CBaseClient::ConnectionStart(INetChannel*)
+  CBaseClient::TraceNetworkMsg(int, char const*, ...)
+  CBaseClient::UpdateSendState()
+  CBaseClient::IgnoreTempEntity(CEventInfo*)
+  CBaseClient::SetTraceThreshold(int)
+  CBaseClient::ShouldSendMessages()
+  CBaseClient::UpdateUserSettings()
+  CBaseClient::OnRequestFullUpdate()
+  CBaseClient::CheckFlushNameChange()
+  CBaseClient::ExecuteStringCommand(char const*)
+  CBaseClient::SetMaxRoutablePayloadSize(int)
+  CBaseClient::UpdateAcknowledgedFramecount(int)
+  CBaseClient::Clear()
+  CBaseClient::Connect(char const*, int, INetChannel*, bool, int)
+  CBaseClient::SetName(char const*)
+  CBaseClient::SetRate(int, bool)
+  CBaseClient::GetServer()
+  CBaseClient::Reconnect()
+  CBaseClient::CBaseClient()
+  CBaseClient::~CBaseClient()
+  CBaseClient::IsConnected() const
+  CBaseClient::GetNetworkID() const
+  CBaseClient::IsFakeClient() const
+  CBaseClient::GetClientName() const
+  CBaseClient::GetPlayerSlot() const
+  CBaseClient::GetUpdateRate() const
+  CBaseClient::GetUserSetting(char const*) const
+  CBaseClient::IsHearingClient(int) const
+  CBaseClient::IsSplitScreenUser() const
+  CBaseClient::GetMaxAckTickCount() const
+  CBaseClient::GetNetworkIDString() const
+  CBaseClient::IsProximityHearingClient(int) const
+  CBaseClient::IsHLTV() const
+  CBaseClient::GetRate() const
+  CBaseClient::IsActive() const
+  CBaseClient::IsReplay() const
+  CBaseClient::GetUserID() const
+  CBaseClient::IsSpawned() const
+  CBaseClient::IsTracing() const

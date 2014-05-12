@@ -1,0 +1,3 @@
+CFlexAnimationTrack::GetBoundedSample
+  CFlexAnimationTrack::GetBoundedSample(int, bool&, int)::nullend
+  CFlexAnimationTrack::GetBoundedSample(int, bool&, int)::nullstart

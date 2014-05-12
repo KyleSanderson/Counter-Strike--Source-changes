@@ -1,0 +1,5 @@
+CTESparks
+  CTESparks::GetServerClass()
+  CTESparks::YouForgotToImplementOrDeclareServerClass()
+  CTESparks::Test(Vector const&, QAngle const&)
+  CTESparks::~CTESparks()

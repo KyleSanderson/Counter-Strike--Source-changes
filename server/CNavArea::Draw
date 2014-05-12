@@ -1,0 +1,3 @@
+CNavArea::Draw
+  CNavArea::Draw() const::blink
+  CNavArea::Draw() const::blinkOn

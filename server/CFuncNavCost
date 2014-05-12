@@ -1,0 +1,8 @@
+CFuncNavCost
+  CFuncNavCost::GetDataDescMap()
+  CFuncNavCost::UpdateOnRemove()
+  CFuncNavCost::UpdateAllNavCostDecoration()
+  CFuncNavCost::Spawn()
+  CFuncNavCost::CostThink()
+  CFuncNavCost::~CFuncNavCost()
+  CFuncNavCost::GetCostMultiplier(CBaseCombatCharacter*) const

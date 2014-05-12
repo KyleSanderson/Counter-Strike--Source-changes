@@ -1,0 +1,5 @@
+COrnamentProp
+  COrnamentProp::GetDataDescMap()
+  COrnamentProp::Spawn()
+  COrnamentProp::Activate()
+  COrnamentProp::~COrnamentProp()

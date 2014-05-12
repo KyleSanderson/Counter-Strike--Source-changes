@@ -1,0 +1,4 @@
+CFuncTrackAuto
+  CFuncTrackAuto::GetDataDescMap()
+  CFuncTrackAuto::UpdateAutoTargets(int)
+  CFuncTrackAuto::~CFuncTrackAuto()

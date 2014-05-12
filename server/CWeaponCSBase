@@ -1,0 +1,56 @@
+CWeaponCSBase
+  CWeaponCSBase::OnPickedUp(CBaseCombatCharacter*)
+  CWeaponCSBase::Materialize()
+  CWeaponCSBase::CheckRespawn()
+  CWeaponCSBase::DefaultTouch(CBaseEntity*)
+  CWeaponCSBase::IsRemoveable()
+  CWeaponCSBase::CanBeSelected()
+  CWeaponCSBase::DefaultReload(int, int, int)
+  CWeaponCSBase::IsAPriorOwner(CCSPlayer*)
+  CWeaponCSBase::ItemBusyFrame()
+  CWeaponCSBase::ItemPostFrame()
+  CWeaponCSBase::GetDataDescMap()
+  CWeaponCSBase::GetServerClass()
+  CWeaponCSBase::OnRoundRestart()
+  CWeaponCSBase::PlayEmptySound()
+  CWeaponCSBase::SendWeaponAnim(int)
+  CWeaponCSBase::AddViewmodelBob(CBaseViewModel*, Vector&, QAngle&)
+  CWeaponCSBase::GetBulletSpread()
+  CWeaponCSBase::SecondaryAttack()
+  CWeaponCSBase::CalcViewmodelBob()
+  CWeaponCSBase::SendReloadEvents()
+  CWeaponCSBase::GetDeployActivity()
+  CWeaponCSBase::UpdateShieldState()
+  CWeaponCSBase::AddToPriorOwnerList(CCSPlayer*)
+  CWeaponCSBase::DefaultPistolReload()
+  CWeaponCSBase::GetDefaultAnimSpeed()
+  CWeaponCSBase::SetWeaponModelIndex(char const*)
+  CWeaponCSBase::AttemptToMaterialize()
+  CWeaponCSBase::UpdateAccuracyPenalty()
+  CWeaponCSBase::CalculateNextAttackTime(float)
+  CWeaponCSBase::ShouldRemoveOnRoundRestart()
+  CWeaponCSBase::YouForgotToImplementOrDeclareServerClass()
+  CWeaponCSBase::Drop(Vector const&)
+  CWeaponCSBase::Spawn()
+  CWeaponCSBase::Deploy()
+  CWeaponCSBase::OnJump(float)
+  CWeaponCSBase::OnLand(float)
+  CWeaponCSBase::Reload()
+  CWeaponCSBase::Holster(CBaseCombatWeapon*)
+  CWeaponCSBase::Respawn()
+  CWeaponCSBase::Precache()
+  CWeaponCSBase::CanDeploy()
+  CWeaponCSBase::IsUseable()
+  CWeaponCSBase::CWeaponCSBase()
+  CWeaponCSBase::~CWeaponCSBase()
+  CWeaponCSBase::IsFullAuto() const
+  CWeaponCSBase::IsSilenced() const
+  CWeaponCSBase::GetMaxSpeed() const
+  CWeaponCSBase::GetWeaponID() const
+  CWeaponCSBase::IsPredicted() const
+  CWeaponCSBase::GetCSWpnData() const
+  CWeaponCSBase::GetViewModel(int) const
+  CWeaponCSBase::GetInaccuracy() const
+  CWeaponCSBase::GetPlayerOwner() const
+  CWeaponCSBase::IsPistol() const
+  CWeaponCSBase::GetSpread() const

@@ -1,0 +1,13 @@
+CWorld
+  CWorld::DecalTrace(CGameTrace*, char const*)
+  CWorld::GetDataDescMap()
+  CWorld::GetServerClass()
+  CWorld::SetDisplayTitle(bool)
+  CWorld::VPhysicsFriction(IPhysicsObject*, float, int, int)
+  CWorld::RequiredEdictIndex()
+  CWorld::YouForgotToImplementOrDeclareServerClass()
+  CWorld::Spawn()
+  CWorld::Precache()
+  CWorld::CWorld()
+  CWorld::~CWorld()
+  CWorld::GetDisplayTitle() const

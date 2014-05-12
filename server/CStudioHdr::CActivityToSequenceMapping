@@ -1,0 +1,2 @@
+CStudioHdr::CActivityToSequenceMapping
+  CStudioHdr::CActivityToSequenceMapping::NumSequencesForActivity(int)

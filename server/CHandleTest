@@ -1,0 +1,7 @@
+CHandleTest
+  CHandleTest::SetTransmit(CCheckTransmitInfo*, bool)
+  CHandleTest::GetServerClass()
+  CHandleTest::UpdateTransmitState()
+  CHandleTest::YouForgotToImplementOrDeclareServerClass()
+  CHandleTest::CHandleTest()
+  CHandleTest::~CHandleTest()

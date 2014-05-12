@@ -1,0 +1,2 @@
+CPerfUIPanel::CPerfUIPanel
+  CPerfUIPanel::CPerfUIPanel(vgui::Panel*)

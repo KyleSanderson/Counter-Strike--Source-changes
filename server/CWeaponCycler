@@ -1,0 +1,10 @@
+CWeaponCycler
+  CWeaponCycler::PrimaryAttack()
+  CWeaponCycler::GetDataDescMap()
+  CWeaponCycler::GetServerClass()
+  CWeaponCycler::SecondaryAttack()
+  CWeaponCycler::YouForgotToImplementOrDeclareServerClass()
+  CWeaponCycler::Spawn()
+  CWeaponCycler::Deploy()
+  CWeaponCycler::Holster(CBaseCombatWeapon*)
+  CWeaponCycler::~CWeaponCycler()

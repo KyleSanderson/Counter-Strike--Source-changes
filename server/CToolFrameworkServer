@@ -1,0 +1,11 @@
+CToolFrameworkServer
+  CToolFrameworkServer::PreClientUpdate()
+  CToolFrameworkServer::LevelInitPreEntity()
+  CToolFrameworkServer::PreSetupVisibility()
+  CToolFrameworkServer::LevelInitPostEntity()
+  CToolFrameworkServer::LevelShutdownPreEntity()
+  CToolFrameworkServer::LevelShutdownPostEntity()
+  CToolFrameworkServer::FrameUpdatePreEntityThink()
+  CToolFrameworkServer::FrameUpdatePostEntityThink()
+  CToolFrameworkServer::Init()
+  CToolFrameworkServer::~CToolFrameworkServer()

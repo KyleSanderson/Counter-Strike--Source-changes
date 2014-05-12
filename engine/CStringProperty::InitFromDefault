@@ -1,0 +1,2 @@
+CStringProperty::InitFromDefault
+  CStringProperty::InitFromDefault(vgui::Panel*, PanelAnimationMapEntry*)

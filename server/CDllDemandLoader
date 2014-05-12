@@ -1,0 +1,4 @@
+CDllDemandLoader
+  CDllDemandLoader::GetFactory()
+  CDllDemandLoader::CDllDemandLoader(char const*)
+  CDllDemandLoader::~CDllDemandLoader()

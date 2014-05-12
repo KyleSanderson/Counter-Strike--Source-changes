@@ -1,0 +1,5 @@
+CSimpleBotRoam
+  CSimpleBotRoam::Update(CSimpleBot*, float)
+  CSimpleBotRoam::OnStuck(CSimpleBot*)
+  CSimpleBotRoam::~CSimpleBotRoam()
+  CSimpleBotRoam::GetName() const

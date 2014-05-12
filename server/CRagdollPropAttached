@@ -1,0 +1,7 @@
+CRagdollPropAttached
+  CRagdollPropAttached::GetDataDescMap()
+  CRagdollPropAttached::GetServerClass()
+  CRagdollPropAttached::VPhysicsUpdate(IPhysicsObject*)
+  CRagdollPropAttached::YouForgotToImplementOrDeclareServerClass()
+  CRagdollPropAttached::Detach()
+  CRagdollPropAttached::~CRagdollPropAttached()

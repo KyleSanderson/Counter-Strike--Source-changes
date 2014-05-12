@@ -1,0 +1,6 @@
+CMessage
+  CMessage::GetAnimMap()
+  CMessage::GetMessageMap()
+  CMessage::GetPanelClassName()
+  CMessage::GetKBMap()
+  CMessage::~CMessage()

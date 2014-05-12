@@ -1,0 +1,4 @@
+vgui::RadioImage
+  vgui::RadioImage::Paint()
+  vgui::RadioImage::SetColor(Color)
+  vgui::RadioImage::~RadioImage()

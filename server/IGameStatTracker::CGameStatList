@@ -1,0 +1,10 @@
+IGameStatTracker::CGameStatList
+  IGameStatTracker::CGameStatList<SCSSDeathData>::PrintMemoryUsage()
+  IGameStatTracker::CGameStatList<SCSSDeathData>::Clear()
+  IGameStatTracker::CGameStatList<SCSSDeathData>::SendData(KeyValues*)
+  IGameStatTracker::CGameStatList<SCSSWeaponData>::PrintMemoryUsage()
+  IGameStatTracker::CGameStatList<SCSSWeaponData>::Clear()
+  IGameStatTracker::CGameStatList<SCSSWeaponData>::SendData(KeyValues*)
+  IGameStatTracker::CGameStatList<SMarketPurchases>::PrintMemoryUsage()
+  IGameStatTracker::CGameStatList<SMarketPurchases>::Clear()
+  IGameStatTracker::CGameStatList<SMarketPurchases>::SendData(KeyValues*)

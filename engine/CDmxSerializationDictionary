@@ -1,0 +1,9 @@
+CDmxSerializationDictionary
+  CDmxSerializationDictionary::GetRootElement(int)
+  CDmxSerializationDictionary::BuildElementList(CDmxElement*, bool)
+  CDmxSerializationDictionary::ShouldInlineElement(CDmxElement*)
+  CDmxSerializationDictionary::Find(CDmxElement*)
+  CDmxSerializationDictionary::CDmxSerializationDictionary(int)
+  CDmxSerializationDictionary::NextRootElement(int) const
+  CDmxSerializationDictionary::FirstRootElement() const
+  CDmxSerializationDictionary::RootElementCount() const

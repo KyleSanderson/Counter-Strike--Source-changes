@@ -1,0 +1,5 @@
+CFuncTrainControls
+  CFuncTrainControls::GetDataDescMap()
+  CFuncTrainControls::Find()
+  CFuncTrainControls::Spawn()
+  CFuncTrainControls::~CFuncTrainControls()

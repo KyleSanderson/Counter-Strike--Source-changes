@@ -1,0 +1,6 @@
+CTEExplosion
+  CTEExplosion::GetServerClass()
+  CTEExplosion::YouForgotToImplementOrDeclareServerClass()
+  CTEExplosion::Test(Vector const&, QAngle const&)
+  CTEExplosion::CTEExplosion(char const*)
+  CTEExplosion::~CTEExplosion()

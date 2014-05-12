@@ -1,0 +1,2 @@
+CTraceFilterEntitiesOnly
+  CTraceFilterEntitiesOnly::GetTraceType() const

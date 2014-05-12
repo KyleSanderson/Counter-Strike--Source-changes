@@ -1,0 +1,11 @@
+CFogController
+  CFogController::SetLerpValues()
+  CFogController::GetDataDescMap()
+  CFogController::GetServerClass()
+  CFogController::UpdateTransmitState()
+  CFogController::DrawDebugTextOverlays()
+  CFogController::YouForgotToImplementOrDeclareServerClass()
+  CFogController::Spawn()
+  CFogController::Activate()
+  CFogController::CFogController()
+  CFogController::~CFogController()

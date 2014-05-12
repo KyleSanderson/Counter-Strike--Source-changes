@@ -1,0 +1,3 @@
+CParticleLight
+  CParticleLight::GetDataDescMap()
+  CParticleLight::~CParticleLight()

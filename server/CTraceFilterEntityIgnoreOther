@@ -1,0 +1,2 @@
+CTraceFilterEntityIgnoreOther
+  CTraceFilterEntityIgnoreOther::ShouldHitEntity(IHandleEntity*, int)

@@ -1,0 +1,2 @@
+CBotBreakableEnumerator
+  CBotBreakableEnumerator::EnumElement(IHandleEntity*)

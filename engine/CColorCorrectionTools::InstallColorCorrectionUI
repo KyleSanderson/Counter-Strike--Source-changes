@@ -1,0 +1,2 @@
+CColorCorrectionTools::InstallColorCorrectionUI
+  CColorCorrectionTools::InstallColorCorrectionUI(vgui::Panel*)

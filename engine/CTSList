@@ -1,0 +1,3 @@
+CTSList
+  CTSList<CVarBitVec*>::~CTSList()
+  CTSList<CWorldRenderList*>::~CTSList()

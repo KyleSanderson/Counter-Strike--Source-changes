@@ -1,0 +1,2 @@
+CAskConnectPanel::ApplySchemeSettings
+  CAskConnectPanel::ApplySchemeSettings(vgui::IScheme*)

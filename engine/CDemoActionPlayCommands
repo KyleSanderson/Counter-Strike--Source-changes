@@ -1,0 +1,7 @@
+CDemoActionPlayCommands
+  CDemoActionPlayCommands::FireAction()
+  CDemoActionPlayCommands::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionPlayCommands::SetCommandStream(char const*)
+  CDemoActionPlayCommands::Init(KeyValues*)
+  CDemoActionPlayCommands::~CDemoActionPlayCommands()
+  CDemoActionPlayCommands::GetCommandStream() const

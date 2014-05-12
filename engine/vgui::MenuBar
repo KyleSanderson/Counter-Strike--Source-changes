@@ -1,0 +1,11 @@
+vgui::MenuBar
+  vgui::MenuBar::GetAnimMap()
+  vgui::MenuBar::OnKeyTyped(wchar_t)
+  vgui::MenuBar::OnMenuClose()
+  vgui::MenuBar::GetMessageMap()
+  vgui::MenuBar::PerformLayout()
+  vgui::MenuBar::GetPanelClassName()
+  vgui::MenuBar::OnCursorEnteredMenuButton(int)
+  vgui::MenuBar::Paint()
+  vgui::MenuBar::GetKBMap()
+  vgui::MenuBar::~MenuBar()

@@ -1,0 +1,9 @@
+CWeaponTMP
+  CWeaponTMP::DoFireEffects()
+  CWeaponTMP::PrimaryAttack()
+  CWeaponTMP::GetServerClass()
+  CWeaponTMP::YouForgotToImplementOrDeclareServerClass()
+  CWeaponTMP::~CWeaponTMP()
+  CWeaponTMP::IsSilenced() const
+  CWeaponTMP::GetWeaponID() const
+  CWeaponTMP::GetInaccuracy() const

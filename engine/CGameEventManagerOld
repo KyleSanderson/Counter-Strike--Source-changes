@@ -1,0 +1,12 @@
+CGameEventManagerOld
+  CGameEventManagerOld::AddListener(IGameEventListener*, char const*, bool)
+  CGameEventManagerOld::AddListener(IGameEventListener*, bool)
+  CGameEventManagerOld::RemoveListener(IGameEventListener*)
+  CGameEventManagerOld::FireEventIntern(KeyValues*, bool, bool)
+  CGameEventManagerOld::LoadEventsFromFile(char const*)
+  CGameEventManagerOld::FireEventClientOnly(KeyValues*)
+  CGameEventManagerOld::FireEventServerOnly(KeyValues*)
+  CGameEventManagerOld::Reset()
+  CGameEventManagerOld::GetEvent(char const*)
+  CGameEventManagerOld::FireEvent(KeyValues*)
+  CGameEventManagerOld::~CGameEventManagerOld()

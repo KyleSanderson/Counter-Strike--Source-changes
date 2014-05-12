@@ -1,0 +1,5 @@
+CGlobalState
+  CGlobalState::DumpGlobals()
+  CGlobalState::LevelShutdownPreEntity()
+  CGlobalState::LevelShutdownPostEntity()
+  CGlobalState::~CGlobalState()

@@ -1,0 +1,7 @@
+CPathCorner
+  CPathCorner::GetDataDescMap()
+  CPathCorner::DrawDebugTextOverlays()
+  CPathCorner::DrawDebugGeometryOverlays()
+  CPathCorner::Spawn()
+  CPathCorner::GetDelay()
+  CPathCorner::~CPathCorner()

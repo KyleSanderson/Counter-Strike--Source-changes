@@ -1,0 +1,3 @@
+CUtlPriorityQueue
+  CUtlPriorityQueue<CQueuedPacketSender::CQueuedPacket*>::RemoveAtHead()
+  CUtlPriorityQueue<CQueuedPacketSender::CQueuedPacket*>::RemoveAt(int)

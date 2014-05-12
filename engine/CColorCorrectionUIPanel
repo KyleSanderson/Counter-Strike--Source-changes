@@ -1,0 +1,9 @@
+CColorCorrectionUIPanel
+  CColorCorrectionUIPanel::GetAnimMap()
+  CColorCorrectionUIPanel::GetMessageMap()
+  CColorCorrectionUIPanel::GetPanelClassName()
+  CColorCorrectionUIPanel::OnThink()
+  CColorCorrectionUIPanel::Activate()
+  CColorCorrectionUIPanel::GetKBMap()
+  CColorCorrectionUIPanel::OnCommand(char const*)
+  CColorCorrectionUIPanel::~CColorCorrectionUIPanel()

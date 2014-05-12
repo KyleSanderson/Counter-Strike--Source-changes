@@ -1,0 +1,2 @@
+CopyListPanelToClipboard
+  CopyListPanelToClipboard(vgui::ListPanel*)

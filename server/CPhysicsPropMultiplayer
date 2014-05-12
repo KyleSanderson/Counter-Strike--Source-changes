@@ -1,0 +1,13 @@
+CPhysicsPropMultiplayer
+  CPhysicsPropMultiplayer::GetDataDescMap()
+  CPhysicsPropMultiplayer::GetPhysicsMode()
+  CPhysicsPropMultiplayer::GetServerClass()
+  CPhysicsPropMultiplayer::SetPhysicsMode(int)
+  CPhysicsPropMultiplayer::VPhysicsUpdate(IPhysicsObject*)
+  CPhysicsPropMultiplayer::GetMultiplayerPhysicsMode()
+  CPhysicsPropMultiplayer::YouForgotToImplementOrDeclareServerClass()
+  CPhysicsPropMultiplayer::Spawn()
+  CPhysicsPropMultiplayer::GetMass()
+  CPhysicsPropMultiplayer::IsAsleep()
+  CPhysicsPropMultiplayer::CPhysicsPropMultiplayer()
+  CPhysicsPropMultiplayer::~CPhysicsPropMultiplayer()

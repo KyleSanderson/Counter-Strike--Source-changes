@@ -1,0 +1,5 @@
+CTEBeamLaser
+  CTEBeamLaser::GetServerClass()
+  CTEBeamLaser::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamLaser::Test(Vector const&, QAngle const&)
+  CTEBeamLaser::~CTEBeamLaser()

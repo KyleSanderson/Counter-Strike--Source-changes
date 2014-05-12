@@ -1,0 +1,43 @@
+CHostage
+  CHostage::ObjectCaps()
+  CHostage::FaceTowards(Vector const&, float)
+  CHostage::IsFollowing(CBaseEntity const*)
+  CHostage::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)
+  CHostage::HostageThink()
+  CHostage::PushawayThink()
+  CHostage::GetDataDescMap()
+  CHostage::GetServerClass()
+  CHostage::OnMoveToSuccess(Vector const&)
+  CHostage::PhysicsSimulate()
+  CHostage::UpdateFollowing(float)
+  CHostage::AvoidPhysicsProps()
+  CHostage::IsFollowingSomeone()
+  CHostage::CheckForHostageAbuse(CCSPlayer*)
+  CHostage::Run()
+  CHostage::YouForgotToImplementOrDeclareServerClass()
+  CHostage::Jump()
+  CHostage::Walk()
+  CHostage::Spawn()
+  CHostage::Touch(CBaseEntity*)
+  CHostage::Crouch()
+  CHostage::Wiggle()
+  CHostage::StandUp()
+  CHostage::Classify()
+  CHostage::Precache()
+  CHostage::TrackPath(Vector const&, float)
+  CHostage::CHostage()
+  CHostage::~CHostage()
+  CHostage::GetCentroid() const
+  CHostage::IsCrouching() const
+  CHostage::IsRescuable() const
+  CHostage::GetMoveAngle() const
+  CHostage::IsUsingLadder() const
+  CHostage::GetLastKnownArea() const
+  CHostage::PhysicsSolidMaskForEntity() const
+  CHostage::GetEyes() const
+  CHostage::GetFeet() const
+  CHostage::IsValid() const
+  CHostage::GetLeader() const
+  CHostage::IsJumping() const
+  CHostage::IsRescued() const
+  CHostage::IsRunning() const

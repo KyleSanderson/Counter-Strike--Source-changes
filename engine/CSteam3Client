@@ -1,0 +1,8 @@
+CSteam3Client
+  CSteam3Client::CancelAuthTicket()
+  CSteam3Client::GetAuthSessionTicket(void*, int, unsigned int*, unsigned int, unsigned short, unsigned long long, bool)
+  CSteam3Client::Activate()
+  CSteam3Client::RunFrame()
+  CSteam3Client::Shutdown()
+  CSteam3Client::CSteam3Client()
+  CSteam3Client::~CSteam3Client()

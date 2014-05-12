@@ -1,0 +1,8 @@
+CCSFunFactMgr
+  CCSFunFactMgr::FireGameEvent(IGameEvent*)
+  CCSFunFactMgr::GetRoundEndFunFact(int, int, FunFact&)
+  CCSFunFactMgr::Init()
+  CCSFunFactMgr::Update(float)
+  CCSFunFactMgr::Shutdown()
+  CCSFunFactMgr::CCSFunFactMgr()
+  CCSFunFactMgr::~CCSFunFactMgr()

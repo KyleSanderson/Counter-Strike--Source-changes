@@ -1,0 +1,7 @@
+CAreaPortal
+  CAreaPortal::GetDataDescMap()
+  CAreaPortal::UpdateVisibility(Vector const&, float, bool&)
+  CAreaPortal::UpdateTransmitState()
+  CAreaPortal::Spawn()
+  CAreaPortal::Precache()
+  CAreaPortal::~CAreaPortal()

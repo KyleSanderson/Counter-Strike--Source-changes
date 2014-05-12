@@ -1,0 +1,5 @@
+CAsyncUploaderThread
+  CAsyncUploaderThread::ThreadProc()
+  CAsyncUploaderThread::CallbackThreadProc(void*)
+  CAsyncUploaderThread::TerminateAndSelfDelete()
+  CAsyncUploaderThread::QueueData(char const*, unsigned int, unsigned int, void const*)

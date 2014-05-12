@@ -1,0 +1,7 @@
+CEdgeList
+  CEdgeList::ReduceActiveList(CWingedEdgeList&)
+  CEdgeList::CullSmallOccluders()
+  CEdgeList::ReduceActiveEdgeList(CWingedEdgeList&, float, float)
+  CEdgeList::IntroduceNewActiveEdges(float)
+  CEdgeList::AddEdge(Vector**, int)
+  CEdgeList::~CEdgeList()

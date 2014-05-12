@@ -1,0 +1,3 @@
+CUtlPriorityQueue
+  CUtlPriorityQueue<CEventRegister*>::RemoveAtHead()
+  CUtlPriorityQueue<CEventRegister*>::RemoveAt(int)

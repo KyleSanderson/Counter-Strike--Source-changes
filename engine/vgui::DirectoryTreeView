@@ -1,0 +1,3 @@
+vgui::DirectoryTreeView
+  vgui::DirectoryTreeView::GenerateChildrenOfNode(int)
+  vgui::DirectoryTreeView::~DirectoryTreeView()

@@ -1,0 +1,7 @@
+SporeExplosion
+  SporeExplosion::GetDataDescMap()
+  SporeExplosion::GetServerClass()
+  SporeExplosion::YouForgotToImplementOrDeclareServerClass()
+  SporeExplosion::Spawn()
+  SporeExplosion::SporeExplosion()
+  SporeExplosion::~SporeExplosion()

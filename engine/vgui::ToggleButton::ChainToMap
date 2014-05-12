@@ -1,0 +1,2 @@
+vgui::ToggleButton::ChainToMap
+  vgui::ToggleButton::ChainToMap()::chained

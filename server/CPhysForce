@@ -1,0 +1,10 @@
+CPhysForce
+  CPhysForce::OnActivate()
+  CPhysForce::ScaleForce(float)
+  CPhysForce::ActivateForce()
+  CPhysForce::GetDataDescMap()
+  CPhysForce::Spawn()
+  CPhysForce::Activate()
+  CPhysForce::ForceOff()
+  CPhysForce::OnRestore()
+  CPhysForce::~CPhysForce()

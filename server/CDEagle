@@ -1,0 +1,12 @@
+CDEagle
+  CDEagle::WeaponIdle()
+  CDEagle::UseDecrement()
+  CDEagle::PrimaryAttack()
+  CDEagle::GetServerClass()
+  CDEagle::YouForgotToImplementOrDeclareServerClass()
+  CDEagle::Spawn()
+  CDEagle::Deploy()
+  CDEagle::Reload()
+  CDEagle::~CDEagle()
+  CDEagle::GetWeaponID() const
+  CDEagle::GetInaccuracy() const

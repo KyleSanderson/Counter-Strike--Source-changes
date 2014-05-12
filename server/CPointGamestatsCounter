@@ -1,0 +1,3 @@
+CPointGamestatsCounter
+  CPointGamestatsCounter::GetDataDescMap()
+  CPointGamestatsCounter::~CPointGamestatsCounter()

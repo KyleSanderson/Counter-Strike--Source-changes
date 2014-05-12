@@ -1,0 +1,6 @@
+CHintSystem
+  CHintSystem::ResetHints()
+  CHintSystem::HintMessage(int, bool, bool)
+  CHintSystem::ResetHintTimers()
+  CHintSystem::TimerShouldFire(int)
+  CHintSystem::Update()

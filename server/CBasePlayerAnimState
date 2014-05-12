@@ -1,0 +1,33 @@
+CBasePlayerAnimState
+  CBasePlayerAnimState::AnimStateLog(char const*, ...)
+  CBasePlayerAnimState::AnimStatePrintf(int, char const*, ...)
+  CBasePlayerAnimState::GetRenderAngles()
+  CBasePlayerAnimState::SetOuterBodyYaw(float)
+  CBasePlayerAnimState::CanThePlayerMove()
+  CBasePlayerAnimState::ComputeSequences(CStudioHdr*)
+  CBasePlayerAnimState::ResetGroundSpeed()
+  CBasePlayerAnimState::CalcSequenceIndex(char const*, ...)
+  CBasePlayerAnimState::TranslateActivity(Activity)
+  CBasePlayerAnimState::ComputeAimSequence()
+  CBasePlayerAnimState::DebugShowAnimState(int)
+  CBasePlayerAnimState::ClearAnimationState()
+  CBasePlayerAnimState::ComputeMainSequence()
+  CBasePlayerAnimState::ComputePlaybackRate()
+  CBasePlayerAnimState::RestartMainSequence()
+  CBasePlayerAnimState::UpdateInterpolators()
+  CBasePlayerAnimState::ClearAnimationLayers()
+  CBasePlayerAnimState::OptimizeLayerWeights(int, int)
+  CBasePlayerAnimState::ShouldUpdateAnimState()
+  CBasePlayerAnimState::SelectWeightedSequence(Activity)
+  CBasePlayerAnimState::UpdateAimSequenceLayers(float, int, bool, CSequenceTransitioner*, float)
+  CBasePlayerAnimState::CalcMovementPlaybackRate(bool*)
+  CBasePlayerAnimState::ShouldBlendAimSequenceToIdle()
+  CBasePlayerAnimState::Init(CBaseAnimatingOverlay*, CModAnimConfig const&)
+  CBasePlayerAnimState::Update(float, float)
+  CBasePlayerAnimState::Release()
+  CBasePlayerAnimState::CBasePlayerAnimState()
+  CBasePlayerAnimState::~CBasePlayerAnimState()
+  CBasePlayerAnimState::GetOuterXYSpeed() const
+  CBasePlayerAnimState::ShouldChangeSequences() const
+  CBasePlayerAnimState::TimeSinceLastAnimationStateClear() const
+  CBasePlayerAnimState::GetOuter() const

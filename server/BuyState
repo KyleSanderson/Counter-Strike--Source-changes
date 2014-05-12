@@ -1,0 +1,5 @@
+BuyState
+  BuyState::OnExit(CCSBot*)
+  BuyState::OnEnter(CCSBot*)
+  BuyState::OnUpdate(CCSBot*)
+  BuyState::GetName() const

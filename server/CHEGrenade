@@ -1,0 +1,6 @@
+CHEGrenade
+  CHEGrenade::GetDataDescMap()
+  CHEGrenade::GetServerClass()
+  CHEGrenade::YouForgotToImplementOrDeclareServerClass()
+  CHEGrenade::~CHEGrenade()
+  CHEGrenade::GetWeaponID() const

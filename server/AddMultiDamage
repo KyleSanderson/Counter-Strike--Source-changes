@@ -1,0 +1,2 @@
+AddMultiDamage
+  AddMultiDamage(CTakeDamageInfo const&, CBaseEntity*)::warningCount

@@ -1,0 +1,7 @@
+CHolidayGift
+  CHolidayGift::DropSoundThink()
+  CHolidayGift::Spawn()
+  CHolidayGift::MyTouch(CBasePlayer*)
+  CHolidayGift::Precache()
+  CHolidayGift::ItemTouch(CBaseEntity*)
+  CHolidayGift::~CHolidayGift()

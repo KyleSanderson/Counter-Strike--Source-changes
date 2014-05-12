@@ -1,0 +1,2 @@
+CollectBots
+  CollectBots::operator()(CBasePlayer*)

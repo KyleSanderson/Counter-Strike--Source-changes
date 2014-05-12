@@ -1,0 +1,7 @@
+vgui::ContinuousProgressBar
+  vgui::ContinuousProgressBar::GetAnimMap()
+  vgui::ContinuousProgressBar::GetMessageMap()
+  vgui::ContinuousProgressBar::GetPanelClassName()
+  vgui::ContinuousProgressBar::Paint()
+  vgui::ContinuousProgressBar::GetKBMap()
+  vgui::ContinuousProgressBar::~ContinuousProgressBar()

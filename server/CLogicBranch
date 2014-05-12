@@ -1,0 +1,6 @@
+CLogicBranch
+  CLogicBranch::GetDataDescMap()
+  CLogicBranch::UpdateOnRemove()
+  CLogicBranch::DrawDebugTextOverlays()
+  CLogicBranch::AddLogicBranchListener(CBaseEntity*)
+  CLogicBranch::~CLogicBranch()

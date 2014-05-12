@@ -1,0 +1,12 @@
+CColorLookupUIPanel
+  CColorLookupUIPanel::GetAnimMap()
+  CColorLookupUIPanel::GetOperation()
+  CColorLookupUIPanel::GetMessageMap()
+  CColorLookupUIPanel::OnFileSelected(char const*)
+  CColorLookupUIPanel::GetPanelClassName()
+  CColorLookupUIPanel::Init()
+  CColorLookupUIPanel::GetKBMap()
+  CColorLookupUIPanel::Shutdown()
+  CColorLookupUIPanel::OnCommand(char const*)
+  CColorLookupUIPanel::OnMessage(KeyValues const*, unsigned int)
+  CColorLookupUIPanel::~CColorLookupUIPanel()

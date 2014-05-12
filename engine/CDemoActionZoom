@@ -1,0 +1,6 @@
+CDemoActionZoom
+  CDemoActionZoom::FireAction()
+  CDemoActionZoom::SaveKeysToBuffer(int, CUtlBuffer&)
+  CDemoActionZoom::Init(KeyValues*)
+  CDemoActionZoom::Update(DemoActionTimingContext const&)
+  CDemoActionZoom::~CDemoActionZoom()

@@ -1,0 +1,31 @@
+CGameServer
+  CGameServer::FinishRestore()
+  CGameServer::PrecacheDecal(char const*, int)
+  CGameServer::PrecacheSound(char const*, int)
+  CGameServer::SetMaxClients(int)
+  CGameServer::AssignClassIds()
+  CGameServer::SetHibernating(bool)
+  CGameServer::CreateNewClient(int)
+  CGameServer::PrecacheGeneric(char const*, int)
+  CGameServer::ReloadWhitelist(char const*)
+  CGameServer::LookupModelIndex(char const*)
+  CGameServer::LookupSoundIndex(char const*)
+  CGameServer::DumpPrecacheStats(INetworkStringTable*)
+  CGameServer::SendClientMessages(bool)
+  CGameServer::RemoveClientFromGame(CBaseClient*)
+  CGameServer::UpdateHibernationState()
+  CGameServer::CreateEngineStringTables()
+  CGameServer::UpdateMasterServerPlayers()
+  CGameServer::CopyPureServerWhitelistToStringTable()
+  CGameServer::Init(bool)
+  CGameServer::Clear()
+  CGameServer::GetModel(int)
+  CGameServer::GetSound(int)
+  CGameServer::Shutdown()
+  CGameServer::CGameServer()
+  CGameServer::~CGameServer()
+  CGameServer::IsPausable() const
+  CGameServer::IsInPureServerMode() const
+  CGameServer::GetModelPrecacheTable() const
+  CGameServer::GetSoundPrecacheTable() const
+  CGameServer::GetPureServerWhitelist() const

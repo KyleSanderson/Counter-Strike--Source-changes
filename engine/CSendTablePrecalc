@@ -1,0 +1,4 @@
+CSendTablePrecalc
+  CSendTablePrecalc::SetupFlatPropertyArray()
+  CSendTablePrecalc::CSendTablePrecalc()
+  CSendTablePrecalc::~CSendTablePrecalc()

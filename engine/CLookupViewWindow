@@ -1,0 +1,8 @@
+CLookupViewWindow
+  CLookupViewWindow::GetAnimMap()
+  CLookupViewWindow::GetMessageMap()
+  CLookupViewWindow::GetPanelClassName()
+  CLookupViewWindow::Init()
+  CLookupViewWindow::GetKBMap()
+  CLookupViewWindow::Shutdown()
+  CLookupViewWindow::~CLookupViewWindow()

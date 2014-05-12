@@ -1,0 +1,3 @@
+CEnvLight
+  CEnvLight::Spawn()
+  CEnvLight::~CEnvLight()

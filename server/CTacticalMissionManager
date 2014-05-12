@@ -1,0 +1,9 @@
+CTacticalMissionManager
+  CTacticalMissionManager::GetMission(char const*)
+  CTacticalMissionManager::Unregister(CTacticalMission*)
+  CTacticalMissionManager::FireGameEvent(IGameEvent*)
+  CTacticalMissionManager::OnRoundRestart()
+  CTacticalMissionManager::OnServerActivate()
+  CTacticalMissionManager::Register(CTacticalMission*)
+  CTacticalMissionManager::CTacticalMissionManager()
+  CTacticalMissionManager::~CTacticalMissionManager()

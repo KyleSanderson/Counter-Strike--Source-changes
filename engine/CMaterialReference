@@ -1,0 +1,4 @@
+CMaterialReference
+  CMaterialReference::Init(IMaterial*)
+  CMaterialReference::Shutdown()
+  CMaterialReference::~CMaterialReference()

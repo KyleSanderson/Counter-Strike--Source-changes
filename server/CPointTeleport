@@ -1,0 +1,4 @@
+CPointTeleport
+  CPointTeleport::GetDataDescMap()
+  CPointTeleport::Activate()
+  CPointTeleport::~CPointTeleport()

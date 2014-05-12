@@ -1,0 +1,2 @@
+CConPanel::CConPanel
+  CConPanel::CConPanel(vgui::Panel*)

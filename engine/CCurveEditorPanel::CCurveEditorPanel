@@ -1,0 +1,2 @@
+CCurveEditorPanel::CCurveEditorPanel
+  CCurveEditorPanel::CCurveEditorPanel(vgui::Panel*, char const*)

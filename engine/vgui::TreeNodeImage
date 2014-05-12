@@ -1,0 +1,4 @@
+vgui::TreeNodeImage
+  vgui::TreeNodeImage::OnCursorMoved(int, int)
+  vgui::TreeNodeImage::OnMouseWheeled(int)
+  vgui::TreeNodeImage::~TreeNodeImage()

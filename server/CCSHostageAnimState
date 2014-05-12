@@ -1,0 +1,4 @@
+CCSHostageAnimState
+  CCSHostageAnimState::CalcMainActivity()
+  CCSHostageAnimState::SelectWeightedSequence(Activity)
+  CCSHostageAnimState::~CCSHostageAnimState()

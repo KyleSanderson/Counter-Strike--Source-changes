@@ -1,0 +1,3 @@
+CHintMessageTimers
+  CHintMessageTimers::Reset()
+  CHintMessageTimers::Update()

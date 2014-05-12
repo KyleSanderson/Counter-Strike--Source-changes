@@ -1,0 +1,10 @@
+CVProfExport
+  CVProfExport::AddListener()
+  CVProfExport::PauseProfile()
+  CVProfExport::ResumeProfile()
+  CVProfExport::RemoveListener()
+  CVProfExport::GetNumBudgetGroups()
+  CVProfExport::GetBudgetGroupTimes(float*)
+  CVProfExport::SetBudgetFlagsFilter(int)
+  CVProfExport::SnapshotVProfHistory()
+  CVProfExport::~CVProfExport()

@@ -1,0 +1,6 @@
+CAimTargetManager
+  CAimTargetManager::OnEntityCreated(CBaseEntity*)
+  CAimTargetManager::OnEntityDeleted(CBaseEntity*)
+  CAimTargetManager::LevelInitPreEntity()
+  CAimTargetManager::ForceRepopulateList()
+  CAimTargetManager::~CAimTargetManager()

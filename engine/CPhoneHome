@@ -1,0 +1,7 @@
+CPhoneHome
+  CPhoneHome::IsExternalBuild()
+  CPhoneHome::RequestSessionId(unsigned int&)
+  CPhoneHome::SendSessionMessage(unsigned char, char const*)
+  CPhoneHome::Init()
+  CPhoneHome::Message(unsigned char, char const*)
+  CPhoneHome::Shutdown()

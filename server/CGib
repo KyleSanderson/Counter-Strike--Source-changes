@@ -1,0 +1,13 @@
+CGib
+  CGib::ObjectCaps()
+  CGib::SpawnHeadGib(CBaseEntity*)
+  CGib::WaitTillLand()
+  CGib::SetBloodColor(int)
+  CGib::BounceGibTouch(CBaseEntity*)
+  CGib::GetDataDescMap()
+  CGib::StickyGibTouch(CBaseEntity*)
+  CGib::HasPhysicsAttacker(float)
+  CGib::Spawn(char const*)
+  CGib::InitGib(CBaseEntity*, float, float)
+  CGib::DieThink()
+  CGib::~CGib()

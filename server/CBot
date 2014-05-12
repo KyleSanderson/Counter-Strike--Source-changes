@@ -1,0 +1,38 @@
+CBot
+  CBot<CCSPlayer>::Initialize(BotProfile const*, int)
+  CBot<CCSPlayer>::StrafeLeft()
+  CBot<CCSPlayer>::MoveForward()
+  CBot<CCSPlayer>::StrafeRight()
+  CBot<CCSPlayer>::BuildUserCmd(CUserCmd&, QAngle const&, float, float, float, int, unsigned char)
+  CBot<CCSPlayer>::GetMoveSpeed()
+  CBot<CCSPlayer>::MoveBackward()
+  CBot<CCSPlayer>::OnTakeDamage(CTakeDamageInfo const&)
+  CBot<CCSPlayer>::UpdatePlayer()
+  CBot<CCSPlayer>::ClearMovement()
+  CBot<CCSPlayer>::ClientCommand(CCommand const&)
+  CBot<CCSPlayer>::PrimaryAttack()
+  CBot<CCSPlayer>::UseEnvironment()
+  CBot<CCSPlayer>::SecondaryAttack()
+  CBot<CCSPlayer>::ClearPrimaryAttack()
+  CBot<CCSPlayer>::TogglePrimaryAttack()
+  CBot<CCSPlayer>::Run()
+  CBot<CCSPlayer>::Jump(bool)
+  CBot<CCSPlayer>::Walk()
+  CBot<CCSPlayer>::Spawn()
+  CBot<CCSPlayer>::Think()
+  CBot<CCSPlayer>::Crouch()
+  CBot<CCSPlayer>::Reload()
+  CBot<CCSPlayer>::StandUp()
+  CBot<CCSPlayer>::SetModel(char const*)
+  CBot<CCSPlayer>::~CBot()
+  CBot<CCSPlayer>::IsNetClient() const
+  CBot<CCSPlayer>::PrintIfWatched(char const*, ...) const
+  CBot<CCSPlayer>::IsPlayerFacingMe(CBasePlayer*) const
+  CBot<CCSPlayer>::GetEnemiesRemaining() const
+  CBot<CCSPlayer>::GetFriendsRemaining() const
+  CBot<CCSPlayer>::IsLookingAtPosition(Vector const&, float) const
+  CBot<CCSPlayer>::IsPlayerLookingAtMe(CBasePlayer*, float) const
+  CBot<CCSPlayer>::IsLocalPlayerWatchingMe() const
+  CBot<CCSPlayer>::IsBot() const
+  CBot<CCSPlayer>::IsRunning() const
+  CBot<CCSPlayer>::CBot()::nextID

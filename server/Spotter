@@ -1,0 +1,2 @@
+Spotter
+  Spotter::operator()(CBasePlayer*)

@@ -1,0 +1,4 @@
+CSurroundTest
+  CSurroundTest::GetDataDescMap()
+  CSurroundTest::Spawn()
+  CSurroundTest::~CSurroundTest()

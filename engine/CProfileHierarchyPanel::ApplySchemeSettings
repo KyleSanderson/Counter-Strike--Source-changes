@@ -1,0 +1,2 @@
+CProfileHierarchyPanel::ApplySchemeSettings
+  CProfileHierarchyPanel::ApplySchemeSettings(vgui::IScheme*)

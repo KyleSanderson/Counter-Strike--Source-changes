@@ -1,0 +1,3 @@
+CWeaponList
+  CWeaponList::LevelShutdownPostEntity()
+  CWeaponList::~CWeaponList()

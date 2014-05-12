@@ -1,0 +1,2 @@
+CColorOperationListPanel::CColorOperationListPanel
+  CColorOperationListPanel::CColorOperationListPanel(vgui::Panel*, unsigned int)

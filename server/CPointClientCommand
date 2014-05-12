@@ -1,0 +1,3 @@
+CPointClientCommand
+  CPointClientCommand::GetDataDescMap()
+  CPointClientCommand::~CPointClientCommand()

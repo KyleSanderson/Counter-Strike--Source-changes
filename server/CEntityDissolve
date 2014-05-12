@@ -1,0 +1,11 @@
+CEntityDissolve
+  CEntityDissolve::DissolveThink()
+  CEntityDissolve::GetDataDescMap()
+  CEntityDissolve::GetServerClass()
+  CEntityDissolve::ElectrocuteThink()
+  CEntityDissolve::YouForgotToImplementOrDeclareServerClass()
+  CEntityDissolve::Spawn()
+  CEntityDissolve::Create(CBaseEntity*, char const*, float, int, bool*)
+  CEntityDissolve::Precache()
+  CEntityDissolve::CEntityDissolve()
+  CEntityDissolve::~CEntityDissolve()

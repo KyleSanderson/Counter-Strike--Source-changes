@@ -1,0 +1,8 @@
+CSun
+  CSun::GetDataDescMap()
+  CSun::GetServerClass()
+  CSun::UpdateTransmitState()
+  CSun::YouForgotToImplementOrDeclareServerClass()
+  CSun::Activate()
+  CSun::CSun()
+  CSun::~CSun()

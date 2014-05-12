@@ -1,0 +1,57 @@
+ILocomotion
+  ILocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
+  ILocomotion::FaceTowards(Vector const&)
+  ILocomotion::StuckMonitor()
+  ILocomotion::AdjustPosture(Vector const&)
+  ILocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
+  ILocomotion::OnLeaveGround(CBaseEntity*)
+  ILocomotion::SetSpeedLimit(float)
+  ILocomotion::OnLandOnGround(CBaseEntity*)
+  ILocomotion::SetDesiredLean(QAngle const&)
+  ILocomotion::SetDesiredSpeed(float)
+  ILocomotion::ClearStuckStatus(char const*)
+  ILocomotion::Run()
+  ILocomotion::Jump()
+  ILocomotion::Stop()
+  ILocomotion::Walk()
+  ILocomotion::Reset()
+  ILocomotion::Update()
+  ILocomotion::DriveTo(Vector const&)
+  ILocomotion::Approach(Vector const&, float)
+  ILocomotion::ILocomotion(INextBot*)
+  ILocomotion::~ILocomotion()
+  ILocomotion::IsOnGround() const
+  ILocomotion::GetRunSpeed() const
+  ILocomotion::GetVelocity() const
+  ILocomotion::GetWalkSpeed() const
+  ILocomotion::IsScrambling() const
+  ILocomotion::GetSpeedLimit() const
+  ILocomotion::GetStepHeight() const
+  ILocomotion::IsAbleToClimb() const
+  ILocomotion::IsUsingLadder() const
+  ILocomotion::GetDesiredLean() const
+  ILocomotion::GetGroundSpeed() const
+  ILocomotion::GetDesiredSpeed() const
+  ILocomotion::GetGroundNormal() const
+  ILocomotion::GetMotionVector() const
+  ILocomotion::GetMaxJumpHeight() const
+  ILocomotion::GetStuckDuration() const
+  ILocomotion::IsAreaTraversable(CNavArea const*) const
+  ILocomotion::ShouldCollideWith(CBaseEntity const*) const
+  ILocomotion::GetDeathDropHeight() const
+  ILocomotion::GetMaxAcceleration() const
+  ILocomotion::GetMaxDeceleration() const
+  ILocomotion::IsAttemptingToMove() const
+  ILocomotion::IsJumpingAcrossGap() const
+  ILocomotion::IsClimbingOrJumping() const
+  ILocomotion::IsClimbingUpToLedge() const
+  ILocomotion::GetGroundMotionVector() const
+  ILocomotion::IsAbleToJumpAcrossGaps() const
+  ILocomotion::GetTraversableSlopeLimit() const
+  ILocomotion::IsAbleToAutoCenterOnLadder() const
+  ILocomotion::IsAscendingOrDescendingLadder() const
+  ILocomotion::GetFeet() const
+  ILocomotion::IsStuck() const
+  ILocomotion::GetSpeed() const
+  ILocomotion::GetGround() const
+  ILocomotion::IsRunning() const

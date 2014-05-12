@@ -1,0 +1,2 @@
+CBaseBudgetPanel::ApplySchemeSettings
+  CBaseBudgetPanel::ApplySchemeSettings(vgui::IScheme*)

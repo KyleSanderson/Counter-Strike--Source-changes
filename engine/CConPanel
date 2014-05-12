@@ -1,0 +1,9 @@
+CConPanel
+  CConPanel::DrawNotify()
+  CConPanel::ShouldDraw()
+  CConPanel::AddToNotify(Color const&, char const*)
+  CConPanel::DrawDebugAreas()
+  CConPanel::PaintBackground()
+  CConPanel::Paint()
+  CConPanel::DrawText(unsigned long, int, int, wchar_t*, ...)
+  CConPanel::~CConPanel()

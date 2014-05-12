@@ -1,0 +1,6 @@
+vgui::RichTextInterior
+  vgui::RichTextInterior::GetAnimMap()
+  vgui::RichTextInterior::GetMessageMap()
+  vgui::RichTextInterior::GetPanelClassName()
+  vgui::RichTextInterior::GetKBMap()
+  vgui::RichTextInterior::~RichTextInterior()

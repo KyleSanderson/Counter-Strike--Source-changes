@@ -1,0 +1,2 @@
+CTraceFilterNoNPCsOrPlayer
+  CTraceFilterNoNPCsOrPlayer::ShouldHitEntity(IHandleEntity*, int)

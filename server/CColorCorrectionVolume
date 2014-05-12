@@ -1,0 +1,13 @@
+CColorCorrectionVolume
+  CColorCorrectionVolume::ObjectCaps()
+  CColorCorrectionVolume::StartTouch(CBaseEntity*)
+  CColorCorrectionVolume::GetDataDescMap()
+  CColorCorrectionVolume::GetServerClass()
+  CColorCorrectionVolume::UpdateTransmitState()
+  CColorCorrectionVolume::PassesTriggerFilters(CBaseEntity*)
+  CColorCorrectionVolume::YouForgotToImplementOrDeclareServerClass()
+  CColorCorrectionVolume::Spawn()
+  CColorCorrectionVolume::EndTouch(CBaseEntity*)
+  CColorCorrectionVolume::ThinkFunc()
+  CColorCorrectionVolume::CColorCorrectionVolume()
+  CColorCorrectionVolume::~CColorCorrectionVolume()

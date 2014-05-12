@@ -1,0 +1,3 @@
+CBugReportUploadProgressDialog
+  CBugReportUploadProgressDialog::PerformLayout()
+  CBugReportUploadProgressDialog::~CBugReportUploadProgressDialog()

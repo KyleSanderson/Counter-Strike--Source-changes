@@ -1,0 +1,2 @@
+CTracePassFilter
+  CTracePassFilter::ShouldHitEntity(IHandleEntity*, int)

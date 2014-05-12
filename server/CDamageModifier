@@ -1,0 +1,3 @@
+CDamageModifier
+  CDamageModifier::GetModifier() const
+  CDamageModifier::IsDamageDoneToMe() const

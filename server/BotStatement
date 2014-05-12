@@ -1,0 +1,4 @@
+BotStatement
+  BotStatement::AppendPhrase(BotPhrase const*)
+  BotStatement::Update()
+  BotStatement::BotStatement(BotChatterInterface*, BotStatementType, float)

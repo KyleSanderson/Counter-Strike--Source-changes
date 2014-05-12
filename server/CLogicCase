@@ -1,0 +1,4 @@
+CLogicCase
+  CLogicCase::GetDataDescMap()
+  CLogicCase::Spawn()
+  CLogicCase::~CLogicCase()

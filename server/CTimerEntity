@@ -1,0 +1,8 @@
+CTimerEntity
+  CTimerEntity::GetDataDescMap()
+  CTimerEntity::DrawDebugTextOverlays()
+  CTimerEntity::Spawn()
+  CTimerEntity::Think()
+  CTimerEntity::Toggle()
+  CTimerEntity::FireTimer()
+  CTimerEntity::~CTimerEntity()

@@ -1,0 +1,4 @@
+CVBRHeader
+  CVBRHeader::ExtractVBRIHeader(unsigned int)
+  CVBRHeader::ExtractXINGHeader(unsigned int)
+  CVBRHeader::~CVBRHeader()

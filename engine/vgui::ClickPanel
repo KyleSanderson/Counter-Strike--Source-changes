@@ -1,0 +1,6 @@
+vgui::ClickPanel
+  vgui::ClickPanel::GetAnimMap()
+  vgui::ClickPanel::GetMessageMap()
+  vgui::ClickPanel::GetPanelClassName()
+  vgui::ClickPanel::GetKBMap()
+  vgui::ClickPanel::~ClickPanel()

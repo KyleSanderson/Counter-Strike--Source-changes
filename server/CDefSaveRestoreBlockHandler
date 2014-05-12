@@ -1,0 +1,5 @@
+CDefSaveRestoreBlockHandler
+  CDefSaveRestoreBlockHandler::PreRestore()
+  CDefSaveRestoreBlockHandler::PostRestore()
+  CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+  CDefSaveRestoreBlockHandler::PostSave()

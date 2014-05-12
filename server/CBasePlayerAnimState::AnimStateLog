@@ -1,0 +1,2 @@
+CBasePlayerAnimState::AnimStateLog
+  CBasePlayerAnimState::AnimStateLog(char const*, ...)::hFile

@@ -1,0 +1,5 @@
+CTEBeamFollow
+  CTEBeamFollow::GetServerClass()
+  CTEBeamFollow::YouForgotToImplementOrDeclareServerClass()
+  CTEBeamFollow::Test(Vector const&, QAngle const&)
+  CTEBeamFollow::~CTEBeamFollow()

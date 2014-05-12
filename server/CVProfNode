@@ -1,0 +1,7 @@
+CVProfNode
+  CVProfNode::EnterScope()
+  CVProfNode::Pause()
+  CVProfNode::Reset()
+  CVProfNode::Resume()
+  CVProfNode::ExitScope()
+  CVProfNode::MarkFrame()
