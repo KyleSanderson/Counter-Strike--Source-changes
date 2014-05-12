@@ -1,0 +1,2 @@
+std::basic_string
+  std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)

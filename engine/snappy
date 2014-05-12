@@ -1,0 +1,8 @@
+snappy
+  snappy::RawCompress(char const*, unsigned long, char*, unsigned long*)
+  snappy::RawUncompress(char const*, unsigned long, char*)
+  snappy::MaxCompressedLength(unsigned long)
+  snappy::GetUncompressedLength(char const*, unsigned long, unsigned long*)
+  snappy::wordmask
+  snappy::ByteArraySource
+  snappy::UncheckedByteArraySink

@@ -1,0 +1,2 @@
+snappy::internal::WorkingMemory
+  snappy::internal::WorkingMemory::GetHashTable(unsigned long, int*)

@@ -1,0 +1,4 @@
+snappy::UncheckedByteArraySink
+  snappy::UncheckedByteArraySink::GetAppendBuffer(unsigned long, char*)
+  snappy::UncheckedByteArraySink::Append(char const*, unsigned long)
+  snappy::UncheckedByteArraySink::~UncheckedByteArraySink()

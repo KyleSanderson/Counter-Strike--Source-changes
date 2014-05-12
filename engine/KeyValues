@@ -12,7 +12,7 @@ KeyValues
   KeyValues::RemoveEverything()
   KeyValues::GetNextTrueSubKey()
   KeyValues::GetFirstTrueSubKey()
-  KeyValues::RecursiveSaveToFile(IBaseFileSystem*, void*, CUtlBuffer*, int, bool)
+  KeyValues::RecursiveSaveToFile(IBaseFileSystem*, void*, CUtlBuffer*, int, bool, bool)
   KeyValues::WriteConvertedString(IBaseFileSystem*, void*, CUtlBuffer*, char const*)
   KeyValues::ProcessResolutionKeys(char const*)
   KeyValues::RecursiveLoadFromBuffer(char const*, CUtlBuffer&)

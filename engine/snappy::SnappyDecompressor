@@ -1,0 +1,2 @@
+snappy::SnappyDecompressor
+  snappy::SnappyDecompressor::RefillTag()

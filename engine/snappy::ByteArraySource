@@ -1,0 +1,5 @@
+snappy::ByteArraySource
+  snappy::ByteArraySource::Peek(unsigned long*)
+  snappy::ByteArraySource::Skip(unsigned long)
+  snappy::ByteArraySource::~ByteArraySource()
+  snappy::ByteArraySource::Available() const

@@ -1,4 +1,6 @@
 CLZSS
-  CLZSS::IsCompressed(unsigned char*)
-  CLZSS::GetActualSize(unsigned char*)
-  CLZSS::Compress(unsigned char*, int, unsigned int*)
+  CLZSS::Uncompress(unsigned char const*, unsigned char*)
+  CLZSS::GetActualSize(unsigned char const*)
+  CLZSS::SafeUncompress(unsigned char const*, unsigned char*, unsigned int)
+  CLZSS::CompressNoAlloc(unsigned char const*, int, unsigned char*, unsigned int*)
+  CLZSS::Compress(unsigned char const*, int, unsigned int*)

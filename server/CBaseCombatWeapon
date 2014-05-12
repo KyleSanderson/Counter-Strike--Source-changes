@@ -100,6 +100,7 @@ CBaseCombatWeapon
   CBaseCombatWeapon::WeaponMeleeAttack2Condition(float, float)
   CBaseCombatWeapon::WeaponRangeAttack1Condition(float, float)
   CBaseCombatWeapon::WeaponRangeAttack2Condition(float, float)
+  CBaseCombatWeapon::ShouldUseLargeViewModelVROverride()
   CBaseCombatWeapon::YouForgotToImplementOrDeclareServerClass()
   CBaseCombatWeapon::Drop(Vector const&)
   CBaseCombatWeapon::Kill()

@@ -20,7 +20,6 @@ CBaseClient
   CBaseClient::TraceNetworkMsg(int, char const*, ...)
   CBaseClient::UpdateSendState()
   CBaseClient::IgnoreTempEntity(CEventInfo*)
-  CBaseClient::SetTraceThreshold(int)
   CBaseClient::ShouldSendMessages()
   CBaseClient::UpdateUserSettings()
   CBaseClient::OnRequestFullUpdate()
@@ -54,4 +53,3 @@ CBaseClient
   CBaseClient::IsReplay() const
   CBaseClient::GetUserID() const
   CBaseClient::IsSpawned() const
-  CBaseClient::IsTracing() const

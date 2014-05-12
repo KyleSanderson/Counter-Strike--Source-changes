@@ -1,0 +1,2 @@
+snappy::internal
+  snappy::internal::CompressFragment(char const*, unsigned long, char*, unsigned short*, int)
