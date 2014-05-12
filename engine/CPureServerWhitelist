@@ -4,7 +4,7 @@ CPureServerWhitelist
   CPureServerWhitelist::PrintWhitelistContents()
   CPureServerWhitelist::LoadCommandsFromKeyValues(KeyValues*)
   CPureServerWhitelist::LoadTrustedKeysFromKeyValues(KeyValues*)
-  CPureServerWhitelist::Load(bool)
+  CPureServerWhitelist::Load(int)
   CPureServerWhitelist::AddRef()
   CPureServerWhitelist::Create(IFileSystem*)
   CPureServerWhitelist::Decode(CUtlBuffer&)

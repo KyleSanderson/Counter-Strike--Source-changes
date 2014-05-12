@@ -1,7 +1,6 @@
 CDownloadListGenerator
-  CDownloadListGenerator::ForceExactFile(char const*, ConsistencyType)
   CDownloadListGenerator::OnLevelLoadEnd()
   CDownloadListGenerator::SetStringTable(INetworkStringTable*)
   CDownloadListGenerator::OnLevelLoadStart(char const*)
-  CDownloadListGenerator::OnResourcePrecachedFullPath(char*)
+  CDownloadListGenerator::OnResourcePrecachedFullPath(char*, char const*)
   CDownloadListGenerator::~CDownloadListGenerator()
