@@ -1,0 +1,8 @@
+CBaseProjectile
+  CBaseProjectile::IsDestroyable()
+  CBaseProjectile::GetServerClass()
+  CBaseProjectile::YouForgotToImplementOrDeclareServerClass()
+  CBaseProjectile::Destroy(bool, bool)
+  CBaseProjectile::CBaseProjectile()
+  CBaseProjectile::~CBaseProjectile()
+  CBaseProjectile::GetDestroyableHitCount() const

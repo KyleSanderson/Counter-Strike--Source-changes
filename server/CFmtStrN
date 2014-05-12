@@ -1,12 +1,12 @@
 CFmtStrN
-  CFmtStrN<1024>::InitQuietTruncation()
-  CFmtStrN<1024>::CFmtStrN(char const*, ...)
-  CFmtStrN<256>::InitQuietTruncation()
-  CFmtStrN<256>::sprintf(char const*, ...)
-  CFmtStrN<256>::CFmtStrN(char const*, ...)
-  CFmtStrN<32>::InitQuietTruncation()
-  CFmtStrN<32>::CFmtStrN(char const*, ...)
-  CFmtStrN<1024>::CFmtStrN(char const*, ...)::scAsserted
-  CFmtStrN<256>::sprintf(char const*, ...)::scAsserted
-  CFmtStrN<256>::CFmtStrN(char const*, ...)::scAsserted
-  CFmtStrN<32>::CFmtStrN(char const*, ...)::scAsserted
+  CFmtStrN<1024, false>::InitQuietTruncation()
+  CFmtStrN<1024, false>::CFmtStrN(char const*, ...)
+  CFmtStrN<256, false>::InitQuietTruncation()
+  CFmtStrN<256, false>::sprintf(char const*, ...)
+  CFmtStrN<256, false>::CFmtStrN(char const*, ...)
+  CFmtStrN<32, false>::InitQuietTruncation()
+  CFmtStrN<32, false>::CFmtStrN(char const*, ...)
+  CFmtStrN<1024, false>::CFmtStrN(char const*, ...)::scAsserted
+  CFmtStrN<256, false>::sprintf(char const*, ...)::scAsserted
+  CFmtStrN<256, false>::CFmtStrN(char const*, ...)::scAsserted
+  CFmtStrN<32, false>::CFmtStrN(char const*, ...)::scAsserted

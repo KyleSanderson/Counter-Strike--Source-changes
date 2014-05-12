@@ -25,6 +25,7 @@ CBaseClientState
   CBaseClientState::FreeEntityBaselines()
   CBaseClientState::HookClientStringTable(char const*)
   CBaseClientState::InstallStringTableCallback(char const*)
+  CBaseClientState::IsClientConnectionViaMatchMaking()
   CBaseClientState::Clear()
   CBaseClientState::FileSent(char const*, unsigned int)
   CBaseClientState::RunFrame()

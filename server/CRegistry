@@ -1,7 +1,0 @@
-CRegistry
-  CRegistry::DirectInit(char const*)
-  CRegistry::Init(char const*)
-  CRegistry::ReadInt(char const*, int)
-  CRegistry::Shutdown()
-  CRegistry::WriteInt(char const*, int)
-  CRegistry::~CRegistry()

@@ -13,7 +13,7 @@ CBaseMultiplayerPlayer
   CBaseMultiplayerPlayer::CanHearAndReadChatFrom(CBasePlayer*)
   CBaseMultiplayerPlayer::GetMultiplayerExpresser()
   CBaseMultiplayerPlayer::CalculateTeamBalanceScore()
-  CBaseMultiplayerPlayer::ShouldRunRateLimitedCommand(CCommand const&)
+  CBaseMultiplayerPlayer::ShouldRunRateLimitedCommand(char const*)
   CBaseMultiplayerPlayer::ShouldShowVoiceSubtitleToEnemy()
   CBaseMultiplayerPlayer::Spawn()
   CBaseMultiplayerPlayer::CanSpeak()
