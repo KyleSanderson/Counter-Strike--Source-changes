@@ -145,6 +145,7 @@ CNavMesh
   CNavMesh::~CNavMesh()
   CNavMesh::CreateArea() const
   CNavMesh::DrawDanger() const
+  CNavMesh::GetNavArea(CBaseEntity*, int, float) const
   CNavMesh::GetNavArea(Vector const&, float) const
   CNavMesh::SnapToGrid(float, bool) const
   CNavMesh::DestroyArea(CNavArea*) const
@@ -160,6 +161,7 @@ CNavMesh
   CNavMesh::IsAuthoritative() const
   CNavMesh::IsInSelectedSet(CNavArea const*) const
   CNavMesh::CreateHidingSpot() const
+  CNavMesh::GetNearestNavArea(CBaseEntity*, int, float) const
   CNavMesh::GetNearestNavArea(Vector const&, bool, float, bool, bool, int) const
   CNavMesh::GetSelecteSetSize() const
   CNavMesh::IsSelectedSetEmpty() const

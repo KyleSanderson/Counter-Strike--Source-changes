@@ -138,6 +138,7 @@ CBasePlayer
   CBasePlayer::HandleVoteCommands(CCommand const&)
   CBasePlayer::IncrementFragCount(int)
   CBasePlayer::IsFollowingPhysics()
+  CBasePlayer::IsUserCmdDataValid(CUserCmd*)
   CBasePlayer::RequiredEdictIndex()
   CBasePlayer::ResetPerRoundStats()
   CBasePlayer::CreateRagdollEntity()

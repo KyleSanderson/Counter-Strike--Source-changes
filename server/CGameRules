@@ -66,6 +66,7 @@ CGameRules
   CGameRules::TacticalMissionManagerFactory()
   CGameRules::CreateCustomNetworkStringTables()
   CGameRules::FlPlayerFallDeathDoesScreenFade(CBasePlayer*)
+  CGameRules::IsConnectedUserInfoChangeAllowed(CBasePlayer*)
   CGameRules::Name()
   CGameRules::Think()
   CGameRules::Precache()

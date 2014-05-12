@@ -81,6 +81,7 @@ CCSGameRules
   CCSGameRules::ProcessEndOfRoundAchievements(int, int)
   CCSGameRules::CreateCustomNetworkStringTables()
   CCSGameRules::FlPlayerFallDeathDoesScreenFade(CBasePlayer*)
+  CCSGameRules::IsConnectedUserInfoChangeAllowed(CBasePlayer*)
   CCSGameRules::GetBlackMarketPreviousPriceForWeapon(int)
   CCSGameRules::Think()
   CCSGameRules::GiveC4()
