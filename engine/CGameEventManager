@@ -1,7 +1,6 @@
 CGameEventManager
   CGameEventManager::AddListener(IGameEventListener2*, char const*, bool)
   CGameEventManager::AddListener(void*, CGameEventDescriptor*, int)
-  CGameEventManager::CreateEvent(CGameEventDescriptor*)
   CGameEventManager::CreateEvent(char const*, bool)
   CGameEventManager::FindListener(IGameEventListener2*, char const*)
   CGameEventManager::ConPrintEvent(IGameEvent*)

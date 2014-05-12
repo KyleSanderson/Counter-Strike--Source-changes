@@ -1,5 +1,4 @@
 CBaseTrigger
-  CBaseTrigger::IsTouching(CBaseEntity*)
   CBaseTrigger::StartTouch(CBaseEntity*)
   CBaseTrigger::UsesFilter()
   CBaseTrigger::InitTrigger()

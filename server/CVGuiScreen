@@ -1,5 +1,4 @@
 CVGuiScreen
-  CVGuiScreen::SetPanelName(char const*)
   CVGuiScreen::SetActualSize(float, float)
   CVGuiScreen::GetDataDescMap()
   CVGuiScreen::GetServerClass()

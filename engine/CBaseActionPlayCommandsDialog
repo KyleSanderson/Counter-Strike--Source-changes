@@ -1,5 +1,4 @@
 CBaseActionPlayCommandsDialog
   CBaseActionPlayCommandsDialog::OnSaveChanges()
   CBaseActionPlayCommandsDialog::Init()
-  CBaseActionPlayCommandsDialog::CBaseActionPlayCommandsDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
   CBaseActionPlayCommandsDialog::~CBaseActionPlayCommandsDialog()

@@ -7,4 +7,5 @@ CDefaultResponseSystem
   CDefaultResponseSystem::Init()
   CDefaultResponseSystem::Release()
   CDefaultResponseSystem::Shutdown()
+  CDefaultResponseSystem::CDefaultResponseSystem()
   CDefaultResponseSystem::~CDefaultResponseSystem()

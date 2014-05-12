@@ -1,5 +1,4 @@
 CMessageEntity
-  CMessageEntity::DrawOverlays()
   CMessageEntity::GetDataDescMap()
   CMessageEntity::UpdateOnRemove()
   CMessageEntity::Spawn()

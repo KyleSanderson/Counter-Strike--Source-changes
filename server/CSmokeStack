@@ -1,7 +1,6 @@
 CSmokeStack
   CSmokeStack::GetDataDescMap()
   CSmokeStack::GetServerClass()
-  CSmokeStack::RecalcWindVector()
   CSmokeStack::YouForgotToImplementOrDeclareServerClass()
   CSmokeStack::Spawn()
   CSmokeStack::Activate()

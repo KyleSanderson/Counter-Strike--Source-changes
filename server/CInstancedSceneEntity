@@ -1,6 +1,5 @@
 CInstancedSceneEntity
   CInstancedSceneEntity::GetPreDelay()
-  CInstancedSceneEntity::PassThrough(CBaseFlex*)
   CInstancedSceneEntity::SetPreDelay(float)
   CInstancedSceneEntity::StartPlayback()
   CInstancedSceneEntity::EstimateLength()

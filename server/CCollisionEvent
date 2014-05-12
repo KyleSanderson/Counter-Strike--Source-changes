@@ -4,6 +4,7 @@ CCollisionEvent
   CCollisionEvent::ObjectSleep(IPhysicsObject*)
   CCollisionEvent::FluidEndTouch(IPhysicsObject*, IPhysicsFluidController*)
   CCollisionEvent::LevelShutdown()
+  CCollisionEvent::AddRemoveObject(IServerNetworkable*)
   CCollisionEvent::FluidStartTouch(IPhysicsObject*, IPhysicsFluidController*)
   CCollisionEvent::UpdateTouchEvents()
   CCollisionEvent::ShouldFreezeObject(IPhysicsObject*)

@@ -5,7 +5,6 @@ vgui::FileCompletionEdit
   vgui::FileCompletionEdit::PerformLayout()
   vgui::FileCompletionEdit::GetPanelClassName()
   vgui::FileCompletionEdit::OnMenuItemHighlight(int)
-  vgui::FileCompletionEdit::AddItem(wchar_t const*, KeyValues*)
   vgui::FileCompletionEdit::GetKBMap()
   vgui::FileCompletionEdit::ShowMenu()
   vgui::FileCompletionEdit::OnSetText(wchar_t const*)

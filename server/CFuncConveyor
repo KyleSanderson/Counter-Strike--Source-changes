@@ -1,4 +1,5 @@
 CFuncConveyor
+  CFuncConveyor::UpdateSpeed(float)
   CFuncConveyor::GetDataDescMap()
   CFuncConveyor::GetServerClass()
   CFuncConveyor::GetGroundVelocityToApply(Vector&)

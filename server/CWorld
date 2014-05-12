@@ -8,6 +8,5 @@ CWorld
   CWorld::YouForgotToImplementOrDeclareServerClass()
   CWorld::Spawn()
   CWorld::Precache()
-  CWorld::CWorld()
   CWorld::~CWorld()
   CWorld::GetDisplayTitle() const

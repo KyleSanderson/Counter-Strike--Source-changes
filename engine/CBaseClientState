@@ -22,6 +22,7 @@ CBaseClientState
   CBaseClientState::SetEntityBaseline(int, ClientClass*, int, char*, int)
   CBaseClientState::CopyEntityBaseline(int, int)
   CBaseClientState::ReadPacketEntities(CEntityReadInfo&)
+  CBaseClientState::FreeEntityBaselines()
   CBaseClientState::HookClientStringTable(char const*)
   CBaseClientState::InstallStringTableCallback(char const*)
   CBaseClientState::Clear()

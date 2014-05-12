@@ -40,7 +40,7 @@ CMultiplayRules
   CMultiplayRules::FlWeaponRespawnTime(CBaseCombatWeapon*)
   CMultiplayRules::GetTaggedConVarList(KeyValues*)
   CMultiplayRules::WeaponShouldRespawn(CBaseCombatWeapon*)
-  CMultiplayRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*)
+  CMultiplayRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)
   CMultiplayRules::ShouldDrawHeadLabels()
   CMultiplayRules::VecItemRespawnAngles(CItem*)
   CMultiplayRules::VecWeaponRespawnSpot(CBaseCombatWeapon*)

@@ -87,7 +87,6 @@ CNavMesh
   CNavMesh::UpdateDragSelectionSet()
   CNavMesh::CommandNavSelectOrphans()
   CNavMesh::CreateNavAreasFromNodes()
-  CNavMesh::GetNextWalkableSeedNode()
   CNavMesh::OnRoundRestartPreEntity()
   CNavMesh::StichAndRemoveJumpAreas()
   CNavMesh::CommandNavBeginSelecting()

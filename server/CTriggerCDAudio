@@ -1,5 +1,4 @@
 CTriggerCDAudio
   CTriggerCDAudio::Spawn()
   CTriggerCDAudio::Touch(CBaseEntity*)
-  CTriggerCDAudio::PlayTrack()
   CTriggerCDAudio::~CTriggerCDAudio()

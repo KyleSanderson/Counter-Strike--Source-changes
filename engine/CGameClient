@@ -5,7 +5,6 @@ CGameClient
   CGameClient::SendNetMsg(INetMessage&, bool)
   CGameClient::PacketStart(int, int)
   CGameClient::SpawnPlayer()
-  CGameClient::CheckConnect()
   CGameClient::FileReceived(char const*, unsigned int)
   CGameClient::GetSendFrame()
   CGameClient::SendSnapshot(CClientFrame*)

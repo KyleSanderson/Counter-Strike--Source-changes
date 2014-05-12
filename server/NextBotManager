@@ -3,7 +3,6 @@ NextBotManager
   NextBotManager::OnMapLoaded()
   NextBotManager::ShouldUpdate(INextBot*)
   NextBotManager::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
-  NextBotManager::DebugFilterAdd(char const*)
   NextBotManager::OnRoundRestart()
   NextBotManager::NotifyEndUpdate(INextBot*)
   NextBotManager::NotifyBeginUpdate(INextBot*)

@@ -65,7 +65,6 @@ vgui::ListPanel
   vgui::ListPanel::SetColumnTextAlignment(int, int)
   vgui::ListPanel::ApplyUserConfigSettings(KeyValues*)
   vgui::ListPanel::SetSelectIndividualCells(bool)
-  vgui::ListPanel::ResetColumnHeaderCommands()
   vgui::ListPanel::SetAllowUserModificationOfColumns(bool)
   vgui::ListPanel::Paint()
   vgui::ListPanel::AddItem(KeyValues const*, unsigned int, bool, bool)

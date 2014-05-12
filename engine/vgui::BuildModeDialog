@@ -1,6 +1,5 @@
 vgui::BuildModeDialog
   vgui::BuildModeDialog::GetAnimMap()
-  vgui::BuildModeDialog::OnNewControl(char const*, int, int)
   vgui::BuildModeDialog::OnPanelMoved()
   vgui::BuildModeDialog::GetMessageMap()
   vgui::BuildModeDialog::OnChangeChild(int)
@@ -11,6 +10,7 @@ vgui::BuildModeDialog
   vgui::BuildModeDialog::OnTextKillFocus()
   vgui::BuildModeDialog::EnableSaveButton()
   vgui::BuildModeDialog::GetPanelClassName()
+  vgui::BuildModeDialog::RemoveAllControls()
   vgui::BuildModeDialog::ShutdownBuildMode()
   vgui::BuildModeDialog::StoreUndoSettings()
   vgui::BuildModeDialog::OnCreateNewControl(char const*)
@@ -24,6 +24,5 @@ vgui::BuildModeDialog
   vgui::BuildModeDialog::DoPaste()
   vgui::BuildModeDialog::OnClose()
   vgui::BuildModeDialog::GetKBMap()
-  vgui::BuildModeDialog::ShowHelp()
   vgui::BuildModeDialog::OnCommand(char const*)
   vgui::BuildModeDialog::~BuildModeDialog()

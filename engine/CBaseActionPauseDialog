@@ -1,5 +1,4 @@
 CBaseActionPauseDialog
   CBaseActionPauseDialog::OnSaveChanges()
   CBaseActionPauseDialog::Init()
-  CBaseActionPauseDialog::CBaseActionPauseDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
   CBaseActionPauseDialog::~CBaseActionPauseDialog()

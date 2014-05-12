@@ -1,6 +1,5 @@
 CVProfPanel
   CVProfPanel::GetAnimMap()
-  CVProfPanel::CollapseAll()
   CVProfPanel::GetMessageMap()
   CVProfPanel::OnTextChanged(KeyValues*)
   CVProfPanel::PerformLayout()
@@ -14,6 +13,5 @@ CVProfPanel
   CVProfPanel::OnTick()
   CVProfPanel::FillTree(KeyValues*, CVProfNode*, int)
   CVProfPanel::GetKBMap()
-  CVProfPanel::ExpandAll()
   CVProfPanel::OnCommand(char const*)
   CVProfPanel::~CVProfPanel()

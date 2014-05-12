@@ -7,7 +7,6 @@ CDmxElement
   CDmxElement::~CDmxElement()
   CDmxElement::GetAttribute(char const*) const
   CDmxElement::HasAttribute(char const*) const
-  CDmxElement::FindAttribute(char const*) const
   CDmxElement::GetTypeString() const
   CDmxElement::GetId() const
   CDmxElement::Resort() const

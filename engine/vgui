@@ -5,7 +5,6 @@ vgui
   vgui::GetAnimationController()
   vgui::FindOrAddPanelMessageMap(char const*)
   vgui::FindOrAddPanelKeyBindingMap(char const*)
-  vgui::GetPanelKeyBindingMapDictionary()
   vgui::Segments
   VTT for vgui::ClickPanel
   VTT for vgui::GraphPanel

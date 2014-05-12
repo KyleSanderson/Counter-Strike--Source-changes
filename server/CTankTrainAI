@@ -1,6 +1,5 @@
 CTankTrainAI
   CTankTrainAI::GetDataDescMap()
-  CTankTrainAI::SoundEngineStop()
   CTankTrainAI::SoundEngineStart()
   CTankTrainAI::Spawn()
   CTankTrainAI::Think()

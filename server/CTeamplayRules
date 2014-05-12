@@ -21,7 +21,7 @@ CTeamplayRules
   CTeamplayRules::PointsMayBeCaptured()
   CTeamplayRules::ShouldScrambleTeams()
   CTeamplayRules::TeamMayCapturePoint(int, int)
-  CTeamplayRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*)
+  CTeamplayRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)
   CTeamplayRules::SetDefaultPlayerTeam(CBasePlayer*)
   CTeamplayRules::ClientSettingsChanged(CBasePlayer*)
   CTeamplayRules::PlayerMayCapturePoint(CBasePlayer*, int, char*, int)

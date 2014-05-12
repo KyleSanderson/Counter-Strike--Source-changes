@@ -41,7 +41,6 @@ CCSBotManager
   CCSBotManager::OnHostageRescuedAll(IGameEvent*)
   CCSBotManager::OnWeaponFireOnEmpty(IGameEvent*)
   CCSBotManager::CheckForBlockedZones()
-  CCSBotManager::EnableEventListeners(bool)
   CCSBotManager::OnSmokeGrenadeDetonate(IGameEvent*)
   CCSBotManager::SetRadioMessageTimestamp(RadioType, int)
   CCSBotManager::CCSBotManager()

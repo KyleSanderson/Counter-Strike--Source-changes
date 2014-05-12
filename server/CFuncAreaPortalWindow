@@ -5,5 +5,4 @@ CFuncAreaPortalWindow
   CFuncAreaPortalWindow::YouForgotToImplementOrDeclareServerClass()
   CFuncAreaPortalWindow::Spawn()
   CFuncAreaPortalWindow::Activate()
-  CFuncAreaPortalWindow::CFuncAreaPortalWindow()
   CFuncAreaPortalWindow::~CFuncAreaPortalWindow()

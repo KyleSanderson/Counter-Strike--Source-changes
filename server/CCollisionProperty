@@ -21,6 +21,7 @@ CCollisionProperty
   CCollisionProperty::IsPointInBounds(Vector const&) const
   CCollisionProperty::OBBMaxsPreScaled() const
   CCollisionProperty::OBBMinsPreScaled() const
+  CCollisionProperty::WorldSpaceCenter() const
   CCollisionProperty::GetCollisionGroup() const
   CCollisionProperty::GetCollisionAngles() const
   CCollisionProperty::GetCollisionOrigin() const

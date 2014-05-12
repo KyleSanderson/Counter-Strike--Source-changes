@@ -21,6 +21,5 @@ CAudioSourceVoice
   CAudioSourceVoice::Prefetch()
   CAudioSourceVoice::CacheLoad()
   CAudioSourceVoice::CanDelete()
-  CAudioSourceVoice::CAudioSourceVoice(CSfxTable*, int)
   CAudioSourceVoice::~CAudioSourceVoice()
   CAudioSourceVoice::CWaveDataVoice

@@ -8,7 +8,6 @@ vgui::CTreeViewListControl
   vgui::CTreeViewListControl::SetNumColumns(int)
   vgui::CTreeViewListControl::PostChildPaint()
   vgui::CTreeViewListControl::SetBorderColor(Color)
-  vgui::CTreeViewListControl::RecalculateRows()
   vgui::CTreeViewListControl::SetTitleBarInfo(unsigned long, int)
   vgui::CTreeViewListControl::GetScrollBarSize()
   vgui::CTreeViewListControl::GetTreeItemAtRow(int)

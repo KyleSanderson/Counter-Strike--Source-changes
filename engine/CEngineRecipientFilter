@@ -1,5 +1,4 @@
 CEngineRecipientFilter
-  CEngineRecipientFilter::AddRecipient(int)
   CEngineRecipientFilter::MakeReliable()
   CEngineRecipientFilter::AddAllPlayers()
   CEngineRecipientFilter::IncludesPlayer(int)

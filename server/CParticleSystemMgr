@@ -8,4 +8,5 @@ CParticleSystemMgr
   CParticleSystemMgr::ReadParticleDefinitions(CUtlBuffer&, char const*, bool, bool)
   CParticleSystemMgr::GetParticleSystemNameFromIndex(int)
   CParticleSystemMgr::Init(IParticleSystemQuery*)
+  CParticleSystemMgr::CParticleSystemMgr()
   CParticleSystemMgr::~CParticleSystemMgr()

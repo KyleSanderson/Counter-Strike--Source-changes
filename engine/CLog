@@ -10,5 +10,4 @@ CLog
   CLog::Printf(char const*, ...)
   CLog::RunFrame()
   CLog::Shutdown()
-  CLog::CLog()
   CLog::~CLog()

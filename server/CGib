@@ -2,6 +2,7 @@ CGib
   CGib::ObjectCaps()
   CGib::SpawnHeadGib(CBaseEntity*)
   CGib::WaitTillLand()
+  CGib::LimitVelocity()
   CGib::SetBloodColor(int)
   CGib::BounceGibTouch(CBaseEntity*)
   CGib::GetDataDescMap()

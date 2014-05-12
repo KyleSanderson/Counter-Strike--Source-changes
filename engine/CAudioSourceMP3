@@ -14,7 +14,6 @@ CAudioSourceMP3
   CAudioSourceMP3::ReferenceAdd(CAudioMixer*)
   CAudioSourceMP3::IsVoiceSource()
   CAudioSourceMP3::GetCacheStatus()
-  CAudioSourceMP3::GetStartupData(void*, int, int&)
   CAudioSourceMP3::IsSentenceWord()
   CAudioSourceMP3::ReferenceRemove(CAudioMixer*)
   CAudioSourceMP3::SetSentenceWord(bool)
@@ -30,5 +29,4 @@ CAudioSourceMP3
   CAudioSourceMP3::IsLooped()
   CAudioSourceMP3::CacheLoad()
   CAudioSourceMP3::CanDelete()
-  CAudioSourceMP3::CAudioSourceMP3(CSfxTable*)
   CAudioSourceMP3::~CAudioSourceMP3()

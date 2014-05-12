@@ -32,6 +32,7 @@ CBaseFlex
   CBaseFlex::HandleStartSequenceSceneEvent(CSceneEventInfo*, CChoreoScene*, CChoreoEvent*, CChoreoActor*)
   CBaseFlex::ProcessFlexAnimationSceneEvent(CSceneEventInfo*, CChoreoScene*, CChoreoEvent*)
   CBaseFlex::YouForgotToImplementOrDeclareServerClass()
+  CBaseFlex::Blink()
   CBaseFlex::SetModel(char const*)
   CBaseFlex::CBaseFlex()
   CBaseFlex::~CBaseFlex()

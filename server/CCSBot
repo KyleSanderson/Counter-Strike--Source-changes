@@ -69,7 +69,6 @@ CCSBot
   CCSBot::UpdateLookAngles()
   CCSBot::UpdateLookAround(bool)
   CCSBot::ContinueFollowing()
-  CCSBot::DiscontinuityJump(float, bool, bool)
   CCSBot::FireWeaponAtEnemy()
   CCSBot::InhibitLookAround(float)
   CCSBot::OnBombDefuseAbort(IGameEvent*)

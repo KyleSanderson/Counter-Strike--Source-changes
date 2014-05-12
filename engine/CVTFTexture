@@ -1,7 +1,6 @@
 CVTFTexture
   CVTFTexture::Unserialize(CUtlBuffer&, bool, int)
   CVTFTexture::SetBumpScale(float)
-  CVTFTexture::WriteImageData(CUtlBuffer&)
   CVTFTexture::GenerateMipmaps()
   CVTFTexture::InitLowResImage(int, int, ImageFormat)
   CVTFTexture::LowResImageData()

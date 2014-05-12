@@ -1,7 +1,5 @@
 CEngineAPI
   CEngineAPI::Disconnect()
-  CEngineAPI::OnShutdown()
-  CEngineAPI::PumpMessages()
   CEngineAPI::QueryInterface(char const*)
   CEngineAPI::RunListenServer()
   CEngineAPI::SetEngineWindow(void*)
@@ -9,7 +7,6 @@ CEngineAPI
   CEngineAPI::HandleSetModeError()
   CEngineAPI::PostConsoleCommand(char const*)
   CEngineAPI::SetHeadtrackDLLName(char const*)
-  CEngineAPI::PumpMessagesEditMode(bool&, long&)
   CEngineAPI::Run()
   CEngineAPI::Init()
   CEngineAPI::InitVR()

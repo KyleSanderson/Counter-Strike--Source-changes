@@ -5,7 +5,6 @@ CFuncTrain
   CFuncTrain::Stop()
   CFuncTrain::Wait()
   CFuncTrain::Spawn()
-  CFuncTrain::Start()
   CFuncTrain::Blocked(CBaseEntity*)
   CFuncTrain::Activate()
   CFuncTrain::Precache()

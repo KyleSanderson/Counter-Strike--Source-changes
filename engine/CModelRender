@@ -5,7 +5,6 @@ CModelRender
   CModelRender::ChangeInstance(unsigned short, IClientRenderable*)
   CModelRender::DestroyInstance(unsigned short)
   CModelRender::RemoveAllDecals(unsigned short)
-  CModelRender::SetupModelState(IClientRenderable*)
   CModelRender::SetupColorMeshes(int)
   CModelRender::GetStaticLighting(unsigned short)
   CModelRender::SuppressEngineLighting(bool)

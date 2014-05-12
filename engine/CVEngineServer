@@ -80,6 +80,7 @@ CVEngineServer
   CVEngineServer::ResetPVS(unsigned char*, int)
   CVEngineServer::GetReplay()
   CVEngineServer::ParseFile(char const*, char*, int)
+  CVEngineServer::GetServerTime() const
   CVEngineServer::GetServerVersion() const
   CVEngineServer::IsDecalPrecached(char const*) const
   CVEngineServer::IsModelPrecached(char const*) const

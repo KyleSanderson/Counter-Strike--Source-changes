@@ -8,5 +8,4 @@ CAudioMixerWaveMP3
   CAudioMixerWaveMP3::GetStreamOutputRate()
   CAudioMixerWaveMP3::SetPositionFromSaved(int)
   CAudioMixerWaveMP3::SetStartupDelaySamples(int)
-  CAudioMixerWaveMP3::CAudioMixerWaveMP3(IWaveData*)
   CAudioMixerWaveMP3::~CAudioMixerWaveMP3()

@@ -19,6 +19,7 @@ CSaveRestore
   CSaveRestore::EntityPatchWrite(CSaveRestoreData*, char const*, bool)
   CSaveRestore::ForgetRecentSave()
   CSaveRestore::IsSaveInProgress()
+  CSaveRestore::AddDeferredCommand(char const*)
   CSaveRestore::RestoreClientState(char const*, bool)
   CSaveRestore::StorageDeviceValid()
   CSaveRestore::RequestClearSaveDir()

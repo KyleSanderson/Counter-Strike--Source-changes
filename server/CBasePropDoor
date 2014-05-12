@@ -12,7 +12,6 @@ CBasePropDoor
   CBasePropDoor::OnStartBlocked(CBaseEntity*)
   CBasePropDoor::DoorOpenMoveDone()
   CBasePropDoor::DoorCloseMoveDone()
-  CBasePropDoor::UpdateAreaPortals(bool)
   CBasePropDoor::DoorAutoCloseThink()
   CBasePropDoor::YouForgotToImplementOrDeclareServerClass()
   CBasePropDoor::Spawn()

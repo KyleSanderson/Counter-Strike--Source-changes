@@ -4,6 +4,7 @@ CFourWheelVehiclePhysics
   CFourWheelVehiclePhysics::SetThrottle(float)
   CFourWheelVehiclePhysics::SetHandbrake(bool)
   CFourWheelVehiclePhysics::GetDataDescMap()
+  CFourWheelVehiclePhysics::PlaceWheelDust(int, bool)
   CFourWheelVehiclePhysics::VPhysicsUpdate(IPhysicsObject*)
   CFourWheelVehiclePhysics::ReleaseHandbrake()
   CFourWheelVehiclePhysics::SetDisableEngine(bool)

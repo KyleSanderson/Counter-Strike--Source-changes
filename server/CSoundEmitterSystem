@@ -13,6 +13,5 @@ CSoundEmitterSystem
   CSoundEmitterSystem::Init()
   CSoundEmitterSystem::Name()
   CSoundEmitterSystem::Shutdown()
-  CSoundEmitterSystem::StartLog()
   CSoundEmitterSystem::StopSound(int, int, char const*)
   CSoundEmitterSystem::~CSoundEmitterSystem()

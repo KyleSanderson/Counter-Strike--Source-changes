@@ -1,3 +1,2 @@
 CSaveDirectory
-  CSaveDirectory::CSaveDirectory()
   CSaveDirectory::~CSaveDirectory()

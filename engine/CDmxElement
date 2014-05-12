@@ -3,9 +3,7 @@ CDmxElement
   CDmxElement::GetAttribute(int)
   CDmxElement::LockForChanges(bool)
   CDmxElement::RemoveAllElementsRecursive()
-  CDmxElement::CDmxElement(char const*)
   CDmxElement::~CDmxElement()
-  CDmxElement::FindAttribute(char const*) const
   CDmxElement::GetTypeString() const
   CDmxElement::AttributeCount() const
   CDmxElement::GetId() const

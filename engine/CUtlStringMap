@@ -1,0 +1,2 @@
+CUtlStringMap
+  CUtlStringMap<bool>::operator[](char const*)

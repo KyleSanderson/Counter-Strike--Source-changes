@@ -58,7 +58,6 @@ CBaseEntity
   CBaseEntity::PhysicsNoclip()
   CBaseEntity::PhysicsPusher()
   CBaseEntity::PrecacheModel(char const*, bool)
-  CBaseEntity::PrecacheSound(char const*)
   CBaseEntity::SetAIWalkable(bool)
   CBaseEntity::SetModelIndex(int)
   CBaseEntity::SetRefEHandle(CBaseHandle const&)
@@ -100,8 +99,10 @@ CBaseEntity
   CBaseEntity::GetNextThinkTick(char const*)
   CBaseEntity::GetServerVehicle()
   CBaseEntity::IsLockedByMaster()
+  CBaseEntity::LookupSoundLevel(char const*)
   CBaseEntity::MyNextBotPointer()
   CBaseEntity::PostClientActive()
+  CBaseEntity::RemoveSpawnFlags(int)
   CBaseEntity::SetAllowPrecache(bool)
   CBaseEntity::SetLocalVelocity(Vector const&)
   CBaseEntity::SetScaledPhysics(IPhysicsObject*)
@@ -142,6 +143,7 @@ CBaseEntity
   CBaseEntity::GetGroundChangeTime()
   CBaseEntity::GetSmoothedVelocity()
   CBaseEntity::GetTracerAttachment()
+  CBaseEntity::NetworkStateChanged(void*)
   CBaseEntity::PrecacheScriptSound(char const*)
   CBaseEntity::PrefetchScriptSound(char const*)
   CBaseEntity::SetGroundChangeTime(float)
@@ -252,6 +254,7 @@ CBaseEntity
   CBaseEntity::GetModelName() const
   CBaseEntity::GetWaterType() const
   CBaseEntity::IsBaseObject() const
+  CBaseEntity::IsCombatItem() const
   CBaseEntity::GetDamageType() const
   CBaseEntity::GetModelIndex() const
   CBaseEntity::GetRefEHandle() const

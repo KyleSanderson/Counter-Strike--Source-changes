@@ -10,6 +10,7 @@ CCoreDispInfo
   CCoreDispInfo::CalcNormalFromEdges(int, int, bool*, Vector&)
   CCoreDispInfo::GetDispUtilsByIndex(int)
   CCoreDispInfo::CalcBoundingBoxAtNode(int)
+  CCoreDispInfo::CalcTriSurfInfoAtNode(int)
   CCoreDispInfo::CalcVertIndicesAtNodes(int)
   CCoreDispInfo::GenerateDispSurfNormals()
   CCoreDispInfo::GenerateCollisionSurface()

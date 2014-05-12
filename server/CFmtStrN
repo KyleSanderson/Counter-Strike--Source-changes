@@ -7,7 +7,6 @@ CFmtStrN
   CFmtStrN<32>::InitQuietTruncation()
   CFmtStrN<32>::CFmtStrN(char const*, ...)
   CFmtStrN<1024>::CFmtStrN(char const*, ...)::scAsserted
-  CFmtStrN<128>::CFmtStrN(char const*, ...)::scAsserted
   CFmtStrN<256>::sprintf(char const*, ...)::scAsserted
   CFmtStrN<256>::CFmtStrN(char const*, ...)::scAsserted
   CFmtStrN<32>::CFmtStrN(char const*, ...)::scAsserted

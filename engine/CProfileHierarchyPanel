@@ -8,7 +8,6 @@ CProfileHierarchyPanel
   CProfileHierarchyPanel::IsItemExpanded(int)
   CProfileHierarchyPanel::PostChildPaint()
   CProfileHierarchyPanel::GetPanelClassName()
-  CProfileHierarchyPanel::HideAll()
   CProfileHierarchyPanel::GetKBMap()
   CProfileHierarchyPanel::RemoveAll()
   CProfileHierarchyPanel::~CProfileHierarchyPanel()

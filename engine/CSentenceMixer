@@ -10,6 +10,5 @@ CSentenceMixer
   CSentenceMixer::SetPositionFromSaved(int)
   CSentenceMixer::ShouldContinueMixing()
   CSentenceMixer::SetStartupDelaySamples(int)
-  CSentenceMixer::FreeWord(int)
   CSentenceMixer::GetSource()
   CSentenceMixer::~CSentenceMixer()

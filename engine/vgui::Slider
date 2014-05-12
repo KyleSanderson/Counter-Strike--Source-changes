@@ -1,5 +1,4 @@
 vgui::Slider
-  vgui::Slider::ClampRange()
   vgui::Slider::GetAnimMap()
   vgui::Slider::GetSettings(KeyValues*)
   vgui::Slider::SetInverted(bool)

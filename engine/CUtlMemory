@@ -33,7 +33,6 @@ CUtlMemory
   CUtlMemory<CVProfRecorder::CNodeAverage, int>::Grow(int)
   CUtlMemory<CSendTablePrecalc::CProxyPath, int>::Grow(int)
   CUtlMemory<CSendTablePrecalc::CProxyPathEntry, int>::Grow(int)
-  CUtlMemory<CGameSaveRestoreInfo::CHashElement, int>::Grow(int)
   CUtlMemory<vgui::CTreeViewListControl::CColumnInfo, int>::Grow(int)
   CUtlMemory<vgui::OverridableColorEntry, int>::Grow(int)
   CUtlMemory<vgui::Label::TImageInfo, int>::Grow(int)

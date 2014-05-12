@@ -10,5 +10,4 @@ CAppSystemGroup
   CAppSystemGroup::Startup()
   CAppSystemGroup::Shutdown()
   CAppSystemGroup::AddSystem(int, char const*)
-  CAppSystemGroup::OnStartup()
   CAppSystemGroup::~CAppSystemGroup()

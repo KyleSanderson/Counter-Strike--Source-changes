@@ -8,7 +8,6 @@ CDemoUIPanel2
   CDemoUIPanel2::GetDriveViewPoint(Vector&, QAngle&)
   CDemoUIPanel2::GetPanelClassName()
   CDemoUIPanel2::SetDriveViewPoint(Vector&, QAngle&)
-  CDemoUIPanel2::MakePanelForeground(bool)
   CDemoUIPanel2::OnLoad()
   CDemoUIPanel2::OnTick()
   CDemoUIPanel2::GetKBMap()

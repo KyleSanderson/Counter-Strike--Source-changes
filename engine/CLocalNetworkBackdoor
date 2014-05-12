@@ -1,7 +1,6 @@
 CLocalNetworkBackdoor
   CLocalNetworkBackdoor::ClearState()
   CLocalNetworkBackdoor::InitFastCopy()
-  CLocalNetworkBackdoor::EntityDormant(int, int)
   CLocalNetworkBackdoor::StopBackdoorMode()
   CLocalNetworkBackdoor::StartBackdoorMode()
   CLocalNetworkBackdoor::EndEntityStateUpdate()

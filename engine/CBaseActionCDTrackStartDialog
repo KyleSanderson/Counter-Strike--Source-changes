@@ -1,5 +1,4 @@
 CBaseActionCDTrackStartDialog
   CBaseActionCDTrackStartDialog::OnSaveChanges()
   CBaseActionCDTrackStartDialog::Init()
-  CBaseActionCDTrackStartDialog::CBaseActionCDTrackStartDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
   CBaseActionCDTrackStartDialog::~CBaseActionCDTrackStartDialog()

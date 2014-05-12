@@ -1,3 +1,4 @@
 CTraceListData
   CTraceListData::EnumElement(IHandleEntity*)
+  CTraceListData::CTraceListData(int, int)
   CTraceListData::~CTraceListData()

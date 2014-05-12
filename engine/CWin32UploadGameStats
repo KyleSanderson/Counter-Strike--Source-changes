@@ -10,3 +10,4 @@ CWin32UploadGameStats
   CWin32UploadGameStats::SendProtocolVersion(EGameStatsUploadStatus&, CUtlBuffer&)
   CWin32UploadGameStats::ConnectToHarvesterServer(EGameStatsUploadStatus&, CUtlBuffer&)
   CWin32UploadGameStats::ReceiveFileUploadSuccess(EGameStatsUploadStatus&, CUtlBuffer&)
+  CWin32UploadGameStats::~CWin32UploadGameStats()

@@ -7,3 +7,4 @@ NWCEdit
   NWCEdit::UndoDestroyAINode()
   NWCEdit::UpdateEntityPosition(CBaseEntity*)
   NWCEdit::RememberEntityPosition(CBaseEntity*)
+  NWCEdit::AirNodePlacementPosition()

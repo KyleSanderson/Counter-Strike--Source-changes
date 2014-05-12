@@ -3,4 +3,5 @@ CTestScriptMgr
   CTestScriptMgr::RunCommands()
   CTestScriptMgr::StartTestScript(char const*)
   CTestScriptMgr::SetWaitCheckPoint(char const*, bool)
+  CTestScriptMgr::CTestScriptMgr()
   CTestScriptMgr::~CTestScriptMgr()

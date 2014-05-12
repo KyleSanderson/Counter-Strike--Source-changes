@@ -2,4 +2,5 @@ CGameStringPool
   CGameStringPool::LevelShutdownPostEntity()
   CGameStringPool::Dump()
   CGameStringPool::Name()
+  CGameStringPool::Allocate(char const*)
   CGameStringPool::~CGameStringPool()

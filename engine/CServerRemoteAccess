@@ -7,7 +7,6 @@ CServerRemoteAccess
   CServerRemoteAccess::GetPlayerList(CUtlBuffer&)
   CServerRemoteAccess::RespondString(unsigned int, int, char const*)
   CServerRemoteAccess::SendVProfData(unsigned int, bool, void*, int)
-  CServerRemoteAccess::GetStatsString(char*, int)
   CServerRemoteAccess::GetUserBanList(CUtlBuffer&)
   CServerRemoteAccess::ReadDataResponse(unsigned int, void*, int)
   CServerRemoteAccess::UploadScreenshot(char const*)

@@ -1,4 +1,5 @@
 CSprite
+  CSprite::FadeAndDie(float)
   CSprite::ObjectCaps()
   CSprite::SpriteInit(char const*, Vector const&)
   CSprite::ExpandThink()
@@ -7,7 +8,6 @@ CSprite
   CSprite::SetBrightness(int, float)
   CSprite::GetDataDescMap()
   CSprite::GetServerClass()
-  CSprite::SetSpriteScale(float)
   CSprite::ShouldTransmit(CCheckTransmitInfo const*)
   CSprite::SetTransparency(int, int, int, int, int, int)
   CSprite::AnimateUntilDead()

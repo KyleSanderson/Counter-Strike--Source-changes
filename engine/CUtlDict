@@ -1,12 +1,5 @@
 CUtlDict
   CUtlDict<CUtlString, unsigned short>::~CUtlDict()
-  CUtlDict<CMapListItem, int>::~CUtlDict()
-  CUtlDict<CSaveRestore::RestoreLookupTable, int>::~CUtlDict()
-  CUtlDict<CPanelAnimationDictionary::PanelAnimationMapDictionaryEntry, int>::~CUtlDict()
-  CUtlDict<CPanelMessageMapDictionary::PanelMessageMapDictionaryEntry, int>::~CUtlDict()
-  CUtlDict<CPanelKeyBindingMapDictionary::PanelKeyBindingMapDictionaryEntry, int>::~CUtlDict()
   CUtlDict<CPureServerWhitelist::CCommand*, int>::PurgeAndDeleteElements()
-  CUtlDict<CPureServerWhitelist::CCommand*, int>::~CUtlDict()
   CUtlDict<vgui::IPanelAnimationPropertyConverter*, int>::~CUtlDict()
   CUtlDict<int, int>::~CUtlDict()
-  CUtlDict<int, unsigned short>::~CUtlDict()

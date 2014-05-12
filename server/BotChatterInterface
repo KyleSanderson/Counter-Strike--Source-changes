@@ -31,6 +31,7 @@ BotChatterInterface
   BotChatterInterface::TheyPickedUpTheBomb()
   BotChatterInterface::GuardingHostageEscapeZone(bool)
   BotChatterInterface::ResetRadioSilenceDuration()
+  BotChatterInterface::Say(char const*, float, float)
   BotChatterInterface::Reset()
   BotChatterInterface::Scared()
   BotChatterInterface::Update()

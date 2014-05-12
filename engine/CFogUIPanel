@@ -3,7 +3,6 @@ CFogUIPanel
   CFogUIPanel::GetMessageMap()
   CFogUIPanel::OnTextNewLine(KeyValues*)
   CFogUIPanel::OnTextKillFocus(KeyValues*)
-  CFogUIPanel::UpdateFogColors()
   CFogUIPanel::GetPanelClassName()
   CFogUIPanel::OnTick()
   CFogUIPanel::GetKBMap()

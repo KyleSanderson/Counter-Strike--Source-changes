@@ -8,5 +8,6 @@ COverlayMgr
   COverlayMgr::ClearRenderLists()
   COverlayMgr::GetMaterialSortID(IMaterial*, int)
   COverlayMgr::SetOverlayBindProxy(int, void*)
+  COverlayMgr::AddFragmentToFragmentList(int)
   COverlayMgr::AddFragmentListToRenderList(int, unsigned short, bool)
   COverlayMgr::~COverlayMgr()

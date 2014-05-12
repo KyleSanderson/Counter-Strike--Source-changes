@@ -40,7 +40,6 @@ CGameMovement
   CGameMovement::FixPlayerCrouchStuck(bool)
   CGameMovement::GetPointContentsCached(Vector const&, int)
   CGameMovement::HandleDuckingSpeedCrop()
-  CGameMovement::CategorizeGroundSurface(CGameTrace&)
   CGameMovement::UpdateDuckJumpEyeOffset()
   CGameMovement::OnTryPlayerMoveCollision(CGameTrace&)
   CGameMovement::PlayerRoughLandingEffects(float)

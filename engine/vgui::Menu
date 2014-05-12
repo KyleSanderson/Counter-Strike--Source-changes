@@ -23,7 +23,6 @@ vgui::Menu
   vgui::Menu::OnSliderMoved()
   vgui::Menu::PerformLayout()
   vgui::Menu::SetFixedWidth(int)
-  vgui::Menu::CalculateWidth()
   vgui::Menu::DeleteAllItems()
   vgui::Menu::OnMouseWheeled(int)
   vgui::Menu::SetItemEnabled(char const*, bool)

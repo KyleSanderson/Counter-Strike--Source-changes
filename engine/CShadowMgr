@@ -29,7 +29,6 @@ CShadowMgr
   CShadowMgr::SetFlashlightStencilMasks(bool)
   CShadowMgr::DrawFlashlightDepthTexture()
   CShadowMgr::SetNumWorldMaterialBuckets(int)
-  CShadowMgr::AllocFlashlightMaterialBuckets(unsigned short)
   CShadowMgr::AddShadowsOnSurfaceToRenderList(unsigned short)
   CShadowMgr::DrawFlashlightDecalsOnDisplacements(int, CDispInfo**, int, bool)
   CShadowMgr::GetInfo(unsigned short)

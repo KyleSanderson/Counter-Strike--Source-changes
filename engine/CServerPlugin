@@ -1,8 +1,6 @@
 CServerPlugin
   CServerPlugin::LoadPlugin(char const*)
   CServerPlugin::LoadPlugins()
-  CServerPlugin::PrintDetails()
-  CServerPlugin::UnloadPlugin(int)
   CServerPlugin::LevelShutdown()
   CServerPlugin::UnloadPlugins()
   CServerPlugin::SetCommandClient(int)

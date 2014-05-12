@@ -5,5 +5,4 @@ CEnvSoundscape
   CEnvSoundscape::DrawDebugGeometryOverlays()
   CEnvSoundscape::Spawn()
   CEnvSoundscape::Precache()
-  CEnvSoundscape::CEnvSoundscape()
   CEnvSoundscape::~CEnvSoundscape()

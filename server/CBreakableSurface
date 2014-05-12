@@ -1,10 +1,8 @@
 CBreakableSurface
   CBreakableSurface::BreakThink()
-  CBreakableSurface::SetSupport(int, int, float)
   CBreakableSurface::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)
   CBreakableSurface::OnTakeDamage(CTakeDamageInfo const&)
   CBreakableSurface::SurfaceTouch(CBaseEntity*)
-  CBreakableSurface::BreakAllPanes()
   CBreakableSurface::RecalcSupport(int, int)
   CBreakableSurface::GetDataDescMap()
   CBreakableSurface::GetServerClass()
@@ -13,4 +11,5 @@ CBreakableSurface
   CBreakableSurface::Spawn()
   CBreakableSurface::DropPane(int, int)
   CBreakableSurface::Precache()
+  CBreakableSurface::BreakPane(int, int)
   CBreakableSurface::~CBreakableSurface()

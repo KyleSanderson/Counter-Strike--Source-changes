@@ -5,7 +5,6 @@ CGame
   CGame::GetMainWindow()
   CGame::SetGameWindow(void*)
   CGame::SetWindowSize(int, int)
-  CGame::AttachToWindow()
   CGame::CreateGameWindow()
   CGame::PlayVideoAndWait(char const*, bool)
   CGame::DestroyGameWindow()

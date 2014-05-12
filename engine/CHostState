@@ -1,4 +1,3 @@
 CHostState
   CHostState::FrameUpdate(float)
-  CHostState::RememberLocation()
   CHostState::OnClientConnected()

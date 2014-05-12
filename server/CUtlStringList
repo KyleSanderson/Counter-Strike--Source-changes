@@ -1,3 +1,2 @@
 CUtlStringList
-  CUtlStringList::CopyAndAddToTail(char const*)
   CUtlStringList::~CUtlStringList()

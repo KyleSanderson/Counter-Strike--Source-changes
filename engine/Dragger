@@ -1,5 +1,4 @@
 Dragger
   Dragger::SetMovable(bool)
   Dragger::OnCursorMoved(int, int)
-  Dragger::Dragger(int)
   Dragger::~Dragger()

@@ -4,5 +4,4 @@ CFuncSmokeVolume
   CFuncSmokeVolume::YouForgotToImplementOrDeclareServerClass()
   CFuncSmokeVolume::Spawn()
   CFuncSmokeVolume::Activate()
-  CFuncSmokeVolume::CFuncSmokeVolume()
   CFuncSmokeVolume::~CFuncSmokeVolume()

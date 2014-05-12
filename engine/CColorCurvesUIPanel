@@ -4,7 +4,6 @@ CColorCurvesUIPanel
   CColorCurvesUIPanel::GetMessageMap()
   CColorCurvesUIPanel::OnTextChanged(KeyValues*)
   CColorCurvesUIPanel::GetPanelClassName()
-  CColorCurvesUIPanel::OnColorMaskSelected()
   CColorCurvesUIPanel::Init()
   CColorCurvesUIPanel::GetKBMap()
   CColorCurvesUIPanel::Shutdown()

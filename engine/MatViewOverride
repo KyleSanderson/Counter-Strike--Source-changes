@@ -1,2 +1,3 @@
 MatViewOverride
+  MatViewOverride::RequestSelected(int, unsigned short const*)
   MatViewOverride::DisplaySelectedTextures()

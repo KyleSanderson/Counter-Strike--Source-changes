@@ -16,7 +16,6 @@ vgui::ComboBox
   vgui::ComboBox::OnSizeChanged(int, int)
   vgui::ComboBox::PerformLayout()
   vgui::ComboBox::OnCursorExited()
-  vgui::ComboBox::SelectMenuItem(int)
   vgui::ComboBox::SetItemEnabled(char const*, bool)
   vgui::ComboBox::SetItemEnabled(int, bool)
   vgui::ComboBox::OnCursorEntered()

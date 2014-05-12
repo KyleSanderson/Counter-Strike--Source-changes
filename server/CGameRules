@@ -44,7 +44,7 @@ CGameRules
   CGameRules::GetTaggedConVarList(KeyValues*)
   CGameRules::OnSkillLevelChanged(int)
   CGameRules::CanEntityBeUsePushed(CBaseEntity*)
-  CGameRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*)
+  CGameRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)
   CGameRules::GetAmmoQuantityScale(int)
   CGameRules::SetDefaultPlayerTeam(CBasePlayer*)
   CGameRules::ShouldDrawHeadLabels()

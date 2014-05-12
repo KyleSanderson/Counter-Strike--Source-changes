@@ -1,8 +1,7 @@
 CJob
   CJob::SetDescription(char const*)
-  CJob::Abort(bool)
+  CJob::ExecuteAndRelease()
   CJob::DoAbort(bool)
-  CJob::Execute()
   CJob::Describe()
   CJob::DoCleanup()
   CJob::~CJob()

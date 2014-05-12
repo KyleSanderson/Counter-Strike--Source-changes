@@ -3,7 +3,6 @@ CCurvesColorOperation
   CCurvesColorOperation::GetBlendFactor()
   CCurvesColorOperation::SetBlendFactor(float)
   CCurvesColorOperation::ModifyControlPoint(int, float, float)
-  CCurvesColorOperation::RemoveControlPoint(int)
   CCurvesColorOperation::FindOrAddControlPoint(float, float, float)
   CCurvesColorOperation::ComputeActualCorrectedColor(float)
   CCurvesColorOperation::Clone()

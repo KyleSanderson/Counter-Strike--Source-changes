@@ -3,8 +3,6 @@ CRagdollManager
   CRagdollManager::GetServerClass()
   CRagdollManager::UpdateTransmitState()
   CRagdollManager::DrawDebugTextOverlays()
-  CRagdollManager::UpdateCurrentMaxRagDollCount()
   CRagdollManager::YouForgotToImplementOrDeclareServerClass()
   CRagdollManager::Activate()
-  CRagdollManager::CRagdollManager()
   CRagdollManager::~CRagdollManager()

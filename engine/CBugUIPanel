@@ -2,7 +2,6 @@ CBugUIPanel
   CBugUIPanel::GetAnimMap()
   CBugUIPanel::OnSaveGame()
   CBugUIPanel::SetVisible(bool)
-  CBugUIPanel::OnClearForm()
   CBugUIPanel::AddFileToZip(char const*)
   CBugUIPanel::SuccessSound(int)
   CBugUIPanel::AutoFillToken(char const*, bool)

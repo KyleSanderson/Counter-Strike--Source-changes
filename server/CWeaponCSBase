@@ -40,7 +40,6 @@ CWeaponCSBase
   CWeaponCSBase::Respawn()
   CWeaponCSBase::Precache()
   CWeaponCSBase::CanDeploy()
-  CWeaponCSBase::IsUseable()
   CWeaponCSBase::CWeaponCSBase()
   CWeaponCSBase::~CWeaponCSBase()
   CWeaponCSBase::IsFullAuto() const

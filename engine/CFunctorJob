@@ -1,5 +1,4 @@
 CFunctorJob
   CFunctorJob::Describe()
   CFunctorJob::DoExecute()
-  CFunctorJob::CFunctorJob(CFunctor*, char const*)
   CFunctorJob::~CFunctorJob()

@@ -6,5 +6,4 @@ CScriptedTarget
   CScriptedTarget::DrawDebugTextOverlays()
   CScriptedTarget::DrawDebugGeometryOverlays()
   CScriptedTarget::Spawn()
-  CScriptedTarget::TurnOff()
   CScriptedTarget::~CScriptedTarget()

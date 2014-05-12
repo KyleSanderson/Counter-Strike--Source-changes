@@ -1,5 +1,4 @@
 CBaseActionChangePlaybackRateDialog
   CBaseActionChangePlaybackRateDialog::OnSaveChanges()
   CBaseActionChangePlaybackRateDialog::Init()
-  CBaseActionChangePlaybackRateDialog::CBaseActionChangePlaybackRateDialog(CDemoEditorPanel*, CBaseDemoAction*, bool)
   CBaseActionChangePlaybackRateDialog::~CBaseActionChangePlaybackRateDialog()

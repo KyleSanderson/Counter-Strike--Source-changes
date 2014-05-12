@@ -46,7 +46,6 @@ CBaseCombatCharacter
   CBaseCombatCharacter::RemoveAllWeapons()
   CBaseCombatCharacter::RemovePlayerItem(CBaseCombatWeapon*)
   CBaseCombatCharacter::ApplyStressDamage(IPhysicsObject*, bool)
-  CBaseCombatCharacter::ClearActiveWeapon()
   CBaseCombatCharacter::IRelationPriority(CBaseEntity*)
   CBaseCombatCharacter::ClearLastKnownArea()
   CBaseCombatCharacter::BecomeRagdollBoogie(CBaseEntity*, Vector const&, float, int)

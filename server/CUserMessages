@@ -4,4 +4,5 @@ CUserMessages
   CUserMessages::GetUserMessageName(int)
   CUserMessages::GetUserMessageSize(int)
   CUserMessages::Register(char const*, int)
+  CUserMessages::CUserMessages()
   CUserMessages::~CUserMessages()

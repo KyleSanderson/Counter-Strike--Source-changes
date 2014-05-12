@@ -1,3 +1,2 @@
 CReliableBroadcastRecipientFilter
-  CReliableBroadcastRecipientFilter::CReliableBroadcastRecipientFilter()
   CReliableBroadcastRecipientFilter::~CReliableBroadcastRecipientFilter()

@@ -9,5 +9,4 @@ CColorCorrectionVolume
   CColorCorrectionVolume::Spawn()
   CColorCorrectionVolume::EndTouch(CBaseEntity*)
   CColorCorrectionVolume::ThinkFunc()
-  CColorCorrectionVolume::CColorCorrectionVolume()
   CColorCorrectionVolume::~CColorCorrectionVolume()

@@ -3,6 +3,5 @@ CParticleSystemDefinition
   CParticleSystemDefinition::SetupContextData()
   CParticleSystemDefinition::Read(CDmxElement*)
   CParticleSystemDefinition::Precache()
-  CParticleSystemDefinition::CParticleSystemDefinition()
   CParticleSystemDefinition::~CParticleSystemDefinition()
   CParticleSystemDefinition::ShouldAlwaysPrecache() const

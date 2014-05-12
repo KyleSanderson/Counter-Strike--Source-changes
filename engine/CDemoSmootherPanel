@@ -24,7 +24,6 @@ CDemoSmootherPanel
   CDemoSmootherPanel::OnSplineSampleOrigin()
   CDemoSmootherPanel::OnSmoothSelectionAngles()
   CDemoSmootherPanel::OnSmoothSelectionOrigin()
-  CDemoSmootherPanel::GetInterpolatedViewPoint(Vector&, QAngle&)
   CDemoSmootherPanel::GetInterpolatedOriginAndAngles(bool, Vector&, QAngle&)
   CDemoSmootherPanel::PerformLinearInterpolatedAngleSmoothing(int, int)
   CDemoSmootherPanel::OnLinearInterpolateAnglesBasedOnEndpoints()

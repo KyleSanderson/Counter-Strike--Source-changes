@@ -2,7 +2,6 @@ CFire
   CFire::GoOutThink()
   CFire::OnTakeDamage(CTakeDamageInfo const&)
   CFire::GetDataDescMap()
-  CFire::GoOutInSeconds(float)
   CFire::UpdateOnRemove()
   CFire::UpdateTransmitState()
   CFire::DrawDebugTextOverlays()

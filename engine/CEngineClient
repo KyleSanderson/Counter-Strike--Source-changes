@@ -80,6 +80,7 @@ CEngineClient
   CEngineClient::StartXboxExitingProcess()
   CEngineClient::GetDemoPlaybackStartTick()
   CEngineClient::GetDemoPlaybackTimeScale()
+  CEngineClient::GetInstancesRunningCount()
   CEngineClient::IsSkyboxVisibleFromPoint(Vector const&)
   CEngineClient::CopyFrameBufferToMaterial(char const*)
   CEngineClient::GetDemoPlaybackTotalTicks()

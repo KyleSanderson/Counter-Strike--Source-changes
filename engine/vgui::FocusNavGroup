@@ -7,7 +7,6 @@ vgui::FocusNavGroup
   vgui::FocusNavGroup::RequestFocusPrev(unsigned int)
   vgui::FocusNavGroup::SetFocusTopLevel(bool)
   vgui::FocusNavGroup::FindPanelByHotkey(wchar_t)
-  vgui::FocusNavGroup::CanButtonBeDefault(unsigned int)
   vgui::FocusNavGroup::GetCurrentDefaultButton()
   vgui::FocusNavGroup::SetCurrentDefaultButton(unsigned int, bool)
   vgui::FocusNavGroup::~FocusNavGroup()

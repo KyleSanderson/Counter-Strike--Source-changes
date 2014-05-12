@@ -1,6 +1,5 @@
 CMPAFile
   CMPAFile::FillBuffer(unsigned int)
   CMPAFile::ExtractBytes(unsigned int&, unsigned int, bool)
-  CMPAFile::Open(char const*)
   CMPAFile::CMPAFile(char const*, unsigned int, void*)
   CMPAFile::~CMPAFile()

@@ -2,8 +2,5 @@ CLogicMeasureMovement
   CLogicMeasureMovement::MeasureThink()
   CLogicMeasureMovement::GetDataDescMap()
   CLogicMeasureMovement::SetMeasureTarget(char const*)
-  CLogicMeasureMovement::SetTargetReference(char const*)
-  CLogicMeasureMovement::SetMeasureReference(char const*)
   CLogicMeasureMovement::Activate()
-  CLogicMeasureMovement::SetTarget(char const*)
   CLogicMeasureMovement::~CLogicMeasureMovement()

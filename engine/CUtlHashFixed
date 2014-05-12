@@ -1,3 +1,4 @@
 CUtlHashFixed
+  CUtlHashFixed<int, 512, CUtlHashFixedGenericHash<512> >::FastInsert(unsigned int, int const&)
   CUtlHashFixed<int, 512, CUtlHashFixedGenericHash<512> >::Remove(int)
   CUtlHashFixed<int, 512, CUtlHashFixedGenericHash<512> >::~CUtlHashFixed()

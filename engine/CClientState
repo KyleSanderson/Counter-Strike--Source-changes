@@ -23,7 +23,7 @@ CClientState
   CClientState::ConnectionClosing(char const*)
   CClientState::ConnectionCrashed(char const*)
   CClientState::DumpPrecacheStats(char const*)
-  CClientState::CheckOthersCustomFile(unsigned long)
+  CClientState::CheckOthersCustomFile(unsigned int)
   CClientState::GetClientInterpAmount()
   CClientState::HookClientStringTable(char const*)
   CClientState::SendServerCmdKeyValues(KeyValues*)

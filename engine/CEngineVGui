@@ -15,7 +15,6 @@ CEngineVGui
   CEngineVGui::UpdatePlayerInfo(unsigned long long, char const*, int, unsigned char, int, bool)
   CEngineVGui::OnCreditsFinished()
   CEngineVGui::ShowNewGameDialog(int)
-  CEngineVGui::DestroyVProfPanels()
   CEngineVGui::SetVGUIDirectories()
   CEngineVGui::SystemNotification(int)
   CEngineVGui::SessionNotification(int, int)

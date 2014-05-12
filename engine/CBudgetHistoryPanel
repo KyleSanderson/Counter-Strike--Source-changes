@@ -1,5 +1,4 @@
 CBudgetHistoryPanel
-  CBudgetHistoryPanel::DrawBudgetLine(float)
   CBudgetHistoryPanel::Paint()
   CBudgetHistoryPanel::SetData(double*, int, int, int)
   CBudgetHistoryPanel::SetRange(float, float)

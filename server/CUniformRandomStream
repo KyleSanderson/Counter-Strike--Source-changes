@@ -1,2 +1,5 @@
 CUniformRandomStream
+  CUniformRandomStream::RandomFloat(float, float)
+  CUniformRandomStream::SetSeed(int)
+  CUniformRandomStream::RandomInt(int, int)
   CUniformRandomStream::CUniformRandomStream()

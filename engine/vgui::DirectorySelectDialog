@@ -1,6 +1,5 @@
 vgui::DirectorySelectDialog
   vgui::DirectorySelectDialog::GetAnimMap()
-  vgui::DirectorySelectDialog::BuildDirTree()
   vgui::DirectorySelectDialog::GetMessageMap()
   vgui::DirectorySelectDialog::OnTextChanged()
   vgui::DirectorySelectDialog::PerformLayout()

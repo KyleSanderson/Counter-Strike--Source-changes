@@ -1,18 +1,4 @@
 CUtlDict
-  CUtlDict<EventGroup, int>::~CUtlDict()
-  CUtlDict<ResponseGroup, short>::~CUtlDict()
   CUtlDict<CActivityRemapCache, int>::~CUtlDict()
-  CUtlDict<Rule, short>::~CUtlDict()
-  CUtlDict<Criteria, short>::~CUtlDict()
-  CUtlDict<CResponseSystem::Enumeration, short>::~CUtlDict()
-  CUtlDict<CDecalEmitterSystem::DecalEntry, int>::~CUtlDict()
-  CUtlDict<CUserMessage*, int>::~CUtlDict()
-  CUtlDict<IEntityFactory*, unsigned short>::~CUtlDict()
-  CUtlDict<CInstancedResponseSystem*, int>::~CUtlDict()
-  CUtlDict<CNavArea*, int>::~CUtlDict()
-  CUtlDict<float, int>::~CUtlDict()
   CUtlDict<int, int>::~CUtlDict()
-  CUtlDict<int, unsigned short>::~CUtlDict()
-  CUtlDict<EventGroup, int>::Find(char const*) const
-  CUtlDict<ResponseGroup, short>::Find(char const*) const
   CUtlDict<Criteria, short>::Find(char const*) const
