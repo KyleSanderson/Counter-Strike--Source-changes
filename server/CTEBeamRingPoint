@@ -2,5 +2,4 @@ CTEBeamRingPoint
   CTEBeamRingPoint::GetServerClass()
   CTEBeamRingPoint::YouForgotToImplementOrDeclareServerClass()
   CTEBeamRingPoint::Test(Vector const&, QAngle const&)
-  CTEBeamRingPoint::CTEBeamRingPoint(char const*)
   CTEBeamRingPoint::~CTEBeamRingPoint()

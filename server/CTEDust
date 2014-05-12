@@ -2,5 +2,4 @@ CTEDust
   CTEDust::GetServerClass()
   CTEDust::YouForgotToImplementOrDeclareServerClass()
   CTEDust::Test(Vector const&, QAngle const&)
-  CTEDust::CTEDust(char const*)
   CTEDust::~CTEDust()

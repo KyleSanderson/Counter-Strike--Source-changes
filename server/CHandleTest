@@ -3,5 +3,4 @@ CHandleTest
   CHandleTest::GetServerClass()
   CHandleTest::UpdateTransmitState()
   CHandleTest::YouForgotToImplementOrDeclareServerClass()
-  CHandleTest::CHandleTest()
   CHandleTest::~CHandleTest()

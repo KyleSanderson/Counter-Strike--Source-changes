@@ -15,6 +15,7 @@ CC4
   CC4::Spawn()
   CC4::Holster(CBaseCombatWeapon*)
   CC4::Precache()
+  CC4::CC4()
   CC4::~CC4()
   CC4::GetMaxSpeed() const
   CC4::GetWeaponID() const

@@ -6,5 +6,4 @@ CPointCamera
   CPointCamera::YouForgotToImplementOrDeclareServerClass()
   CPointCamera::Spawn()
   CPointCamera::SetActive(bool)
-  CPointCamera::CPointCamera()
   CPointCamera::~CPointCamera()

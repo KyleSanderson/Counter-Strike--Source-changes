@@ -2,5 +2,4 @@ CTEDecal
   CTEDecal::GetServerClass()
   CTEDecal::YouForgotToImplementOrDeclareServerClass()
   CTEDecal::Test(Vector const&, QAngle const&)
-  CTEDecal::CTEDecal(char const*)
   CTEDecal::~CTEDecal()

@@ -9,5 +9,4 @@ CParticleSystem
   CParticleSystem::Spawn()
   CParticleSystem::Activate()
   CParticleSystem::Precache()
-  CParticleSystem::CParticleSystem()
   CParticleSystem::~CParticleSystem()

@@ -1,5 +1,4 @@
 CTEFootprintDecal
   CTEFootprintDecal::GetServerClass()
   CTEFootprintDecal::YouForgotToImplementOrDeclareServerClass()
-  CTEFootprintDecal::CTEFootprintDecal(char const*)
   CTEFootprintDecal::~CTEFootprintDecal()

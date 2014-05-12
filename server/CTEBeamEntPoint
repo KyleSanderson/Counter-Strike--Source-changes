@@ -2,5 +2,4 @@ CTEBeamEntPoint
   CTEBeamEntPoint::GetServerClass()
   CTEBeamEntPoint::YouForgotToImplementOrDeclareServerClass()
   CTEBeamEntPoint::Test(Vector const&, QAngle const&)
-  CTEBeamEntPoint::CTEBeamEntPoint(char const*)
   CTEBeamEntPoint::~CTEBeamEntPoint()

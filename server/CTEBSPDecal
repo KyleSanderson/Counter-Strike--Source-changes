@@ -2,5 +2,4 @@ CTEBSPDecal
   CTEBSPDecal::GetServerClass()
   CTEBSPDecal::YouForgotToImplementOrDeclareServerClass()
   CTEBSPDecal::Test(Vector const&, QAngle const&)
-  CTEBSPDecal::CTEBSPDecal(char const*)
   CTEBSPDecal::~CTEBSPDecal()

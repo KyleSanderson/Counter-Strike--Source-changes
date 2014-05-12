@@ -2,5 +2,4 @@ CTEPlayerDecal
   CTEPlayerDecal::GetServerClass()
   CTEPlayerDecal::YouForgotToImplementOrDeclareServerClass()
   CTEPlayerDecal::Test(Vector const&, QAngle const&)
-  CTEPlayerDecal::CTEPlayerDecal(char const*)
   CTEPlayerDecal::~CTEPlayerDecal()
