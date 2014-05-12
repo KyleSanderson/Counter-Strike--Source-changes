@@ -1,0 +1,5 @@
+CP4File
+  CP4File::IsFileInPerforce()
+  CP4File::Add()
+  CP4File::Edit()
+  CP4File::~CP4File()

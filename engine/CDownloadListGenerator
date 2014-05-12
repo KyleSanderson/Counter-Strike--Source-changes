@@ -2,5 +2,6 @@ CDownloadListGenerator
   CDownloadListGenerator::OnLevelLoadEnd()
   CDownloadListGenerator::SetStringTable(INetworkStringTable*)
   CDownloadListGenerator::OnLevelLoadStart(char const*)
+  CDownloadListGenerator::ForceSimpleMaterial(char const*)
   CDownloadListGenerator::OnResourcePrecachedFullPath(char*, char const*)
   CDownloadListGenerator::~CDownloadListGenerator()

@@ -1,0 +1,8 @@
+CTextConsoleUnix
+  CTextConsoleUnix::Echo(char const*, int)
+  CTextConsoleUnix::Init()
+  CTextConsoleUnix::GetLine()
+  CTextConsoleUnix::GetWidth()
+  CTextConsoleUnix::PrintRaw(char const*, int)
+  CTextConsoleUnix::ShutDown()
+  CTextConsoleUnix::~CTextConsoleUnix()

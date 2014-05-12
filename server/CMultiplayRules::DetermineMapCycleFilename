@@ -1,0 +1,2 @@
+CMultiplayRules::DetermineMapCycleFilename
+  CMultiplayRules::DetermineMapCycleFilename(char*, int, bool)::szLastResult

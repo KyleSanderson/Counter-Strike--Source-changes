@@ -17,6 +17,7 @@ CServerGameDLL
   CServerGameDLL::ReadRestoreHeaders(CSaveRestoreData*)
   CServerGameDLL::RestoreGlobalState(CSaveRestoreData*)
   CServerGameDLL::GetAllServerClasses()
+  CServerGameDLL::LoadSpecificMOTDMsg(ConVar const&, char const*)
   CServerGameDLL::BuildAdjacentMapList()
   CServerGameDLL::SetServerHibernation(bool)
   CServerGameDLL::GetStandardSendProxies()

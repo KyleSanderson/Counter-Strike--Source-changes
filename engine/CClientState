@@ -17,6 +17,7 @@ CClientState
   CClientState::SendClientInfo()
   CClientState::SetSignonState(int, int)
   CClientState::ReadPreserveEnt(CEntityReadInfo&)
+  CClientState::ConsistencyCheck(bool)
   CClientState::LookupModelIndex(char const*)
   CClientState::LookupSoundIndex(char const*)
   CClientState::ConnectionClosing(char const*)

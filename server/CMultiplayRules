@@ -51,6 +51,7 @@ CMultiplayRules
   CMultiplayRules::SwitchToNextBestWeapon(CBaseCombatCharacter*, CBaseCombatWeapon*)
   CMultiplayRules::AllowAutoTargetCrosshair()
   CMultiplayRules::FlHEVChargerRechargeTime()
+  CMultiplayRules::DetermineMapCycleFilename(char*, int, bool)
   CMultiplayRules::FrameUpdatePostEntityThink()
   CMultiplayRules::FlHealthChargerRechargeTime()
   CMultiplayRules::InitCustomResponseRulesDicts()

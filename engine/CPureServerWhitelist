@@ -1,6 +1,7 @@
 CPureServerWhitelist
   CPureServerWhitelist::GetBestEntry(char const*)
   CPureServerWhitelist::GetFileClass(char const*)
+  CPureServerWhitelist::AddFileCommand(char const*, EPureServerFileClass, unsigned short)
   CPureServerWhitelist::PrintWhitelistContents()
   CPureServerWhitelist::LoadCommandsFromKeyValues(KeyValues*)
   CPureServerWhitelist::LoadTrustedKeysFromKeyValues(KeyValues*)
