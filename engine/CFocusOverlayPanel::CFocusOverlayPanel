@@ -1,2 +1,0 @@
-CFocusOverlayPanel::CFocusOverlayPanel
-  CFocusOverlayPanel::CFocusOverlayPanel(vgui::Panel*, char const*)

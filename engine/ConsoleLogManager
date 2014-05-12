@@ -1,2 +1,0 @@
-ConsoleLogManager
-  ConsoleLogManager::ReadConsoleLogFile(CUtlBuffer&)

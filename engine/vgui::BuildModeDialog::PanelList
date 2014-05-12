@@ -1,2 +1,0 @@
-vgui::BuildModeDialog::PanelList
-  vgui::BuildModeDialog::PanelList::RemoveAll()

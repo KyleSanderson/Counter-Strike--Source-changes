@@ -1,3 +1,0 @@
-std::ostream
-  std::ostream::put(char)
-  std::ostream::flush()
