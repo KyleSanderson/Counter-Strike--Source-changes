@@ -1,0 +1,2 @@
+CTeamplayRoundBasedRules
+  CTeamplayRoundBasedRules::RespawnPlayers(bool, bool, int)

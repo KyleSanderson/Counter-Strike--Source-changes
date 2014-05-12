@@ -1,0 +1,4 @@
+CResourcePreloadPropLighting
+  CResourcePreloadPropLighting::CreateResource(char const*)
+  CResourcePreloadPropLighting::PurgeUnreferencedResources()
+  CResourcePreloadPropLighting::PurgeAll()
